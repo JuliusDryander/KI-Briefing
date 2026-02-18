@@ -2,41 +2,38 @@ name: Taeglicher Podcast Scraper
 
 on:
   schedule:
-    # Das Skript läuft täglich um 04:00 Uhr UTC (entspricht 05:00 Uhr deutscher Zeit)
     - cron: '0 4 * * *'
   workflow_dispatch: 
-    # Ermöglicht es dir, den Scraper jederzeit manuell per Knopfdruck zu starten
 
 jobs:
   scrape_job:
     runs-on: ubuntu-latest
-    
-    # Wichtig: Der Roboter braucht Schreibrechte, um die .txt Datei zu speichern
     permissions:
       contents: write
 
     steps:
-      - name: Code aus deinem Ordner laden
+      - name: Code laden
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Wichtig, um die Historie für den Pull zu laden
 
-      - name: Python Umgebung einrichten
+      - name: Python einrichten
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Notwendige Werkzeuge installieren
+      - name: Werkzeuge installieren
         run: pip install -r requirements.txt
 
-      - name: Das Scraper-Skript ausfuehren
+      - name: Scraper ausfuehren
         run: python scraper.py
 
-- name: Die neue Textdatei in GitHub speichern
+      - name: Speichern und Konflikte vermeiden
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add *.txt
-          # NEU: Dieser Befehl holt deine manuellen Code-Änderungen ab,
-          # bevor der Roboter das Transkript hochlädt.
+          # Dieser Befehl loest das "rejected"-Problem:
           git pull --rebase origin main
-          git commit -m "Automatisches Transkript Update: $(date +'%Y-%m-%d')" || echo "Keine neuen Daten gefunden"
-          git push
+          git commit -m "Automatisches Transkript Update: $(date +'%Y-%m-%d')" || echo "Keine neuen Daten"
+          git push origin main

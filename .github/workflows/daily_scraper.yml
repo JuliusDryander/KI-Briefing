@@ -2,6 +2,7 @@ name: Taeglicher Podcast Scraper
 
 on:
   schedule:
+    # Täglich um 04:00 Uhr UTC (05:00 Uhr deutsche Zeit)
     - cron: '0 4 * * *'
   workflow_dispatch: 
 
@@ -15,7 +16,7 @@ jobs:
       - name: Code laden
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Wichtig, um die Historie für den Pull zu laden
+          fetch-depth: 0 
 
       - name: Python einrichten
         uses: actions/setup-python@v5
@@ -33,7 +34,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add *.txt
-          # Dieser Befehl loest das "rejected"-Problem:
+          # Holt deine manuellen Code-Änderungen ab
           git pull --rebase origin main
+          # Speichert das neue Transkript
           git commit -m "Automatisches Transkript Update: $(date +'%Y-%m-%d')" || echo "Keine neuen Daten"
           git push origin main

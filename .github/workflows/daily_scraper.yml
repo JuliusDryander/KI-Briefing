@@ -30,10 +30,13 @@ jobs:
       - name: Das Scraper-Skript ausfuehren
         run: python scraper.py
 
-      - name: Die neue Textdatei in GitHub speichern
+- name: Die neue Textdatei in GitHub speichern
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add *.txt
+          # NEU: Dieser Befehl holt deine manuellen Code-Änderungen ab,
+          # bevor der Roboter das Transkript hochlädt.
+          git pull --rebase origin main
           git commit -m "Automatisches Transkript Update: $(date +'%Y-%m-%d')" || echo "Keine neuen Daten gefunden"
           git push

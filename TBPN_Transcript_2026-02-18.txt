@@ -1,0 +1,1242 @@
+URL: https://podscripts.co/podcasts/tbpn-live/the-cournot-equation-microns-200b-bet-hollywood-vs-seedance-20-diet-tbpn
+==================================================
+
+Starting point is 00:00:01
+
+It's the year of the firehorse.
+
+And we get to celebrate it twice.
+
+I remember we talked about it at the beginning of the year,
+
+but the Chinese New Year did not start until today.
+
+It's Lunar New Year, right?
+
+Worshippers burned large incense sticks on Monday outside of Temple in Hong Kong
+
+to mark the Lunar New Year, which falls on Tuesday.
+
+People around Asia celebrate the start year of the horse.
+
+Starting point is 00:00:22
+
+In the Ultrodome, it's the year of the horse every year.
+
+Every year, I think so.
+
+Everyone is talking about the corno equilibrium,
+
+at least Dario Amadeh and Dorcashth Patel are and you and me and some folks on the timeline
+
+we're going back and forth and basically trying to get to this question I feel like we should give
+
+the context on this on the titling strategy oh yes because we call the run of shit like we'll title
+
+an essay why is no one talking about the Kernow equilibrium because this one guy had this super
+
+viral yeah like a year or two ago and he's in the title was why is no one talking about
+
+Starting point is 00:00:57
+
+mark andrewson we were laughing about it
+
+So much because he's one of the most talked about investors in venture.
+
+He's on the minus list constantly.
+
+He's written essays and books and been viral a million times.
+
+He's someone that's someone that everyone in the industry has an opinion on it already.
+
+He's not like a minus lister.
+
+Yeah, yeah.
+
+Up there, but not a lot of people.
+
+Starting point is 00:01:22
+
+It's like everyone's talking about it.
+
+But in this case, the basic idea is that if there's only a few players in a given market,
+
+You can think about any specific market, lemonade stands or whatever.
+
+And they aren't competing on price.
+
+They will compete on supply.
+
+And they'll try to predict what their competitors are doing and then respond accordingly.
+
+And this is really, really relevant to the AI lab discussion because you can tell that even though all the leaders of the AI lab say,
+
+I don't think about the competition, I don't talk about the competition, all use general terms,
+
+Starting point is 00:01:53
+
+they're all obsessed with what everyone else is doing and they think about it constantly very clearly.
+
+And if someone's buying $10 billion a compute over here, they're going to counter with $8 over there, try and jump to 12.
+
+And everyone's sort of keying off of each other.
+
+You know, Microsoft pauses, AWS goes all in.
+
+There's all these like horse races.
+
+It's why semi-analysis exists and provides great, you know, cross-functional data.
+
+Outside of tech, there's this discussion that I see that's always funny to me where people would be like, the price to earnings ratio.
+
+Ryan says they don't want you to talk about the cornucleum.
+
+Starting point is 00:02:25
+
+They don't want us to talk about it.
+
+They don't want us to talk about it for sure.
+
+There's this discussion.
+
+I saw an person say the price to earnings ratio for open AI
+
+and anthropic is just simply too high.
+
+And I was like, earnings.
+
+These companies are losing money.
+
+They don't have a price to earnings ratio.
+
+Starting point is 00:02:40
+
+It's divide by zero.
+
+This is going to blow your mind.
+
+Yeah.
+
+It's so much worse than you think, right?
+
+They're not making any money.
+
+The other side of things is the inference factory.
+
+So this is essentially a manufacturing business.
+
+You have variable costs, so GPUs, power, engineering overhead.
+
+Starting point is 00:02:57
+
+and then your revenue, subscriptions, API usage, and enterprise contracts.
+
+And so when you just look at inference, you see positive contribution margin.
+
+And we can see that because we can compare the cost to inference a model of the GPT5 class size
+
+or the Opus 4.5 size.
+
+You can see what does it look like to run an open source version of that model on commodity
+
+hardware?
+
+It's way, way cheaper than what you pay to Anthropic or Open AI, so they must have good margins.
+
+And everyone sort of agrees at this point that inference margins are in fact healthy.
+
+Starting point is 00:03:29
+
+The question is, how do you balance those two pieces and when do you risk over-investing?
+
+And that's sort of this Corno game of chicken that everyone's playing.
+
+The Corno equilibrium comes when a small number of labs, an oligopoly, effectively choose supply at the frontier level,
+
+and then the market clears at a high price for frontier access.
+
+So choosing supply in this case means how many data centers get built, how many GPUs get ordered,
+
+but also how much low-latency capacity is allocated to the top tier.
+
+So, you know, right now they just, Open AI just did the Cerebris deal, there's Claude Fast,
+
+and there's a whole bunch of different modes that will deliver faster inference.
+
+Starting point is 00:04:05
+
+And how many of those fast queries you get, how much of the best chips are allocated to a particular tier that you're paying for,
+
+is an economic question for the labs.
+
+There's a ton of developers and knowledge workers who are happy to pay hundreds of dollars a month or more,
+
+but they always want the best available model.
+
+This is most people in executive roles in startups.
+
+Yeah, I got my $200 a month subscription.
+
+I'll pay $250 or $100 or whatever, a couple hundred bucks.
+
+And it just makes me better at my job.
+
+Starting point is 00:04:35
+
+I just do whatever I need to do.
+
+But don't give me the old thing.
+
+I want the best.
+
+I want to know that the hallucination rate is as low as possible.
+
+One percent of the time it makes a career ending mistake.
+
+So having a product, not just an API business, gives you leverage.
+
+Because at some point, the model.
+
+are smart enough where you don't need to train them you don't need to train a model that is
+
+Starting point is 00:04:57
+
+4% better because people are still coming to your application and having a good product experience
+
+right yes so historically one of the critiques to anthropics business was that they have to just
+
+be on this constant constant fly you know sort of hamster wheel of training the best model because
+
+they have an a they're the majority of their business is this API business they're not an
+
+aggregate yet swap it out for a smarter model yeah said they have cloud
+
+code now, which gives them some more leverage over the market.
+
+And the really interesting thing is that Dario is now talking about being near the end of the
+
+exponential or maybe producing like the final models because we've talked to a few people
+
+Starting point is 00:05:38
+
+about this, but it's very unclear if it's possible to create like a superintelligence
+
+of like 5,000 IQ.
+
+It might just be they get good at all knowledge work and they can answer all tasks, but
+
+it's like the digital guy.
+
+At that point, it does commoditize and you drop out of KORNO equilibrium and you become more,
+
+customers are more aggressive about switching to cheaper models to cut costs because the frontier is now
+
+commoditized in the entire backlog.
+
+Everyone is at the frontier, basically.
+
+Starting point is 00:06:08
+
+And so in that scenario, you switch over to Bertrand competition, which doesn't really mean
+
+that profits go to zero, but there is more competition.
+
+And it looks a lot more like the hyperscalor cloud market, which is, I think, what people have
+
+been sort of signaling towards. And also it sort of explains why a lot of the VUC firms are getting
+
+in multiple companies because they don't think it's going to be winner take all anymore. They think
+
+it's going to be much more oligopolistic for the long term and there will be competition between
+
+the major three or four labs. And it will be much more about how can you marshal enough supply,
+
+create a huge barrier entry. Like you and I could start an AWS competitor tomorrow, but
+
+Starting point is 00:06:44
+
+it's going to be extremely expensive to bring up data centers that just serve web apps everywhere,
+
+let alone AI stuff, right?
+
+Building all those data centers.
+
+You're thinking what I'm thinking?
+
+You're thinking, you're thinking, you're thinking AWS competitor?
+
+I was hanging.
+
+I was hanging with my buddy, my buddy, Ben, on Sunday.
+
+We both live in Malibu.
+
+Starting point is 00:07:01
+
+He was thinking of just getting some chips and setting up Malibu inference.
+
+There we go.
+
+Just the name alone.
+
+Sounds like you can get at least, at least.
+
+Malibu inference.
+
+That's really funny.
+
+Would it be a beautiful name for a NeoCloud.
+
+Yeah.
+
+Starting point is 00:07:17
+
+Let's play the clip of Dwar Keshe Patel and Dari Omadeh discussing the economics of AI labs.
+
+Like we have a, you know, let's just imagine we're in like an economics textbook.
+
+We have a small number of firms.
+
+Each can invest a limited amount in, you know, or like each can invest some fraction in R&D.
+
+They have some marginal cost to serve.
+
+The margins on that, the gross profit margins on that marginal cost are like very high because, because, because,
+
+inference is efficient. There's some competition, but the models are also differentiated.
+
+There's some, there's some, you know, companies will compete to push their research budgets up,
+
+Starting point is 00:07:57
+
+but like, because there's a small number of players, you know, we have the, what is it called,
+
+the, the, the, the, the, the, what the, the, uh, the, uh, small number of firm equilibrium is.
+
+The point is, it doesn't equilibrate to perfect competition with, with, with, with, with, with zero margins.
+
+if there's like three firms, if there's three firms in the economy, all are kind of independently
+
+behaving, behaving rationally, it doesn't equilibrate to zero.
+
+Help me understand that because right now we do have three leading firms and they're not
+
+making profit.
+
+And so what is a good question?
+
+Starting point is 00:08:32
+
+Yeah, what is changing?
+
+Yeah.
+
+So the, again, the gross margins right now are very positive.
+
+What's happening is a combination of two things.
+
+One is we're still in the exponential scale-up phase of compute.
+
+So basically what that means is we're training like a model gets trained.
+
+It costs, you know, let's say a model got trained that costs a billion dollars last year.
+
+And then this year, it produced $4 billion of revenue and cost $1 billion to inference from.
+
+Starting point is 00:09:11
+
+So, you know, again, I'm using stylized number here, but, you know, 75%.
+
+These are my numbers.
+
+I'm just putting a random number.
+
+Gross margins and, you know, this 25% tax.
+
+So that model as a whole makes $2 billion.
+
+But at the same time, we're spending $10 billion to train the next model because there's an exponential scale up.
+
+And so the company loses money.
+
+Each model makes money, but the company loses money.
+
+Starting point is 00:09:35
+
+The equilibrium I'm talking about is an equilibrium where we have the country of geniuses.
+
+We have the country of geniuses in a data center, but that model training scale up has
+
+equilibrated more.
+
+Maybe it's still going up.
+
+We're still trying to predict the demand, but it's more, it's more leveled out.
+
+There is another fun clip that we should watch from A Beautiful Mind.
+
+Jordy, have you seen A Beautiful Mind?
+
+No.
+
+Starting point is 00:10:01
+
+The Oscar for Best Picture, I believe.
+
+It's about the mathematician John Nash.
+
+Have you seen A Beautiful Mind?
+
+I've not.
+
+Wow.
+
+Unck status over there.
+
+You would have, I was walking on the beach with Senra.
+
+Yeah.
+
+Starting point is 00:10:16
+
+And we walked by an incredibly famous,
+
+one of the top movie directors of the last probably 10 years.
+
+Really?
+
+And Senra was like, do you see that?
+
+And I was like, see what?
+
+It's a guy with a dog.
+
+That's hilarious.
+
+I feel like that your beach tours have been really star-studded lately.
+
+Starting point is 00:10:35
+
+This is a different from the previous one
+
+you mentioned, correct?
+
+Yes.
+
+Wow.
+
+Yes. That's remarkable. Well, let's pull up the clip.
+
+It's from a beautiful mind.
+
+Nash, you might want to stop shuffling your papers for five seconds.
+
+Is that Eric Kleiman?
+
+Starting point is 00:10:56
+
+Yes, it's Eric Kleiman.
+
+In the ramp biopic, we got our cast right here.
+
+This is the original, like, looks maxing movie.
+
+Anyone else feels she's moving in slow motion?
+
+Will she want a large wedding, you think?
+
+Should we say swords, gentlemen? Pistols at dawn.
+
+Have you remembered nothing?
+
+Recall the lessons of Adam Smith,
+
+Starting point is 00:11:18
+
+the father of modern economics.
+
+In competition, individual ambition serves the common good.
+
+Exactly.
+
+Every man for himself, gentlemen.
+
+And those who strike out are stuck with their friends.
+
+I'm not going to strike out.
+
+You can lead a blonde of water, but you can't make a drink.
+
+I don't think you said that.
+
+Starting point is 00:11:34
+
+All right, nobody moved.
+
+She's looking overhand.
+
+She's looking at Nash.
+
+Oh, God.
+
+All right, he may have the upper hand now,
+
+I don't wait until he opens his mouth.
+
+I remember the last time.
+
+I guess that wasn't a history book.
+
+Starting point is 00:11:47
+
+I think this is very, very stylized and completely apocryphal.
+
+Like, he definitely thought of this theory, but not at a bar.
+
+We block each other.
+
+Not a single one of us is going to get her.
+
+So then we go for her friends.
+
+But they will all give us the cold shoulder because nobody likes to be second choice.
+
+Well, what if no one goes for the blood?
+
+We don't get in each other's way,
+
+Starting point is 00:12:24
+
+and we don't insult the other girls.
+
+Maud.
+
+That's the only way we win.
+
+That's the only way we all get laid.
+
+So he's describing the prisoner's dilemma.
+
+Where everyone must work together.
+
+The best result comes.
+
+From everyone in the group doing what's best for himself, right?
+
+Starting point is 00:12:45
+
+That's what he said, is that, right?
+
+Incomplete.
+
+Incomplete.
+
+Because the best result would come.
+
+From everyone in the group, doing what's best for himself.
+
+And the group.
+
+Ash, this is some way for you to get the blonde on your own.
+
+You can go to hell.
+
+Starting point is 00:13:02
+
+Governing dynamics, gentlemen.
+
+Governing dynamics.
+
+Adam Smith.
+
+He's wrong.
+
+Yeah, there we go.
+
+Careful.
+
+Thank you.
+
+Anyway, very fun.
+
+Starting point is 00:13:17
+
+Dave says, just joined the stream.
+
+We're watching a movie.
+
+Yeah.
+
+Lots of game theory going on in the AI wars right now.
+
+Everyone's trying to figure out how far to push it.
+
+There's a fair amount of risk.
+
+There's still the KORNO game of chicken around who will invest the most in advancing the frontier.
+
+But the end state looks a lot more durable than pure model commoditization
+
+Starting point is 00:13:39
+
+and the perfectly competitive situation that many were predicting a few years ago.
+
+Brucko Capital says I thought Dorcas had a good point that software engineering is the only job
+
+where the full context needed to do.
+
+The job is available to an AI agent via the code base.
+
+And I didn't think Dari had a good answer for why automating other jobs will be as easy.
+
+This got a bunch of a lot of people kind of reacting, kind of disagreeing generally that all of the full context needed to do the job is available.
+
+But I do think something we need to figure out.
+
+Yeah, we were debating this because there was a post that was just sort of like a WoJack reaction that was just making fun of this.
+
+Starting point is 00:14:13
+
+And it wasn't clear if they were saying that they were agreeing or disagreeing.
+
+But basically my take was, well, it's possible that.
+
+a lot of the you know the full context needed to do the job of a lot of a lot of
+
+different white-collar jobs is in fact logged it's just logged in the final
+
+product which is like a deck or spreadsheet or a decision and then a whole bunch
+
+of emails a whole bunch of slacks and then a whole bunch of Zoom calls that's
+
+recorded and so yes if you're running a business where a lot of work gets done in
+
+smoky bars late at night and and you know back alley deal-making sure that's
+
+Starting point is 00:14:53
+
+going to be harder to automate but in the world where it's someone sitting in front of a computer
+
+and there's a screen recorder running like you should be able to pull up most of the context at the
+
+same time you can't just snap your fingers and go back and get every decision that was made in the
+
+80s that allowed Coca-Cola to become a dominant soda maker but you can't if we get you literally
+
+can with limits just being like knowing the calls being recorded and used to train
+
+something to replace them they're just like I'll tell you offline
+
+I'm not in speaking this secret in the record.
+
+Golf this weekend.
+
+Starting point is 00:15:28
+
+Debate around the posture.
+
+Yes.
+
+Dwar Keshe, his posture was absolutely excellent.
+
+He's been having the gym a lot. He looks fantastic.
+
+I love this sweater.
+
+The crew neck works really well.
+
+The pushed up sleeves is a particular choice.
+
+Didn't translate into that, Chad Wojack,
+
+Starting point is 00:15:47
+
+but he looks fantastic here.
+
+A lot of fun on the timeline looking at the,
+
+the looks
+
+mogging or whatever, the looks maxing.
+
+I don't even know. I can't.
+
+Frame mogging. That's the frame logging.
+
+He kept bringing up the
+
+example of a video editor
+
+Starting point is 00:16:04
+
+saying, yeah, but when will the models
+
+be good enough to edit
+
+video as well? Yes.
+
+Pick out moments.
+
+Yes. And give me two years
+
+and another 500 billion.
+
+We've tried every tool.
+
+There is. They can't do it yet.
+
+Starting point is 00:16:18
+
+I don't know. I don't know.
+
+And it's not even that we're not
+
+trying the tools to replace the people on our team we're trying to make them
+
+have higher output one interesting thing is that the there isn't there aren't a
+
+lot of open source like premier profiles like I I've edited a ton of videos for
+
+YouTube there's a whole bunch of cuts in there what I cut out what I didn't you
+
+could have that record it's not stored in GitHub like it's just a you can't
+
+necessarily train on it you can train on the final product and and understand
+
+Starting point is 00:16:50
+
+but you don't understand what actually got
+
+on the cutting for cutting room floor there's this whole concept of like kill your
+
+darlings like when you're in the edit like you need to be cutting more you're like
+
+I like that shot so cinematic so cool but does it actually advance the story
+
+no so you cut it down I was watching the Matrix this weekend and there's this
+
+amazing shot of when Neo and Morpheus are going to visit the the oracle and
+
+they reach for the door knob and the doorknob has this perfect reflection and
+
+the reflection shows Neo and Morpheus and they had to do this crazy
+
+Starting point is 00:17:22
+
+VFX shot to hide the camera in more what looks like Morpheus's coat because if you
+
+point a camera at a mirror you see the camera and you don't want to see the cameraman there that
+
+ruins the shot and so they did all this crazy stuff to like to like you know cover up the camera
+
+and I'd seen the behind the scenes and been like wow that's really impressive and in my memory I thought
+
+it was like oh it's such an important shot they probably had lingered on that for like five seconds
+
+to really let it sink in like they're pulling a trick on the audience it's beautiful it's like
+
+half a second and they did all this work and then they knew that like for
+
+a storytelling perspective. You don't want to hang out and watch a picture of a doorknob
+
+Starting point is 00:17:56
+
+for five seconds. And so all these decisions, like they sort of get chronicled, but they don't get
+
+neatly organized in the way that a GitHub log does with pull request discussions and what happens.
+
+So it'll be difficult. So maybe two years and another five billion dollars does it, but it's
+
+coming. So we'll keep monitoring it. Andrew Reid says horses don't stop. They keep going.
+
+Wait, did he actually say that? Yes. No way. Yes. In response to 2020.
+
+being the year of the horse.
+
+I love it.
+
+One of the greatest lyrics of all time.
+
+Starting point is 00:18:27
+
+Originally, to explain the joke, it's a young thug song.
+
+And the actual lyric is hustlers don't stop.
+
+They keep going.
+
+But it sounds like horses.
+
+And so people put horses don't stop.
+
+They keep going.
+
+And they show the AI generated image of the horse bench pressing.
+
+And it's incredibly inspiring.
+
+Starting point is 00:18:46
+
+There's a lot of young thug songs that are hard to decipher.
+
+100%.
+
+Let's hit the song.
+
+size gong for this Pennsylvania Girl Scout, six years old, breaks record selling 87,000 boxes of cookies.
+
+She's unstoppable.
+
+Unstopable.
+
+Wait, how much is that?
+
+What's the ARR?
+
+Starting point is 00:19:07
+
+Estimating that it's somewhere around $600,000 of sales.
+
+That's amazing.
+
+At only six years old.
+
+Really incredible stuff.
+
+Heartwarming.
+
+That's awesome.
+
+India's Adani Group to invest $100 billion in AI infrastructure.
+
+We got to hit the gong again.
+
+Starting point is 00:19:20
+
+Hit it again.
+
+Indian.
+
+investment will be boosts to the country's ambitions to become an AI power.
+
+India's Ondani Group and energy and logistics giants said it would invest $100 billion to develop
+
+large-scale data centers by 2035, the largest such commitment in India so far.
+
+Tyler, what do you think about the timing here? Is this going to be too late? Are the clankers going to, like, is 2035?
+
+How are we looking there? Is that that's most singularity? Yeah, I'm very bullish on the clankers coming
+
+pretty early, so, you know, time will tell, I guess.
+
+Starting point is 00:19:52
+
+I cannot wait to pull up this clip.
+
+It is a big number that I feel like a lot of countries have been teasing big numbers, but this is like real-
+
+They're kind of maugging Macron.
+
+Yeah, this is like a really big number.
+
+You see a bunch of like multi-billion dollar deals, multi-billion dollar releases, but this is like a serious, serious
+
+investment.
+
+So you know, good news.
+
+Micron is spending 200 billion.
+
+Starting point is 00:20:18
+
+So congratulations for saying the biggest number.
+
+That's going.
+
+Micron is spending $200 million to break the AI memory bottleneck for decades.
+
+Memory chips were low margin commodity products.
+
+Now the industry can't make enough to satisfy data centers hunger.
+
+Just like this one company is like, yeah, we're going to spend twice as much as India.
+
+Micron technology is the largest American maker of memory chips, the tiny slices of silicon that store and transfer data and help power everything from smartphones and car computers to laptops and data centers.
+
+Micron is rushing to add manufacturing capacity to avert the biggest supply crunch the memory industry has seen in more than 40 years.
+
+Starting point is 00:20:56
+
+Did you hear that the PS6, the PlayStation 6 is now delayed because of memory shortages?
+
+2029, pretty big delay to 2029. They really don't refresh you just created a trillion gamers.
+
+No, seriously, I think adding insult to injury to the gamers might actually be right.
+
+gamers might rise up.
+
+They might be an important voting block.
+
+A lot of them are of age to vote,
+
+and a lot of them would rather have new gaming hardware
+
+than necessarily AI slop in the feed.
+
+Starting point is 00:21:33
+
+They're like, yeah, I can't afford the new PC that I wanted.
+
+What do you think?
+
+I don't know.
+
+I mean, I feel like this says a lot about how good the PS5 is, right?
+
+Because they can afford to just postpone the PS6.
+
+Like, what games actually need insane?
+
+Now you don't want technological progress.
+
+Wow.
+
+Starting point is 00:21:48
+
+I want it to go to the data centers.
+
+I don't care about like the next game graphics have like have they gotten that much better in the past like five years like
+
+Yeah, maybe but it's like for the actual gameplay is it that important if like the actual pixels are
+
+Realistically a lot of this stuff should be moving to the cloud soon if it's not already and then if you're running in the cloud
+
+You can upgrade the hardware and in theory you should be able to run like a Gen AI upraising pass to make it more photo real and I feel like that's gonna be where more of the
+
+the the juice is squeezed out of the
+
+graphics than just continuing on the traditional path of like more pixels, more ray tracing.
+
+It'll be make a really beautifully, you know, designed video game that works really well,
+
+Starting point is 00:22:31
+
+really tight, deterministic interactions.
+
+So it's satisfying.
+
+And then give it a layer.
+
+We got to have like a ram trader on the show.
+
+Really somebody that's in the thick of deal making in the space.
+
+Moving on, Lucas Shaw was on a tear over the weekend reporting on the Warner Brothers.
+
+Paramount Conversations. He says this morning Warner Brothers is going to resume talks with Paramount
+
+after two months of rejecting them playing mind games. The company still says it's committed to
+
+Starting point is 00:23:00
+
+Netflix but needs to find out just how much the Ellison's will offer. He originally reported
+
+on this Sunday, but it's being confirmed today. Again, we kind of knew this was going to happen
+
+if the Ellisons had been saying we're making it, we're giving you a big number, but it's not our
+
+biggest number. It's not our best and final. So no surprise here. Let's flip over to Claude Bot.
+
+Kent Dodd says, names the thing Claudebott. Claude asks for a rename. Renames to OpenAI
+
+buys it. Legendary, legendary couple weeks. No confirmation on buying. It's an open source project.
+
+They're keeping it open source. There's a whole bunch of different.
+
+Yeah, Dave Morin, remember reading, is going to step into, I believe,
+
+Starting point is 00:23:49
+
+We've run the foundation that will kind of steward the open source project.
+
+And then Peter's obviously joining Open AI.
+
+I'll take this day off to figure out this whole open claw thing,
+
+every entrepreneur on President's Day weekend.
+
+We've talked about this on the show before.
+
+Long weekends are really good for AI progress and AI diffusion.
+
+Petition for three-day weekends to speed up AGI timelines probably would work for sure.
+
+Fumblegate.
+
+Starting point is 00:24:18
+
+Fumblegate. Did Anthropic Fumble OpenClaw?
+
+Will Brown says, honestly crazy that OpenClaas sold for $1 billion.
+
+Like, he's really the first solo $5 billion founder.
+
+Time will tell if it's worth the $15 billion that Open AIs spent on the acquisition,
+
+but it's pretty wild that you can just vibe code an open source project
+
+and make $40 billion in a couple months now.
+
+It really, really nails it.
+
+Because everyone jumped immediately to a billion, immediately.
+
+Starting point is 00:24:44
+
+Off of nothing.
+
+Off of like one rumor.
+
+It's very, very funny.
+
+Who knows?
+
+Alex Cohen breaks it down for Gen Z.
+
+If you're wondering what happened today,
+
+Claude was magging OpenAI for weeks.
+
+Then this gym cell dev ships Claudebot,
+
+Starting point is 00:24:59
+
+which was the fastest growing open source thing ever.
+
+Absolute looks max for the whole ecosystem.
+
+Anthropic tries to derrygoon him with legal.
+
+Dev renames to OpenClaw.
+
+OpenA.I. slides in like a void pulling Chad with acquisition interest.
+
+OpenClaw gets acquired by OpenAI.
+
+Now Anthropic is getting jester gooned by the entire timeline,
+
+and OpenAI is gigamaxing off there
+
+Starting point is 00:25:18
+
+fumble.
+
+Open it.
+
+Anthropic could have just let them cook,
+
+him cook.
+
+Instead, they went full moid and got
+
+outframed by the jester maxers at Open AI.
+
+The looks max,
+
+like,
+
+Starting point is 00:25:28
+
+the lingo is really,
+
+it feels like hilarious.
+
+I do wonder the half-life.
+
+I feel like it's got...
+
+I think it's over.
+
+It's got to be towards the end
+
+in this boom,
+
+but the rise of the,
+
+Starting point is 00:25:41
+
+of the kick streamers is
+
+certainly the story of the year.
+
+Certainly the story of the year.
+
+What did Claude do?
+
+What did Claude do?
+
+The Pentagon has said that Anthropic will pay a price.
+
+There was reporting last week that Claude was leveraged in some way during the Maduro planning,
+
+the planning of the Maduro raid.
+
+Starting point is 00:26:03
+
+I was imagining in my head Dario as Walter White in the SUV, just being like watching
+
+the logs and seeing Pete Heggseth running a deep research report on Maduro.
+
+Who is Nicholas Maduro?
+
+He's just like, no!
+
+No, don't do it.
+
+Yeah, very unclear how it was used, but a lot of pushback.
+
+SAG after.
+
+What happened?
+
+Starting point is 00:26:31
+
+Put out a statement on C-Dance 2.0.
+
+It's not a comment.
+
+It's a statement.
+
+The Chinese, yeah.
+
+Now, the Chinese are, I've been quivering and fear ever since.
+
+Oh, no.
+
+Sag came after them.
+
+What they said?
+
+Starting point is 00:26:45
+
+Sags stands with the studios in condemning the blatant
+
+infringement enabled by ByteDance's new AI video model, C-Dance 2.0, the infringement includes the
+
+unauthorized use of our members' voice and likenesses. This is unacceptable and undercuts the
+
+ability of human talent to earn a livelihood. It is kind of interesting that just in this statement,
+
+they're admitting to saying, like, it's so good, you're going to make it impossible for our members
+
+to earn a living, which doesn't actually... It says undercuts.
+
+Undercuts. I didn't say eliminates. C-Dance 2.0 disregards law, ethics, industry standards.
+
+and basic principles of consent.
+
+Starting point is 00:27:20
+
+Hit that.
+
+Boom.
+
+AI development demands responsibility
+
+that is non-existent here.
+
+Completely correct.
+
+Some of the Seedance videos
+
+are insanely infringing.
+
+It's just like, wow, it's Larry David.
+
+Starting point is 00:27:33
+
+Beginning of the end, says Growing Daniel.
+
+Disney, as expected,
+
+sent a cease and assist letter
+
+to Bight Dance over Seedance 2.0.
+
+I wonder...
+
+It's crazy.
+
+I wonder how Bight Dance
+
+will actually react to this pushback.
+
+Starting point is 00:27:47
+
+Obviously, they expect.
+
+it. They know that they're not abiding by a number of different U.S. laws. Whether or not they care
+
+is another thing. Yeah. Like if you make an AI version of Andrew Huberman and you get in a
+
+fresh ad account, you can probably start spending money before the Huberman Lab team finds out
+
+what you're doing. I would disagree. I think Rob's on top of it. I think he's goaded. But anyone else.
+
+Any other team would be cut. I don't know. I mean, he might respond faster than the others,
+
+but this is certainly happening.
+
+So this is interesting.
+
+Starting point is 00:28:20
+
+If you're already like an A-list, massive superstar,
+
+I think you see some stuff like this,
+
+and you're actually like, great,
+
+I'm going to be able to shoot a movie in a week from L.A.
+
+I'm not going to have to travel to these insane exotic locations
+
+and spend a week in the desert filming all these clips.
+
+So if you're like a Timothy Shalameh, this is maybe like, yes,
+
+you're worried for the overall industry,
+
+Starting point is 00:28:45
+
+but at the same time, you're thinking,
+
+okay, my name and likeness is now infinitely scalable.
+
+I can still, like, restrict the supply to some degree, right?
+
+I'm not going to tell any movie studio, hey, you can make a movie with me, whatever.
+
+You're still going to kind of restrict it.
+
+The question becomes new, new talent that's emerging, trying to build their brand.
+
+At what point do studios say, we're just going to make a character, we're going to make a new actor out of thin air, place them across different movies, build them up over time?
+
+you could imagine, I don't think a company like CAA would do this because all their talent would be like, what are you doing?
+
+Starting point is 00:29:24
+
+Like you're taking our job, but I could imagine a group trying to make like a little Michaela style actor that you build up over time.
+
+One thing that we'll find out is how much does the actual actors real life matter in the context of their career?
+
+Like if Timothy Shalmay is dating Kylie Jenner, does that like increase his appeal on the big screen?
+
+Yeah.
+
+And I would say yes, probably, right?
+
+There's so much fixation on the lives of all this talent.
+
+I can't wait for tomorrow at 11 a.m. Sharp, Pacific.

@@ -2,7 +2,6 @@ name: Taeglicher Podcast Scraper
 
 on:
   schedule:
-    # Täglich um 04:00 Uhr UTC (05:00 Uhr deutsche Zeit)
     - cron: '0 4 * * *'
   workflow_dispatch: 
 
@@ -29,13 +28,12 @@ jobs:
       - name: Scraper ausfuehren
         run: python scraper.py
 
-      - name: Speichern und Konflikte vermeiden
+      - name: Speichern und Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
+          # Erst die Änderungen vom Server holen, BEVOR wir Dateien zum Index hinzufügen
+          git pull origin main --rebase
           git add *.txt
-          # Holt deine manuellen Code-Änderungen ab
-          git pull --rebase origin main
-          # Speichert das neue Transkript
           git commit -m "Automatisches Transkript Update: $(date +'%Y-%m-%d')" || echo "Keine neuen Daten"
           git push origin main

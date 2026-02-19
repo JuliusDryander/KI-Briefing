@@ -29,16 +29,11 @@ jobs:
       - name: Scraper ausfuehren
         run: python scraper.py
 
-      - name: Speichern und Push
+- name: Speichern und Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          
-          # 1. Die neuen Textdateien vormerken
-          git add *.txt
-          
-          # 2. Lokal abspeichern (Commit)
-          git commit -m "Automatisches Transkript Update: $(date +'%Y-%m-%d')" || echo "Keine neuen Daten zum Speichern"
-          
-          # 3. Änderungen vom Server holen und sauber einreihen (Rebase)
-          git
+          git add .
+          git commit -m "Automatisches Update" || true
+          git pull --rebase origin main || true
+          git push origin main

@@ -28,12 +28,19 @@ jobs:
       - name: Scraper ausfuehren
         run: python scraper.py
 
-      - name: Speichern und Push
+    - name: Speichern und Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          # Erst die Änderungen vom Server holen, BEVOR wir Dateien zum Index hinzufügen
-          git pull origin main --rebase
+          
+          # 1. Die neuen Dateien erst dem "Warenkorb" hinzufügen
           git add *.txt
+          
+          # 2. Den Warenkorb lokal speichern (Commit)
           git commit -m "Automatisches Transkript Update: $(date +'%Y-%m-%d')" || echo "Keine neuen Daten"
+          
+          # 3. JETZT erst prüfen, ob es Updates auf GitHub gibt (Rebase)
+          git pull origin main --rebase
+          
+          # 4. Alles zusammen hochladen
           git push origin main

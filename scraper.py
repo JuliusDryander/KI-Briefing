@@ -18,40 +18,40 @@ def scrape_latest():
         soup = BeautifulSoup(page.content(), 'html.parser')
         
         all_links = soup.find_all('a', href=True)
-        first_full_episode_link = None
+        all_links = soup.find_all('a', href=True)
         
+        # Wir sammeln ALLE potenziellen Folgen-Links, nicht nur den ersten
+        episode_links = []
         for link in all_links:
             href = link.get('href', '')
             if href.startswith("/podcasts/tbpn-live/") and len(href) > len("/podcasts/tbpn-live/") and "page=" not in href:
                 if "diet" not in href.lower():
-                    first_full_episode_link = href
-                    break 
+                    episode_links.append(href)
         
-        if not first_full_episode_link:
-            print("Keine volle Episode gefunden.")
-            browser.close()
-            return
-
-        ep_url = DOMAIN + first_full_episode_link if first_full_episode_link.startswith('/') else first_full_episode_link
-        print(f"Lese echtes Transkript von: {ep_url}")
-
-        # 2. Episoden-Seite laden
-        page.goto(ep_url)
-        page.wait_for_load_state('networkidle')
-        
-        # 3. Klicke auf "Read More" falls vorhanden, um den Text zu entpacken
-        try:
-            buttons = page.locator('button')
-            for i in range(buttons.count()):
-                text = buttons.nth(i).inner_text().lower()
-                if "read more" in text or "load" in text or "show" in text:
-                    buttons.nth(i).click(timeout=3000)
-                    page.wait_for_timeout(2000) # Kurz warten, bis der Text aufploppt
-        except Exception:
-            pass # Wenn kein Button da ist, machen wir einfach weiter
-
-        # Jetzt nehmen wir den finalen, fertig gerenderten HTML-Code
-        ep_html = page.content()
+        # Jetzt testen wir die Links nacheinander, bis wir einen LANGEN finden
+        for link in episode_links:
+            ep_url = DOMAIN + link if link.startswith('/') else link
+            print(f"Prüfe Folge: {ep_url}")
+            
+            page.goto(ep_url)
+            page.wait_for_load_state('networkidle')
+            
+            # (Hier kommt dein Klick-Code für "Read More" rein)
+            
+            ep_html = page.content()
+            ep_soup = BeautifulSoup(ep_html, 'html.parser')
+            raw_text = ep_soup.get_text(separator='\n\n', strip=True)
+            clean_text = clean_transcript(raw_text)
+            
+            # DIE NEUE MAGISCHE REGEL: Nur > 50.000 Zeichen werden akzeptiert!
+            if len(clean_text) > 50000:
+                print(f"BINGO! Lange Voll-Episode gefunden ({len(clean_text)} Zeichen).")
+                title = ep_soup.find('h1').get_text(strip=True) if ep_soup.find('h1') else "Unbekannter Titel"
+                break # Wir stoppen die Schleife, wir haben unseren Text!
+            else:
+                print(f"Zu kurz ({len(clean_text)} Zeichen). Ist wohl eine Bonusfolge. Suche weiter...")
+                continue # Geht zum nächsten Link in der Liste
+                
         browser.close()
 
     # 4. Text sauber extrahieren

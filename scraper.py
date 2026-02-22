@@ -3,19 +3,64 @@ import re
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
-BASE_URL = "https://podscripts.co/podcasts/tbpn-live/"
 DOMAIN = "https://podscripts.co"
 
 # ============================================================
-# 1. TRANSCRIPT CLEANING – Der Staubsauger (v2.0)
+# PODCAST-QUELLEN KONFIGURATION
 # ============================================================
-# Ziel: Gemini bekommt NUR den Dialog – kein Website-Chrome,
-# keine Werbung, kein Footer. Das reduziert Rauschen und
-# verhindert, dass Gemini Token für Müll verschwendet.
+# Hier fügst du neue Podcasts hinzu. Der Scraper verarbeitet
+# alle Quellen automatisch. Jeder Eintrag braucht:
+#   - name:        Kürzel für Dateinamen
+#   - url:         Übersichtsseite auf podscripts.co
+#   - min_chars:   Mindestlänge (filtert Bonus-/Kurzepisoden)
+#   - exclude:     Begriffe im URL-Pfad, die übersprungen werden
+#   - corrections: Podcast-spezifische Transkriptionsfehler
 # ============================================================
 
-# Werbe-Keywords: Wenn ein Absatz mit einem davon beginnt,
-# ist es ein Ad-Read und wird entfernt.
+SOURCES = [
+    {
+        "name": "TBPN",
+        "url": "https://podscripts.co/podcasts/tbpn-live/",
+        "min_chars": 50000,
+        "exclude": ["diet"],
+        "corrections": {
+            "TVPN": "TBPN",
+            "Grogopedia": "Grokopedia",
+            "Quen-3": "Qwen-3",
+            "Aerobor": "Arabor",
+            "Aribor": "Arabor",
+        },
+    },
+    {
+        "name": "All-In",
+        "url": "https://podscripts.co/podcasts/all-in-with-chamath-jason-sacks-friedberg/",
+        "min_chars": 30000,
+        "exclude": [],
+        "corrections": {
+            "Jamath": "Chamath",
+            "Chamat ": "Chamath ",
+            "Freedberg": "Friedberg",
+            "Sax ": "Sacks ",
+        },
+    },
+    # -------------------------------------------------------
+    # Weitere Quellen einfach hier einfügen, z.B.:
+    #
+    # {
+    #     "name": "BG2",
+    #     "url": "https://podscripts.co/podcasts/bg2pod/",
+    #     "min_chars": 15000,
+    #     "exclude": [],
+    #     "corrections": {},
+    # },
+    # -------------------------------------------------------
+]
+
+
+# ============================================================
+# GEMEINSAME CLEANING-PATTERNS
+# ============================================================
+
 AD_PATTERNS = [
     r"Let me (?:also )?tell you about\b",
     r"And let me (?:also )?tell you about\b",
@@ -25,98 +70,83 @@ AD_PATTERNS = [
     r"is made possible by\b",
     r"is brought to you by\b",
     r"is sponsored by\b",
+    r"Our presenting sponsor\b",
+    r"Today's episode is powered by\b",
 ]
 AD_REGEX = re.compile("|".join(AD_PATTERNS), re.IGNORECASE)
 
-# Sponsor-Einzeiler: "Ramp - https://Ramp.com" etc.
 SPONSOR_LINK_REGEX = re.compile(
     r"^.{1,60}\s*[-–—]\s*https?://\S+$", re.MULTILINE
 )
 
-# Footer/Boilerplate, die nach dem Transkript kommt
 FOOTER_MARKERS = [
     "There aren't comments yet",
     "Report Ad",
     "What is this?",
-    "Click on any sentence in the transcript to leave a comment",
+    "Click on any sentence in the transcript",
 ]
 
-# Website-Header, die vor dem Transkript stehen
-HEADER_END_MARKERS = [
-    "Transcript",       # podscripts.co zeigt "Transcript" als Tab
-    "Discussion",       # ... und "Discussion" direkt danach
+TRANSCRIPT_START_MARKERS = {
+    "TBPN": [
+        "You're watching TBPN",
+        "you're watching TBPN",
+        "We are live from",
+        "we are live from",
+        "Sign up for TBPN",
+    ],
+    "All-In": [
+        "welcome back to the",
+        "Welcome back to the",
+        "I'm going all in",
+        "going all in",
+        "All right, everybody",
+        "besties",
+    ],
+    "_default": [
+        "Transcript",
+    ],
+}
+
+GUEST_PATTERNS = [
+    r"[Ll]et'?s bring (?:him|her|them) in",
+    r"[Ww]e have .{2,40} (?:joining|in the .{0,20}waiting room)",
+    r"[Ll]et'?s bring in .{2,40}",
 ]
-
-# Transkript-Start-Marker (erster echter Dialog)
-TRANSCRIPT_START_MARKERS = [
-    "You're watching TBPN",
-    "you're watching TBPN",
-    "We are live from",
-    "we are live from",
-    "Sign up for TBPN",
-]
+GUEST_REGEX = re.compile("|".join(GUEST_PATTERNS))
 
 
-def clean_transcript(raw_text):
-    """
-    Bereinigt das rohe Transkript in mehreren Stufen:
-    1. Website-Header entfernen
-    2. Footer entfernen
-    3. Werbeblöcke entfernen
-    4. Sponsor-Links entfernen
-    5. Timestamps bereinigen
-    6. Tippfehler korrigieren
-    7. Leerzeilen normalisieren
-    """
-    print("Starte Text-Reinigung (Staubsauger v2.0)...")
+# ============================================================
+# CLEANING FUNCTIONS
+# ============================================================
+
+def clean_transcript(raw_text, source):
+    """Bereinigt ein Transkript basierend auf der Quellen-Konfiguration."""
+    name = source["name"]
+    corrections = source.get("corrections", {})
+    print(f"  [{name}] Starte Text-Reinigung...")
     cleaned = raw_text
 
-    # ----------------------------------------------------------
-    # STUFE 1: Website-Header abschneiden
-    # Alles vor dem eigentlichen Transkript ist Navigation,
-    # Metadaten, Podcast-Beschreibungen etc.
-    # ----------------------------------------------------------
-
-    # Versuche zuerst, den Transkript-Start-Marker zu finden
-    for marker in TRANSCRIPT_START_MARKERS:
+    # --- STUFE 1: Header abschneiden ---
+    markers = TRANSCRIPT_START_MARKERS.get(name, TRANSCRIPT_START_MARKERS["_default"])
+    for marker in markers:
         idx = cleaned.find(marker)
         if idx != -1:
             cleaned = cleaned[idx:]
-            print(f"  Header entfernt (Start bei: '{marker[:40]}...')")
+            print(f"  [{name}] Header entfernt (bei: '{marker[:30]}...')")
             break
-    else:
-        # Fallback: Suche nach "Transcript" oder "Discussion" Header
-        for marker in HEADER_END_MARKERS:
-            # Suche das letzte Vorkommen vor dem Haupttext
-            pattern = re.compile(re.escape(marker) + r"\s*\n", re.IGNORECASE)
-            matches = list(pattern.finditer(cleaned))
-            if matches:
-                last_match = matches[-1]
-                cleaned = cleaned[last_match.end():]
-                print(f"  Header entfernt (Fallback bei: '{marker}')")
-                break
 
-    # ----------------------------------------------------------
-    # STUFE 2: Footer abschneiden
-    # Alles nach dem letzten Dialog ist Boilerplate
-    # ----------------------------------------------------------
+    # --- STUFE 2: Footer abschneiden ---
     for marker in FOOTER_MARKERS:
         idx = cleaned.find(marker)
         if idx != -1:
             cleaned = cleaned[:idx]
-            print(f"  Footer entfernt (bei: '{marker[:40]}...')")
+            print(f"  [{name}] Footer entfernt")
             break
 
-    # ----------------------------------------------------------
-    # STUFE 3: Werbeblöcke entfernen
-    # Ad-Reads sind typischerweise 1-3 Sätze, die mit
-    # "Let me tell you about..." beginnen.
-    # Wir entfernen den gesamten Absatz.
-    # ----------------------------------------------------------
+    # --- STUFE 3: Werbeblöcke entfernen ---
     paragraphs = cleaned.split("\n\n")
-    filtered_paragraphs = []
+    filtered = []
     ads_removed = 0
-
     for para in paragraphs:
         para_stripped = para.strip()
         if not para_stripped:
@@ -124,208 +154,204 @@ def clean_transcript(raw_text):
         if AD_REGEX.search(para_stripped):
             ads_removed += 1
             continue
-        filtered_paragraphs.append(para_stripped)
+        filtered.append(para_stripped)
+    cleaned = "\n\n".join(filtered)
+    if ads_removed:
+        print(f"  [{name}] {ads_removed} Werbeblöcke entfernt")
 
-    cleaned = "\n\n".join(filtered_paragraphs)
-    print(f"  {ads_removed} Werbeblöcke entfernt")
-
-    # ----------------------------------------------------------
-    # STUFE 4: Sponsor-Link-Zeilen entfernen
-    # "Ramp - https://Ramp.com" etc.
-    # ----------------------------------------------------------
-    sponsor_count = len(SPONSOR_LINK_REGEX.findall(cleaned))
+    # --- STUFE 4: Sponsor-Links entfernen ---
     cleaned = SPONSOR_LINK_REGEX.sub("", cleaned)
-    if sponsor_count:
-        print(f"  {sponsor_count} Sponsor-Links entfernt")
 
-    # ----------------------------------------------------------
-    # STUFE 5: Timestamps entfernen
-    # ----------------------------------------------------------
+    # --- STUFE 5: Timestamps entfernen ---
     cleaned = re.sub(r'Starting point is \d{2}:\d{2}:\d{2}', '', cleaned)
     cleaned = re.sub(r'\(\d{2}:\d{2}:\d{2}\)', '', cleaned)
 
-    # ----------------------------------------------------------
-    # STUFE 6: Bekannte Transkriptions-Fehler korrigieren
-    # (erweitere diese Liste, wenn dir neue auffallen)
-    # ----------------------------------------------------------
-    replacements = {
-        "TVPN": "TBPN",
-        "Grogopedia": "Grokopedia",
-        "Quen-3": "Qwen-3",
-        "Aerobor": "Arabor",
-        "Aribor": "Arabor",
-        "Air Force": "Arabor",      # Häufiger Transkriptionsfehler
-        "Airborne": "Arabor",        # Häufiger Transkriptionsfehler
-        "Paul Murlocki": "Palmer Luckey",
-        "terrorists": "tariffs",     # Häufiger Speech-to-Text-Fehler
-        "Jennifer Duden": "Jennifer Doudna",
-    }
-    for wrong, right in replacements.items():
+    # --- STUFE 6: Podcast-spezifische Korrekturen ---
+    for wrong, right in corrections.items():
         if wrong in cleaned:
             count = cleaned.count(wrong)
             cleaned = cleaned.replace(wrong, right)
-            print(f"  Korrektur: '{wrong}' → '{right}' ({count}x)")
+            print(f"  [{name}] Korrektur: '{wrong}' → '{right}' ({count}x)")
 
-    # ----------------------------------------------------------
-    # STUFE 7: Leerzeichen und Zeilenumbrüche normalisieren
-    # ----------------------------------------------------------
-    # Sinnlose einzelne Zeilenumbrüche zu Leerzeichen
+    # --- STUFE 7: Normalisierung ---
     cleaned = re.sub(r'(?<!\n)\n(?!\n)', ' ', cleaned)
-    # Mehr als 2 Leerzeilen auf 2 reduzieren
     cleaned = re.sub(r'\n{3,}', '\n\n', cleaned)
-    # Mehrfache Leerzeichen
     cleaned = re.sub(r' +', ' ', cleaned)
-
     cleaned = cleaned.strip()
-    print(f"  Fertiger Text: {len(cleaned)} Zeichen")
+
+    print(f"  [{name}] Fertig: {len(cleaned)} Zeichen")
     return cleaned
 
 
-# ============================================================
-# 2. SEGMENT-MARKER (optional, aber hilfreich für Gemini)
-# ============================================================
-# Fügt Trennlinien ein, wenn ein neuer Gast begrüßt wird.
-# Das hilft Gemini, Segmente besser zu erkennen.
-# ============================================================
-
-GUEST_PATTERNS = [
-    r"[Ll]et'?s bring (?:him|her|them) in",
-    r"[Ww]e have .{2,40} (?:joining|in the .{0,20}waiting room)",
-    r"[Ll]et'?s bring in .{2,40}",
-    r"[Hh]ow are you doing\?",  # Typische Gast-Begrüßung
-]
-GUEST_REGEX = re.compile("|".join(GUEST_PATTERNS))
-
-
 def add_segment_markers(text):
-    """
-    Fügt '---' Trennlinien vor Gast-Wechseln ein.
-    Das gibt Gemini visuelle Hinweise auf Segmentgrenzen.
-    """
+    """Fügt '---' vor Gast-Wechseln ein."""
     lines = text.split("\n\n")
     result = []
-    markers_added = 0
-
     for i, para in enumerate(lines):
         if GUEST_REGEX.search(para) and i > 0:
             result.append("\n---\n")
-            markers_added += 1
         result.append(para)
-
-    if markers_added:
-        print(f"  {markers_added} Segment-Marker eingefügt")
     return "\n\n".join(result)
 
 
-# ============================================================
-# 3. METADATEN-HEADER
-# ============================================================
-# Gibt Gemini Kontext über die Episode direkt am Anfang.
-# ============================================================
-
-def build_header(title, url, date_str, char_count):
-    """Erstellt einen strukturierten Header für das Transkript."""
+def build_header(title, url, name, date_str, char_count):
+    """Metadaten-Header für ein Transkript."""
     return (
-        f"=== PODCAST-TRANSKRIPT ===\n"
+        f"=== PODCAST-TRANSKRIPT: {name} ===\n"
         f"Titel: {title}\n"
         f"Quelle: {url}\n"
         f"Datum: {date_str}\n"
         f"Länge: ~{char_count // 1000}k Zeichen\n"
-        f"Hinweis: Werbeblöcke wurden entfernt. '---' markiert Gast-Wechsel.\n"
-        f"===========================\n\n"
+        f"Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.\n"
+        f"{'=' * 40}\n\n"
     )
 
 
 # ============================================================
-# 4. HAUPT-SCRAPER
+# SCRAPER
 # ============================================================
 
-def scrape_latest():
-    print("Starte unsichtbaren Browser...")
+def scrape_source(page, source):
+    """
+    Scraped die neueste lange Episode eines einzelnen Podcasts.
+    Gibt (title, url, cleaned_text) zurück, oder None.
+    """
+    name = source["name"]
+    base_url = source["url"]
+    min_chars = source["min_chars"]
+    exclude = source.get("exclude", [])
+
+    print(f"\n{'='*50}")
+    print(f"Scrape: {name}")
+    print(f"{'='*50}")
+
+    page.goto(base_url)
+    page.wait_for_load_state('networkidle')
+
+    soup = BeautifulSoup(page.content(), 'html.parser')
+    all_links = soup.find_all('a', href=True)
+
+    # Episode-Links sammeln
+    base_path = base_url.replace(DOMAIN, "")
+    episode_links = []
+    for link in all_links:
+        href = link.get('href', '')
+        if (href.startswith(base_path)
+                and len(href) > len(base_path)
+                and "page=" not in href):
+            if not any(ex.lower() in href.lower() for ex in exclude):
+                episode_links.append(href)
+
+    print(f"  {len(episode_links)} Episode-Links gefunden")
+
+    for link in episode_links:
+        ep_url = DOMAIN + link if link.startswith('/') else link
+        print(f"  Prüfe: {ep_url}")
+
+        page.goto(ep_url)
+        page.wait_for_load_state('networkidle')
+
+        # "Read More" Buttons klicken
+        try:
+            buttons = page.locator('button')
+            for i in range(buttons.count()):
+                text = buttons.nth(i).inner_text().lower()
+                if "read more" in text or "load" in text or "show" in text:
+                    buttons.nth(i).click(timeout=3000)
+                    page.wait_for_timeout(2000)
+        except Exception:
+            pass
+
+        ep_html = page.content()
+        ep_soup = BeautifulSoup(ep_html, 'html.parser')
+
+        for element in ep_soup(["nav", "footer", "header", "script", "style"]):
+            element.decompose()
+
+        raw_text = ep_soup.get_text(separator='\n\n', strip=True)
+
+        # Cleaning
+        clean_text = clean_transcript(raw_text, source)
+        clean_text = add_segment_markers(clean_text)
+
+        if len(clean_text) > min_chars:
+            title = (ep_soup.find('h1').get_text(strip=True)
+                     if ep_soup.find('h1') else "Unbekannter Titel")
+            print(f"  GEFUNDEN! ({len(clean_text)} Zeichen)")
+            return title, ep_url, clean_text
+        else:
+            print(f"  Zu kurz ({len(clean_text)} Zeichen), weiter...")
+
+    print(f"  [{name}] Keine passende Episode gefunden.")
+    return None
+
+
+def scrape_all():
+    """Scraped alle konfigurierten Quellen und speichert die Ergebnisse."""
+    date_str = datetime.date.today().strftime("%Y-%m-%d")
+
+    print("Starte Browser...")
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
 
-        page.goto(BASE_URL)
-        page.wait_for_load_state('networkidle')
+        results = []
 
-        soup = BeautifulSoup(page.content(), 'html.parser')
-        all_links = soup.find_all('a', href=True)
-
-        # Alle potenziellen Links sammeln
-        episode_links = []
-        for link in all_links:
-            href = link.get('href', '')
-            if (href.startswith("/podcasts/tbpn-live/")
-                    and len(href) > len("/podcasts/tbpn-live/")
-                    and "page=" not in href):
-                if "diet" not in href.lower():
-                    episode_links.append(href)
-
-        final_text = None
-        final_title = None
-        final_url = None
-
-        # Links nacheinander prüfen, bis eine lange Folge gefunden wird
-        for link in episode_links:
-            ep_url = DOMAIN + link if link.startswith('/') else link
-            print(f"Prüfe Folge: {ep_url}")
-
-            page.goto(ep_url)
-            page.wait_for_load_state('networkidle')
-
-            # Klicke auf alle "Read More" Buttons
-            try:
-                buttons = page.locator('button')
-                for i in range(buttons.count()):
-                    text = buttons.nth(i).inner_text().lower()
-                    if "read more" in text or "load" in text or "show" in text:
-                        buttons.nth(i).click(timeout=3000)
-                        page.wait_for_timeout(2000)
-            except Exception:
-                pass
-
-            ep_html = page.content()
-            ep_soup = BeautifulSoup(ep_html, 'html.parser')
-
-            # Navigationselemente entfernen
-            for element in ep_soup(["nav", "footer", "header", "script", "style"]):
-                element.decompose()
-
-            raw_text = ep_soup.get_text(separator='\n\n', strip=True)
-
-            # === NEU: Erweiterte Reinigung ===
-            clean_text = clean_transcript(raw_text)
-            clean_text = add_segment_markers(clean_text)
-
-            # Nur Voll-Episoden (> 50.000 Zeichen)
-            if len(clean_text) > 50000:
-                print(f"BINGO! Lange Voll-Episode gefunden ({len(clean_text)} Zeichen).")
-                final_text = clean_text
-                final_title = (ep_soup.find('h1').get_text(strip=True)
-                               if ep_soup.find('h1') else "Unbekannter Titel")
-                final_url = ep_url
-                break
-            else:
-                print(f"Zu kurz ({len(clean_text)} Zeichen). Bonusfolge? Suche weiter...")
+        for source in SOURCES:
+            result = scrape_source(page, source)
+            if result:
+                title, url, text = result
+                header = build_header(title, url, source["name"], date_str, len(text))
+                results.append({
+                    "name": source["name"],
+                    "title": title,
+                    "url": url,
+                    "content": header + text,
+                })
 
         browser.close()
 
-    # Datei speichern
-    if final_text:
-        date_str = datetime.date.today().strftime("%Y-%m-%d")
+    if not results:
+        print("\nFehler: Keine Episoden gefunden.")
+        return
 
-        # Header mit Metadaten voranstellen
-        header = build_header(final_title, final_url, date_str, len(final_text))
-        output = header + final_text
+    # ---------------------------------------------------------
+    # EINZELNE DATEIEN pro Quelle (für Archiv)
+    # ---------------------------------------------------------
+    for r in results:
+        fname = f"Transcript_{r['name']}_{date_str}.txt"
+        with open(fname, "w", encoding="utf-8") as f:
+            f.write(r["content"])
+        print(f"Gespeichert: {fname}")
 
-        for fname in [f"Transcript_{date_str}.txt", "latest.txt"]:
-            with open(fname, "w", encoding="utf-8") as f:
-                f.write(output)
-        print(f"Erfolg! latest.txt aktualisiert ({len(output)} Zeichen).")
-    else:
-        print("Fehler: Keine ausreichend lange Episode gefunden.")
+    # ---------------------------------------------------------
+    # KOMBINIERTE DATEI für Gemini/Claude (latest.txt)
+    # ---------------------------------------------------------
+    combined_header = (
+        f"=== KOMBINIERTES BRIEFING-MATERIAL | {date_str} ===\n"
+        f"Quellen: {', '.join(r['name'] for r in results)}\n"
+        f"Anzahl Transkripte: {len(results)}\n"
+        f"Gesamtlänge: ~{sum(len(r['content']) for r in results) // 1000}k Zeichen\n"
+        f"{'=' * 50}\n\n"
+        f"WICHTIG FÜR DIE ANALYSE:\n"
+        f"- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt\n"
+        f"- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind\n"
+        f"- Gib bei jeder These an, aus welcher Quelle sie stammt\n\n"
+    )
+
+    combined = combined_header + "\n\n".join(r["content"] for r in results)
+
+    with open("latest.txt", "w", encoding="utf-8") as f:
+        f.write(combined)
+    print(f"\nlatest.txt aktualisiert ({len(combined)} Zeichen, {len(results)} Quellen)")
+
+    # Zusammenfassung
+    print(f"\n{'='*50}")
+    print("ZUSAMMENFASSUNG")
+    print(f"{'='*50}")
+    for r in results:
+        print(f"  ✅ {r['name']}: {r['title'][:60]}... ({len(r['content'])//1000}k)")
 
 
 if __name__ == "__main__":
-    scrape_latest()
+    scrape_all()

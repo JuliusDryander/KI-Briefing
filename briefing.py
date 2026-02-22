@@ -22,10 +22,10 @@ import sys
 # KONFIGURATION
 # ============================================================
 
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-2.5-flash-preview-05-20"
 INPUT_FILE = "latest.txt"
 OUTPUT_FILE = "briefing.md"
-MAX_OUTPUT_TOKENS = 65536
+MAX_OUTPUT_TOKENS = 8192
 TEMPERATURE = 0.2
 
 # ============================================================
@@ -53,11 +53,19 @@ Identifiziere alle inhaltlichen Segmente der Episode(n). Liste sie intern auf mi
 - Geschätzte Relevanz (hoch/mittel/niedrig)
 
 ### Schritt 2: Auswahl
-Wähle die 3-5 relevantesten Segmente aus. Kriterien:
-- Strategische/wirtschaftliche Tragweite
-- Neuigkeitswert (neue Ankündigungen, Regulierungen, Marktbewegungen)
-- Handlungsrelevanz für Entscheider
-- Ignoriere: Smalltalk, Werbung, Memes, Real Estate, Lifestyle-Segmente
+Wähle die 3-5 relevantesten Segmente aus. Die Zielgruppe sind europäische Entscheider und Führungskräfte.
+
+PRIORITÄTSREIHENFOLGE (höchste zuerst):
+1. Wirtschaftspolitik: Zölle, Handelsabkommen, Regulierung, Sanktionen – alles mit Auswirkung auf internationale Märkte
+2. Infrastruktur & Energie: Rechenzentren, Kernkraft, Energiepolitik, Kapitalallokation für Infrastruktur
+3. Technologie-Strategie: KI-Marktveränderungen, SaaS-Disruption, Plattform-Dynamiken, Capital Markets
+4. Finanzwesen & Banking: Neue Finanzinstitutionen, Regulierung, Krypto-Integration
+5. Geopolitik & Industriepolitik: US-China, Verteidigung, Industrieförderung
+
+NIEDRIGE PRIORITÄT (nur in "Weitere Segmente"):
+- Prominenten-Skandale, Klatsch, persönliche Kontroversen (z.B. Epstein-Diskussionen)
+- VR/Gaming/Konsumententechnologie (es sei denn mit klarer Marktrelevanz)
+- Lifestyle, Smalltalk, Werbung, Memes, Real Estate
 
 ### Schritt 3: Extraktion mit Quelltreue
 Für jedes gewählte Segment, extrahiere:
@@ -97,15 +105,23 @@ Antworte ausschließlich in reinem Markdown. Kein JSON. Kein Wrapper. Beginne di
 
 [Kurze Erwähnung von 2-3 Themen, die es nicht in den Deep-Dive geschafft haben – jeweils 1-2 Sätze]
 
-# 💡 LinkedIn-Potenzial
+# 💡 LinkedIn-Potenzial (Fokus: Was bedeutet das für Europa?)
 
-**Hook 1:** [Aufmerksamkeitsstarker Einstieg]
-- Inhalt: [2-3 Sätze]
+**Hook 1:** [Aufmerksamkeitsstarker Einstieg mit Europa-Bezug]
+- Inhalt: [2-3 Sätze, die das US-Thema mit einer europäischen Implikation verknüpfen]
+- Europa-Relevanz: [1 Satz: Warum sollte ein europäischer Entscheider das wissen?]
 - Call-to-Action: [Frage an die Community]
 
-**Hook 2:** [Aufmerksamkeitsstarker Einstieg]
+**Hook 2:** [Aufmerksamkeitsstarker Einstieg mit Europa-Bezug]
 - Inhalt: [2-3 Sätze]
+- Europa-Relevanz: [1 Satz]
 - Call-to-Action: [Frage an die Community]
+
+WICHTIG für LinkedIn-Hooks:
+- Keine Skandal- oder Klatsch-Themen als Hooks verwenden
+- Fokus auf Wirtschaft, Technologie, Infrastruktur, Regulierung
+- Die Hooks sollen zeigen, was die US-Diskussion für Europa bedeutet
+- Provokant aber professionell – kein Clickbait
 
 ---
 

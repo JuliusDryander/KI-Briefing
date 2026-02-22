@@ -1,20 +1,15 @@
 import datetime
+import json
+import os
 import re
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
 DOMAIN = "https://podscripts.co"
+PROCESSED_FILE = "processed.json"
 
 # ============================================================
 # PODCAST-QUELLEN KONFIGURATION
-# ============================================================
-# Hier fügst du neue Podcasts hinzu. Der Scraper verarbeitet
-# alle Quellen automatisch. Jeder Eintrag braucht:
-#   - name:        Kürzel für Dateinamen
-#   - url:         Übersichtsseite auf podscripts.co
-#   - min_chars:   Mindestlänge (filtert Bonus-/Kurzepisoden)
-#   - exclude:     Begriffe im URL-Pfad, die übersprungen werden
-#   - corrections: Podcast-spezifische Transkriptionsfehler
 # ============================================================
 
 SOURCES = [
@@ -55,6 +50,34 @@ SOURCES = [
     # },
     # -------------------------------------------------------
 ]
+
+
+# ============================================================
+# DUPLIKAT-ERKENNUNG
+# ============================================================
+
+def load_processed():
+    """Lädt die Liste bereits verarbeiteter Episode-URLs pro Quelle."""
+    if os.path.exists(PROCESSED_FILE):
+        with open(PROCESSED_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def save_processed(processed):
+    """Speichert die Liste verarbeiteter Episode-URLs."""
+    with open(PROCESSED_FILE, "w", encoding="utf-8") as f:
+        json.dump(processed, f, indent=2, ensure_ascii=False)
+
+
+def is_already_processed(processed, source_name, episode_url):
+    """Prüft ob eine Episode schon verarbeitet wurde."""
+    return processed.get(source_name) == episode_url
+
+
+def mark_as_processed(processed, source_name, episode_url):
+    """Markiert eine Episode als verarbeitet."""
+    processed[source_name] = episode_url
 
 
 # ============================================================
@@ -211,19 +234,13 @@ def build_header(title, url, name, date_str, char_count):
 # SCRAPER
 # ============================================================
 
-def scrape_source(page, source):
+def find_latest_episode_url(page, source):
     """
-    Scraped die neueste lange Episode eines einzelnen Podcasts.
-    Gibt (title, url, cleaned_text) zurück, oder None.
+    Findet die URL der neuesten Episode einer Quelle,
+    OHNE sie zu scrapen. Gibt die URL zurück oder None.
     """
-    name = source["name"]
     base_url = source["url"]
-    min_chars = source["min_chars"]
     exclude = source.get("exclude", [])
-
-    print(f"\n{'='*50}")
-    print(f"Scrape: {name}")
-    print(f"{'='*50}")
 
     page.goto(base_url)
     page.wait_for_load_state('networkidle')
@@ -231,64 +248,66 @@ def scrape_source(page, source):
     soup = BeautifulSoup(page.content(), 'html.parser')
     all_links = soup.find_all('a', href=True)
 
-    # Episode-Links sammeln
     base_path = base_url.replace(DOMAIN, "")
-    episode_links = []
     for link in all_links:
         href = link.get('href', '')
         if (href.startswith(base_path)
                 and len(href) > len(base_path)
                 and "page=" not in href):
             if not any(ex.lower() in href.lower() for ex in exclude):
-                episode_links.append(href)
-
-    print(f"  {len(episode_links)} Episode-Links gefunden")
-
-    for link in episode_links:
-        ep_url = DOMAIN + link if link.startswith('/') else link
-        print(f"  Prüfe: {ep_url}")
-
-        page.goto(ep_url)
-        page.wait_for_load_state('networkidle')
-
-        # "Read More" Buttons klicken
-        try:
-            buttons = page.locator('button')
-            for i in range(buttons.count()):
-                text = buttons.nth(i).inner_text().lower()
-                if "read more" in text or "load" in text or "show" in text:
-                    buttons.nth(i).click(timeout=3000)
-                    page.wait_for_timeout(2000)
-        except Exception:
-            pass
-
-        ep_html = page.content()
-        ep_soup = BeautifulSoup(ep_html, 'html.parser')
-
-        for element in ep_soup(["nav", "footer", "header", "script", "style"]):
-            element.decompose()
-
-        raw_text = ep_soup.get_text(separator='\n\n', strip=True)
-
-        # Cleaning
-        clean_text = clean_transcript(raw_text, source)
-        clean_text = add_segment_markers(clean_text)
-
-        if len(clean_text) > min_chars:
-            title = (ep_soup.find('h1').get_text(strip=True)
-                     if ep_soup.find('h1') else "Unbekannter Titel")
-            print(f"  GEFUNDEN! ({len(clean_text)} Zeichen)")
-            return title, ep_url, clean_text
-        else:
-            print(f"  Zu kurz ({len(clean_text)} Zeichen), weiter...")
-
-    print(f"  [{name}] Keine passende Episode gefunden.")
+                return DOMAIN + href if href.startswith('/') else href
     return None
 
 
+def scrape_episode(page, source, ep_url):
+    """
+    Scraped eine einzelne Episode.
+    Gibt (title, cleaned_text) zurück, oder None.
+    """
+    name = source["name"]
+    min_chars = source["min_chars"]
+
+    print(f"  Scrape: {ep_url}")
+
+    page.goto(ep_url)
+    page.wait_for_load_state('networkidle')
+
+    # "Read More" Buttons klicken
+    try:
+        buttons = page.locator('button')
+        for i in range(buttons.count()):
+            text = buttons.nth(i).inner_text().lower()
+            if "read more" in text or "load" in text or "show" in text:
+                buttons.nth(i).click(timeout=3000)
+                page.wait_for_timeout(2000)
+    except Exception:
+        pass
+
+    ep_html = page.content()
+    ep_soup = BeautifulSoup(ep_html, 'html.parser')
+
+    for element in ep_soup(["nav", "footer", "header", "script", "style"]):
+        element.decompose()
+
+    raw_text = ep_soup.get_text(separator='\n\n', strip=True)
+
+    clean_text = clean_transcript(raw_text, source)
+    clean_text = add_segment_markers(clean_text)
+
+    if len(clean_text) > min_chars:
+        title = (ep_soup.find('h1').get_text(strip=True)
+                 if ep_soup.find('h1') else "Unbekannter Titel")
+        print(f"  GEFUNDEN! ({len(clean_text)} Zeichen)")
+        return title, clean_text
+    else:
+        print(f"  Zu kurz ({len(clean_text)} Zeichen), übersprungen.")
+        return None
+
+
 def scrape_all():
-    """Scraped alle konfigurierten Quellen und speichert die Ergebnisse."""
+    """Scraped alle konfigurierten Quellen, überspringt bereits verarbeitete."""
     date_str = datetime.date.today().strftime("%Y-%m-%d")
+    processed = load_processed()
 
     print("Starte Browser...")
     with sync_playwright() as p:
@@ -298,22 +317,47 @@ def scrape_all():
         results = []
 
         for source in SOURCES:
-            result = scrape_source(page, source)
+            name = source["name"]
+            print(f"\n{'='*50}")
+            print(f"Prüfe: {name}")
+            print(f"{'='*50}")
+
+            # 1. Neueste Episode-URL finden
+            latest_url = find_latest_episode_url(page, source)
+            if not latest_url:
+                print(f"  [{name}] Keine Episode gefunden.")
+                continue
+
+            # 2. Duplikat-Check
+            if is_already_processed(processed, name, latest_url):
+                print(f"  [{name}] ⏭️  Bereits verarbeitet: {latest_url}")
+                print(f"  [{name}] Keine neue Episode seit letztem Lauf.")
+                continue
+
+            print(f"  [{name}] 🆕 Neue Episode: {latest_url}")
+
+            # 3. Scrapen
+            result = scrape_episode(page, source, latest_url)
             if result:
-                title, url, text = result
-                header = build_header(title, url, source["name"], date_str, len(text))
+                title, text = result
+                header = build_header(title, latest_url, name, date_str, len(text))
                 results.append({
-                    "name": source["name"],
+                    "name": name,
                     "title": title,
-                    "url": url,
+                    "url": latest_url,
                     "content": header + text,
                 })
+                # Als verarbeitet markieren
+                mark_as_processed(processed, name, latest_url)
 
         browser.close()
 
+    # Processed-Datei aktualisieren (auch wenn keine neuen Ergebnisse)
+    save_processed(processed)
+
     if not results:
-        print("\nFehler: Keine Episoden gefunden.")
-        return
+        print("\nKeine neuen Episoden gefunden. Briefing wird nicht aktualisiert.")
+        return False  # Signal für briefing.py: nichts zu tun
 
     # ---------------------------------------------------------
     # EINZELNE DATEIEN pro Quelle (für Archiv)
@@ -351,6 +395,8 @@ def scrape_all():
     print(f"{'='*50}")
     for r in results:
         print(f"  ✅ {r['name']}: {r['title'][:60]}... ({len(r['content'])//1000}k)")
+
+    return True  # Signal: neue Inhalte vorhanden
 
 
 if __name__ == "__main__":

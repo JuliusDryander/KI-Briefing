@@ -101,6 +101,9 @@ Antworte ausschließlich in reinem Markdown. Kein JSON. Kein Wrapper. Beginne di
 **Einschränkungen/Offene Fragen:**
 - [Was der Sprecher nicht behauptet hat oder wo Unsicherheit besteht]
 
+**🇪🇺 Europa-Relevanz:** (NUR wenn EU-Kontext bereitgestellt wurde UND ein konkreter Bezug besteht)
+[1-3 Sätze: Was bedeutet dieses Thema für europäische Entscheider? Beziehe dich auf konkrete EU-Regulierungen, Marktdynamiken oder Policy-Unterschiede aus dem EU-Kontext-Dokument. Wenn kein Bezug besteht, lasse diesen Absatz komplett weg.]
+
 ## 📌 Weitere bemerkenswerte Segmente
 
 [Kurze Erwähnung von 2-3 Themen, die es nicht in den Deep-Dive geschafft haben – jeweils 1-2 Sätze]
@@ -140,6 +143,20 @@ USER_PROMPT_TEMPLATE = """Erstelle ein Executive Briefing aus dem folgenden Podc
 
 {transcript}"""
 
+USER_PROMPT_WITH_EU_TEMPLATE = """Erstelle ein Executive Briefing aus dem folgenden Podcast-Transkript.
+
+Nutze den EU-Kontext (unten) um pro Deep-Dive-Thema einen kurzen Absatz 
+"🇪🇺 Europa-Relevanz" zu ergänzen – aber NUR wo ein konkreter Bezug besteht.
+
+=== EU-KONTEXT ===
+{eu_context}
+=== ENDE EU-KONTEXT ===
+
+=== PODCAST-TRANSKRIPT ===
+{transcript}"""
+
+EU_CONTEXT_FILE = "eu_context.md"
+
 
 # ============================================================
 # GEMINI API CALL
@@ -158,6 +175,17 @@ def call_gemini(transcript_text):
     )
 
     user_message = USER_PROMPT_TEMPLATE.format(transcript=transcript_text)
+
+    # EU-Kontext laden falls vorhanden
+    if os.path.exists(EU_CONTEXT_FILE):
+        with open(EU_CONTEXT_FILE, "r", encoding="utf-8") as f:
+            eu_context = f.read()
+        user_message = USER_PROMPT_WITH_EU_TEMPLATE.format(
+            eu_context=eu_context, transcript=transcript_text
+        )
+        print(f"EU-Kontext geladen: {len(eu_context)} Zeichen")
+    else:
+        print("Kein EU-Kontext gefunden, fahre ohne fort.")
 
     payload = {
         "systemInstruction": {

@@ -2,8 +2,8 @@ name: Daily KI-Briefing
 
 on:
   schedule:
-    # Jeden Tag um 10:00 UTC (11:00 Berlin Winterzeit, 12:00 Sommerzeit)
-    - cron: '0 10 * * *'
+    # Jeden Tag um 05:00 UTC 
+    - cron: '0 4 * * *'
   workflow_dispatch:  # Manuelles Auslösen möglich
 
 permissions:

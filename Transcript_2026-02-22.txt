@@ -1,119 +1,10 @@
+=== PODCAST-TRANSKRIPT ===
 Titel: TBPN Live - Palmer Luckey LIVE from NYSE, Supreme Court Smackdown, Data Center Backlash | Ryan Petersen, Jonathan Gould, Diogo Mónica, Joe Lonsdale, John Shahidi, Will Bruey, Sam Levenback, Alex Heath
 Quelle: https://podscripts.co/podcasts/tbpn-live/palmer-luckey-live-from-nyse-supreme-court-smackdown-data-center-backlash-ryan-petersen-jonathan-gould-diogo-monica-joe-lonsdale-john-shahidi-will-bruey-sam-levenback-alex-heath
-
-TBPN Live - Palmer Luckey LIVE from NYSE, Supreme Court Smackdown, Data Center Backlash | Ryan Petersen, Jonathan Gould, Diogo Mónica, Joe Lonsdale, John Shahidi, Will Bruey, Sam Levenback, Alex Heath Transcript and Discussion
-
-Home
-
-Pricing
-
-Podcasts
-
-Categories
-
-About
-
-Contact
-
-Advertise With Us
-
-Submit Podcast
-
-Single Podcast
-
-Multiple/All Podcasts
-
-Search through episodes of a specific podcast.
-
-Select Podcast
-
-Clear Selection
-
-TBPN Live
-
-Loading...
-
-Basic Search
-
-Advanced Search
-
-Episode Title Search
-
-Search Keywords
-
-Exact Match
-
-Date Filter (Optional)
-
-No Date Filter
-
-Before
-
-After
-
-Between
-
-Search
-
-Home
-
-TBPN Live
-
-Palmer Luckey LIVE from NYSE, Supreme Court Smackdown, Data Center Backlash | Ryan Petersen, Jonathan Gould, Diogo Mónica, Joe Lonsdale, John Shahidi, Will Bruey, Sam Levenback, Alex Heath
-
-Technology
-
-Share
-
-TBPN Live - Palmer Luckey LIVE from NYSE, Supreme Court Smackdown, Data Center Backlash | Ryan Petersen, Jonathan Gould, Diogo Mónica, Joe Lonsdale, John Shahidi, Will Bruey, Sam Levenback, Alex Heath
-
-Episode Date: February 20, 2026
-
-Sign up for TBPN’s daily newsletter at TBPN.com(01:07) - Ryan Petersen, founder and CEO of Flexport, a global supply chain management company, discusses the recent U.S. Supreme Court ruling
-
-...
-
-that invalidated former President Trump's broad tariffs, highlighting the uncertainty surrounding potential refunds for businesses that paid these tariffs. He notes that while the Court's decision deemed the tariffs unconstitutional, it did not provide clarity on whether the $175 billion collected would be refunded, leaving companies in limbo. Petersen also mentions that Flexport has developed a tariff refund calculator to assist businesses in determining potential refunds, emphasizing the importance of staying informed as the situation evolves.
-
-(14:36) - Supreme Court Smackdown
-
-(21:54) - 𝕏 Timeline Reactions
-
-(47:36) - WSJ Mansion Section
-
- - 𝕏 Timeline Reactions
-
- - Palmer Luckey is a technology entrepreneur best known as the founder of Oculus VR, the virtual reality company acquired by Facebook in 2014. He later founded Anduril Industries, a defense technology company building autonomous systems, surveillance platforms, and AI-driven military hardware for the U.S. and allied governments.
-
- - Jonathan Gould is a U.S. financial regulatory official and legal expert focused on banking policy and supervision. He has served in senior roles at the Office of the Comptroller of the Currency (OCC) and has worked in private practice advising financial institutions on regulatory matters. He is known for his expertise in bank regulation, fintech policy, and the legal framework governing U.S. financial institutions.
-
- - Diogo Mónica, General Partner, Haun Ventures, discusses his journey from leading security teams at Square and Docker to establishing Anchorage Digital, the first federally chartered crypto-native bank in the U.S. He highlights the challenges of obtaining a federal charter during a crypto-unfriendly administration and emphasizes the necessity for tech companies to build their own banking infrastructure to innovate in financial products. Mónica also notes a resurgence in new bank charters, indicating a shift towards tech-driven financial institutions.
-
- - Joe Lonsdale is an American entrepreneur and venture capitalist, known for co-founding Palantir Technologies, Addepar, and OpenGov, and serving as the managing partner at 8VC. He discusses the challenges facing low-end SaaS companies lacking robust systems of record, regulatory moats, or network effects, emphasizing that such companies are vulnerable to disruption, whereas well-established SaaS firms with strong tech cultures and significant investments in AI are better positioned to adapt and thrive.
-
- - John Shahidi, co-founder of Happy Dad Hard Seltzer, discusses the brand's impressive 31% year-over-year growth in January, even during the typically slow "dry January" period. He attributes this success to strategic in-store marketing efforts, emphasizing the importance of engaging customers at the point of purchase rather than relying solely on creator-driven promotions. Shahidi also highlights the evolving drinking habits of younger consumers, noting a shift towards lighter beverages like seltzers and teas, as health consciousness rises and traditional beer consumption declines.
-
- - Will Bruey, CEO and co-founder of Varda Space Industries, discusses the company's progress in space manufacturing, highlighting the recent landing of their fifth capsule and the upcoming launch of the sixth. He explains their strategy of implementing annual block upgrades to enhance hardware and software, drawing parallels to consumer electronics like smartphones. Bruey also emphasizes the focus on bio-manufacturing in microgravity over the next five to ten years, citing its economic viability and significant impact.
-
- - Sam Levenback, Senior Vice President and Chief Growth &amp; Strategy Officer at X-energy, discusses the company's development of high-temperature gas-cooled pebble bed reactors and their collaboration with Dow Chemical in South Texas and Amazon in Washington state to build new nuclear projects. He highlights the importance of revitalizing the U.S. nuclear supply chain to meet the growing energy demands of AI and digital infrastructure, emphasizing X-energy's commitment to advancing firm power solutions. Levenback also underscores the significance of partnerships with investors like Arabor, who are eager to understand and support the nuclear sector's unique challenges and opportunities.
-
- - Alex Heath, Deputy Editor at The Verge and author of the "Command Line" newsletter, discusses his approach to tech journalism, emphasizing the importance of leveraging AI tools for efficiency while maintaining editorial oversight. He highlights the necessity of balancing relationships with tech executives to ensure fair reporting and shares insights into the evolving landscape of media, including the potential for independent writers to collaborate under unified brands. Heath also reflects on the challenges of holding exclusive stories and the significance of in-person interactions for sourcing information. TBPN.com is made possible by:Ramp - https://Ramp.comAppLovin - https://axon.aiCisco - https://www.cisco.comCognition - https://cognition.aiConsole - https://console.comCrowdStrike - https://crowdstrike.comElevenLabs - https://elevenlabs.ioFigma - https://figma.comFin - https://fin.aiGemini - https://gemini.google.comGraphite - https://graphite.comGusto - https://gusto.com/tbpnKalshi - https://kalshi.comLabelbox - https://labelbox.comLambda - https://lambda.aiLinear - https://linear.appMongoDB - https://mongodb.comNYSE - https://nyse.comOkta - https://www.okta.comPhantom - https://phantom.com/cashPlaid - https://plaid.comPublic - https://public.comRailway - https://railway.comRestream - https://restream.ioSentry - https://sentry.ioShopify - https://shopify.com/tbpnTurbopuffer - https://turbopuffer.comVanta - https://vanta.comVibe - https://vibe.coFollow TBPN: https://TBPN.comhttps://x.com/tbpnhttps://open.spotify.com/show/2L6WMqY3GUPCGBD0dX6p00?si=67...
-
-Read less
-
-Transcript
-
-Discussion
-
-(0)
-
-
-
-You're watching TBPN and that's the linear lineup.
-
-We got Ryan Peterson joining just a second.
-
-It's Friday, February 20th, 2026.
+Datum: 2026-02-22
+Länge: ~198k Zeichen
+Hinweis: Werbeblöcke wurden entfernt. '---' markiert Gast-Wechsel.
+===========================
 
 We are live from TBPN Ultram, the Temple of Technology,
 
@@ -121,11 +12,7 @@ the Fortress of Finance, the Capital of Capital.
 
 Let's pull up the linear lineup.
 
-But first, let me tell you about ramp.com,
-
 time is money, save both, easy-use corporate cards, bill pay,
-
-
 
 accounting in a whole lot more, all in one place.
 
@@ -133,17 +20,15 @@ And on the linear lineup, we have absolutely stacked show.
 
 We got Ryan Peterson joining emergency call in about the tariffs,
 
-Then we're going to have Paul Murlocki joining, breaking it down, what's happening with Aerobor.
+Then we're going to have Palmer Luckey joining, breaking it down, what's happening with Arabor.
 
 The bank received the charter.
 
 He's an officially a charter holder.
 
-And we have a bunch of other folks who are involved with him in the Aribor project.
+And we have a bunch of other folks who are involved with him in the Arabor project.
 
 We're very excited to talk to.
-
-
 
 Joe Lonsdale's joining Well Brewey, Sam.
 
@@ -159,8 +44,14 @@ Linear, of course, is the system for modern software development.
 
 non-linear or using agents, and you should be too.
 
+
+---
+
+
 So the tariff news, let's bring in Ryan Peterson from the Restream Waiting Room.
 
+
+---
 
 
 Ryan, how are you doing?
@@ -179,8 +70,6 @@ Look at that smile.
 
 You haven't smiled like that on the show.
 
-
-
 We've had some dark times.
 
 We made it throw out.
@@ -196,8 +85,6 @@ I love you guys so much that I actually dropped from watching the president's ne
 This is.
 
 This is the real news.
-
-
 
 There were some all-time quotes.
 
@@ -215,8 +102,6 @@ I think he was talking about somebody was saying that to him.
 
 Well, take it through.
 
-
-
 What have you seen?
 
 What's actually the news?
@@ -232,8 +117,6 @@ So the Supreme Court ruled that the tariffs, the AEPA tariffs, that's not all th
 There are Section 301 tariffs.
 
 There's a bunch of other types of tariffs.
-
-
 
 But AEPA is the reciprocal tariffs.
 
@@ -251,8 +134,6 @@ Okay.
 
 However, the Supreme Court did not give any clarity.
 
-
-
 and Trump is right to point this out,
 
 it's really dumb about do we get refunds or not.
@@ -268,8 +149,6 @@ Yeah.
 What, how, like, is there a meaningful percentage of those potential refunds
 
 that people purchase the right to?
-
-
 
 Like, is it, because I know, I know, you know, over the last.
 
@@ -287,8 +166,6 @@ but I probably,
 
 I have to guess there was probably 50 or 100 million dollars with those would be my swag.
 
-
-
 I don't have to date on it.
 
 Yeah,
@@ -304,8 +181,6 @@ Put $100 million into that.
 You feel like a pretty good.
 
 Yeah, you do really well.
-
-
 
 But yeah,
 
@@ -323,8 +198,6 @@ But we were far too small to actually get, at least that I received any inbound 
 
 You could only, the people that were transacting now, it was mostly the Oppenheimer, the investment bank.
 
-
-
 Okay.
 
 They were minimum $10 million transaction or they weren't interested.
@@ -340,8 +213,6 @@ Terps.
 flexboard.com.
 
 Head over there.
-
-
 
 And slash refunds
 
@@ -359,8 +230,6 @@ Well, for now, it is just...
 
 It's free money that you already have paid.
 
-
-
 We've already paid this money,
 
 and it's a...
@@ -377,8 +246,6 @@ We will run all the numbers calculated for you
 
 instantly and show you how much you are owed.
 
-
-
 And it's a giant if right now if the administration agrees to do refunds.
 
 He was very clear in the press conference just now that because the Supreme Court did not have a firm opinion about refunds, that there will be no refunds for the next five years as it goes into litigation.
@@ -389,13 +256,11 @@ It's what he said.
 
 It was very interesting because that's counter to what CBP has said in the past or earlier this, well, end of last year, CPP said they would comply.
 
-with whatever finding is, whatever the court says, if the court rules that the terrorists were illegal, that they would issue a refund.
+with whatever finding is, whatever the court says, if the court rules that the tariffs were illegal, that they would issue a refund.
 
 So, and that's in court filing.
 
 So it's going to, if it gets litigated, yeah, we'll see how this plays out.
-
-
 
 But we, in the meantime, we've got the best calculator in the world.
 
@@ -413,8 +278,6 @@ You've got stock market great if the people who own stocks did really well.
 
 The Mag 7, I guess, drove most of that.
 
-
-
 So I think small business really suffered last year.
 
 The e-com businesses, like something like 40% of Shopify merchants were doing fulfillment
@@ -430,8 +293,6 @@ It's a lot of our customers going through that.
 I was on your show last year.
 
 I talked about the fraud that we're seeing companies
-
-
 
 are against the wall and are just starting to let their factories import.
 
@@ -449,8 +310,6 @@ I had this thesis that like even if the tariffs didn't hold,
 
 just the fact that there was this like, oh, wow moment for at least one quarter meant that there was a whole cycle of board meetings where anyone who was on the fence about, oh, maybe we should finally pull the trigger on that American factory.
 
-
-
 Like they might have done it then.
 
 And then that decision stuck sticks even if the tariffs get rolled back because in that moment they made the decision sort of like how during COVID people like decided to start working from home.
@@ -467,11 +326,9 @@ I think manufacturing is growing in the United States pretty quickly.
 
 I'm sure tariffs are helping with that.
 
-
-
 But they're so unevenly applied.
 
-I mean, one of the silly things about the way terrorists are done,
+I mean, one of the silly things about the way tariffs are done,
 
 and they put new tariffs in today that I think are a better tariff policy.
 
@@ -484,8 +341,6 @@ it's better to have a blanket tariff on everybody than just target one country.
 And the reason for that is tariffs are equivalent mathematically to an exchange rate, like a fixed exchange rate,
 
 with another country.
-
-
 
 And you would never have a bilateral exchange rate.
 
@@ -503,8 +358,6 @@ Let's say the Americans, we're putting this tariff in.
 
 So we instead of buying from China, we buy from Peru.
 
-
-
 Now the Peruvians have more money.
 
 What do they do?
@@ -520,8 +373,6 @@ So I think from the policy, same point, it's better to be.
 What's the legal justification for this new round of tariffs that just got announced?
 
 This was a type of tariff that the Supreme Court didn't rule against today.
-
-
 
 So he's like, we'll just ramp that up.
 
@@ -539,8 +390,6 @@ I would expect him to get mad at somebody
 
 and raise it to 15 at some point.
 
-
-
 That was one of my predictions in the near future.
 
 I can follow cushion to go upwards later.
@@ -556,8 +405,6 @@ but 149 to 150 days from now,
 I think that Section 122 will experience a pause.
 
 of around 15 minutes, and then you'll have another 150 days where it goes right back in.
-
-
 
 And there's nothing that says you can't do that.
 
@@ -575,8 +422,6 @@ But it's because of balance and trade that that act was put in by Congress.
 
 Very interesting.
 
-
-
 What do business owners, executive teams do?
 
 Any kind of like new approach going forward with today's news,
@@ -592,8 +437,6 @@ all we have right now is a news conference.
 So first off, we need to see an executive order,
 
 which is expected to come out on Monday.
-
-
 
 And you'll have a little bit more clarity there.
 
@@ -611,8 +454,6 @@ I'm hoping not.
 
 A file a protest against tariffs that, you know, the government said this is illegal,
 
-
-
 so how can they take my money, owe it back?
 
 Like, there's going to be various ways to fight that.
@@ -628,8 +469,6 @@ Costco filed one.
 A lot of people have been filing them preemptively in this.
 
 So it's already kind of working, going to work its way through the courts.
-
-
 
 But, you know, the CBP was very,
 
@@ -647,8 +486,6 @@ we were if the tariffs are ruled illegal we will issue refunds uh or at least th
 
 what was the legal term it's sort of like these it are they are refundable or something which is
 
-
-
 interesting because you're like well you know i break my arm it is fixable doesn't mean i'm going to
 
 fix it i could just leave it broken uh i don't know i'm not lawyers i'm just trying this is all
@@ -664,8 +501,6 @@ I imagine it's pretty powerful.
 Didn't Apple get a full carve-out?
 
 That's what I think.
-
-
 
 So, like, who is actually like the biggest voice?
 
@@ -683,8 +518,6 @@ Pull it up, Tyler.
 
 Yeah.
 
-
-
 He put it together in a day.
 
 I don't know if you can see it.
@@ -700,8 +533,6 @@ Oh, you got great interns over there.
 Fantastic.
 
 Yeah, we're going to reshore the entire semiconductor supply chain soon.
-
-
 
 Anyway, anything else, Judy?
 
@@ -719,8 +550,6 @@ so we can get some real clarity soon.
 
 I'm sure we won't.
 
-
-
 I should end with a reminder for.
 
 If you do get a unplanned surprise, gigantic refund check,
@@ -736,8 +565,6 @@ pay your employees less bonus.
 But if you go buy a bunch of inventory,
 
 of course that would be good for me.
-
-
 
 That's why you can trust this twice
 
@@ -755,8 +582,6 @@ with the ferry building behind you.
 
 And the port of both on back there.
 
-
-
 You can see it in the deep distance.
 
 Oh, yeah.
@@ -771,10 +596,6 @@ Talk soon, Ryan.
 
 Cheers.
 
-Let me tell you about ACTA.
-
-
-
 Octa helps you assign every AI agent
 
 a trust identity so you get the power of AI
@@ -783,15 +604,11 @@ without the risk.
 
 Secure every agent, secure any agent.
 
-And I'm also going to tell you about fin.a.i,
-
 the number one AI agent for customer service.
 
 If you want AI to handle your customer support,
 
 go to fin.
-
-
 
 A.I. So, this story is obviously still developing, you know, Justice Brett Kavanaugh wrote in his
 
@@ -809,8 +626,6 @@ that will have to pull up in Section B because who's on the wall.
 
 Who's on the wall?
 
-
-
 That's the thing.
 
 We should have asked him.
@@ -826,8 +641,6 @@ this is a decade ago is that Chris Saka it looks sort of like him that does look
 am I crazy I don't I don't know but people are people are guessing in the background yeah someone
 
 else said is Saka is that you and then someone said no it's Larry Allison and yeah that's not
-
-
 
 what they're asking. Anyway.
 
@@ -845,8 +658,6 @@ to build a park. Yes. This got
 
 crazy, right? Yeah. Crazy ratio.
 
-
-
 Gary Tan responds and says,
 
 a fully built one gigawatt data center complex
@@ -862,8 +673,6 @@ Also, it creates roughly 430 direct jobs at the facility itself,
 plus many more indirect and construction phase jobs.
 
 So nearly $100 million a year in local taxes based on this analysis by the Consumer Energy Alliance.
-
-
 
 So maybe these data centers need to be leading with that more.
 
@@ -881,8 +690,6 @@ we've talked about this at length,
 
 but it's understandable that citizens will be like,
 
-
-
 I don't need the data center in my backyard
 
 to use chat GPT, so why would I want it?
@@ -898,8 +705,6 @@ There is another solution here.
 You could build a jungle gym that has GPUs
 
 embedded in the slides and in the swings.
-
-
 
 And so you get a little bit of...
 
@@ -917,8 +722,6 @@ to work. If they're swinging,
 
 I want to capture that electricity
 
-
-
 and turn it in to
 
 tokens. And Reggie
@@ -934,8 +737,6 @@ permanent underclass hasn't been winning the hearts and minds
 of the public. Shocking.
 
 Yeah. Very good point.
-
-
 
 Let's pull up this video because
 
@@ -953,8 +754,6 @@ Yeah, it is the little Yachtie walkout.
 
 They got a soundboard?
 
-
-
 It does seem like to do.
 
 Keep chanting.
@@ -970,8 +769,6 @@ band?
 Yeah, it's interesting because the the pushback against data centers, like it really is this
 
 meme of creating a permanent underclass, like that type of thing, because I would be so much
-
-
 
 more like expecting of this pushback if it was like, oh, well, we know that like living next
 
@@ -989,8 +786,6 @@ produces abstractly. And so I don't want the concrete. I don't like what it stan
 
 Yeah, exactly. I don't like what it stands for, which is, which is just, it's a little bit different
 
-
-
 than, then I think a lot of people do.
 
 The data centers filling up northern Virginia is super annoying and ugly. They're like 600 now.
@@ -1006,8 +801,6 @@ Wait, really?
 Have you seen that?
 
 No, I haven't seen that.
-
-
 
 I thought you were going to mention the, have you seen the stealthy cell phone towers?
 
@@ -1025,15 +818,9 @@ Of course you can tell.
 
 From very far away.
 
-
-
 They do sort of like fade into the background and you don't notice them as much as like a full-on crazy cell tower in your face.
 
-While Tyler pulls up an image of that ski data center, let me tell you about Phantom Cash,
-
 fund your wallet without exchanges or middlemen, and spend with the Phantom Cloud.
-
-And let me also tell you about Lambda.
 
 We have a great Lambda lightning round coming up.
 
@@ -1042,8 +829,6 @@ Lambda is the Super Intelligence Cloud building the AI Superpretergear for train
 Lots of pushback.
 
 Let's see.
-
-
 
 AI folks have about four months to pull a cure for cancer out of the latent space before we drift.
 
@@ -1061,8 +846,6 @@ Yeah, it's really popular.
 
 I mean, we talked to Sagar and Jetty about this.
 
-
-
 It's bipartisan.
 
 It's very, very broad support against data center buildout.
@@ -1078,8 +861,6 @@ Now we know for sure.
 And it just sped it up a little bit.
 
 You could have done it on paper, but doing it in Excel, probably.
-
-
 
 move things forward, just a notch. You got the cancer cure like a couple months earlier,
 
@@ -1097,8 +878,6 @@ No one wants to look at debt covenants. And so rocket engineers get all the cred
 
 some of the credit does, in fact, belong to the financiers that make, you know, large-scale
 
-
-
 industrial projects possible. People, you know, love the bridge, but they don't think about
 
 the financiers that make it possible. But as silly as that sounds like, it really is an important
@@ -1115,11 +894,9 @@ Like, I think even if we do see a boom in, in cancer, drugs, and we hear testimo
 
 from scientists that, oh, yeah, like, AI definitely, like, sped me up.
 
-
-
 Like, the ticker tape parade is going to happen for the scientists.
 
-Like, we know Jennifer Duden is name for discovering MRNA and CRISPR.
+Like, we know Jennifer Doudna is name for discovering MRNA and CRISPR.
 
 Like, we don't know the software stack that she used when she was analyzing gene.
 
@@ -1132,8 +909,6 @@ It's not a real hero, but it's an important hero in the story that we just don't
 Let's pull up this video from Architectural Digest of this beautiful, sustainable power plant with a ski slope on its roof.
 
 So you can actually ski on this?
-
-
 
 Wait, you ski on the grass?
 
@@ -1151,8 +926,6 @@ The building industry accounts for one third of all CO2 emissions, and we need t
 
 This thing looks so cool.
 
-
-
 This is cool.
 
 Tray in the chat would be totally cool with more data centers in Virginia.
@@ -1168,8 +941,6 @@ Get the FPV drones out there.
 Red Bull sponsored data centers.
 
 The next X games on data centers.
-
-
 
 Yeah.
 
@@ -1187,8 +958,6 @@ My name is Jakob Lange.
 
 I'm a partner and architect at the architecture firm
 
-
-
 Big or Bjarkie Ingalls Group.
 
 We're standing here at Copenhil,
@@ -1204,8 +973,6 @@ Well, he's calling the building a mountain.
 That's insane.
 
 A little more than 10 years ago now.
-
-
 
 We started a competition to design the facade of this building.
 
@@ -1223,8 +990,6 @@ I love Thrasher.
 
 I haven't been a subscriber in probably 10 years, but...
 
-
-
 Yeah.
 
 Yeah, how did we not know about this?
@@ -1240,8 +1005,6 @@ Buried in the...
 You did.
 
 You did.
-
-
 
 Buried in the European stagnation thesis is the most white pill of all white pills.
 
@@ -1259,8 +1022,6 @@ I feel...
 
 Why is no one talking about what's it called?
 
-
-
 Yes, yes.
 
 But I'm saying people are talking about this.
@@ -1276,8 +1037,6 @@ Put plants on the roof of the data center.
 For sure. That's a very easy one.
 
 It takes a building that looks dystopian and cold industrial.
-
-
 
 Yeah, also just build them underground, right? And then put the park on top.
 
@@ -1295,8 +1054,6 @@ It was beautiful.
 
 Matt over on X says there's an abandoned Brooks Brothers office in my town
 
-
-
 would make a lovely data center.
 
 So he's taking the other side.
@@ -1313,11 +1070,7 @@ Redid the kind of landscaping.
 
 But then put a data center in it.
 
-
-
 I love it.
-
-Let me tell you about turbopuffer.
 
 Serverless vector and full-tech search built from first principles
 
@@ -1325,13 +1078,9 @@ on object storage fast,
 
 10x cheaper and extremely.
 
-scalable. And let me also tell you about graphite. Code review for the age of AI.
-
 Graphite helps teams on GitHub ship higher quality software faster.
 
 Let's head over to Time Magazine.
-
-
 
 To Leo, who's sharing, he came in pretty hot on the reaction. He said, Team Cope made the cover
 
@@ -1349,8 +1098,6 @@ Did you read it yet, Tyler?
 
 Why are you laughing?
 
-
-
 In protest, you won't.
 
 Team Cope is funny.
@@ -1366,8 +1113,6 @@ Grunts from the silent majority dragging rocks and rolling is a drag.
 People are having a lot of fun about this.
 
 horses versus the car.
-
-
 
 The horses versus the car.
 
@@ -1385,8 +1130,6 @@ Look at what happened in nuclear people.
 
 Like, you keep comparing AI to splitting the atom.
 
-
-
 I was just watching some video.
 
 And the guy was saying, like, it's like, it's the AI is the most.
@@ -1402,8 +1145,6 @@ people building and then putting them in silos. And then a couple nuclear power 
 eventually got regulated out of existence. We never got a nuclear future of energy. And so it is
 
 possible that like society can just freak out and be like, actually we're doing non-proliferation.
-
-
 
 Like that's a possible outcome here.
 
@@ -1421,11 +1162,7 @@ And Trey really coming in with the most obvious solution, blimp data centers, ju
 
 I love it.
 
-
-
 Float them over there.
-
-Well, let me tell you about Railway.
 
 Railway is the all-in-one intelligent cloud provider.
 
@@ -1438,8 +1175,6 @@ Rob over on X has found some information on the Twitter deal trial.
 Is this the trial around the compensation for the Twitter employees that were...
 
 No, this is different. This is different. So I believe this is the case around the Twitter employees
-
-
 
 that did not actually get their severance?
 
@@ -1457,8 +1192,6 @@ Well, maybe they had stock options that were canceled.
 
 Maybe they are employees, but they're counted as investors in this case
 
-
-
 because it's a SEC violation instead of an employment contract.
 
 I actually don't know.
@@ -1474,8 +1207,6 @@ There are so many people who hate him so much.
 Yeah. So the trial, according to Bloomberg loss, the trial involves claims from Twitter investors who say Musk violated securities law by publicly waffling over his decision to purchase the company and driving down its stock price. Yeah. And there's probably a lot of people who are, they don't like Elon because of the- Because of the benchmarking. Does that mean, does that mean, though? So he said, okay, I'm going to buy this company. Yeah. And then he was trying to back out. Yeah. Because he was like, the price is insane. Yeah. And then the stock declined and people sold. Yep.
 
 And then it ended up getting bought up here.
-
-
 
 And now they're like, well, you kind of misled.
 
@@ -1493,8 +1224,6 @@ Basically, I mean, every time you make a public statement,
 
 unless it's disclosed through the traditional SEC workflow,
 
-
-
 one person or five people can sell,
 
 and then they can hold you to account on that,
@@ -1511,8 +1240,6 @@ But the court will decide.
 
 And apparently they're going to get a bunch of people on the juror
 
-
-
 who have never heard of Elon Musk.
 
 There are people out there.
@@ -1523,13 +1250,9 @@ Cooper, our strongest soldier in the chat,
 
 coming in, driving up those numbers.
 
-Let me tell you about Figma.
-
 Ship the best version, not the first one.
 
 one with Figma. You heard from Dillingfield.
-
-
 
 Yesterday, he introduced Claude Coe
 
@@ -1547,8 +1270,6 @@ hit the timeline after their loss to
 
 the United States saying silver
 
-
-
 shines just as bright.
 
 That is very Canadian.
@@ -1564,8 +1285,6 @@ He's sitting over there shaking his head.
 He's hard to see from this angle.
 
 But we're all friends on this continent.
-
-
 
 We like a good competition.
 
@@ -1583,8 +1302,6 @@ It also tarnishes much easier and becomes dull.
 
 Gold is greater than silver.
 
-
-
 People are biting it out over whether or not gold or silver.
 
 They're coping it out.
@@ -1600,8 +1317,6 @@ Blake Robbins is reacting to the news that Meta's VR Metaverse is ditching VR. T
 the Verge. We'll have to talk to Alex Heath, former Verge reporter later today. This feels pretty
 
 clear. The Metaverse was actually just Roblox this whole time. Not Fortnite, not VR. This is
-
-
 
 extremely hard for me as a VR bull. I threw on the headset yesterday, watched about 10
 
@@ -1619,8 +1334,6 @@ VR is not dead. It's about to reanimate and come back from the grave. I,
 
 predict in the next, in the next, in the next 400 years, I guarantee you, VR will be like a, like, kind of
 
-
-
 popular, like, sort of popular. It'll get to at least 20, at least 20 DAUs. Yeah. In the next 400 years,
 
 I'll, I would take that bad. Matthew Ball dropped his state of video games in 2026. Boom.
@@ -1636,8 +1349,6 @@ presentation, and we'll have to have Matthew Ball on the show to really break it
 But this is the report that I was sort of inspired by yesterday when I was talking about this interesting fact that Matt
 
 Ball shared on his strategy interview that when you look at video games, the video game market
-
-
 
 is not doing particularly well. You have to always segment out non-China. And then there's also
 
@@ -1655,8 +1366,6 @@ fought for attention. And it used to be the greatest bargain in history. And Str
 
 the CEO of Take 2, maker of GTA and 2K games, got in a lot of trouble at one point because he said,
 
-
-
 like, we should be charging per minute. And people were like, this is a nightmare. He's going to charge
 
 per minute. He was like, no, no, no, I just mean in terms of the value that we're delivering,
@@ -1672,8 +1381,6 @@ comp that to go into the movies. You know, you pay 20 bucks and you're there for
 that's $10 an hour for entertainment.
 
 whereas with a video game,
-
-
 
 50 bucks for 50 hours,
 
@@ -1691,8 +1398,6 @@ incredible entertainment
 
 that's basically free
 
-
-
 because it's ad-supported.
 
 And the experience of scrolling
@@ -1708,8 +1413,6 @@ It used to be like, yeah, I'll go on Facebook
 and check some posts about see
 
 who posted,
-
-
 
 like what they did this weekend, check in with that.
 
@@ -1727,8 +1430,6 @@ So global video game content sales had a strong 2025 growing 5% year-over-year
 
 and hitting a new all-time high of about $195 billion,
 
-
-
 10 billion more than the prior high in 2021.
 
 The industry high was achieved through new highs in each of
@@ -1745,13 +1446,9 @@ game makers fell another 55% in 2025. That is big.
 
 decrease. There's so much going on in the video game industry, and it's often overlooked,
 
-
-
 because it's just like sort of off in its own little world. And the players are like sub-scale relative
 
 to the Mag 7, so they don't get as much attention, but it's a fascinating industry.
-
-Quickly, let me tell you about Vanta, automate compliance and security. Vanta is the leading AI
 
 trust management platform. Do you want to talk about chill remote jobs, or do you want to stay on
 
@@ -1762,8 +1459,6 @@ Do you want a chill remote job?
 No, I said that, but I lied.
 
 I don't want a chill remote job.
-
-
 
 I actually love a high-pressure job.
 
@@ -1781,8 +1476,6 @@ When I'm in office, I'm a lethal corporate machine.
 
 I'm on a God-tier flow state right now.
 
-
-
 This is my favorite game.
 
 This is so good.
@@ -1798,8 +1491,6 @@ There's nothing like an ad hoc ask, right, Tyler?
 Yeah, you like Tyler.
 
 Tyler lives for an ad hoc ask.
-
-
 
 He's like, yes and.
 
@@ -1817,8 +1508,6 @@ Well, I'm wearing green and the market's green.
 
 That works, right?
 
-
-
 Green's a good color.
 
 Casual Friday, Cope.
@@ -1834,8 +1523,6 @@ What hurdle was that?
 The media group whose bid is bankrupt, a bankrolled by Oracle billionaire, Donald Trump,
 
 Governor Larry Ellis.
-
-
 
 Brodian slip.
 
@@ -1853,8 +1540,6 @@ has always been Netflix, but I thought that was going to get through, but we'll 
 
 So Paramount's deal could still be blocked, but by allowing the 10-day statutory waiting period to
 
-
-
 elapse under HsR or Hart Scott Rodino
 
 acts second request process. The DOJ is clearing the path for Paramount's
@@ -1870,8 +1555,6 @@ step was to spend a lot of time in Washington. Yeah.
 Yeah. And try that angle. It seems to be going well.
 
 Let's see if this spiked the Kalshi chart.
-
-
 
 It's up a little bit.
 
@@ -1889,8 +1572,6 @@ Oh, Netflix is back up.
 
 Netflix is up to 47%.
 
-
-
 Interesting.
 
 The lines have just been crue.
@@ -1899,15 +1580,11 @@ crossing constantly. They crossed a couple days ago. It's a deadly dance, a tang
 
 it's been a lot of fun to follow it. I've been enjoying that. Let's pull up this video.
 
-While we pull this up, let me tell you about Century. Century shows developers what's broken
-
 and helps them fix it fast. That's why 150,000 organizations use it to keep their apps working.
 
 Matthew McCona, we talked a little bit about this, but it's, it hits way harder when he says
 
 it himself. So let's play the clip. It's coming. It's already here. It's already here.
-
-
 
 Don't deny it. It's not enough. It may be for you, but it's not going to be enough to sit on the sidelines and make the moral plea. The moral plea that, no, this is wrong. It's not going to last. There's too much money to be made and it's too productive. It's here. All right? So I say, get your own your own yourself, voice, likeness, et cetera. Trade market, whatever you got to do.
 
@@ -1925,8 +1602,6 @@ Okay?
 
 It's coming.
 
-
-
 Is it going to be another category or is it going to infiltrate our category?
 
 It's damn sure going to infiltrate our category.
@@ -1942,8 +1617,6 @@ The best AI actor.
 Maybe.
 
 I think it might be, that might be the thing,
-
-
 
 is that becomes another category.
 
@@ -1961,8 +1634,6 @@ I don't watch them.
 
 It's more hatred than ever.
 
-
-
 In a very exciting way, I think.
 
 But also, a scary way.
@@ -1978,8 +1649,6 @@ Yeah, so I can see there being an incremental category.
 Yeah.
 
 That said, I still think AI will be used in every category.
-
-
 
 That's what he says.
 
@@ -1997,8 +1666,6 @@ It just wasn't hand-drawn.
 
 And so the categories blur together.
 
-
-
 Clearly, AI is coming for all sorts of different levels of the stack.
 
 And he's just saying that you shouldn't just sit by and hope that it doesn't happen.
@@ -2014,8 +1681,6 @@ Raise capital at the New York Stock Exchange.
 There was a fun clip on Instagram.
 
 And many of our guests will be at.
-
-
 
 At the New York Stock Exchange today.
 
@@ -2033,8 +1698,6 @@ you're not allowed to touch it shirley my family is one point five times I know 
 
 what the bell does don't try money mug at the New York Stock Exchange that's not
 
-
-
 gonna work European kid yeah do they realize who I am I'm sure they know we are we
 
 My family owned this bell.
@@ -2050,8 +1713,6 @@ So they're brothers, the European kid, and my tech CEO.
 We ran into one of them in SF.
 
 I think we ran into my character.
-
-
 
 Wait, there's two?
 
@@ -2069,8 +1730,6 @@ Wait, I don't know.
 
 We'll have to get to the bottom of this.
 
-
-
 It might be one person two accounts.
 
 I thought they, I have no idea.
@@ -2086,8 +1745,6 @@ I'm getting prestige, potentially.
 There might be a secret twin,
 
 and he is acting, he's living life as a single person
-
-
 
 with two accounts when, in fact, it is two people.
 
@@ -2105,8 +1762,6 @@ This post from David Herman.
 
 I love David.
 
-
-
 The Herminator.
 
 The Hermit.
@@ -2122,8 +1777,6 @@ He was pulled into a drain pipe after being caught in a flood.
 A nearby officer rushed over to help, but he was quickly dragged in, too.
 
 The rushing water forced them both through the 100-foot-long pipe.
-
-
 
 They finally came out on the other side at Papa Giuseppe's kitchen.
 
@@ -2141,15 +1794,11 @@ Yeah.
 
 I've seen a lot of this style of ad where it's some crazy, you know, TikTok explainer,
 
-
-
 and then it just cuts to like, and you land at this at your company.
 
 But he was quickly dragged.
 
 It is hilarious.
-
-Let me tell you about cognition.
 
 They're the makers of Devin, the AI software engineer.
 
@@ -2158,8 +1807,6 @@ Crush your backlog with your personal AI engineering team.
 Ben, can you hear this?
 
 We got to talk about...
-
-
 
 Other Ben.
 
@@ -2177,8 +1824,6 @@ There is a $36.5 million waterfront compound for sale in the Florida Keys, and t
 
 Finally a white pill.
 
-
-
 Take a look at this picture.
 
 So it has $1,700.
@@ -2194,8 +1839,6 @@ Yes, yes. Yes. So they were besties. They built this massive company together, w
 general, multi, you know, basically two-decade run.
 
 Yeah.
-
-
 
 Incredible run.
 
@@ -2213,8 +1856,6 @@ Yeah.
 
 And I think it destroys a friendship.
 
-
-
 Hopefully it's recovered by now.
 
 But we could do it.
@@ -2230,8 +1871,6 @@ penetrating while you're trying to sleep?
 I don't think that would bother you?
 
 I think that would be, that would be the straw that broke the camel.
-
-
 
 I'd be like, John, you have to
 
@@ -2249,8 +1888,6 @@ or hear them through the walls.
 
 You'd be in the backyard with your VR headset on,
 
-
-
 but playing the audio fully,
 
 and so you can still hear it.
@@ -2266,8 +1903,6 @@ That would be the end of TBPN.
 That would be the end.
 
 So we won't be doing this.
-
-
 
 But what a funny, what a funny situation.
 
@@ -2285,8 +1920,6 @@ It's such a weird property.
 
 So Eddie Garcia bought the Isla Ila Marada property for about 15 years ago.
 
-
-
 Waterman specializes in developing master plan communities throughout Florida.
 
 Garcia said he originally intended to create a small development on the land, but he wound up falling in love with the site and instead turned it into a family compound. My kids grew up there fishing, lobstering, crabbing, you name it. He was on open claw before it even existed. He lives full time in Miami with his children in college. He said the property's too big for just him and his wife, but you got his and her mansions. What's wrong with that? When Garcia bought the property, it was mostly empty except for a 16.
@@ -2302,8 +1935,6 @@ interesting property. Also, for you Boston sickos out there, there's a $22 milli
 dollar Beacon Hill home. It's become one of Boston's priciest townhouses. It's a six bedroom
 
 residence and was converted from multiple rental units into a single family home. The development
-
-
 
 company Crest City Capital purchased the building for $8.9 million in 2023. Then they converted
 
@@ -2321,8 +1952,6 @@ You see NIC-192.
 
 That's a good one. That's an OG.
 
-
-
 It's located in one of Boston's most upscale neighborhoods. Have you spent any time in Boston?
 
 Have you ever been?
@@ -2338,8 +1967,6 @@ I just think
 I
 
 think about the list of
-
-
 
 I don't like traveling
 
@@ -2357,8 +1984,6 @@ but there's easily
 
 400 destinations that I would go to
 
-
-
 before Boston
 
 it's not in the top 400
@@ -2374,8 +1999,6 @@ I like to travel.
 I like to go somewhere.
 
 I've done the traveling where you do
-
-
 
 you stop by.
 
@@ -2393,8 +2016,6 @@ You should do it sometime.
 
 Broaden your horizons.
 
-
-
 Road trip.
 
 If we were doing a road trip.
@@ -2403,15 +2024,11 @@ Yeah, we definitely stopped there.
 
 College tour maybe.
 
-Let me tell you about Bustow,
-
 the unified platform for payroll benefits and HR
 
 built to evolve with small.
 
 and medium-sized businesses.
-
-
 
 Tyler, we originally met because Tyler was commenting saying that we should do a college tour
 
@@ -2429,8 +2046,6 @@ Filling 110,000 fans in one stadium would be truly...
 
 We got some work to do.
 
-
-
 We need quite the guest lineup.
 
 We need to stack it.
@@ -2446,8 +2061,6 @@ The tiny lake Tahoe enclave with some of America's priciest waterfront homes.
 In Tahoe is absolutely wild this week.
 
 Did you see that video of Bears?
-
-
 
 Bears?
 
@@ -2465,8 +2078,6 @@ I saw Growing Daniel posting about how they're actually really friendly
 
 and you can just go up to them and pet them.
 
-
-
 Is that right?
 
 Yeah, I think so.
@@ -2482,8 +2093,6 @@ makes it one of the most expensive places to buy property in the United States.
 It's straddling the California-N Nevada border.
 
 Lake Tahoe,
-
-
 
 72-mile shoreline is home to some of the country's most coveted real estate.
 
@@ -2501,8 +2110,6 @@ I don't know.
 
 That's probably pretty hard to zone or actually get done,
 
-
-
 but it has to exist somewhere in America.
 
 I know that there's a spot in America that you can stand on and be in four states simultaneously,
@@ -2518,8 +2125,6 @@ where it's like kind of two property.
 Yeah, yeah.
 
 One person's not paying income tax, the other person paying terrible income tax.
-
-
 
 Bruegel.
 
@@ -2537,8 +2142,6 @@ Inclined Village.
 
 For sure.
 
-
-
 Crystal Bay is home to roughly 200.
 
 It's a community on Nevada's north side ranks among the priciest waterfront markets
@@ -2554,8 +2157,6 @@ Cal Neva Resort and Casino.
 Yep.
 
 Eric, in the chat says Cal Neva Resort is exactly that in the same town as it splitting.
-
-
 
 Cal, Nevada.
 
@@ -2573,8 +2174,6 @@ So it's just four miles northeast of Crystal Bay.
 
 It's the bustling incline village
 
-
-
 where there is a hospital, grocery stores,
 
 and the Diamond Peak ski resort
@@ -2590,8 +2189,6 @@ The North Shore attracts homeowners
 seeking a constant outdoor connection.
 
 Winter offers skiing while summer centers on the lake
-
-
 
 for boating, fishing, paddleboarding,
 
@@ -2609,8 +2206,6 @@ without holding a flag?
 
 Jail instantly.
 
-
-
 Yeah.
 
 For years, Crystal Bay's commercial core
@@ -2626,8 +2221,6 @@ which closed in 2022.
 These vacant structures have given the state line
 
 a ghost town feel with the critical.
-
-
 
 Crystal Bay Club Casino as the area's main entertainment and music venue.
 
@@ -2645,8 +2238,6 @@ I'm a big bear guy.
 
 I'm a SoCal guy.
 
-
-
 You're not going to catch me in Tahoe.
 
 You're going to catch me at Lake Arrowhead.
@@ -2662,8 +2253,6 @@ after we tell you about Shopify.
 Shopify is the commerce platform
 
 that grows with your business
-
-
 
 and lets you sell in seconds online,
 
@@ -2681,8 +2270,6 @@ Wall Street, maybe 3,000 miles away,
 
 but they're showing some love
 
-
-
 to homegrown houses.
 
 here in Los Angeles.
@@ -2698,8 +2285,6 @@ who the Hollywood House
 was designed by
 
 Rudolph Schindler.
-
-
 
 For journalist Susan Orlean
 
@@ -2717,8 +2302,6 @@ it's an entire experience.
 
 Fans of modernist architecture.
 
-
-
 Wait, read that again.
 
 I'm messing with you.
@@ -2734,8 +2317,6 @@ Fans of modernist architecture,
 they spent their earliest dates
 
 visiting Frankler
-
-
 
 writes, falling water in Pennsylvania.
 
@@ -2753,8 +2334,6 @@ And so there's a beautiful house.
 
 Up per sale, they did a four and a half year renovation.
 
-
-
 Did you hear the drama about there was a reporter,
 
 was it at Reuters or something?
@@ -2770,8 +2349,6 @@ AI generated sort of slop. And the editor-in-chief backed the journalist and sai
 writes like that. That's what he sounds like. They trained on him. They trained on him. And then
 
 Pangram came in and said, well, we pulled all, we pulled the receipts. And he didn't use to
-
-
 
 write like that before AI. And so you can look at the chart. Maybe he's, he's really bullish on
 
@@ -2789,8 +2366,6 @@ I don't know.
 
 Could be trying to troll.
 
-
-
 Could be,
 
 because I could probably write an essay that triggers Pangram 100% AI if I put my mind
@@ -2806,8 +2381,6 @@ I don't, I actually think that would be a good challenge.
 I don't think you could.
 
 I think it would, I think Pangram.
-
-
 
 Tyler Challenge?
 
@@ -2825,8 +2398,6 @@ You think you could do over 90?
 
 In the next, between now and when the Palmer interview ends, you have to write 500 words.
 
-
-
 Well, yeah, the pangram has a minimum, right?
 
 Yeah, I think it's a few hundred words, right?
@@ -2842,8 +2413,6 @@ You have to kick it off with like, sorry, as an AI model, I can't, I can't answe
 This isn't just a this, it's that anything else you'd like me to expand this prompt with,
 
 and then you'll trigger it. That's the hack, do you think?
-
-
 
 And if you win, you get a $50 gift card to Matu, to pick yourself up, some cheese steak sandwiches.
 
@@ -2861,8 +2430,6 @@ Oh, you caught me.
 
 You caught me.
 
-
-
 He didn't call the Pats.
 
 Look at this car.
@@ -2878,8 +2445,6 @@ We should ask Palmer if he has any steam cars.
 You see the steam actually?
 
 pushing out the bottom. Do you, do you load firewood into it? Like, how do you generate the steam?
-
-
 
 This is incredible. What, it, he's the, he's the final car guy. Like, he got the McLaren F1,
 
@@ -2897,8 +2462,6 @@ not other than George Hots on the Lex Friedman podcast.
 
 I don't doubt that these models are going to first become useful to me,
 
-
-
 then be as good as me, and then surpass me.
 
 Like, I think in two years I'm going to start using these plugins.
@@ -2914,8 +2477,6 @@ And then in 10 years.
 Do you think it will ever get to 100%?
 
 I think it's all generated?
-
-
 
 Our niche becomes, I think it's over for humans in general.
 
@@ -2933,8 +2494,6 @@ It has those slight imperfections that would only be written by a person.
 
 Look, I don't doubt that these...
 
-
-
 It's over.
 
 We're back.
@@ -2945,13 +2504,9 @@ It's over.
 
 We're back.
 
-Let me tell you about vibe.com.
-
 We're D2C brands, B2B startups, and AI companies advertise on streaming TV, pick channels,
 
 target audiences, and measure sales, just like on meta.
-
-
 
 This was quite interesting.
 
@@ -2969,8 +2524,6 @@ And it is charting.
 
 Yeah.
 
-
-
 For something like this, it makes a ton of sense to just programmatically like sort of put everything together because there's so many files.
 
 It's a perfect use case for for AI to sort of like synthesize comb.
@@ -2979,15 +2532,25 @@ And there is there is unlimited demand for Epstein related content.
 
 Totally.
 
+
+---
+
+
 Anyway, we have Palmer lucky in the restream waiting room.
+
+
+---
+
 
 Let's bring him in to the TBPN Ultradown.
 
 Palmer.
 
+
+---
+
+
 How are you doing?
-
-
 
 You are live.
 
@@ -3005,8 +2568,6 @@ So, I mean, Trump is complaining about tariffs.
 
 Iran is on the brink of war.
 
-
-
 And Arab War, the...
 
 the new bank for the tech community building things that actually matter has officially received
@@ -3022,8 +2583,6 @@ Take us back in time.
 When did this project start?
 
 What was the inciting element?
-
-
 
 Why is this important?
 
@@ -3041,8 +2600,6 @@ of business and took everybody's money with them and had to have the government 
 
 out. And I think that was really kind of the thing that got me very serious about it. I realized
 
-
-
 that you didn't have banks that were aligned with the United States, interests that were aligned with
 
 deep tech, hard tech, energy, the things that are really complex and hard to understand,
@@ -3058,8 +2615,6 @@ but when it comes to tech, it's a pretty sparse field.
 And so I started to think, well, how do you build a bank that could serve those things?
 
 How could you do it in a very conservative way, very, very low-risk way,
-
-
 
 where you can ensure you're not going to go out of business.
 
@@ -3077,13 +2632,11 @@ which is something that a lot of businesses need and very few get,
 
 you kind of tack all these things together and it becomes clear that there's room for a company
 
-
-
 to be a real bank for real companies doing real things.
 
 So is there a network effect there?
 
-Because if I'm on Arabour and Jordi's on Aribor
+Because if I'm on Arabour and Jordi's on Arabor
 
 and we can both have 24-7 settlement,
 
@@ -3094,8 +2647,6 @@ and they don't have 24-7 settlement,
 we're going to have a good experience.
 
 And then maybe to get out of the network,
-
-
 
 how does that work?
 
@@ -3113,8 +2664,6 @@ that they need to support
 
 these things. And I think that when like seeing this administration's support for using
 
-
-
 specifically dollar backed stable coins. So not saying we're going to move everybody off of the
 
 dollar. We're going to move them off of, you know, the United States currency as the reserve
@@ -3131,11 +2680,9 @@ probably all banks are going to be forced to adopt this to be competitive.
 
 So what is the ideal banking experience for you besides stability and low risk?
 
-
-
 Is being able to talk to somebody? Is that a bug?
 
-Should we just, is Airborne just going to be, you know, a chat bot that you say talk to a human?
+Should we just, is Arabor just going to be, you know, a chat bot that you say talk to a human?
 
 And it says, unfortunately, I cannot do that.
 
@@ -3148,8 +2695,6 @@ Like you set aside the risk, which is a huge factor.
 set aside the fact that we have our own banking rails which are extremely efficient and
 
 that we can settle at any time.
-
-
 
 I mean, those are huge factors on their own.
 
@@ -3167,8 +2712,6 @@ For example, one of the things that we're doing is rather than working with the 
 
 community only under court order to kind of go and respond to when they think there's crime
 
-
-
 going on on the platform. We're preemptively going out there and saying, no, we're going to work
 
 with them from the very, very beginning to help make fraud almost impossible on our platform,
@@ -3184,8 +2727,6 @@ exists inside of their own platform against their will, they know that they have
 partner that is willing to work with the government rather than hide these, you know, hide these
 
 things. I'd say maybe think of it as like the opposite of HSBC where they were banking the cartels
-
-
 
 and desperately trying to avoid any sort of government intervention that would make that clear
 
@@ -3203,8 +2744,6 @@ Arabores taking a very different approach.
 
 We're saying, you know what, we're an American company.
 
-
-
 We're an American bank that supports American companies, and we will comply with U.S. law,
 
 but we will not comply with spurious rulings from people who have no real jurisdiction or authority over us.
@@ -3220,8 +2759,6 @@ A bank can do everything from mortgages to equipment financing to venture debt t
 That's kind of what, you know, you go to a big bank.
 
 They're going to help you IPO.
-
-
 
 What do you want to do first?
 
@@ -3239,8 +2776,6 @@ is almost this antiquated thing.
 
 Like, you would hope that companies could really
 
-
-
 just do all of this stuff themselves,
 
 or at least most of it themselves.
@@ -3256,8 +2791,6 @@ And so I kind of as think of our business
 as part and parcel of these companies that need us.
 
 And we're gonna work very, very close with them,
-
-
 
 and focus on the things that they care
 
@@ -3275,8 +2808,6 @@ other banks.
 
 Talk about the tradeoffs of going the charter route, you know, the last 10 years.
 
-
-
 Most of the banking products that founders have used were built on top of existing charters
 
 or spreading deposits across multiple.
@@ -3292,8 +2823,6 @@ Look, there's a lot of things that you.
 can do without having your own charter. There's things you can do partner with other companies.
 
 There's a lot of things you cannot do without having your own charter. There's a lot of risks you
-
-
 
 cannot take. It's kind of anti-hyper growth. Like you can't just scale to 50 billion of deposits
 
@@ -3311,8 +2840,6 @@ reasons. Maybe they're doing it for bad reasons. I mean, you've seen this play o
 
 with Steam and their payment processors and their banks and their payment processors banks, and their
 
-
-
 payment processors banks where they're basically censoring games because there's some
 
 circle of people who all claim it's not them pointing down the chain. It's that guy, it's that guy,
@@ -3328,8 +2855,6 @@ they're going to debank you, they're going to depayment you.
 And so one of the things that you have to ask yourself,
 
 when you're making yourself dependent on another bank
-
-
 
 or another payment company, is,
 
@@ -3347,8 +2872,6 @@ the one actually making that decision?
 
 So if you don't control your own charter,
 
-
-
 if you don't control your own destiny,
 
 The buck doesn't stop with you, and you're always going to have to keep other parties happy.
@@ -3364,8 +2887,6 @@ And I think that that actually leads to much better behavior.
 I would love to see that type of behavior across the industry.
 
 Physical branches.
-
-
 
 How are you thinking about that?
 
@@ -3383,15 +2904,13 @@ dollars, you don't actually have a physical bank vault, I imagine. So once you g
 
 does that just give you the ability to, like, maintain a database and a ledger? Like, what is a bank?
 
-
-
 What is a bank? I mean, there's lots of forms that can be. I think if you want all the details,
 
 you can actually read through a lot of our applications.
 
 Sometimes it's actually a matter of public record, and you can see that.
 
-Anderil, sorry, not Aderoy, Aerobor will have a physical vault, and we will have a lot of treasure in it.
+Anderil, sorry, not Aderoy, Arabor will have a physical vault, and we will have a lot of treasure in it.
 
 So we are not trying to be a pure digital, pure, you know, pure ether company.
 
@@ -3400,8 +2919,6 @@ And in fact, a lot of the companies that are very interested in working with us 
 I'm not saying that's going to be the first thing that we focus on.
 
 That's our key differentiator.
-
-
 
 But we are not a bank of the ether.
 
@@ -3419,8 +2936,6 @@ Where did you go further with this project than with the chromatic and just gene
 
 how you're thinking about the M64?
 
-
-
 Well, so for people who aren't familiar with that, the M64 is a tribute to the Nintendo
 
 64 that I'm building.
@@ -3436,8 +2951,6 @@ We're actually doing new releases of canceled N64 games that never even made it 
 either because they were canceled and ported to GameCube or because they ran out of money
 
 or because the studios imploded for interpersonal reasons.
-
-
 
 There's a lot of cool stuff coming out.
 
@@ -3455,8 +2968,6 @@ And then all of a sudden we sold out.
 
 And then you have people who hear about it, they read about it.
 
-
-
 Their friends are all talking about it.
 
 They go to try to buy one, and they can't buy one because it's sold out.
@@ -3472,8 +2983,6 @@ Exactly.
 And so you kind of end up with this dead end call to action.
 
 And so we've decided this time, by the way, this is especially bad for the game publishers that we're working with.
-
-
 
 Let's say that it's someone who's re-releasing a game or somebody who's doing a brand new game.
 
@@ -3491,8 +3000,6 @@ Well, what happens if you can't buy the console?
 
 A lot of people like, oh, I'll come back later and buy it, and then they don't.
 
-
-
 And so what we want to do is not let down our developer partners this time and make sure that we maintain stock.
 
 So the goal is that the M64, no matter how many people hit our website, is not going to sell out.
@@ -3508,8 +3015,6 @@ What's the supply chain actually like right now?
 We've covered the gamer rebellion.
 
 against AI, memory.
-
-
 
 gamers are rising up.
 
@@ -3527,8 +3032,6 @@ But remember that the Nintendo 64
 
 doesn't have exactly a lot of memory.
 
-
-
 You know, it had, what, 16 megabytes by default,
 
 32 megabytes with the expansion pack.
@@ -3544,8 +3047,6 @@ And so this was your plan then all along.
 Yeah, you saw this coming.
 
 You knew the AI boom was coming and you said, I'm going to make the final console.
-
-
 
 Yeah.
 
@@ -3563,8 +3064,6 @@ Let's go back even further.
 
 Yeah, let's figure out how to use AI to build applications that fit within reasonable memory footprints.
 
-
-
 I'm only half kidding.
 
 I think you might have seen me going back and forth with Shamath on Twitter a couple weeks ago,
@@ -3580,8 +3079,6 @@ There is actually a lot of government hardware that is still running those,
 financial hardware that's still running these,
 
 mostly offline stuff.
-
-
 
 And so having apps that can run on those is actually useful.
 
@@ -3599,8 +3096,6 @@ gaming in the concept of
 
 just raising the next generation
 
-
-
 kids. I have three
 
 kids and I think
@@ -3616,8 +3111,6 @@ face and he might
 not know the difference but is there
 
 another angle to the
-
-
 
 M64 that is
 
@@ -3635,8 +3128,6 @@ time ago. They figured out how to make fun games. They figured out how to make t
 
 keep coming back. But it's moved from innovation to extraction. And I will note, I stole that line
 
-
-
 from Narav Patel, founder of Framework, because he put it so much better than I did. But there's
 
 these industries that have moved from innovation to extraction. And they're now in the extraction phase
@@ -3652,8 +3143,6 @@ And so there's a lot of stuff that you can learn,
 especially when you're learning it from the ground up,
 
 by going back to when people were just getting the basics right,
-
-
 
 when they were still innovating,
 
@@ -3671,8 +3160,6 @@ It's starting them with a good foundation.
 
 That foundation happens to be largely old games.
 
-
-
 But I am not going to be throwing
 
 them into the slot machine micro transaction gambleramma that is dominating kids games today.
@@ -3688,8 +3175,6 @@ the world of vibe coding. You went into hardware very early. That feels like a g
 great move, walk us through all that. I mean, the biggest beneficiaries of vibe coding are going to be
 
 the hardware nerds like me. It's going to be, it's going to be the shape rotators, not the
-
-
 
 word cells. Everyone's focused on how the word cells are going to be wiped out by AI, but
 
@@ -3707,8 +3192,6 @@ things a lot faster than trying to do it myself. And people might say, Palmer, y
 
 just learned to code. You know, you should have just learned to do it yourself. But I think it's
 
-
-
 pretty easy to look at my track record and realize I started Oculus when I was 19, after building
 
 prototype since I was 15, I was only able to accomplish what I accomplished because I focused on
@@ -3724,8 +3207,6 @@ two years behind on everything else. And so I am a big fan of vibe coding, even 
 out of it is slop, even if it is all shit. It's better than I was able to make.
 
 How are you thinking about VR these days?
-
-
 
 I recently watched The Matrix from start to finish in an Applevision Pro.
 
@@ -3743,8 +3224,6 @@ But where do you see this, where do you want consumer VR to go?
 
 And then where do you think it actually is going?
 
-
-
 So I will challenge your premise there, which is that people are pulling back.
 
 I think that's driven mostly by people, sensationalizing meta, firing a bunch of people.
@@ -3760,8 +3239,6 @@ talking about is basically pulling six months of churn forward into a single mon
 And they're still spending more on VR than anybody by an order of magnitude.
 
 They've said they are not spending less on content.
-
-
 
 They're just not putting it into first-party stuff like Facebook Meta Horizon.
 
@@ -3779,8 +3256,6 @@ where people need to understand,
 
 this is not the end of VR, it's not collapsing.
 
-
-
 They are still spending an enormous amount of money.
 
 They're bigger than anybody else by an order of magnitude.
@@ -3796,8 +3271,6 @@ Like Apple Vision Pro, yes, they've been.
 So yes, Apple Vision Pro was ahead of everybody
 
 on visual quality, on display quality.
-
-
 
 But let me tell you a short story.
 
@@ -3815,8 +3288,6 @@ They're not working.
 
 And that's because these are engineering samples.
 
-
-
 They're not meant to actually be a working product.
 
 And they said, listen, here's our engineering samples.
@@ -3832,8 +3303,6 @@ no, we're going to build a product with this right now today using our engineeri
 They said, but Tim Apple, that's crazy.
 
 That means that your headset was going to cost like $3,000.
-
-
 
 He said, I don't care.
 
@@ -3851,8 +3320,6 @@ far smaller, far lighter than what you see from Vision Pro. And I actually remai
 
 That's great. I love it. I think things are going pretty well. I'm extremely optimistic. It's mostly just
 
-
-
 that when I try and pull stuff out of meta,
 
 they're like, no, no, no, we're not ready to talk.
@@ -3868,8 +3335,6 @@ Well, you know, the problem is they don't have a charming,
 charismatic pitchman who knows how to talk about this stuff with you.
 
 They've got to solve that.
-
-
 
 They need to figure out what they're doing.
 
@@ -3887,8 +3352,6 @@ Exchange. Sounds pretty cool, right? Like, hey, like, you've been acquired by th
 
 public corporation in the form of Facebook, come and ring the bell, maybe, you know, maybe someday
 
-
-
 you will do something else with you. And unfortunately, I didn't see that email for about
 
 seven years because another Oculus executive intercepted the email, said, oh, no, Palmer can't
@@ -3904,8 +3367,6 @@ That email came up in discovery.
 And anyway, I've not had a chance to ring the bell yet.
 
 Maybe when Andrewl goes public, I'll finally be able to, I'll finally be able to ring that bell.
-
-
 
 But I've got to admit, I have a long memory and a long memory of grudges, and I won't say who it was.
 
@@ -3923,8 +3384,6 @@ Trust. I don't know.
 
 I mean, it's important.
 
-
-
 Remember.
 
 We just kicked this thing off a year ago.
@@ -3940,8 +3399,6 @@ It's fluid and dynamic and always changing with the ebb and flow of history.
 One of my ideas is to have a blockchain company where everyone agrees.
 
 what the founding story is and who the co-founders are,
-
-
 
 and then it goes into the blockchain so that nobody can come back and say that they're a
 
@@ -3959,8 +3416,6 @@ Oh, tell me the story.
 
 So I met it.
 
-
-
 I was at a dinner party at my friend's house,
 
 and my buddy was like, hey, this guy works at, I'm not going to name the company,
@@ -3976,8 +3431,6 @@ Okay. Now it met. And I was like, oh, interesting. Like, never heard of you befo
 And so it might, maybe this guy, we won't put him on blast. Here's a crazy thing. I don't even
 
 know who you're talking about. Yeah, well, and I told him, I was like, oh, like.
-
-
 
 Because there's multiple people who are saying this, including a guy who literally has a documentary
 
@@ -3995,8 +3448,6 @@ It was like, well, yeah, yeah, yeah.
 
 You know, I joined, like, you know, but I was on the founding team.
 
-
-
 Like, he backtracked.
 
 Well, look, you, so, Dick, to the point, you asked me, how do you select these people?
@@ -4012,8 +3463,6 @@ I've been stabbed in the back a lot.
 and I'd probably make very different decisions
 
 if I were doing it today.
-
-
 
 And it's worth noting,
 
@@ -4031,8 +3480,6 @@ even though they didn't join the company
 
 until months later,
 
-
-
 who I had never met when I started the company.
 
 That said, I'm happy.
@@ -4048,8 +3495,6 @@ which is why I really want this blockchain thing.
 Somebody needs to vibe code,
 
 this slop and get it out there.
-
-
 
 Super important question. Have you played Federal Reserve Simulator yet?
 
@@ -4067,8 +3512,6 @@ Federal Reserve Simulator.
 
 Federal Reserve Simulator on Steam.
 
-
-
 It's right there on the screen. It says Trump says we have an incompetent Federal Reserve
 
 Care who loves high interest rates. Very, very interesting.
@@ -4084,8 +3527,6 @@ Not just buying collecting. Yeah, I know. What am I? Well, so I have a, there's 
 could bring up. To be honest, I've been too busy to buy really good stuff, but I recently got
 
 delivered one of the first Jetson, Jetson ones, which is a small E-V-Tol aircraft. I was one of their
-
-
 
 first customers and their first delivery. I also have a collection of.
 
@@ -4103,8 +3544,6 @@ project created by the CEO of Honda, the document that they used when they were 
 
 has actually been leaked now. And at the start of the document, it says, performance is the only
 
-
-
 object. Price is of no importance. And so they wanted to build the ultimate cruising motorcycle.
 
 And the story goes that they lost over $100,000 per bike in the end. And so I've got one of the
@@ -4120,8 +3559,6 @@ So commercial failure doesn't mean a product's bad.
 It just means they couldn't figure out how to make a business out of it.
 
 Back to your Jetson 1.
-
-
 
 Have you been flying it?
 
@@ -4139,8 +3576,6 @@ Perfect.
 
 Perfect.
 
-
-
 Where do you get your shirts?
 
 Where do I got my shirts?
@@ -4156,8 +3591,6 @@ and roll Hawaiian shirt.
 So I've got a Century Tower.
 
 I've got a ghost X on it.
-
-
 
 And they're headquartered
 
@@ -4175,8 +3608,6 @@ I like it.
 
 Supporting the entire market map.
 
-
-
 Well, it sounds like we have Jonathan Gould, the comptroller of the currency, next to you in the booth.
 
 Is that correct?
@@ -4189,11 +3620,9 @@ Thank you so much for joining us.
 
 Jonathan, please introduce yourself since it's the first time on the show.
 
-And tell us a little bit about what happened today from your perspective and what's going on with Airborne from
+And tell us a little bit about what happened today from your perspective and what's going on with Arabor from
 
 perspective. Sure. So thank you so much for having me. I'm Jonathan Gould, the
-
-
 
 control of the currency. We charter, we regulate, and we supervise national banks,
 
@@ -4211,8 +3640,6 @@ How much is changing around the way banks get chartered?
 
 I'm interested to hear, is this just the Herculean efforts on Palmer's side?
 
-
-
 Or is there going to be a flood of new bank charters issued?
 
 Like, what is the view over the next decade look like for new banks broadly?
@@ -4229,8 +3656,6 @@ Just simply a lot of regulators, not just the OCC, but other regulators as well 
 
 and possibly at the state level too, just discouraging banks from forming.
 
-
-
 But of course, it's absolutely critical that we have new banks forming in America on a regular basis.
 
 That's really part of how the banking system revitalizes and refreshes itself over time.
@@ -4239,15 +3664,13 @@ And so, again, we want to do everything we can such that we are being transparen
 
 and faithfully applying the statutory factors that Congress has given us on a case-by-case basis
 
-and in an even-handed fashion so that if new applicants, if they meet the statutory factors and they can meet our high supervisory standards as Airborne has,
+and in an even-handed fashion so that if new applicants, if they meet the statutory factors and they can meet our high supervisory standards as Arabor has,
 
 they will get a charter. So we're excited to see the demand that's out there. We think that they're,
 
 and have seen already a lot of banks of various different business models kind of in the pipeline
 
 already. And again, if they meet the statutory criteria and they can meet our supervisory standards,
-
-
 
 we welcome the system. I'd also say just personally, I think those standards, people should
 
@@ -4265,8 +3688,6 @@ starting a bank is very much a rich get richer thing right now. Like, you can't 
 
 Palmer Lucky who started Oculus in his trailer and say, you know what, I've got this incredible
 
-
-
 idea for banking. I think I'm going to go start a bank. Maybe it's possible, but the process we
 
 went through, I don't think a 19-year-old Palmer Lucky can get through.
@@ -4283,9 +3704,7 @@ Yeah, that makes sense.
 
 What other, are there other kind of industries or categories that you're interested in?
 
-
-
-Airborne is obviously unique and that it's focused on technology and industrial businesses,
+Arabor is obviously unique and that it's focused on technology and industrial businesses,
 
 and it's something that has so much excitement from our industry.
 
@@ -4300,8 +3719,6 @@ to the extent there is an unmet credit need in a community or in a business or a
 that the banking system is evolving to meet those credit needs, again, subject to doing so in a
 
 safe and sound manner. So again, we are trying to apply the statutory factors across business
-
-
 
 models, across potential applicants in an even-handed fashion, again consistent with the guidance
 
@@ -4319,8 +3736,6 @@ which is we don't pick winners or losers here.
 
 We apply statutes in even-hand.
 
-
-
 fashion and we are agnostic around technology and in fact we welcome banks embracing new technologies
 
 right i mean over 163 years which is how long our agency has been around for and obviously the
@@ -4336,8 +3751,6 @@ someone to start a bank that is focused on adult content and other edge of illeg
 It's not what I want to focus on, but the problem is right now there's this weird gray area
 
 where there's things that are technically legal in the U.S., but no banks want to touch them
-
-
 
 because of the PR concerns or the actual real risk concerns.
 
@@ -4355,8 +3768,6 @@ These other international banks don't want to cooperate with law enforcement
 
 because they're making all their money off of sex trafficking and illegal payments
 
-
-
 and all of these other things.
 
 And so I've always wished that somebody would come up and say,
@@ -4372,8 +3783,6 @@ but somebody out there should do this because it would be like it'd probably be 
 that whole industry, you know, theoretically didn't exist.
 
 But in a world where it does exist, it's better that they not be banked by Russian
-
-
 
 organized crime.
 
@@ -4391,8 +3800,6 @@ lots of conversations, meetings?
 
 Like, how do you actually actually only a thousand?
 
-
-
 You probably also need to be able to raise, like, a quarter billion dollars or something
 
 in that range to get the game.
@@ -4408,8 +3815,6 @@ I mean, we had to have, like, $350 million in regulatory capitals just sitting i
 to backstop it, which, again, gets back to what I said earlier.
 
 where right now starting a bank under like current rules and statute,
-
-
 
 it is very much not the 19-year-old Palmer Lucky version of a world.
 
@@ -4427,8 +3832,6 @@ I've probably slightly different opinions.
 
 But I mean,
 
-
-
 I lean very libertarian.
 
 I'm a college drop out.
@@ -4444,8 +3847,6 @@ You know, like that's right.
 right, there's a lot of people who wouldn't work for a 19-year-old, and I had that problem when I started Oculus.
 
 That's true. And yet I managed to do it. I'll give you the more anodyne, less colorful
-
-
 
 our version. And maybe somewhere between the two is what actually happens in practice. So it's a
 
@@ -4463,8 +3864,6 @@ so it's standing up the bank, doing all the policies and procedures, doing the f
 
 capital side, you're making sure you have the management team in place that you need.
 
-
-
 And that can occur, that basically has to occur within 12 to 18 months of when the OCC grants preliminary conditional approval.
 
 But how long exactly the bank remains in organization phase is really up to the bank, right?
@@ -4480,8 +3879,6 @@ management's there and so forth,
 so that the bank can, in fact,
 
 welcome customers and execute it on its business plan.
-
-
 
 I have one last question.
 
@@ -4499,8 +3896,6 @@ Break me down for the 19-year-old
 
 that wants to be the next comptroller of the currency.
 
-
-
 What do they got to do?
 
 Well, I don't think there's any,
@@ -4516,8 +3911,6 @@ I mean, hopefully qualifications are relevant,
 although it's hard to tell sometimes in Washington these days.
 
 But certainly you do need a presidential nomination and support,
-
-
 
 and you need the advice and consent of the Senate.
 
@@ -4535,8 +3928,6 @@ They can put on their application.
 
 You don't have to worry about 10-year-old.
 
-
-
 Oh, oh, wow.
 
 Palmer talks a big game about faith in youth.
@@ -4552,8 +3943,6 @@ Okay, okay.
 When you have a free market and you have a whole bunch of different companies that are all competing with each other,
 
 the idea that one or a few of them might be run by high schoolers.
-
-
 
 say, you know what, give them the right to compete in that.
 
@@ -4571,8 +3960,6 @@ You have a centralized power.
 
 You have one chance to get it right.
 
-
-
 And so I will admit I'm a little worried
 
 that perhaps if you need someone with a lot of experience,
@@ -4588,8 +3975,6 @@ in some of the people that
 I worked with early on. Imagine if I was the comptroller of the currency and I had that same
 
 level of naivete. If it's one of a hundred companies in the market, I'm all for it. If they are
-
-
 
 the person who is the wielder of singular government authority, I actually would worry about it.
 
@@ -4607,8 +3992,6 @@ Most of my family members and all my college friends, all they want to know is s
 
 responsible for killing the penny.
 
-
-
 And then as soon as I say no and start describing my actual job, they immediately lose interest.
 
 Yeah, eyes glaze on.
@@ -4625,8 +4008,6 @@ Say hi to Lynn for us.
 
 Yes, say how to Lynn.
 
-
-
 And we'll see you soon.
 
 Cheers, gentlemen.
@@ -4637,13 +4018,7 @@ Goodbye.
 
 Live long and prosper.
 
-Let me tell you about public.com investing for those who take it seriously.
-
 They got stocks, options, bonds, crypto, treasuries, and more with great customer service.
-
-And let me also tell you about 11 labs.
-
-
 
 Build intelligent real-time conversational agents.
 
@@ -4661,8 +4036,6 @@ I'm ready to play 10,000 hours of comptroller simulator.
 
 That's what you should be required to do before you get the job in the presidential nominee.
 
-
-
 Anyway, we will continue with our coverage of Aibor at the New York Stock Exchange.
 
 In just a minute, we have Diego from Hahn Ventures coming in, calling in from the New York Stock Exchange.
@@ -4678,8 +4051,6 @@ So, NVIDIA and Open AI are nearing.
 Yes.
 
 NVIDIA's $30 billion investment into Open AI.
-
-
 
 Yes.
 
@@ -4697,8 +4068,6 @@ when they proposed it, was going to be in, you know,
 
 And so I think it makes a lot of sense to just do a good chunk of this up front.
 
-
-
 You just need to remove five zeros from every deal
 
 to contextualize it for a normal fact.
@@ -4709,15 +4078,19 @@ This is great.
 
 And then add five zeros and that's the same ultimate experience.
 
-Anyway, we have our next guest in the Restream waiting room.
 
-Let me tell you about Plaid first.
+---
+
+
+Anyway, we have our next guest in the Restream waiting room.
 
 Plaid powers the apps you use to spend, save, borrow, and invest, securely connecting bank accounts to move money, fight fraud, and improve lending now with AI.
 
-
-
 And without further ado, welcome to the show.
+
+
+---
+
 
 How are you doing?
 
@@ -4732,8 +4105,6 @@ Yes.
 My name is Yoga Monica.
 
 I'm a GP at HonVentures and the co-founder and executive chairman of Anchorage Digital.
-
-
 
 Fantastic.
 
@@ -4751,8 +4122,6 @@ So I've been here a few times.
 
 Nice. I've gone to take lots of the pictures.
 
-
-
 And they actually have a curator, by the way.
 
 So if you come to Nisi, you should ask for her.
@@ -4768,8 +4137,6 @@ and everything that has happened here.
 Super historic.
 
 Cool.
-
-
 
 And then, so yeah, background, the path to Han, the path to crypto.
 
@@ -4787,13 +4154,11 @@ So PhD distributed systems 20 years ago when honestly was useless.
 
 And then I led security team at Square for four years,
 
-
-
 went to the lead security team at Docker for three years,
 
 and then started my own company with Nathan, company called Anchorage Digital,
 
-the first federal chartered bank, which is very relevant for Aribor.
+the first federal chartered bank, which is very relevant for Arabor.
 
 And then Katie and I connected when I was fundraising for Anchorage,
 
@@ -4804,8 +4169,6 @@ And over the years, we've just been friends.
 She was, as you know, co-leading the A16 Z crypto funds
 
 that was an investor in Anchorage.
-
-
 
 We were friends.
 
@@ -4823,8 +4186,6 @@ So talk about the Arab Board deal.
 
 How did you meet Palmer?
 
-
-
 What was interesting about this other than, you know,
 
 obviously there's a lot of star power,
@@ -4840,8 +4201,6 @@ And so when the team came to me and really wanted to start this said, well, ther
 that many people that have done this over the past five years.
 
 And Anchorage got our charter, as you know, in 2021 and really was trailblazer in terms of
-
-
 
 showing that you could have innovation under the OCC and going through.
 
@@ -4859,8 +4218,6 @@ Was it kind of a moonshot?
 
 Like, hey, if we can make this happen, it's great, but low likelihood?
 
-
-
 Or at any, at what point did you develop confidence that it would be a possibility?
 
 Well, look, it was to the point where the consultants that were helping.
@@ -4876,8 +4233,6 @@ you know, the clients are the Blancrocks of the world, visas of the world, very 
 institutions. So when we had the opportunity of converting our state trust charter into a
 
 federal charter, it was the obvious solution and the obvious, you know,
-
-
 
 solution that had longevity if you're just serving institutions. We basically connected the best
 
@@ -4895,8 +4250,6 @@ around crypto from the leads of the big banks, but I feel like some of them are 
 
 It's staring them in the face at this point.
 
-
-
 They're seeing public companies that operate in crypto, you know, make it through.
 
 There's new regulation.
@@ -4905,15 +4258,13 @@ Is there any, is there anything that you are seeing on the horizon where those b
 
 modernize and actually adopt some more forward-thinking technology strategies?
 
-Look, Aribor to a large part actually came out of the frustration of the fact that that does not
+Look, Arabor to a large part actually came out of the frustration of the fact that that does not
 
 exists for the industry.
 
 If we go all the way to 2008 in post-crisis, you had Dodd-Frank that actually created so many
 
 more regulations, all of these stress tests, all these capital requirements.
-
-
 
 And from that moment on, the number of federal banks is literally a monotonically decreasing
 
@@ -4927,11 +4278,9 @@ And so the frustration of the industry, when you're in technology and you're try
 
 financial products, of not being able to build has.
 
-culminated in something like Anchorage and then something like Aerobor. Because if you think about it,
+culminated in something like Anchorage and then something like Arabor. Because if you think about it,
 
 fintechs started for a while renting these charters in doing banking as a service as it's called.
-
-
 
 And then all of a sudden, synapse blow up happens, which is still being litigated. They literally did not
 
@@ -4949,8 +4298,6 @@ And so that's why these banks got created and we had to take matters into our ow
 
 How do you see the market for new banks developing?
 
-
-
 Because when Palmer launched Anderul, there was this line.
 
 where in order to start a defense company, you had to have a billionaire as a co-founder.
@@ -4967,13 +4314,11 @@ But is this one, is this a moment where you think people will just wake up and b
 
 yeah, it's hard, but it's not impossible.
 
-
-
 And so maybe we will see a bank that's specifically targeted at farming or,
 
 oil and gas or some new startup in some other vertical, they'll try and create some differentiation,
 
-not go right up against Airborne, but we will see a market map in a few years of new banks.
+not go right up against Arabor, but we will see a market map in a few years of new banks.
 
 100%. After 20 years of almost zero federal charges being created a year, there's a window here
 
@@ -4985,11 +4330,9 @@ And so dozens of these charges have been applied for. There's two main strains.
 
 of them. One of them is the trust bank charter that Anchorage Trailblazed in which you are
 
-
-
 full bank, but you're not actually taking deposits and you're effectively a full reserve bank.
 
-And then there's the Airborne model, which are full fiduciary, traditional bank. In the case of
+And then there's the Arabor model, which are full fiduciary, traditional bank. In the case of
 
 Airabor, extremely conservative tier capital ratios, and it's an extremely conservative bank,
 
@@ -5003,13 +4346,11 @@ so let's actually go do it.
 
 Yeah. How are you thinking about making, you're now on the board of two. Would you consider
 
-
-
 making more investments in this space or are the incremental charters that would be kind
 
 of broadly interesting to the market, not necessarily a fit for Han ventures?
 
-Look, they have to make sense. One of the reasons why Aerobor works.
+Look, they have to make sense. One of the reasons why Arabor works.
 
 is because three of the things that are hardest about starting a bank.
 
@@ -5020,8 +4361,6 @@ It's no surprise that Palmer starting anything will get capitalized.
 And so you jump through that hurdle.
 
 The second one is the regulatory hurdle.
-
-
 
 Anchorage has shown that it was possible.
 
@@ -5037,9 +4376,7 @@ And then the third and most important thing is
 
 you actually have to get to scale on a depository base.
 
-And Aerobor through Palmer as a go-to-market, which is what I call it, Palmer as a go-to-market
-
-
+And Arabor through Palmer as a go-to-market, which is what I call it, Palmer as a go-to-market
 
 strategy, and Palmer's friends, Palmer's connections, and obviously the competence of the team
 
@@ -5057,13 +4394,9 @@ Let's your go-to-market.
 
 Breaking it down.
 
-
-
 Palmer. Congratulations. Have fun. Enjoy the closing bell. Great to meet you. Come back on the show.
 
 Four minutes until the closing bell. We'll be a lot of great. We'll be a nicey. We will talk to you soon.
-
-Cheers. Goodbye. Let me tell you about console. Console builds AI agents that automate 70% of IT, HR, and finance support, giving employees instant resolution for access requests and password resets. And I believe we have Joe Lonsdale in the Restream waiting room. Let's bring him into the TVP and Ultram. Joe, how are you doing?
 
 Hey, guys. How's it going?
 
@@ -5074,8 +4407,6 @@ Is software dead?
 I want to start with SaaSpocalypse.
 
 I know you have some good takes on the SaaSpocalypse because someone vibe-coded your former company, right?
-
-
 
 Oh, that's funny. You saw my comments on Wednesday.
 
@@ -5093,8 +4424,6 @@ few years. Like that's the reality, right?
 
 Not the hard companies. So that's
 
-
-
 narrow point solution,
 
 no system of record,
@@ -5110,8 +4439,6 @@ It's probably some of the stuff that Constellation
 software used to do. I don't know what they're doing now, but
 
 back in the day when I studied them, there's a lot of stuff
-
-
 
 like that. And listen, there's
 
@@ -5129,8 +4456,6 @@ tech culture and you're using AI, you're fine, right? As long as you have great 
 
 because you're going to stay ahead. I think, but there's a lot of stuff with PEBot,
 
-
-
 didn't take that much to build, probably put more money into sales than tech.
 
 That's stuff's in trouble.
@@ -5146,8 +4471,6 @@ multi-product faster than maybe we could be for, or maybe it's more tempting bec
 thing that was going to take as a year could now take, you know, two months or six weeks
 
 or something in that range to ship?
-
-
 
 Still feels like somewhat of a risk to just say, okay, we're going to do
 
@@ -5165,8 +4488,6 @@ than this thing.
 
 So, so, you know, in general, this is probably dangerous for me because it empowers me
 
-
-
 doing everything at once.
 
 And it's like, I love Peter Thiel's, like, argument on the board of Facebook 20 years ago
@@ -5182,8 +4503,6 @@ taking over the market.
 He's obviously it was correct.
 
 Right.
-
-
 
 So I mean, there's a lot to do that our big companies that are growing.
 
@@ -5201,8 +4520,6 @@ That's a great way to know who to replace in your company right now.
 
 And, you know, I mean, yeah, a lot of our older SaaS companies are still well run.
 
-
-
 They're building agents on top of it to perform the work for their customers.
 
 Does that make sense?
@@ -5217,9 +4534,7 @@ There's a lot of stuff like that we're seeing.
 
 Yeah, that makes a lot of sense.
 
-Well, let's flip it over to Airborne.
-
-
+Well, let's flip it over to Arabor.
 
 You're not going to vibe code a bank charter.
 
@@ -5237,8 +4552,6 @@ What do you want to see happen?
 
 So, you know, I think with a bank, you got a barbell on one hand.
 
-
-
 There's like all this really exciting stuff you could do with AI and with hopefully like convincing the regulators to, to permit new ideas, really great things.
 
 And we can talk about that.
@@ -5254,8 +4567,6 @@ You have to be smart.
 I'm putting up and putting my own money in.
 
 I'm putting some of my friends money in.
-
-
 
 I'm a lot of my friends are.
 
@@ -5273,8 +4584,6 @@ my reputation, a lot of other people's reputation.
 
 And you have to run this thing where you're serving customers better and learning from the best of that.
 
-
-
 And where you're just,
 
 And we're going to be extra safe.
@@ -5290,8 +4599,6 @@ But it is much narrow than other banks.
 We're going to just keep a lot more in a very, very safe way.
 
 Because I think it's the right way to run these things.
-
-
 
 It's just not take any risk you don't need to take.
 
@@ -5309,8 +4616,6 @@ It talks to me about it.
 
 He's a macro analyst.
 
-
-
 And I mean, like, what's going on?
 
 I had a known for sure.
@@ -5326,8 +4631,6 @@ They were like our, John and I too.
 Yeah.
 
 Yeah.
-
-
 
 And I was at the dinner with the governor here in Texas that night and had a bunch of
 
@@ -5345,15 +4648,13 @@ And so it was like, it was like, you know, SBB was a little bit sad.
 
 FRB for me was just, I was never really worried for myself.
 
-
-
 I got my money out.
 
 My companies didn't have too much exposure.
 
 But I felt really sad because it was such a great bank.
 
-And I think for me, one of the goals of Aribor would be to try to learn to do things as well as FRB did to serve people.
+And I think for me, one of the goals of Arabor would be to try to learn to do things as well as FRB did to serve people.
 
 It was a really great thing.
 
@@ -5362,8 +4663,6 @@ Yeah, you mentioned Texas.
 There's a lot of young people that are nervous about the job market in the age of AI.
 
 Give me the pitch for University of Austin right now in the age of AI.
-
-
 
 University of Austin, the age of age of the age of the age of the age of the world
 
@@ -5381,8 +4680,6 @@ why it works the way it does.
 
 You know who my top people I work with in business.
 
-
-
 They all understand philosophy.
 
 They all understand history, whether it's Peter T.L.
@@ -5398,8 +4695,6 @@ and push them really hard on the STEM side.
 We're just finishing our STEM building.
 
 I'll write ex-to-spacex and boring company.
-
-
 
 I was just with my friend who built Palantir with me.
 
@@ -5417,8 +4712,6 @@ That's very exciting. You guys are setting up dorms for Mac minis, a little spac
 
 You know, there's all sorts of crazy AI stuff going on that we're having fun with. But I think
 
-
-
 the dorm is a little bit too nice, frankly. I think the students, I don't know, or you think,
 
 but maybe it's like too fancy, but it's good. They like it a lot. Are you secretly funding the
@@ -5434,8 +4727,6 @@ But no, I'm actually secretly funding a bunch of the things that now my friends 
 And hopefully fight back against the real extremes because, you know, I used to argue with a lot of my friends in college.
 
 I'd be more on the moderate right.
-
-
 
 They'd be on the moderate left.
 
@@ -5453,13 +4744,9 @@ We'll talk to you soon.
 
 We'll talk to you soon.
 
-
-
 Always a great time.
 
 Have a good one.
-
-Let me tell you about Gemini 3.1 Pro.
 
 Gemini 3.1 Pro is here with a capable baseline.
 
@@ -5471,9 +4758,11 @@ Do you hear that?
 
 That's the sound of a happy dad.
 
-
-
 Barking.
+
+
+---
+
 
 Let's bring him in.
 
@@ -5488,8 +4777,6 @@ And it's 5 o'clock somewhere.
 It's 4 o'clock at the New York Stock Exchange.
 
 Cheers, John.
-
-
 
 Good to see you again.
 
@@ -5507,8 +4794,6 @@ Oh, thank you.
 
 That was a lot of fun.
 
-
-
 You know, I want to tell you guys, like,
 
 man, I actually got emotional.
@@ -5524,8 +4809,6 @@ has been incredible.
 You know, I get, like, once a week or so,
 
 I get like someone calling me and like,
-
-
 
 trying to pitch me on a show and we're the TBPN of sports.
 
@@ -5543,8 +4826,6 @@ I'm the Justin Bieber of Latin music.
 
 I'm the Justin Bieber of India.
 
-
-
 And like that's what TBPN's become.
 
 Yeah.
@@ -5560,8 +4841,6 @@ it's like that's probably not the thing.
 Either you'll do it or whatever works in that category will just look completely different
 
 and have a different strategy because people want new things.
-
-
 
 What, uh, what, walk us through how, what's the experience like at the New York Stock Exchange
 
@@ -5579,8 +4858,6 @@ So it's very, it's very, you know, they're, it's not just because they're good f
 
 of just truly caring about companies and, you know, whether you're a startup or an established
 
-
-
 company. So it's just a good feeling to be a part of it. Yeah. How is business going? How did,
 
 how did 2025 shake out? There were, you know, the economy was up. There were tariffs. There's lots
@@ -5593,11 +4870,9 @@ merch business, which is, you know, just a, you know, less than 3% of our busine
 
 Everything else is U.S. made.
 
-So, terrorists don't necessarily affect us.
+So, tariffs don't necessarily affect us.
 
 You know, so far, I mean, this year has been already a great year for us.
-
-
 
 You know, Happy Dad in January was, you know, year over year in January is up 31%.
 
@@ -5615,8 +4890,6 @@ I was in Miami a few weeks ago, and it was 35 degrees in Miami.
 
 So, you know, Happy Dad's not a cold weather product.
 
-
-
 So to start the year off like that.
 
 Yeah.
@@ -5632,8 +4905,6 @@ So how much time do you spend in New York?
 It feels like a lot of your business is more west coast leaning.
 
 But New York really feels like the epicenter of so much happening in just like the creator industry broadly.
-
-
 
 I don't spend a lot of time here at all.
 
@@ -5651,8 +4922,6 @@ Give us some, give us some tips, some hacks for expanding consumer product, expa
 
 I remember this fun story from Mark Rampola, who started a vitamin water company or, sorry, coconut water company.
 
-
-
 And he went to all his sales guys and was like, whoever sells the most, I'm giving you a
 
 F-150 and they worked extremely hard and it was just kind of funny outside the box.
@@ -5668,8 +4937,6 @@ Well, with Happy Dad, you know, I think last time I was on the show in September
 we were talking about creator brands and creators like over extending themselves when
 
 they launch a brand.
-
-
 
 And one of the things that we're doing this year is we're going to actually spend a lot
 
@@ -5687,8 +4954,6 @@ decorating the stores or putting up neon signs.
 
 Like, money is probably better spent where the customer is versus where the customer isn't.
 
-
-
 Like if you're, you know, you're sponsoring a podcast and the podcast is live at
 
 8 a.m. on a Tuesday and you're
@@ -5704,8 +4969,6 @@ come out. So you might as well spend that money when they're actually
 in the store. So that would be my tip with any
 
 CPG brand is focus on trade marketing, focus on
-
-
 
 actually decorating stores, proper displays,
 
@@ -5723,8 +4986,6 @@ watching that movie. They're not in the business of they're not thinking I got t
 
 Cets management software right now.
 
-
-
 So being at the right place.
 
 Unless you have a lot of money.
@@ -5740,8 +5001,6 @@ and you just have an extra amount of cash to do that so your friends could text 
 and say, hey, I just saw your product and Landman, that was awesome.
 
 If you want to do that, that's fine.
-
-
 
 But I would focus on the actual where your customer physically is and they're ready to go and they're ready to buy.
 
@@ -5759,8 +5018,6 @@ How are you navigating that whole landscape?
 
 Obviously, the big sports books have been talking pretty openly about how their businesses have been impacted by prediction markets, even though they're getting into the game themselves.
 
-
-
 What do those conversations look like and how often do those contracts actually turn over?
 
 Yeah, so, you know, we have a media company shot, which was part of the TBPN Super Bowl commercial, so thank you.
@@ -5776,8 +5033,6 @@ You could select players more or less.
 And recently they implemented prediction markets in there.
 
 So we have a long-term partnership with price picks amongst all of our content.
-
-
 
 And they've been great partners.
 
@@ -5795,8 +5050,6 @@ So we're more focused on getting them re-engage in the product or educated on so
 
 these new features that Price Fix has.
 
-
-
 So yeah, so that's our partner when it comes to the prediction market slash sports,
 
 the sports app space.
@@ -5812,8 +5065,6 @@ Talk to us about like the broader growth of alcohol consumption, particularly am
 Obviously, your business is growing, your category is growing.
 
 but beer, I believe, had a 4% decline and alcohol broadly.
-
-
 
 It feels like young people aren't drinking is sort of a meme, but how are you processing that?
 
@@ -5831,8 +5082,6 @@ You know, if you look at most beer companies, if they have,
 
 haven't got into like the seltzers or the tea or no bubble space, they're struggling.
 
-
-
 So, you know, I think beer consumption is down. You know, I say this all the time.
 
 You know, people don't want to get, you know, they don't want to wake up hung over. So they're not
@@ -5848,8 +5097,6 @@ fitness brands,
 GLP1, peptide companies
 
 are all through the roof
-
-
 
 because people want to be healthy.
 
@@ -5867,8 +5114,6 @@ so there's only two ways
 
 to look good on social media.
 
-
-
 Either be in shape
 
 or add 15 filters to your picture.
@@ -5884,8 +5129,6 @@ Bones smashing is now.
 It's over.
 
 Yeah, that guy.
-
-
 
 Yeah.
 
@@ -5903,8 +5146,6 @@ I want to, do you think, do you think clavicular will create 10,000 claviculars?
 
 Like, do you think IRL streaming is going to be a big new meta, or is there just a much,
 
-
-
 I mean, there's naturally a smaller base of people that can be an IRL live streamer than a
 
 traditional influencer who might have a normal job or something of the sort?
@@ -5920,8 +5161,6 @@ And, you know, if you look at, like, how many people are viewing this right now,
 less people than how many people are going to clip the TBPN interviews.
 
 So, you know, the longer you could actually stay online, the more of a chance you have
-
-
 
 to have multiple clips.
 
@@ -5939,8 +5178,6 @@ Most people aren't, you know, people are going to watch Palmer's clip, you know.
 
 Yeah.
 
-
-
 You know, and those clips are probably going to go, I was in the other room, so I didn't hear
 
 what you were talking about, but everyone was laughing.
@@ -5956,8 +5193,6 @@ You know, he's not, what's crazy about Palmer, I spent a lot of time with him.
 And sometimes I'm like, what did he just say?
 
 Then when it process, I don't know what he said about the 19-year-old, but running banks.
-
-
 
 But sometimes I'm like, fuck, he's kind of right.
 
@@ -5975,8 +5210,6 @@ we're going to see our first podcast produced by Grok.
 
 Like I think there's going to be a very nice.
 
-
-
 Yeah, we talked about this on the show today.
 
 There's a top 20, there's like a top 20 series on Apple that's 100% generated with AI.
@@ -5992,8 +5225,6 @@ It's in like the top 20 because people just want that.
 I got to see that.
 
 They can turn it over immediately.
-
-
 
 And even though it's AI generated and it's probably not as nuanced as, you know, some, you know, serious journalist with a bunch of reputation, like it's giving people what they want faster.
 
@@ -6011,8 +5242,6 @@ like 401 p.m. Eastern time and breaks down the stock market like one minute afte
 
 you know or sports you know like you know today and sports you know it goes live a couple hours
 
-
-
 before tip off NBA and this is what's going to happen in the NBA so-and-so's playing so-and-so this
 
 guy's hurt that guy's not hurt this is what the line looks like on price picks our polymarket you know
@@ -6028,8 +5257,6 @@ Come by the Ultradome soon.
 I want to.
 
 Well, that's what I was planning on doing.
-
-
 
 And then when I heard you guys were here and I was here, I was like, I was going to reach out to you guys next week about coming by.
 
@@ -6047,8 +5274,6 @@ They hit him up every day.
 
 They DM me constantly.
 
-
-
 Do you want at John?
 
 And I'm like, I know John Sheidi.
@@ -6064,8 +5289,6 @@ So I don't want to Snapchat.
 That's yours.
 
 I like the consolidation of you have the John.
-
-
 
 Now you got to own John.
 
@@ -6083,8 +5306,6 @@ Great to see you.
 
 Have fun.
 
-
-
 Have fun.
 
 Thanks for having me.
@@ -6093,15 +5314,11 @@ Cheers.
 
 Good one.
 
-Let me tell you about Cisco.
-
 Critical Infrastructure for the AI era.
 
 Unlock seamless real-time experiences and new value with Cisco.
 
 Software multiples.
-
-
 
 have been reset at a fair level given AI uncertainty, said Brad Gersner. He says, if you own a
 
@@ -6120,12 +5337,14 @@ Bardaa space in the restream waiting room, and it is time to kick off the Lambda
 round. Let's fire up that cloud, fire up the graphics package, and let's bring Will Brewery in
 
 
+---
+
 
 to the TVV and Ultram. Will, how are you doing? Check, check, check. Hey, Georgian John, how are you? Can you
 
 hear me? Yeah, good to see you. And clear. It's been, it's been far too long. Obviously,
 
-we're here, you know, excited about Aribor, but I'd love to start with just an up.
+we're here, you know, excited about Arabor, but I'd love to start with just an up.
 
 on are you running out of numbers for these capsules? How many are up there? How many have come back?
 
@@ -6136,8 +5355,6 @@ Yes, I love that. Yeah, we are at Winnebago 5 just landed a couple of weeks ago,
 Number four is in orbit. Number six gets shipped to the launch of the week. Oh, thank you. Yes, yes, of course. I love that.
 
 So, yeah, what are you actually learning in between these? Are they purely
-
-
 
 commercial like someone just asked you so you're going to put one up i imagine that you're iterating
 
@@ -6155,8 +5372,6 @@ and bulk all of our changes into what we call block upgrades.
 
 And so that'll occur about every year, just like a car comes off a line as an upgrade.
 
-
-
 Like an iPhone.
 
 And yes.
@@ -6172,8 +5387,6 @@ It's like, you know, we're pretty excited about it.
 Faster, cheaper.
 
 Yeah.
-
-
 
 It is.
 
@@ -6191,8 +5404,6 @@ Please.
 
 So technically we have a data center.
 
-
-
 in orbit right now.
 
 You do.
@@ -6208,8 +5419,6 @@ You're like, Deli and shut up.
 This might be real.
 
 There's a chance.
-
-
 
 So actually, I should point to you guys.
 
@@ -6227,8 +5436,6 @@ Forward-thinking.
 
 futurist bankers, my favorite on Wall Street.
 
-
-
 So, no, but they're coming out and taking the microgravity manufacturing industry seriously.
 
 I'm in a very sophisticated report and kind of hit up the nail on the head.
@@ -6244,8 +5451,6 @@ from first principles, it's the most expensive dollar per kilogram.
 It has the biggest impact.
 
 It helps people.
-
-
 
 It makes economic sense.
 
@@ -6263,8 +5468,6 @@ Separate part of the business, but same part of the product.
 
 I mean, every single vehicle that comes off the assembly line
 
-
-
 can be either used for either use case.
 
 And so that really helps with scaling.
@@ -6280,8 +5483,6 @@ The Transformer paper was released.
 What kind of categories are you getting pitched that you're excited about around potential speedups or already getting benefit from?
 
 You mean like to purchase at Barta?
-
-
 
 Yeah, yeah.
 
@@ -6299,8 +5500,6 @@ So cursor, you know, excited about that.
 
 Excited about the new model.
 
-
-
 It's becoming so much easier to build the in-house version of those sasses.
 
 that really isn't, you know, for us, there's, it's, I'm laughing right now because, um,
@@ -6316,8 +5515,6 @@ our Wiki at the, at the company. Based on the diff from Confluence over the past
 here is a report of everything that's happened at the company. It does time tracking. It does
 
 risk analysis, you know. It's so it's like, uh, it's awesome. It's awesome. We're really excited.
-
-
 
 Is it getting to the point where it can make recommendations to you of like here's how you can speed up this part of the process or is that kind of the next step?
 
@@ -6335,8 +5532,6 @@ There was a lot of back and forth with Starship last year, eventually did like m
 
 And then the surprise for me was Blue Origin.
 
-
-
 And I think everyone was sort of like, oh, it's a space tourism company.
 
 And people were like, no, no, no.
@@ -6352,8 +5547,6 @@ But do you anticipate the curve of launch costs to continue or change in some wa
 What are you seeing?
 
 Yeah, so I'll tell you what I know.
-
-
 
 What I know is, so right now we've already booked all of our launches out through 2029.
 
@@ -6371,8 +5564,6 @@ SpaceX instead of FedEx, but from a business model perspective, shipping is ship
 
 you know, we're excited about new shippers coming online. You know, that'll probably induce
 
-
-
 some margin compression, which would be nice for us payloads. But at the same time, you know, we're not
 
 going to transition overnight. You can imagine if you were using Fed.
@@ -6388,8 +5579,6 @@ I can't wait for more.
 But I can't switch shipping quite yet at the current nascent aspect of technology.
 
 Last question.
-
-
 
 Pick aside, moon or Mars.
 
@@ -6407,8 +5596,6 @@ That's basic.
 
 I still think it is.
 
-
-
 Yeah.
 
 Absolutely.
@@ -6424,8 +5611,6 @@ So I'd like to be, you know, that ugly, you know, not quite, you know, ready for
 Sure, sure, sure.
 
 Yeah.
-
-
 
 Moon, important testing ground, but Mars is.
 
@@ -6443,8 +5628,6 @@ invert. I'm going to start paying you just to get the property. Yeah. Yeah. You'
 
 I got to hold onto it for regulation.
 
-
-
 Anyway, thank you so much for coming on the show.
 
 We'll talk to you soon.
@@ -6453,17 +5636,11 @@ Cheers.
 
 Have a good one.
 
-Let me tell you about CrowdStrike.
-
 Your business is AI.
 
 Their business is securing it.
 
 CrowdStrike secures AI and stops breaches.
-
-
-
-And I'm also going to tell you about Restream.
 
 One live stream, 30 plus destinations.
 
@@ -6475,11 +5652,13 @@ He's the next to the group and strategy.
 
 Sam, good to meet you.
 
+
+---
+
+
 How are you doing?
 
 What's happening?
-
-
 
 Thanks for having.
 
@@ -6497,8 +5676,6 @@ And we're going to be building our second project in Washington State with Amazo
 
 So just super exciting times for nuclear and the next generation of firm power.
 
-
-
 Yeah. I mean, Dylan and our team mentioned that you are a new Arab War customer. And I'm wondering, like, this doesn't seem like something that's like, you know, unbankable or, you know, requires something new. But what is it about your business that drew you to Arabor? Is it just excitement? Or is there something that where your business looks a little bit different than a normal business?
 
 I think that there is a really amazing nuclear industry in the United States.
@@ -6515,9 +5692,7 @@ to support the growth that's really demanded by AI digital infrastructure is a p
 
 And it's not something that's directly in the wheelhouse today, frankly, of a lot of existing, pick your basket of capital allocators.
 
-
-
-I think what's been really impressive about the Airborne team, about, you know, with Owen and, you know, what they're building is a real excitement and willingness to roll up their sleeves and understand our sector, understand.
+I think what's been really impressive about the Arabor team, about, you know, with Owen and, you know, what they're building is a real excitement and willingness to roll up their sleeves and understand our sector, understand.
 
 understand what is risky, understand what is bankable, and, you know, get to work with us really
 
@@ -6532,8 +5707,6 @@ How capital intensive is the business?
 Do you have to buy land to build a facility to what level of the stack?
 
 Yeah, so our business is primarily around two things.
-
-
 
 Number one is designing a next generation high-taxed.
 
@@ -6551,8 +5724,6 @@ And this is really advanced stuff.
 
 And we're building a fuel factory today in Oak Ridge, Tennessee.
 
-
-
 We received last week from the NRC or permit to operate that facility.
 
 And so that's the two halves of our business.
@@ -6565,11 +5736,9 @@ So, you know, there are different aspects of that business that are capital inte
 
 There are different aspects that are not.
 
-And getting into it with us and understanding those different aspects is really something that Air Force kind of.
+And getting into it with us and understanding those different aspects is really something that Arabor kind of.
 
 coming on that journey. When did you guys decide to get into the fuel business? Did that come after the
-
-
 
 reactor? That's a great question. You know, it was really a visionary decision by our founder back in
 
@@ -6587,8 +5756,6 @@ how you do it. And, you know, that's been a really, you know, important part of 
 
 journey. Last question for me, I want to know about timelines. We talk to a lot of folks in
 
-
-
 nuclear. I hear 2029. I've seen some reporting in the Wall Street Journal about even just bringing
 
 old nuclear power plants back online, but the dates are crazy to me. The 2030, 2032, 2035 gets
@@ -6604,8 +5771,6 @@ our first two projects coming online with many more thereafter. You know, the fi
 pickles out of the jar are the hardest, but the demand is insatiable. That's a new,
 
 new analogy. Because pickles are green like nuclear fuel. But there, yeah. You know, it's,
-
-
 
 But you're going to, I think that there's a reason that you're hearing.
 
@@ -6623,8 +5788,6 @@ There's only so many of those projects to do.
 
 The really, throughout the 2030s, I think you're going to see, I know you're going to see a steady and ever-growing-growing clip
 
-
-
 of a new nuclear reactors coming online and powering this kind of generational super cycle of
 
 AI digital infrastructure.
@@ -6640,8 +5803,6 @@ Radiant's doing some cool stuff there.
 There's a couple other folks.
 
 Then there's been, you know, as the AI boom has sort of taken off, everyone has been thinking,
-
-
 
 about, well, what if we get a hundred of those together?
 
@@ -6659,8 +5820,6 @@ Where's the most value in new reactor designs?
 
 Love this question.
 
-
-
 I mean, I think that it's all exciting and all have their puts.
 
 takes, right? So the big
@@ -6676,8 +5835,6 @@ new excitement and focus on those
 I'm sure new ones
 
 will get built. I mean, just the amount of power
-
-
 
 demand that that's out there.
 
@@ -6695,8 +5852,6 @@ will see that. And that's the downside, right?
 
 I think that even for a big hyper-scaler, you know, even these companies spending $160 billion a year on CAPEX, you know, a $15 billion bite on a single machine is a lot of risk to manage.
 
-
-
 And it's a lot of risk for any individual investor-owned utility to manage.
 
 You know, if you look at the market caps of the largest investor-owned utilities in the United States, $15 billion, $10 billion, whatever the next AP-1,000 costs, these are,
@@ -6712,8 +5867,6 @@ at a time, it's an awesome opportunity. You know, the challenge there, and I thi
 in the question is, you know, for it to make a meaningful dent in a hyperscale data center,
 
 you're building hundreds and thousands, you know, in a single location.
-
-
 
 And that's a lot of moving parts.
 
@@ -6731,8 +5884,6 @@ oil field, like that does free up energy for other purposes and that has...
 
 Absolutely.
 
-
-
 ...equilibrates at some point, so...
 
 Absolutely.
@@ -6748,8 +5899,6 @@ throughput, you know, to bring down the cost.
 Yeah.
 
 It totally makes sense.
-
-
 
 You know, but it's, you know,
 
@@ -6767,8 +5916,6 @@ That's pretty big.
 
 Yeah, what Dow is building at our, at their first site, is four reactors, so 320 megawatts.
 
-
-
 Wow.
 
 Okay, that's a lot.
@@ -6784,8 +5931,6 @@ And that more than takes care of the site that they are focused on.
 I think that's the same amount of energy that's generated in my entire city that I live in.
 
 I live in a small city.
-
-
 
 It's a meaning, yeah, it's a meaningful bite.
 
@@ -6803,8 +5948,6 @@ overbuild just a little bit, if you only need two or three reactors, you know, i
 
 you're still golden. You know, if you build 12 reactors in Washington State, if you only need
 
-
-
 10, one, even two go down, you're still completely utilizing that very expensive data center
 
 with those very expensive, you know, invidia chips, you know, running in it, you know, and getting
@@ -6818,10 +5961,6 @@ much for taking the time to come chat with us. Have a great rest of your day.
 Congrats to all the 900 or 1,000,000 people at the company. Seriously.
 
 on all the progress. Yeah, we'll talk to you soon, Sam. Have a good one. Goodbye.
-
-Let me tell you about Apploving. Profitable advertising made easy with axon.com. Get access to over
-
-
 
 one billion daily active users and grow your business today. Before we bring in our next guest,
 
@@ -6839,8 +5978,6 @@ Okay, so I want you guys to also try to guess what the percentage is. Okay.
 
 This isn't just an essay that is trying to fool an AI system. It's an experience where words and phrases flow over.
 
-
-
 over the compute like a waterfall.
 
 This short speech marks a pivotal shift towards a style of writing
@@ -6856,8 +5993,6 @@ in the New York Times and CNN, who, along with many CEOs,
 industry professionals, and growth hackers,
 
 have noticed the world-changing pattern emerge.
-
-
 
 It's a testament to the emerging influence of the AI industry.
 
@@ -6875,8 +6010,6 @@ Okay, let him keep going.
 
 You are absolutely right that AI systems might not always accurately predict whether text is written by humans.
 
-
-
 And you're actually touching on something really important.
 
 It's a great insight.
@@ -6892,8 +6025,6 @@ Let's hit it.
 Well, 100%.
 
 Let's go!
-
-
 
 He did it.
 
@@ -6911,8 +6042,6 @@ You guys don't, you also at home, this cheese steaks doesn't sound that signific
 
 but these are the best cheese steaks sandwiches in the world over at Matu.
 
-
-
 Oh, yeah, yeah.
 
 Read out the M-Dashes.
@@ -6926,10 +6055,6 @@ Okay.
 You put M-Dashes everywhere.
 
 That's fantastic.
-
-Let me tell you about MongoDB.
-
-
 
 What's the only thing faster than the AI market?
 
@@ -6947,8 +6072,6 @@ Yeah, probably detects.
 
 Yeah.
 
-
-
 Anyway, we have our last guest to the show, Alex Heath, from sources in person, live in the TBPN Eltrudem.
 
 Alex, you're going to be.
@@ -6964,8 +6087,6 @@ Sources.
 Dot News is the website.
 
 Access is the podcast.
-
-
 
 Yeah, so you're really in the process
 
@@ -6983,8 +6104,6 @@ you created sources.
 
 Apparently some sources, yes,
 
-
-
 but you are the final source.
 
 I named it that for a reason.
@@ -7000,8 +6119,6 @@ Like,
 Like, there's always a question about, okay, you leave the place.
 
 Yeah.
-
-
 
 Is it, are you going to be able to...
 
@@ -7019,8 +6136,6 @@ That's all I got to say.
 
 Scoop doggie dog right here.
 
-
-
 You got anything more this week?
 
 Anything?
@@ -7036,8 +6151,6 @@ Aren't you worried that somebody's going to out scoop you?
 Yeah.
 
 Yeah, there is always that fear.
-
-
 
 Okay.
 
@@ -7055,8 +6168,6 @@ Okay.
 
 You know, if they're on maternity, paternity.
 
-
-
 Do you hire, like, private investigators
 
 to track your rivals to make sure.
@@ -7072,8 +6183,6 @@ You keep tabs.
 Yeah, what's super interesting is that I feel like your beat is just, like,
 
 what's actually interesting in tech to me?
-
-
 
 No, seriously.
 
@@ -7091,8 +6200,6 @@ So, like, do you ever sleep?
 
 Like, what's going on?
 
-
-
 You know, I've been using AI a lot to leverage output, where now it's my editor and it's
 
 my first draft.
@@ -7108,8 +6215,6 @@ But, you know, the combo of granola running that during meetings,
 training Claude to really write like me.
 
 Sure.
-
-
 
 So, you know, it does the first pass.
 
@@ -7127,8 +6232,6 @@ Sure, sure, sure, sure, because that still happens.
 
 Yeah, yeah.
 
-
-
 And realizing that I think the leverage I have now is like my network,
 
 the interviews I do, the scoops I get.
@@ -7144,8 +6247,6 @@ And like the writing.
 I never read your work, like, expecting to be,
 
 entertained by the language.
-
-
 
 Yeah, the pros. I really don't care at all.
 
@@ -7163,8 +6264,6 @@ And, you know, like, I've been doing this for a while, and I think, like, the lo
 
 you have to have now, especially with AI, is you, you have to use the tools.
 
-
-
 Did our giant ice cream scoop ever come?
 
 Do we order that?
@@ -7180,8 +6279,6 @@ scoop for the gong.
 I love it.
 
 You guys are going to great scoop.
-
-
 
 By the way, the last time I came on here was WWDC last year.
 
@@ -7199,8 +6296,6 @@ I was like, these guys are onto something.
 
 Thank you.
 
-
-
 The magic you guys have.
 
 Seeing you guys just like ascend has been incredible.
@@ -7216,8 +6311,6 @@ Did you see all the hammers in the,
 No, I got to do X.
 
 Stop, stop, stop.
-
-
 
 No, my biggest, number one question is,
 
@@ -7235,8 +6328,6 @@ But at the same time, you're kind of getting some stories
 
 out the back door at times.
 
-
-
 You have to have both.
 
 Yeah, but what's that dance like?
@@ -7252,8 +6343,6 @@ fly too close to the sun, scoop too close to the...
 To the cone?
 
 To the cone.
-
-
 
 To the cone.
 
@@ -7271,8 +6360,6 @@ He's here with us.
 
 Check the street.
 
-
-
 Check the...
 
 Hey, is he really?
@@ -7288,8 +6375,6 @@ And what has given him longevity is the fairness that he approaches an interview
 So giving people that maybe don't even deserve it a fair shake and just approaching things out of curiosity and being a nerd and not being like instinctually against whatever they're doing.
 
 I mean, I have opinions.
-
-
 
 Like I just interviewed Chris Best from Substack about their polymarket deal this week.
 
@@ -7307,8 +6392,6 @@ And are they getting paid on like an impression?
 
 Just the question.
 
-
-
 I asked them that he wouldn't answer.
 
 So you infer with that.
@@ -7324,8 +6407,6 @@ they offered it to me.
 I said no, but like they'll pay you to embed a market
 
 in your story.
-
-
 
 Someone set up a polymarket on if Alex Heath
 
@@ -7343,8 +6424,6 @@ Like I have pretty strong opinions about prediction markets and
 
 polymarket specifically and reporting I can't share yet.
 
-
-
 And and but like I still want to hear Chris out.
 
 I'm like, why did you do it?
@@ -7360,8 +6439,6 @@ Say that.
 You say that another couple times?
 
 Actually five times.
-
-
 
 But like he he wants.
 
@@ -7379,8 +6456,6 @@ and we usually trust the chat.
 
 We'll be like, oh, they're interested.
 
-
-
 They're interested in this.
 
 Yeah, and then I'm like, wait, why do you want me to ask this person about Bitcoin?
@@ -7396,8 +6471,6 @@ And you guys are experiencing this too.
 Like your taste is what matters.
 
 And then also like being able to, I mean just to the point about like how do you do scoops and do interviews, it's like just balancing the fact that like I am.
-
-
 
 It's a bit of a leverage thing where it's like you can't buy me and I may also kind of ruin your day a little bit if I scoop something.
 
@@ -7415,8 +6488,6 @@ No, no.
 
 No, that's really good.
 
-
-
 What are you looking for out of Apple this year broadly?
 
 I'm always interested to hear this excitement about a new foldable.
@@ -7432,8 +6503,6 @@ I've been very interested in like the story behind the story,
 particularly with regard to John Turnus.
 
 Because that feels like there are leaks and apples pretty tight.
-
-
 
 But then Mark German's always getting scoops.
 
@@ -7451,8 +6520,6 @@ high school and then in high school yeah blog for blog with the Germanator and o
 
 me yeah it's amazing that you have a career you're like I got to get me out of you
 
-
-
 Yeah, yeah, yeah.
 
 So I just find Alex, like, washed up with Chinese, Chinese food covering him.
@@ -7468,8 +6535,6 @@ Shout out, shout out, Mark.
 Yeah, we love Mark.
 
 We love Mark.
-
-
 
 He's fantastic.
 
@@ -7487,8 +6552,6 @@ Like I don't, I'm curious about the glasses.
 
 Like Mark, I've also heard they're coming next year, the first glasses.
 
-
-
 Be curious to see, you know, but then it's like, Alan,
 
 die was doing that and he left and went to meta. So it's like he saw what they're doing and still
@@ -7504,8 +6567,6 @@ seem like the person who would solve that. Yeah. But, you know, to credit to Tim
 say like returned a lot of, you know, value to shareholders. But is Apple like culturally relevant
 
 anymore? Yeah. Yeah. There's an interesting pivot where it's like, oh no, they're becoming Microsoft,
-
-
 
 which is also like an incredible company that's just delivered so much value. But it isn't,
 
@@ -7523,8 +6584,6 @@ But instead they're doing Gen Moji, right?
 
 They have an opportunity to lead with heavy, heavy campaigns around the magic of AI.
 
-
-
 And they can say, we're not even building data centers.
 
 We're not, we're not, you know, we're not increasing your power bill.
@@ -7540,8 +6599,6 @@ is really willing to meet the moment
 and deliver the kind of campaigns that I think they could.
 
 Or like the next demo day,
-
-
 
 I bet if you were to poll all the founders
 
@@ -7559,8 +6616,6 @@ and not Tim Cook, but Steve Jobs.
 
 And it was all over the company.
 
-
-
 We asked for the founder.
 
 And a lot of people still said Steve.
@@ -7576,8 +6631,6 @@ Yeah.
 How do you balance?
 
 Apple's such an interesting beat because it's, at least it has been for a very long time,
-
-
 
 it's still very much consumer relevant, where I imagine that there are just Apple fanboys
 
@@ -7595,8 +6648,6 @@ like trade versus entertain, infotainment.
 
 Yeah. These are the two extremes.
 
-
-
 I mean, I worked at a very scaled publication before the verdict, right?
 
 Oh, wait.
@@ -7612,8 +6663,6 @@ You guys remember Cheddar in New York?
 Yeah.
 
 Yeah.
-
-
 
 It's there.
 
@@ -7631,8 +6680,6 @@ And then the information and Verge,
 
 Ruzde, repiator for the last like almost five years.
 
-
-
 So it did the scale thing.
 
 And now I'm in the influence game.
@@ -7648,8 +6695,6 @@ Talk about your audience being a couple hundred thousand people.
 Totally, totally.
 
 Yeah.
-
-
 
 For me, like, I wish I could,
 
@@ -7667,8 +6712,6 @@ That's the number.
 
 We've done that.
 
-
-
 We've done that too.
 
 We don't count the number of subscribers.
@@ -7684,8 +6727,6 @@ Okay.
 So, and it helps with brands, right?
 
 It's like, you're like, well, you're not big, but it's like, yeah, but you want to reach
-
-
 
 like these people.
 
@@ -7703,8 +6744,6 @@ cover.
 
 Yeah.
 
-
-
 They work in finance,
 
 what,
@@ -7720,8 +6759,6 @@ Because we,
 like,
 
 Ben Thompson's a hero of ours,
-
-
 
 both from,
 
@@ -7739,8 +6776,6 @@ his business model,
 
 uh,
 
-
-
 the whole spectrum.
 
 He talks a lot about,
@@ -7756,8 +6791,6 @@ like,
 companies that he doesn't cover.
 
 He's like,
-
-
 
 stop covering Twitter,
 
@@ -7775,8 +6808,6 @@ Um,
 
 is there,
 
-
-
 are there categories that,
 
 you, that you, uh, are maybe fascinating, but not a bit. We, we, we try and stay out of politics.
@@ -7792,8 +6823,6 @@ towards politics. Totally. Right. Um, or even just kind of, I see it in numbers.
 I didn't actually think there was any white space left in an independent substack. Everything comes around.
 
 Yeah, everything comes around. Yeah. But, but, but also it, some, it takes the right.
-
-
 
 entrepreneur. Yeah, but to your question, I think it's taste. I don't think I, when you're in her
 
@@ -7811,8 +6840,6 @@ about like, okay, they beat earnings and everyone thinks Saspocalypse. I was thi
 
 the exact same thing. I wrote about it. I had them on. Sometimes I feel like we're like a day
 
-
-
 after each other or whatever. And I was just like, okay, yeah, this is a story that, like, a lot of
 
 people would just be like, ah, I'm over. Yeah, we had, we had, we had, we had Evanon and then that
@@ -7828,8 +6855,6 @@ Yeah, we got to get you publishing while the, while we're doing a live interview
 you text us?
 
 Would you respond to this right now?
-
-
 
 Would you eventually...
 
@@ -7847,8 +6872,6 @@ We'll book those people.
 
 Do you, uh, do you, do you ever see yourself rolling it, rolling up or rolling in other
 
-
-
 independent?
 
 Uh, because I think there's, there's going to be writers out there that are good for about
@@ -7864,8 +6887,6 @@ monthly subscription.
 Yeah.
 
 It's a challenge.
-
-
 
 Yeah.
 
@@ -7883,8 +6904,6 @@ Like if you can find like four or five other people and then stay super lean, wh
 
 hey, we don't have a ton of bloat.
 
-
-
 Yeah.
 
 We're not hiring like, you know, 200 people to do this.
@@ -7900,8 +6919,6 @@ Like that's what consumers want.
 I'm interested in like.
 
 I'll subscribe to pretty much any new tech.
-
-
 
 writer just to generally support them.
 
@@ -7919,8 +6936,6 @@ Yeah, and I was saying this yesterday, I don't actually
 
 think it will do well at the substack
 
-
-
 level, because there's a lot
 
 of people that would want to be in your bundle
@@ -7936,8 +6951,6 @@ like, you know, managing the personalities,
 managing where they're at.
 
 I can imagine sources getting to,
-
-
 
 it doesn't have, in the same way that we're anti-scale
 
@@ -7955,8 +6968,6 @@ Like all these VC backs newsrooms
 
 that are four years in and not profitable
 
-
-
 and the cap tables, you know, screwed.
 
 And like, I don't need that.
@@ -7972,8 +6983,6 @@ And there will be re-bundling.
 It's funny that we sort of landed in the same place with very different backgrounds.
 
 This is my first.
-
-
 
 I mean, I had a YouTube channel before.
 
@@ -7991,8 +7000,6 @@ Did I say horses?
 
 What was that horses?
 
-
-
 What does the horse represent?
 
 Progress.
@@ -8008,8 +7015,6 @@ We got it before.
 Oh.
 
 You knew what the year was going to be.
-
-
 
 So when I found out, we were going to kick off, get your reaction to.
 
@@ -8027,8 +7032,6 @@ get going.
 
 And that's,
 
-
-
 we call it the barbell effect.
 
 Yeah, and that's really challenged.
@@ -8044,8 +7047,6 @@ where you still have a huge platform, like a Salesforce that has a bunch of othe
 of layers to it.
 
 But then you'll have like, you know, yeah, an AWS.
-
-
 
 But then you'll have like a bunch of new entrants, which are like, you know,
 
@@ -8063,8 +7064,6 @@ to what you're saying. Like I think the young teams that are agile, that underst
 
 shot at actually disrupting the big players, but the big players were always exist.
 
-
-
 And I do think distribution is still the thing that really matters, right? Like, you guys
 
 probably feel that. You have that with X and YouTube, but, you know, and substack's good,
@@ -8080,8 +7079,6 @@ Because it's like when I don't, I don't get anything. So it's like putting it ou
 Is travel important to your work? Yeah, I got to go out and touch.
 
 the sources. I mean, not literally, but you know what I'm saying? Like, I got to go out and
-
-
 
 grab them right when they walk out of the office. I got to shoulder brush the sources.
 
@@ -8099,8 +7096,6 @@ what matters is like what's feeding the copy. And that's me going out and like i
 
 breaking a story. I went.
 
-
-
 to some of political in Las Vegas and Teddy Schleffer from the New York Times was just hanging
 
 out of the bar. He didn't get invited. He just was literally gum shoo. Teddy is old school, man.
@@ -8116,8 +7111,6 @@ And you have to have like a level of just, you do. I mean, this is what this is.
 People are always like, why do people tell you things? Why do people tell you things? Why do people
 
 you things that violate an NDA.
-
-
 
 Oh, yeah, yeah, yeah.
 
@@ -8135,8 +7128,6 @@ And so leaking the truth out can be beneficial to update that, that's the more o
 
 I mean, I think gossip is not negative.
 
-
-
 Yeah, totally.
 
 It's just like, I mean, it's sort of neutral.
@@ -8152,8 +7143,6 @@ That's different.
 That does happen, but there's also people that you say, like, the story deserves to be told.
 
 Yeah, and you want to, like, give and take.
-
-
 
 So a thing I try to do also is, like, I share stuff.
 
@@ -8171,8 +7160,6 @@ Because telling somebody, hey, subscribe, and then I'm going to just go off in t
 
 and then write a story that will ultimately kind of, like, become free.
 
-
-
 Yeah.
 
 Yeah.
@@ -8188,8 +7175,6 @@ Yep.
 Maybe not the Washington Post anymore.
 
 It's the barbell.
-
-
 
 Yeah.
 
@@ -8207,8 +7192,6 @@ It's actually better for you if you're doing that work because you have the lega
 
 Totally.
 
-
-
 Totally.
 
 The benefit of time.
@@ -8224,8 +7207,6 @@ Will you ever write a book?
 Yeah, I've thought about it.
 
 Yeah, I've been, I've had conversations.
-
-
 
 No one I know who has written a book has enjoyed it.
 
@@ -8243,8 +7224,6 @@ Life once you become a New York.
 
 Yeah, the game theory is, like, tell all your enemy is not to do the things.
 
-
-
 Do people read books?
 
 Like, I mean, I haven't read a full book in a long time.
@@ -8260,8 +7239,6 @@ over your phone, give it a little weathered yellow color overlay.
 I say, Claude, make this 800 pages.
 
 No, no, no, no, no.
-
-
 
 You just show that on a screenshot, and people will be like, oh, it's authoritative.
 
@@ -8279,8 +7256,6 @@ like give it to all the cafes.
 
 It's just, it's lead, it's, you don't have to do it forever, but it'd be a good lead gen for the newsletter.
 
-
-
 Or like a week or like a week.
 
 All you do, you just have like have a process when you publish something, print it,
@@ -8296,8 +7271,6 @@ I mean like I'm going to do events this year.
 Like getting out there and like filling like, yeah, being out in the world.
 
 No, no.
-
-
 
 It seems ridiculous for a podcast to have like as aggressive of a brand we have.
 
@@ -8315,8 +7288,6 @@ Did that do what you guys hoped?
 
 A hundred percent.
 
-
-
 Yeah?
 
 The sponsors seemed thrilled.
@@ -8332,8 +7303,6 @@ There was thousands.
 And so, like, we've had so many guests come on the show.
 
 I don't think you had a logo when you came on.
-
-
 
 I didn't.
 
@@ -8351,8 +7320,6 @@ It's very awesome to see what you guys are doing.
 
 Yeah.
 
-
-
 question for me. What's the longest you've ever held a scoop? Oh my god. That's
 
 holding a scoop is like being underwater. That keeps me all you want to do is take a
@@ -8368,8 +7335,6 @@ Couple months. Because yeah, we've been talking to some folks who are writing bo
 Mm-hmm. Oh, that's really hard.
 
 I don't know how.
-
-
 
 Because it's like a year or two.
 
@@ -8387,8 +7352,6 @@ And you got to, you got to like itemize things out in a way that a book doesn't.
 
 So yeah, it's, I'm holding right now, actually, and it's tough.
 
-
-
 I'm like antsy.
 
 Okay.
@@ -8404,8 +7367,6 @@ Well, it's great having you on.
 It's been amazing to see your success.
 
 And again, threading that needle by being, you know, telling interesting stories.
-
-
 
 but not being adversarial is, is fantastic.
 
@@ -8423,8 +7384,6 @@ Yeah, I think we can plant the bomb.
 
 Hey, tell everyone.
 
-
-
 Can end the show with us.
 
 Tell everyone where to find.
@@ -8440,8 +7399,6 @@ Access.
 Oh, I like that.
 
 That's really funny.
-
-
 
 But access is available in your podcast letters, of course.
 
@@ -8459,8 +7416,6 @@ Go get a scoop.
 
 No excuses.
 
-
-
 But don't hold on to it.
 
 We love you.
@@ -8470,9 +7425,3 @@ Goodbye.
 Nice work, brothers.
 
 I'll see you on the next one.
-
-There aren't comments yet for this episode. Click on any sentence in the transcript to leave a comment.
-
-What is this?
-
-Report Ad

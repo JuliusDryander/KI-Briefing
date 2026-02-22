@@ -32,12 +32,22 @@ jobs:
           playwright install chromium
           playwright install-deps chromium
 
-      # 4. Scraper ausführen → erzeugt latest.txt
+      # 4. Scraper ausführen → erzeugt latest.txt (nur bei neuen Episoden)
       - name: Run scraper
-        run: python scraper.py
+        id: scraper
+        run: |
+          python -c "
+          from scraper import scrape_all
+          has_new = scrape_all()
+          # Ergebnis als GitHub Output setzen
+          import os
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f'has_new={str(has_new).lower()}\n')
+          "
 
-      # 5. Briefing erstellen → erzeugt briefing.md
+      # 5. Briefing erstellen → NUR wenn neue Episoden da sind
       - name: Generate briefing
+        if: steps.scraper.outputs.has_new == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python briefing.py

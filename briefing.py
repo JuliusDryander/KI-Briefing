@@ -22,7 +22,7 @@ import sys
 # KONFIGURATION
 # ============================================================
 
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-2.5-flash"
 INPUT_FILE = "latest.txt"
 OUTPUT_FILE = "briefing.md"
 MAX_OUTPUT_TOKENS = 8192

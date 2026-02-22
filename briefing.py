@@ -25,7 +25,7 @@ import sys
 GEMINI_MODEL = "gemini-2.5-flash"
 INPUT_FILE = "latest.txt"
 OUTPUT_FILE = "briefing.md"
-MAX_OUTPUT_TOKENS = 8192
+MAX_OUTPUT_TOKENS = 65536
 TEMPERATURE = 0.2
 
 # ============================================================

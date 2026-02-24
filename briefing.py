@@ -25,7 +25,8 @@ import sys
 GEMINI_MODEL = "gemini-2.5-flash-preview-05-20"
 INPUT_FILE = "latest.txt"
 OUTPUT_FILE = "briefing.md"
-MAX_OUTPUT_TOKENS = 8192
+EMAIL_OUTPUT_FILE = "briefing_email.html"
+MAX_OUTPUT_TOKENS = 65536
 TEMPERATURE = 0.2
 
 # ============================================================
@@ -108,23 +109,21 @@ Antworte ausschließlich in reinem Markdown. Kein JSON. Kein Wrapper. Beginne di
 
 [Kurze Erwähnung von 2-3 Themen, die es nicht in den Deep-Dive geschafft haben – jeweils 1-2 Sätze]
 
-# 💡 LinkedIn-Potenzial (Fokus: Was bedeutet das für Europa?)
+# 💭 Zum Drüber Nachdenken
 
-**Hook 1:** [Aufmerksamkeitsstarker Einstieg mit Europa-Bezug]
-- Inhalt: [2-3 Sätze, die das US-Thema mit einer europäischen Implikation verknüpfen]
-- Europa-Relevanz: [1 Satz: Warum sollte ein europäischer Entscheider das wissen?]
-- Call-to-Action: [Frage an die Community]
+**Impuls 1:** [Provokante These oder Frage mit Europa-Bezug, die sich aus dem Briefing ergibt]
+- Kontext: [2-3 Sätze, die das US-Thema mit einer europäischen Implikation verknüpfen]
+- Die Frage dahinter: [1 Satz: Was sollten europäische Entscheider sich fragen?]
 
-**Hook 2:** [Aufmerksamkeitsstarker Einstieg mit Europa-Bezug]
-- Inhalt: [2-3 Sätze]
-- Europa-Relevanz: [1 Satz]
-- Call-to-Action: [Frage an die Community]
+**Impuls 2:** [Provokante These oder Frage mit Europa-Bezug]
+- Kontext: [2-3 Sätze]
+- Die Frage dahinter: [1 Satz]
 
-WICHTIG für LinkedIn-Hooks:
-- Keine Skandal- oder Klatsch-Themen als Hooks verwenden
+WICHTIG für die Impulse:
+- Keine Skandal- oder Klatsch-Themen
 - Fokus auf Wirtschaft, Technologie, Infrastruktur, Regulierung
-- Die Hooks sollen zeigen, was die US-Diskussion für Europa bedeutet
-- Provokant aber professionell – kein Clickbait
+- Die Impulse sollen zeigen, was die US-Diskussion für Europa bedeutet
+- Provokant aber professionell – zum Nachdenken anregen, nicht belehren
 
 ---
 
@@ -268,6 +267,19 @@ def main():
         f.write(briefing)
 
     print(f"Briefing gespeichert: {OUTPUT_FILE} ({len(briefing)} Zeichen)")
+
+    # 4. Gestyltes Email-HTML erzeugen
+    try:
+        from email_template import convert_md_to_email
+        email_html = convert_md_to_email(briefing)
+        with open(EMAIL_OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write(email_html)
+        print(f"Email-HTML gespeichert: {EMAIL_OUTPUT_FILE} ({len(email_html)} Zeichen)")
+    except ImportError:
+        print("email_template.py nicht gefunden – überspringe HTML-Generierung")
+    except Exception as e:
+        print(f"WARNUNG: Email-HTML Generierung fehlgeschlagen: {e}")
+        print("Briefing.md wurde trotzdem gespeichert.")
 
 
 if __name__ == "__main__":

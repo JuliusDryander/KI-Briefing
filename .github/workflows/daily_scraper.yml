@@ -2,8 +2,8 @@ name: Daily KI-Briefing
 
 on:
   schedule:
-    # Jeden Tag um 05:00 UTC 
-    - cron: '0 4 * * *'
+    # Montag-Freitag um 05:00 UTC (06:00 Berlin Winterzeit, 07:00 Sommerzeit)
+    - cron: '0 5 * * 1-5'
   workflow_dispatch:  # Manuelles Auslösen möglich
 
 permissions:
@@ -46,6 +46,7 @@ jobs:
           "
 
       # 5. Briefing erstellen → NUR wenn neue Episoden da sind
+      #    Erzeugt briefing.md + briefing_email.html
       - name: Generate briefing
         if: steps.scraper.outputs.has_new == 'true'
         env:

@@ -251,10 +251,13 @@ def find_latest_episode_url(page, source):
     base_path = base_url.replace(DOMAIN, "")
     for link in all_links:
         href = link.get('href', '')
+        link_text = link.get_text(strip=True).lower()
         if (href.startswith(base_path)
                 and len(href) > len(base_path)
                 and "page=" not in href):
-            if not any(ex.lower() in href.lower() for ex in exclude):
+            # Exclude-Filter: prüft sowohl URL als auch Link-Text
+            if not any(ex.lower() in href.lower() or ex.lower() in link_text
+                       for ex in exclude):
                 return DOMAIN + href if href.startswith('/') else href
     return None
 

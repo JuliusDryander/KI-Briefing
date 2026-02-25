@@ -2,22 +2,27 @@ import datetime
 import json
 import os
 import re
-from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
+import subprocess
+import tempfile
+import xml.etree.ElementTree as ET
 
-DOMAIN = "https://podscripts.co"
+import requests
+from google import genai
+from google.genai import types
+
 PROCESSED_FILE = "processed.json"
+GEMINI_MODEL = "gemini-2.5-flash-preview-05-20"
 
 # ============================================================
-# PODCAST-QUELLEN KONFIGURATION
+# PODCAST-QUELLEN KONFIGURATION (RSS-basiert)
 # ============================================================
 
 SOURCES = [
     {
         "name": "TBPN",
-        "url": "https://podscripts.co/podcasts/tbpn-live/",
-        "min_chars": 50000,
-        "exclude": ["diet"],
+        "rss_url": "https://feeds.transistor.fm/technology-brother",
+        "min_duration_minutes": 45,  # Mindestlänge um Diet-Episoden zu filtern
+        "exclude_title": ["diet"],   # Titel-Filter (case-insensitive)
         "corrections": {
             "TVPN": "TBPN",
             "Grogopedia": "Grokopedia",
@@ -28,9 +33,9 @@ SOURCES = [
     },
     {
         "name": "All-In",
-        "url": "https://podscripts.co/podcasts/all-in-with-chamath-jason-sacks-friedberg/",
-        "min_chars": 30000,
-        "exclude": [],
+        "rss_url": "https://allinchamathjason.libsyn.com/rss",
+        "min_duration_minutes": 30,
+        "exclude_title": [],
         "corrections": {
             "Jamath": "Chamath",
             "Chamat ": "Chamath ",
@@ -43,9 +48,9 @@ SOURCES = [
     #
     # {
     #     "name": "BG2",
-    #     "url": "https://podscripts.co/podcasts/bg2pod/",
-    #     "min_chars": 15000,
-    #     "exclude": [],
+    #     "rss_url": "https://feeds.megaphone.fm/...",
+    #     "min_duration_minutes": 15,
+    #     "exclude_title": [],
     #     "corrections": {},
     # },
     # -------------------------------------------------------
@@ -57,7 +62,7 @@ SOURCES = [
 # ============================================================
 
 def load_processed():
-    """Lädt die Liste bereits verarbeiteter Episode-URLs pro Quelle."""
+    """Lädt die Liste bereits verarbeiteter Episode-GUIDs pro Quelle."""
     if os.path.exists(PROCESSED_FILE):
         with open(PROCESSED_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
@@ -65,23 +70,262 @@ def load_processed():
 
 
 def save_processed(processed):
-    """Speichert die Liste verarbeiteter Episode-URLs."""
+    """Speichert die Liste verarbeiteter Episode-GUIDs."""
     with open(PROCESSED_FILE, "w", encoding="utf-8") as f:
         json.dump(processed, f, indent=2, ensure_ascii=False)
 
 
-def is_already_processed(processed, source_name, episode_url):
-    """Prüft ob eine Episode schon verarbeitet wurde."""
-    return processed.get(source_name) == episode_url
+# ============================================================
+# RSS FEED PARSING
+# ============================================================
+
+def parse_duration(duration_str):
+    """Parst verschiedene Dauer-Formate und gibt Minuten zurück."""
+    if not duration_str:
+        return 0
+    # Format: HH:MM:SS oder MM:SS
+    parts = duration_str.strip().split(":")
+    try:
+        if len(parts) == 3:
+            return int(parts[0]) * 60 + int(parts[1]) + int(parts[2]) / 60
+        elif len(parts) == 2:
+            return int(parts[0]) + int(parts[1]) / 60
+        else:
+            return int(parts[0]) / 60  # Sekunden
+    except ValueError:
+        return 0
 
 
-def mark_as_processed(processed, source_name, episode_url):
-    """Markiert eine Episode als verarbeitet."""
-    processed[source_name] = episode_url
+def get_latest_episode(source):
+    """
+    Holt den RSS-Feed und gibt die neueste passende Episode zurück.
+    Returns: dict mit {guid, title, audio_url, duration_min, pub_date} oder None
+    """
+    name = source["name"]
+    rss_url = source["rss_url"]
+    exclude_title = source.get("exclude_title", [])
+    min_duration = source.get("min_duration_minutes", 0)
+
+    print(f"  [{name}] Lade RSS-Feed: {rss_url}")
+
+    try:
+        resp = requests.get(rss_url, timeout=30, headers={
+            "User-Agent": "KI-Briefing-Bot/1.0"
+        })
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  [{name}] FEHLER beim Laden des RSS-Feeds: {e}")
+        return None
+
+    # XML parsen
+    try:
+        root = ET.fromstring(resp.content)
+    except ET.ParseError as e:
+        print(f"  [{name}] FEHLER beim Parsen des RSS-Feeds: {e}")
+        return None
+
+    # Namespaces für iTunes-Tags
+    ns = {
+        "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "content": "http://purl.org/rss/1.0/modules/content/",
+    }
+
+    channel = root.find("channel")
+    if channel is None:
+        print(f"  [{name}] Kein <channel> im Feed gefunden.")
+        return None
+
+    for item in channel.findall("item"):
+        title_el = item.find("title")
+        title = title_el.text.strip() if title_el is not None and title_el.text else ""
+
+        # Titel-Filter: Diet-Episoden etc. ausschließen
+        skip = False
+        for ex in exclude_title:
+            if ex.lower() in title.lower():
+                print(f"  [{name}] Überspringe (Titel-Filter '{ex}'): {title[:60]}")
+                skip = True
+                break
+        if skip:
+            continue
+
+        # Audio-URL aus <enclosure>
+        enclosure = item.find("enclosure")
+        if enclosure is None:
+            continue
+        audio_url = enclosure.get("url", "")
+        if not audio_url:
+            continue
+
+        # Dauer prüfen
+        duration_el = item.find("itunes:duration", ns)
+        duration_str = duration_el.text if duration_el is not None else ""
+        duration_min = parse_duration(duration_str)
+
+        if min_duration > 0 and duration_min < min_duration:
+            print(f"  [{name}] Überspringe (zu kurz: {duration_min:.0f} Min): {title[:60]}")
+            continue
+
+        # GUID für Duplikat-Check
+        guid_el = item.find("guid")
+        guid = guid_el.text.strip() if guid_el is not None and guid_el.text else audio_url
+
+        # Datum
+        pub_date_el = item.find("pubDate")
+        pub_date = pub_date_el.text.strip() if pub_date_el is not None and pub_date_el.text else ""
+
+        print(f"  [{name}] Neueste Episode: {title[:80]}")
+        print(f"  [{name}] Dauer: {duration_min:.0f} Min | Datum: {pub_date[:25]}")
+
+        return {
+            "guid": guid,
+            "title": title,
+            "audio_url": audio_url,
+            "duration_min": duration_min,
+            "pub_date": pub_date,
+        }
+
+    print(f"  [{name}] Keine passende Episode im Feed gefunden.")
+    return None
 
 
 # ============================================================
-# GEMEINSAME CLEANING-PATTERNS
+# AUDIO DOWNLOAD
+# ============================================================
+
+def download_audio(audio_url, name):
+    """Lädt die MP3-Datei herunter. Gibt den Dateipfad zurück."""
+    print(f"  [{name}] Lade Audio herunter: {audio_url[:80]}...")
+
+    suffix = ".mp3"
+    if ".m4a" in audio_url:
+        suffix = ".m4a"
+    elif ".wav" in audio_url:
+        suffix = ".wav"
+
+    tmp = tempfile.NamedTemporaryFile(suffix=suffix, delete=False)
+    tmp_path = tmp.name
+    tmp.close()
+
+    try:
+        resp = requests.get(audio_url, timeout=600, stream=True, headers={
+            "User-Agent": "KI-Briefing-Bot/1.0"
+        })
+        resp.raise_for_status()
+
+        total = 0
+        with open(tmp_path, "wb") as f:
+            for chunk in resp.iter_content(chunk_size=1024 * 1024):
+                f.write(chunk)
+                total += len(chunk)
+
+        size_mb = total / (1024 * 1024)
+        print(f"  [{name}] Download fertig: {size_mb:.1f} MB")
+        return tmp_path
+
+    except Exception as e:
+        print(f"  [{name}] FEHLER beim Download: {e}")
+        if os.path.exists(tmp_path):
+            os.unlink(tmp_path)
+        return None
+
+
+# ============================================================
+# GEMINI TRANSKRIPTION
+# ============================================================
+
+def transcribe_with_gemini(audio_path, source):
+    """
+    Sendet die Audio-Datei an Gemini und bekommt ein Transkript zurück.
+    Gibt den transkribierten Text zurück.
+    """
+    name = source["name"]
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print(f"  [{name}] FEHLER: GEMINI_API_KEY nicht gesetzt!")
+        return None
+
+    client = genai.Client(api_key=api_key)
+
+    print(f"  [{name}] Lade Audio zu Gemini hoch...")
+
+    # Datei hochladen via Files API (für große Dateien)
+    try:
+        uploaded_file = client.files.upload(file=audio_path)
+        print(f"  [{name}] Upload erfolgreich: {uploaded_file.name}")
+    except Exception as e:
+        print(f"  [{name}] FEHLER beim Upload: {e}")
+        return None
+
+    # Warten bis Datei verarbeitet ist
+    import time
+    max_wait = 300  # 5 Minuten max warten
+    waited = 0
+    while waited < max_wait:
+        file_info = client.files.get(name=uploaded_file.name)
+        if file_info.state.name == "ACTIVE":
+            break
+        print(f"  [{name}] Warte auf Verarbeitung... ({waited}s)")
+        time.sleep(10)
+        waited += 10
+
+    if file_info.state.name != "ACTIVE":
+        print(f"  [{name}] FEHLER: Datei nicht rechtzeitig verarbeitet (Status: {file_info.state.name})")
+        return None
+
+    # Transkription anfordern
+    print(f"  [{name}] Starte Transkription...")
+
+    prompt = """Transcribe this podcast episode completely and accurately.
+
+Requirements:
+- Transcribe ALL speech content from start to finish
+- Identify speakers where possible (e.g., "Speaker 1:", "John:", etc.)
+- Include timestamps every 5-10 minutes in format [MM:SS]
+- Transcribe in the original language (English)
+- Preserve all proper nouns, company names, and technical terms accurately
+- Do NOT summarize - provide the full verbatim transcript
+- Skip ad reads and sponsor segments if clearly identifiable
+"""
+
+    try:
+        response = client.models.generate_content(
+            model=GEMINI_MODEL,
+            contents=[
+                types.Content(
+                    parts=[
+                        types.Part.from_uri(
+                            file_uri=uploaded_file.uri,
+                            mime_type=uploaded_file.mime_type,
+                        ),
+                        types.Part.from_text(text=prompt),
+                    ]
+                )
+            ],
+            config=types.GenerateContentConfig(
+                max_output_tokens=65536,
+                temperature=0.1,
+            ),
+        )
+
+        transcript = response.text
+        print(f"  [{name}] Transkription erhalten: {len(transcript)} Zeichen")
+
+        # Cleanup: Datei bei Gemini löschen
+        try:
+            client.files.delete(name=uploaded_file.name)
+        except Exception:
+            pass
+
+        return transcript
+
+    except Exception as e:
+        print(f"  [{name}] FEHLER bei Transkription: {e}")
+        return None
+
+
+# ============================================================
+# TEXT-BEREINIGUNG
 # ============================================================
 
 AD_PATTERNS = [
@@ -89,7 +333,6 @@ AD_PATTERNS = [
     r"And let me (?:also )?tell you about\b",
     r"While .{0,30} let me tell you about\b",
     r"I'm (?:also )?going to tell you about\b",
-    r"And I'm (?:also )?going to tell you about\b",
     r"is made possible by\b",
     r"is brought to you by\b",
     r"is sponsored by\b",
@@ -97,38 +340,6 @@ AD_PATTERNS = [
     r"Today's episode is powered by\b",
 ]
 AD_REGEX = re.compile("|".join(AD_PATTERNS), re.IGNORECASE)
-
-SPONSOR_LINK_REGEX = re.compile(
-    r"^.{1,60}\s*[-–—]\s*https?://\S+$", re.MULTILINE
-)
-
-FOOTER_MARKERS = [
-    "There aren't comments yet",
-    "Report Ad",
-    "What is this?",
-    "Click on any sentence in the transcript",
-]
-
-TRANSCRIPT_START_MARKERS = {
-    "TBPN": [
-        "You're watching TBPN",
-        "you're watching TBPN",
-        "We are live from",
-        "we are live from",
-        "Sign up for TBPN",
-    ],
-    "All-In": [
-        "welcome back to the",
-        "Welcome back to the",
-        "I'm going all in",
-        "going all in",
-        "All right, everybody",
-        "besties",
-    ],
-    "_default": [
-        "Transcript",
-    ],
-}
 
 GUEST_PATTERNS = [
     r"[Ll]et'?s bring (?:him|her|them) in",
@@ -138,35 +349,14 @@ GUEST_PATTERNS = [
 GUEST_REGEX = re.compile("|".join(GUEST_PATTERNS))
 
 
-# ============================================================
-# CLEANING FUNCTIONS
-# ============================================================
-
-def clean_transcript(raw_text, source):
+def clean_transcript(text, source):
     """Bereinigt ein Transkript basierend auf der Quellen-Konfiguration."""
     name = source["name"]
     corrections = source.get("corrections", {})
     print(f"  [{name}] Starte Text-Reinigung...")
-    cleaned = raw_text
+    cleaned = text
 
-    # --- STUFE 1: Header abschneiden ---
-    markers = TRANSCRIPT_START_MARKERS.get(name, TRANSCRIPT_START_MARKERS["_default"])
-    for marker in markers:
-        idx = cleaned.find(marker)
-        if idx != -1:
-            cleaned = cleaned[idx:]
-            print(f"  [{name}] Header entfernt (bei: '{marker[:30]}...')")
-            break
-
-    # --- STUFE 2: Footer abschneiden ---
-    for marker in FOOTER_MARKERS:
-        idx = cleaned.find(marker)
-        if idx != -1:
-            cleaned = cleaned[:idx]
-            print(f"  [{name}] Footer entfernt")
-            break
-
-    # --- STUFE 3: Werbeblöcke entfernen ---
+    # Werbeblöcke entfernen
     paragraphs = cleaned.split("\n\n")
     filtered = []
     ads_removed = 0
@@ -182,22 +372,14 @@ def clean_transcript(raw_text, source):
     if ads_removed:
         print(f"  [{name}] {ads_removed} Werbeblöcke entfernt")
 
-    # --- STUFE 4: Sponsor-Links entfernen ---
-    cleaned = SPONSOR_LINK_REGEX.sub("", cleaned)
-
-    # --- STUFE 5: Timestamps entfernen ---
-    cleaned = re.sub(r'Starting point is \d{2}:\d{2}:\d{2}', '', cleaned)
-    cleaned = re.sub(r'\(\d{2}:\d{2}:\d{2}\)', '', cleaned)
-
-    # --- STUFE 6: Podcast-spezifische Korrekturen ---
+    # Podcast-spezifische Korrekturen
     for wrong, right in corrections.items():
         if wrong in cleaned:
             count = cleaned.count(wrong)
             cleaned = cleaned.replace(wrong, right)
             print(f"  [{name}] Korrektur: '{wrong}' → '{right}' ({count}x)")
 
-    # --- STUFE 7: Normalisierung ---
-    cleaned = re.sub(r'(?<!\n)\n(?!\n)', ' ', cleaned)
+    # Normalisierung
     cleaned = re.sub(r'\n{3,}', '\n\n', cleaned)
     cleaned = re.sub(r' +', ' ', cleaned)
     cleaned = cleaned.strip()
@@ -217,150 +399,93 @@ def add_segment_markers(text):
     return "\n\n".join(result)
 
 
-def build_header(title, url, name, date_str, char_count):
+def build_header(title, audio_url, name, date_str, char_count):
     """Metadaten-Header für ein Transkript."""
     return (
         f"=== PODCAST-TRANSKRIPT: {name} ===\n"
         f"Titel: {title}\n"
-        f"Quelle: {url}\n"
+        f"Quelle: {audio_url[:80]}...\n"
         f"Datum: {date_str}\n"
         f"Länge: ~{char_count // 1000}k Zeichen\n"
-        f"Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.\n"
+        f"Hinweis: Werbung entfernt. '---' markiert Gast-Wechsel.\n"
+        f"Transkription: Gemini AI (automatisch)\n"
         f"{'=' * 40}\n\n"
     )
 
 
 # ============================================================
-# SCRAPER
+# HAUPTLOGIK
 # ============================================================
 
-def find_latest_episode_url(page, source):
-    """
-    Findet die URL der neuesten Episode einer Quelle,
-    OHNE sie zu scrapen. Gibt die URL zurück oder None.
-    """
-    base_url = source["url"]
-    exclude = source.get("exclude", [])
-
-    page.goto(base_url)
-    page.wait_for_load_state('networkidle')
-
-    soup = BeautifulSoup(page.content(), 'html.parser')
-    all_links = soup.find_all('a', href=True)
-
-    base_path = base_url.replace(DOMAIN, "")
-    for link in all_links:
-        href = link.get('href', '')
-        link_text = link.get_text(strip=True).lower()
-        if (href.startswith(base_path)
-                and len(href) > len(base_path)
-                and "page=" not in href):
-            # Exclude-Filter: prüft sowohl URL als auch Link-Text
-            if not any(ex.lower() in href.lower() or ex.lower() in link_text
-                       for ex in exclude):
-                return DOMAIN + href if href.startswith('/') else href
-    return None
-
-
-def scrape_episode(page, source, ep_url):
-    """
-    Scraped eine einzelne Episode.
-    Gibt (title, cleaned_text) zurück, oder None.
-    """
-    name = source["name"]
-    min_chars = source["min_chars"]
-
-    print(f"  Scrape: {ep_url}")
-
-    page.goto(ep_url)
-    page.wait_for_load_state('networkidle')
-
-    # "Read More" Buttons klicken
-    try:
-        buttons = page.locator('button')
-        for i in range(buttons.count()):
-            text = buttons.nth(i).inner_text().lower()
-            if "read more" in text or "load" in text or "show" in text:
-                buttons.nth(i).click(timeout=3000)
-                page.wait_for_timeout(2000)
-    except Exception:
-        pass
-
-    ep_html = page.content()
-    ep_soup = BeautifulSoup(ep_html, 'html.parser')
-
-    for element in ep_soup(["nav", "footer", "header", "script", "style"]):
-        element.decompose()
-
-    raw_text = ep_soup.get_text(separator='\n\n', strip=True)
-
-    clean_text = clean_transcript(raw_text, source)
-    clean_text = add_segment_markers(clean_text)
-
-    if len(clean_text) > min_chars:
-        title = (ep_soup.find('h1').get_text(strip=True)
-                 if ep_soup.find('h1') else "Unbekannter Titel")
-        print(f"  GEFUNDEN! ({len(clean_text)} Zeichen)")
-        return title, clean_text
-    else:
-        print(f"  Zu kurz ({len(clean_text)} Zeichen), übersprungen.")
-        return None
-
-
 def scrape_all():
-    """Scraped alle konfigurierten Quellen, überspringt bereits verarbeitete."""
+    """Verarbeitet alle konfigurierten Quellen via RSS + Gemini."""
     date_str = datetime.date.today().strftime("%Y-%m-%d")
     processed = load_processed()
 
-    print("Starte Browser...")
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
+    results = []
 
-        results = []
+    for source in SOURCES:
+        name = source["name"]
+        print(f"\n{'='*50}")
+        print(f"Prüfe: {name}")
+        print(f"{'='*50}")
 
-        for source in SOURCES:
-            name = source["name"]
-            print(f"\n{'='*50}")
-            print(f"Prüfe: {name}")
-            print(f"{'='*50}")
+        # 1. Neueste Episode aus RSS-Feed
+        episode = get_latest_episode(source)
+        if not episode:
+            print(f"  [{name}] Keine Episode gefunden.")
+            continue
 
-            # 1. Neueste Episode-URL finden
-            latest_url = find_latest_episode_url(page, source)
-            if not latest_url:
-                print(f"  [{name}] Keine Episode gefunden.")
+        # 2. Duplikat-Check
+        if processed.get(name) == episode["guid"]:
+            print(f"  [{name}] ⏭️  Bereits verarbeitet: {episode['title'][:50]}...")
+            print(f"  [{name}] Keine neue Episode seit letztem Lauf.")
+            continue
+
+        print(f"  [{name}] 🆕 Neue Episode: {episode['title'][:60]}")
+
+        # 3. Audio herunterladen
+        audio_path = download_audio(episode["audio_url"], name)
+        if not audio_path:
+            continue
+
+        try:
+            # 4. Mit Gemini transkribieren
+            transcript = transcribe_with_gemini(audio_path, source)
+            if not transcript:
                 continue
 
-            # 2. Duplikat-Check
-            if is_already_processed(processed, name, latest_url):
-                print(f"  [{name}] ⏭️  Bereits verarbeitet: {latest_url}")
-                print(f"  [{name}] Keine neue Episode seit letztem Lauf.")
-                continue
+            # 5. Transkript bereinigen
+            clean_text = clean_transcript(transcript, source)
+            clean_text = add_segment_markers(clean_text)
 
-            print(f"  [{name}] 🆕 Neue Episode: {latest_url}")
-
-            # 3. Scrapen
-            result = scrape_episode(page, source, latest_url)
-            if result:
-                title, text = result
-                header = build_header(title, latest_url, name, date_str, len(text))
+            if len(clean_text) > 5000:  # Mindestlänge für gültiges Transkript
+                header = build_header(
+                    episode["title"], episode["audio_url"],
+                    name, date_str, len(clean_text)
+                )
                 results.append({
                     "name": name,
-                    "title": title,
-                    "url": latest_url,
-                    "content": header + text,
+                    "title": episode["title"],
+                    "guid": episode["guid"],
+                    "content": header + clean_text,
                 })
                 # Als verarbeitet markieren
-                mark_as_processed(processed, name, latest_url)
+                processed[name] = episode["guid"]
+            else:
+                print(f"  [{name}] Transkript zu kurz ({len(clean_text)} Zeichen)")
 
-        browser.close()
+        finally:
+            # Temp-Datei aufräumen
+            if os.path.exists(audio_path):
+                os.unlink(audio_path)
 
-    # Processed-Datei aktualisieren (auch wenn keine neuen Ergebnisse)
+    # Processed-Datei aktualisieren
     save_processed(processed)
 
     if not results:
         print("\nKeine neuen Episoden gefunden. Briefing wird nicht aktualisiert.")
-        return False  # Signal für briefing.py: nichts zu tun
+        return False
 
     # ---------------------------------------------------------
     # EINZELNE DATEIEN pro Quelle (für Archiv)
@@ -372,7 +497,7 @@ def scrape_all():
         print(f"Gespeichert: {fname}")
 
     # ---------------------------------------------------------
-    # KOMBINIERTE DATEI für Gemini/Claude (latest.txt)
+    # KOMBINIERTE DATEI für Gemini (latest.txt)
     # ---------------------------------------------------------
     combined_header = (
         f"=== KOMBINIERTES BRIEFING-MATERIAL | {date_str} ===\n"
@@ -399,7 +524,7 @@ def scrape_all():
     for r in results:
         print(f"  ✅ {r['name']}: {r['title'][:60]}... ({len(r['content'])//1000}k)")
 
-    return True  # Signal: neue Inhalte vorhanden
+    return True
 
 
 if __name__ == "__main__":

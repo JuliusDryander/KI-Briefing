@@ -1,0 +1,62 @@
+name: Daily KI-Briefing
+
+on:
+  schedule:
+    # Mo-Fr um 05:00 UTC = 06:00 Berlin (Winterzeit) / 07:00 (Sommerzeit)
+    - cron: '0 5 * * 1-5'
+  workflow_dispatch:  # Manuelles Auslösen
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests google-genai
+
+      - name: Run scraper (RSS + Gemini transcription)
+        id: scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if python scraper.py; then
+            if [ -f latest.txt ]; then
+              echo "has_new=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "has_new=false" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "has_new=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate briefing with Gemini
+        if: steps.scraper.outputs.has_new == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python briefing.py
+
+      - name: Write status file
+        run: |
+          if [ "${{ steps.scraper.outputs.has_new }}" = "true" ]; then
+            echo '{"status":"new_briefing","date":"'$(date -u +'%Y-%m-%d')'"}' > status.json
+          else
+            echo '{"status":"no_update","date":"'$(date -u +'%Y-%m-%d')'"}' > status.json
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Briefing $(date -u +'%Y-%m-%d')"
+          git push

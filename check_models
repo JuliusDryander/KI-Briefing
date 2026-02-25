@@ -1,0 +1,18 @@
+import google.generativeai as genai
+import os
+
+# Stelle sicher, dass dein API-Key hier geladen wird, 
+# genau wie in deiner briefing.py
+# genai.configure(api_key="DEIN_API_KEY_HIER") 
+# (Besser: Lade ihn über Umgebungsvariablen wie unten)
+
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
+
+print("Verfügbare Modelle für die Textgenerierung:")
+print("-" * 40)
+
+# Geht alle verfügbaren Modelle durch
+for m in genai.list_models():
+    # Wir filtern nach Modellen, die Text generieren können
+    if 'generateContent' in m.supported_generation_methods:
+        print(m.name)

@@ -22,7 +22,7 @@ import sys
 # KONFIGURATION
 # ============================================================
 
-GEMINI_MODEL = "gemini-2.5-flash-preview-05-20"
+GEMINI_MODEL = "gemini-1.5-flash"
 INPUT_FILE = "latest.txt"
 OUTPUT_FILE = "briefing.md"
 EMAIL_OUTPUT_FILE = "briefing_email.html"

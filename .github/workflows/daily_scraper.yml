@@ -46,21 +46,20 @@ jobs:
           "
 
       # 5. Briefing erstellen → NUR wenn neue Episoden da sind
-      #    Erzeugt briefing.md + briefing_email.html
       - name: Generate briefing
         if: steps.scraper.outputs.has_new == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python briefing.py
 
-        # 6. Status-Datei schreiben (für Make.com)
+      # 6. Status-Datei schreiben (für Make.com)
       - name: Write status file
         run: |
-        if [ "${{ steps.scraper.outputs.has_new }}" = "true" ]; then 
-        echo '{"status":"new_briefing","date":"'$(date -u +'%Y-%m-%d')'"}' > status.json
-        else
-        echo '{"status":"no_update","date":"'$(date -u +'%Y-%m-%d')'"}' > status.json
-        fi
+          if [ "${{ steps.scraper.outputs.has_new }}" = "true" ]; then
+            echo '{"status":"new_briefing","date":"'$(date -u +'%Y-%m-%d')'"}' > status.json
+          else
+            echo '{"status":"no_update","date":"'$(date -u +'%Y-%m-%d')'"}' > status.json
+          fi
 
       # 7. Dateien committen und pushen
       - name: Commit and push

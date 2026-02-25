@@ -17,16 +17,8 @@ import json
 import urllib.request
 import urllib.error
 import sys
-
 import google.generativeai as genai
 
-# --- TEMPORÄRER TEST-BLOCK START ---
-print("--- VERFÜGBARE MODELLE ---")
-for m in genai.list_models():
-    if 'generateContent' in m.supported_generation_methods:
-        print(m.name)
-print("--------------------------")
-# --- TEMPORÄRER TEST-BLOCK ENDE ---
 
 
 # ============================================================

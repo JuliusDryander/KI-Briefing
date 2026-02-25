@@ -17,7 +17,7 @@ import json
 import urllib.request
 import urllib.error
 import sys
-import google.generativeai as genai
+
 
 
 

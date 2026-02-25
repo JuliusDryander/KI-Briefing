@@ -11,7 +11,7 @@ from google import genai
 from google.genai import types
 
 PROCESSED_FILE = "processed.json"
-GEMINI_MODEL = "gemini-2.5-flash-preview-05-20"
+GEMINI_MODEL = "gemini-2.5-flash"
 
 # ============================================================
 # PODCAST-QUELLEN KONFIGURATION (RSS-basiert)

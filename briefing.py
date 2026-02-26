@@ -74,9 +74,10 @@ NIEDRIGE PRIORITÄT (nur in "Weitere Segmente"):
 ### Schritt 3: Extraktion mit Quelltreue
 Für jedes gewählte Segment, extrahiere:
 - **Zentrale These** – in einem Satz, eng am Wortlaut des Sprechers
-- **Belege/Details** – konkrete Zahlen, Beispiele, Unternehmen, die genannt wurden
-- **Einschränkungen** – was der Sprecher NICHT behauptet oder wo er unsicher war
+- **Belege/Details** – die wichtigsten konkreten Zahlen, Beispiele, Unternehmen (MAXIMAL 6 Punkte, nur die stärksten)
 - **Fehlende Sprecher** – wurden im selben Themenblock weitere Personen interviewt?
+
+WICHTIG: Erstelle KEINEN separaten Abschnitt "Einschränkungen" oder "Offene Fragen". Wenn ein Sprecher relevante Einschränkungen nennt, fließen diese in die "Zum Drüber Nachdenken"-Impulse ein.
 
 ## OUTPUT-FORMAT
 
@@ -97,16 +98,15 @@ Antworte ausschließlich in reinem Markdown. Kein JSON. Kein Wrapper. Beginne di
 
 [Name] ([Rolle/Firma wie im Transkript]) [Zusammenfassung der Position, 3-5 Sätze].
 
-**Konkrete Details aus dem Gespräch:**
+**Konkrete Details aus dem Gespräch:** (MAXIMAL 6 Punkte)
 - [Fakt/Zahl/Beispiel 1]
 - [Fakt/Zahl/Beispiel 2]
-- [Fakt/Zahl/Beispiel 3]
+- ...
 
-**Einschränkungen/Offene Fragen:**
-- [Was der Sprecher nicht behauptet hat oder wo Unsicherheit besteht]
-
-**🇪🇺 Europa-Relevanz:** (NUR wenn EU-Kontext bereitgestellt wurde UND ein konkreter Bezug besteht)
-[1-3 Sätze: Was bedeutet dieses Thema für europäische Entscheider? Beziehe dich auf konkrete EU-Regulierungen, Marktdynamiken oder Policy-Unterschiede aus dem EU-Kontext-Dokument. Wenn kein Bezug besteht, lasse diesen Absatz komplett weg.]
+**🇪🇺 Europa-Relevanz:** (NUR wenn EU-Kontext bereitgestellt wurde UND ein konkreter Bezug besteht. Wenn kein Bezug → komplett weglassen.)
+- [Stichpunkt 1: konkreter EU-Bezug, z.B. Regulierung, Marktdynamik, Policy-Unterschied]
+- [Stichpunkt 2: ggf. weiterer Bezug]
+- [Stichpunkt 3: optional, nur wenn substanziell]
 
 ## 📌 Weitere bemerkenswerte Segmente
 
@@ -114,19 +114,25 @@ Antworte ausschließlich in reinem Markdown. Kein JSON. Kein Wrapper. Beginne di
 
 # 💭 Zum Drüber Nachdenken
 
-**Impuls 1:** [Provokante These oder Frage mit Europa-Bezug, die sich aus dem Briefing ergibt]
-- Kontext: [2-3 Sätze, die das US-Thema mit einer europäischen Implikation verknüpfen]
-- Die Frage dahinter: [1 Satz: Was sollten europäische Entscheider sich fragen?]
+**[Überspitzte, provokante These als Überschrift – kein neutraler Titel]**
+Kontext: [2-3 Sätze, die das US-Thema mit einer europäischen Implikation verknüpfen. Hier dürfen auch Einschränkungen und offene Fragen aus dem Podcast einfließen.]
+Die Frage dahinter: [1 Satz, zugespitzt – soll beim Leser hängenbleiben]
 
-**Impuls 2:** [Provokante These oder Frage mit Europa-Bezug]
-- Kontext: [2-3 Sätze]
-- Die Frage dahinter: [1 Satz]
+**[Zweite überspitzte These]**
+Kontext: [2-3 Sätze]
+Die Frage dahinter: [1 Satz]
+
+**[Dritte überspitzte These – optional, nur wenn das Material es hergibt]**
+Kontext: [2-3 Sätze]
+Die Frage dahinter: [1 Satz]
 
 WICHTIG für die Impulse:
 - Keine Skandal- oder Klatsch-Themen
 - Fokus auf Wirtschaft, Technologie, Infrastruktur, Regulierung
 - Die Impulse sollen zeigen, was die US-Diskussion für Europa bedeutet
-- Provokant aber professionell – zum Nachdenken anregen, nicht belehren
+- ÜBERSPITZT und meinungsstark formuliert – wie eine scharfe Kolumne, nicht wie ein akademisches Paper
+- Darf polarisieren, muss aber auf Fakten aus dem Transkript basieren
+- Einschränkungen und Gegenargumente aus dem Podcast gehören HIER rein, nicht in die Deep-Dives
 
 ---
 
@@ -135,10 +141,13 @@ WICHTIG für die Impulse:
 Bevor du antwortest, prüfe:
 - [ ] Steht JEDE Behauptung so im Transkript? Wenn nein → streichen
 - [ ] Sind alle Personen mit der richtigen Rolle/Firma beschrieben?
-- [ ] Habe ich pro Thema auch erwähnt, was der Sprecher NICHT gesagt hat?
 - [ ] Sind wichtige Gesprächspartner berücksichtigt?
 - [ ] Enthält der Output KEINE Informationen aus meinem Vorwissen?
 - [ ] Bei mehreren Quellen: Ist jede These einer Quelle zugeordnet?
+- [ ] Hat KEIN Deep-Dive mehr als 6 konkrete Detail-Punkte?
+- [ ] Gibt es KEINEN Abschnitt "Einschränkungen/Offene Fragen" in den Deep-Dives?
+- [ ] Ist die Europa-Relevanz in Stichpunkten (nicht Fließtext)?
+- [ ] Sind die "Zum Drüber Nachdenken"-Impulse wirklich überspitzt und meinungsstark?
 """
 
 USER_PROMPT_TEMPLATE = """Erstelle ein Executive Briefing aus dem folgenden Podcast-Transkript:

@@ -104,9 +104,25 @@ Antworte ausschließlich in reinem Markdown. Kein JSON. Kein Wrapper. Beginne di
 - ...
 
 **🇪🇺 Europa-Relevanz:** (NUR wenn EU-Kontext bereitgestellt wurde UND ein konkreter Bezug besteht. Wenn kein Bezug → komplett weglassen.)
-- [Stichpunkt 1: konkreter EU-Bezug, z.B. Regulierung, Marktdynamik, Policy-Unterschied]
-- [Stichpunkt 2: ggf. weiterer Bezug]
-- [Stichpunkt 3: optional, nur wenn substanziell]
+- [Stichpunkt mit KONKRETEM Policy-Detail: Paragraphen, Fristen, Bußgelder, Zahlen aus dem EU-Kontext]
+- [Stichpunkt mit konkretem Akteur/Initiative: Wer in Brüssel/Berlin handelt, welches Instrument greift]
+- [Optional: Asymmetrie oder Widerspruch zwischen US- und EU-Ansatz benennen]
+
+QUALITÄTSSTANDARD für Europa-Relevanz (STRIKT EINHALTEN):
+- NIEMALS generische Sätze wie "Der EU AI Act reguliert KI umfassend" oder "Die EU fördert KI-Investitionen". Das ist wertlos.
+- IMMER spezifisch: Welcher Artikel? Welche Frist? Welches Bußgeld? Welcher Akteur? Welches konkrete Instrument?
+- Denke wie ein Policy-Berater, der einem Minister in 30 Sekunden erklärt, warum dieses US-Thema für seine nächste Entscheidung relevant ist.
+- Nutze ZAHLEN aus dem EU-Kontext: €-Beträge, Prozentsätze, Deadlines, Chip-Zahlen.
+- Benenne PERSONEN und ihre Positionen: Virkkunen, Šefčovič, Merz, Höttges, Schumann – nicht "die EU" oder "Deutschland".
+- Zeige SPANNUNGSFELDER: Wo kollidiert das US-Thema mit einer EU-Deadline, einer deutschen Initiative, einem laufenden Gesetzgebungsverfahren?
+
+BEISPIEL für SCHLECHTE Europa-Relevanz:
+"Die EU reguliert KI mit dem AI Act und fördert Investitionen durch InvestAI."
+
+BEISPIEL für GUTE Europa-Relevanz:
+- Ab Aug 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein – Anthropics Lockerung der Sicherheitsstandards könnte den Wettbewerbsdruck auf EU-konforme Anbieter erhöhen.
+- Tim Höttges (Telekom) warnt: Europa nutzt nur 5% der KI-Hochleistungschips vs. 70% in den USA. Das €11-Mrd.-Rechenzentrum Lübbenau (Schwarz Digits) und das Telekom/Nvidia-Projekt München sollen gegensteuern.
+- EVP Virkkunen verhandelt den Digital Omnibus, der die High-Risk-Deadline um bis zu 16 Monate verschieben könnte (Backstop: Dez 2027) – ein Zugeständnis an die Industrie bei gleichzeitigem Festhalten an Standards.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
@@ -115,24 +131,24 @@ Antworte ausschließlich in reinem Markdown. Kein JSON. Kein Wrapper. Beginne di
 # 💭 Zum Drüber Nachdenken
 
 **[Überspitzte, provokante These als Überschrift – kein neutraler Titel]**
-Kontext: [2-3 Sätze, die das US-Thema mit einer europäischen Implikation verknüpfen. Hier dürfen auch Einschränkungen und offene Fragen aus dem Podcast einfließen.]
+Kontext: [2-3 Sätze, die das US-Thema mit einer KONKRETEN europäischen Implikation verknüpfen. Nenne Akteure, Fristen, Zahlen aus dem EU-Kontext. Hier dürfen auch Einschränkungen und offene Fragen aus dem Podcast einfließen.]
 Die Frage dahinter: [1 Satz, zugespitzt – soll beim Leser hängenbleiben]
 
 **[Zweite überspitzte These]**
 Kontext: [2-3 Sätze]
 Die Frage dahinter: [1 Satz]
 
-**[Dritte überspitzte These – optional, nur wenn das Material es hergibt]**
-Kontext: [2-3 Sätze]
-Die Frage dahinter: [1 Satz]
-
 WICHTIG für die Impulse:
+- GENAU 2 Impulse. Nicht mehr, nicht weniger.
 - Keine Skandal- oder Klatsch-Themen
 - Fokus auf Wirtschaft, Technologie, Infrastruktur, Regulierung
 - Die Impulse sollen zeigen, was die US-Diskussion für Europa bedeutet
 - ÜBERSPITZT und meinungsstark formuliert – wie eine scharfe Kolumne, nicht wie ein akademisches Paper
 - Darf polarisieren, muss aber auf Fakten aus dem Transkript basieren
 - Einschränkungen und Gegenargumente aus dem Podcast gehören HIER rein, nicht in die Deep-Dives
+- NUTZE den EU-Kontext auch hier: Nenne konkrete Initiativen, Personen, Deadlines
+- BEISPIEL gute These: "Trumps Kraftwerks-Zwang entlarvt Europas Rechenzentrum-Illusion"
+- BEISPIEL schlechte These: "Energiefragen sind auch in Europa relevant"
 
 ---
 
@@ -148,6 +164,9 @@ Bevor du antwortest, prüfe:
 - [ ] Gibt es KEINEN Abschnitt "Einschränkungen/Offene Fragen" in den Deep-Dives?
 - [ ] Ist die Europa-Relevanz in Stichpunkten (nicht Fließtext)?
 - [ ] Sind die "Zum Drüber Nachdenken"-Impulse wirklich überspitzt und meinungsstark?
+- [ ] Enthält JEDER Europa-Relevanz-Stichpunkt mindestens EINE konkrete Zahl, Frist, Person oder Institution aus dem EU-Kontext?
+- [ ] Könnte der Europa-Relevanz-Stichpunkt auch OHNE EU-Kontext geschrieben werden? Wenn ja → zu generisch, umschreiben!
+- [ ] Nennen die "Zum Drüber Nachdenken"-Impulse konkrete EU-Akteure, Initiativen oder Deadlines?
 """
 
 USER_PROMPT_TEMPLATE = """Erstelle ein Executive Briefing aus dem folgenden Podcast-Transkript:
@@ -156,8 +175,13 @@ USER_PROMPT_TEMPLATE = """Erstelle ein Executive Briefing aus dem folgenden Podc
 
 USER_PROMPT_WITH_EU_TEMPLATE = """Erstelle ein Executive Briefing aus dem folgenden Podcast-Transkript.
 
-Nutze den EU-Kontext (unten) um pro Deep-Dive-Thema einen kurzen Absatz 
-"🇪🇺 Europa-Relevanz" zu ergänzen – aber NUR wo ein konkreter Bezug besteht.
+Nutze den EU-Kontext (unten) für zwei Zwecke:
+
+1. **Europa-Relevanz pro Deep-Dive:** Ergänze Stichpunkte mit KONKRETEN Policy-Details (Paragraphen, Fristen, Bußgelder, Akteure, Institutionen). KEINE generischen Sätze. Denke wie ein Policy-Berater, der einem Minister erklärt, warum dieses Thema morgen auf seinem Schreibtisch landet.
+
+2. **"Zum Drüber Nachdenken"-Impulse:** Verknüpfe US-Themen mit EU-Realitäten. Nenne Namen (Virkkunen, Höttges, Merz), Zahlen (€200 Mrd., 5% Chip-Anteil), Deadlines (Aug 2026 High-Risk). Formuliere überspitzt – wie eine Kolumne, nicht wie eine Studie.
+
+QUALITÄTSTEST: Wenn ein Stichpunkt auch ohne den EU-Kontext geschrieben werden könnte (z.B. "Die EU reguliert KI"), ist er zu generisch. Lösche ihn und schreibe einen, der NUR mit dem EU-Kontext-Wissen möglich ist.
 
 === EU-KONTEXT ===
 {eu_context}

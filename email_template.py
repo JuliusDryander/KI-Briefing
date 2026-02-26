@@ -167,7 +167,7 @@ def parse_briefing(md_text):
                 i += 1
                 continue
 
-            if stripped.startswith("- "):
+            if stripped.startswith("- ") or stripped.startswith("▸ "):
                 content = stripped[2:].strip()
                 if current_dive_part == "details":
                     current_dive["details"].append(content)
@@ -205,15 +205,36 @@ def parse_briefing(md_text):
             continue
 
         # ── Thought impulses ──
+        # NEW FORMAT: **Überspitzte These als Überschrift**
+        # followed by Kontext: ... and Die Frage dahinter: ...
+        # OLD FORMAT: **Impuls 1:** Title
         if current_section == "impulses":
-            if stripped.startswith("**Impuls") or stripped.startswith("**Hook"):
+            # Detect bold headline (impulse title)
+            bold_match = re.match(r'^\*\*(.+?)\*\*\s*(.*)', stripped)
+            if bold_match:
+                bold_text = bold_match.group(1).strip()
+                remainder = bold_match.group(2).strip()
+
+                # Old format: "Impuls 1: Title" or "Hook 1: Title"
+                old_format = re.match(r'^(Impuls|Hook)\s*\d+[:\s]*(.*)', bold_text)
+                if old_format:
+                    if current_impulse:
+                        sections["thought_impulses"].append(current_impulse)
+                    title = old_format.group(2).strip() if old_format.group(2) else remainder
+                    current_impulse = {"title": title, "lines": []}
+                    i += 1
+                    continue
+
+                # New format: any bold line = new impulse
                 if current_impulse:
                     sections["thought_impulses"].append(current_impulse)
-                title = re.sub(r'\*\*(.+?)\*\*\s*', r'\1', stripped).strip()
-                title = re.sub(r'^(Impuls|Hook)\s*\d+[:\s]*', '', title).strip()
+                title = bold_text
                 current_impulse = {"title": title, "lines": []}
+                if remainder:
+                    current_impulse["lines"].append(remainder)
                 i += 1
                 continue
+
             if current_impulse and stripped.startswith("- "):
                 current_impulse["lines"].append(stripped[2:].strip())
             elif current_impulse and stripped:
@@ -311,7 +332,7 @@ def build_email_html(sections):
   <tr><td style="padding:12px 16px;">
     <p style="margin:0 0 4px 0;font-family:{SANS};font-size:10px;letter-spacing:1px;text-transform:uppercase;color:{TEXT_MUTED};">{_inline(source_cat)}</p>
     <p style="margin:0 0 6px 0;font-family:{SERIF};font-size:16px;font-weight:700;color:{DARK};line-height:1.3;">{_inline(theme['theme'])}</p>
-    <p style="margin:0 0 6px 0;font-family:{SERIF};font-size:14px;color:{TEXT_MID};line-height:1.55;">{_inline(theme['thesis'][:250])}{'...' if len(theme['thesis']) > 250 else ''}</p>
+    <p style="margin:0 0 6px 0;font-family:{SERIF};font-size:14px;color:{TEXT_MID};line-height:1.55;">{_inline(theme['thesis'])}</p>
     <p style="margin:0;font-family:{SANS};font-size:11px;color:#888;">{_inline(theme['persons'])}</p>
   </td></tr>
   </table>
@@ -365,7 +386,7 @@ def build_email_html(sections):
                 parts.append(f'  <p style="margin:0 0 10px 0;font-family:{SERIF};font-size:14px;color:{TEXT_MID};line-height:1.6;"><span style="color:{GOLD};font-weight:700;">&#9656;</span>&ensp;{_inline(detail)}</p>')
             parts.append("</td></tr>")
 
-        # Limits
+        # Limits (backward compat – new prompt won't generate these)
         if dive["limits"]:
             parts.append(f"""
 <tr><td style="padding:12px 40px 0 40px;">
@@ -377,15 +398,17 @@ def build_email_html(sections):
                 parts.append(f'  <p style="margin:0 0 8px 0;font-family:{SERIF};font-size:13px;color:{TEXT_LIGHT};line-height:1.6;font-style:italic;"><span style="color:#ccc;font-style:normal;">&#9656;</span>&ensp;{_inline(limit)}</p>')
             parts.append("</td></tr>")
 
-        # EU Relevance
+        # EU Relevance – render as individual bullet points
         if dive["eu"]:
-            eu_text = " ".join(dive["eu"])
             parts.append(f"""
 <tr><td style="padding:16px 40px 0 40px;">
   <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:{BLUE_BG};border-left:3px solid {BLUE};border-radius:0 3px 3px 0;">
   <tr><td style="padding:14px 18px;">
-    <p style="margin:0 0 4px 0;font-family:{SANS};font-size:10px;letter-spacing:2px;text-transform:uppercase;color:{BLUE};font-weight:700;">&#x1F1EA;&#x1F1FA; Europa-Relevanz</p>
-    <p style="margin:0;font-family:{SERIF};font-size:13px;color:{BLUE_TEXT};line-height:1.6;">{_inline(eu_text)}</p>
+    <p style="margin:0 0 8px 0;font-family:{SANS};font-size:10px;letter-spacing:2px;text-transform:uppercase;color:{BLUE};font-weight:700;">&#x1F1EA;&#x1F1FA; Europa-Relevanz</p>
+""")
+            for eu_item in dive["eu"]:
+                parts.append(f'    <p style="margin:0 0 6px 0;font-family:{SERIF};font-size:13px;color:{BLUE_TEXT};line-height:1.6;"><span style="color:{BLUE};font-weight:700;">&#9656;</span>&ensp;{_inline(eu_item)}</p>')
+            parts.append("""
   </td></tr>
   </table>
 </td></tr>
@@ -402,7 +425,6 @@ def build_email_html(sections):
   <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:{GRAY_BG};border-radius:3px;">
 """)
         for idx, seg in enumerate(sections["further_segments"]):
-            # Extract label from bold text
             label_match = re.match(r'\*\*(.+?)\*\*[:\s]*(.*)', seg, re.DOTALL)
             if label_match:
                 label = label_match.group(1)
@@ -433,7 +455,16 @@ def build_email_html(sections):
             title = impulse["title"]
             lines_html = ""
             for line in impulse["lines"]:
-                lines_html += f'<p style="margin:4px 0 0 0;font-family:{SERIF};font-size:13px;color:#aaa;line-height:1.55;">{_inline(line)}</p>'
+                # Style "Kontext:" and "Die Frage dahinter:" labels
+                if line.startswith("Kontext:") or line.startswith("Kontext :"):
+                    label = "Kontext"
+                    content = line.split(":", 1)[1].strip()
+                    lines_html += f'<p style="margin:8px 0 0 0;font-family:{SERIF};font-size:13px;color:#aaa;line-height:1.55;"><span style="color:{GOLD};font-size:10px;font-family:{SANS};letter-spacing:1px;text-transform:uppercase;">{label}:</span> {_inline(content)}</p>'
+                elif line.startswith("Die Frage dahinter:") or line.startswith("Die Frage dahinter :"):
+                    content = line.split(":", 1)[1].strip()
+                    lines_html += f'<p style="margin:8px 0 0 0;font-family:{SERIF};font-size:14px;color:#ffffff;line-height:1.55;font-style:italic;">{_inline(content)}</p>'
+                else:
+                    lines_html += f'<p style="margin:4px 0 0 0;font-family:{SERIF};font-size:13px;color:#aaa;line-height:1.55;">{_inline(line)}</p>'
 
             margin_top = "0" if idx == 0 else "10"
             parts.append(f"""

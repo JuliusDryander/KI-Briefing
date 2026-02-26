@@ -2,14 +2,13 @@ name: Daily KI-Briefing
 
 on:
   schedule:
-    # Mo-Fr um 05:00 UTC = 06:00 Berlin (Winterzeit) / 07:00 (Sommerzeit)
     - cron: '0 5 * * 1-5'
-  workflow_dispatch:  # Manuelles Auslösen
+  workflow_dispatch:
 
 jobs:
   briefing:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 45
 
     steps:
       - name: Checkout repo
@@ -22,16 +21,17 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests google-genai
+          pip install requests google-genai beautifulsoup4 playwright
+          playwright install chromium
 
-      - name: Run scraper (RSS + Gemini transcription)
+      - name: Run scraper (Podscripts + RSS fallback)
         id: scraper
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PYTHONUNBUFFERED: 1
         run: |
           if python scraper.py; then
-            if [ -f latest.txt ]; then
+            if [ -f latest.txt ] || [ -f briefing.md ]; then
               echo "has_new=true" >> "$GITHUB_OUTPUT"
             else
               echo "has_new=false" >> "$GITHUB_OUTPUT"
@@ -45,7 +45,27 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PYTHONUNBUFFERED: 1
-        run: python briefing.py
+        run: |
+          if [ ! -f briefing_from_audio.flag ]; then
+            python briefing.py
+          else
+            echo "Briefing bereits aus Audio erstellt, überspringe briefing.py"
+          fi
+
+      - name: Generate email HTML
+        if: steps.scraper.outputs.has_new == 'true'
+        run: |
+          if [ -f briefing.md ] && [ -f email_template.py ]; then
+            python -c "
+          from email_template import convert_md_to_email
+          with open('briefing.md', 'r') as f:
+              md = f.read()
+          html = convert_md_to_email(md)
+          with open('briefing_email.html', 'w') as f:
+              f.write(html)
+          print(f'Email-HTML erstellt: {len(html)} Zeichen')
+          "
+          fi
 
       - name: Write status file
         run: |
@@ -54,6 +74,9 @@ jobs:
           else
             echo '{"status":"no_update","date":"'$(date -u +'%Y-%m-%d')'"}' > status.json
           fi
+
+      - name: Cleanup temp files
+        run: rm -f briefing_from_audio.flag audio_briefing_supplement.md
 
       - name: Commit and push
         run: |

@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-02-27 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~209k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - NVIDIA Earnings, Nano Banana 2, Block Cuts 20% of Workforce | Kenn Ricci, Howard Marks, Yash Patil, Scott Morton, Fan-Yun Sun, Adam Draper & Doug Bernauer, Sammy Azdoufal
 Quelle: https://podscripts.co/podcasts/tbpn-live/nvidia-earnings-nano-banana-2-block-cuts-20-of-workforce-kenn-ricci-howard-marks-yash-patil-scott-morton-fan-yun-sun-adam-draper-doug-bernauer-sammy-azdoufal

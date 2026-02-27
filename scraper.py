@@ -479,6 +479,7 @@ def briefing_from_audio(audio_path, source):
 3. **Nuancen bewahren.** Unsicherheiten der Sprecher im Briefing abbilden.
 4. **Rollen korrekt wiedergeben.** Nur im Audio genannte Rollen verwenden.
 5. **Werbung und Sponsor-Segmente ignorieren.**
+6. **KEINE Redundanz zwischen Fließtext und Konkreten Details.** Der Zusammenfassungs-Absatz erklärt Kontext und Bedeutung. Die Konkreten Details listen harte Fakten, Zahlen, Namen. Kein Fakt darf in beiden stehen.
 
 PRIORITÄTSREIHENFOLGE:
 1. Wirtschaftspolitik: Zölle, Handelsabkommen, Regulierung
@@ -500,10 +501,11 @@ NIEDRIGE PRIORITÄT: Skandale, Klatsch, VR/Gaming, Lifestyle, Smalltalk
 # 🎙 Deep-Dive: Die Kern-Analysen
 
 ## [Emoji] [Thema]: [Überschrift]
-[3-5 Sätze Zusammenfassung]
+[3-5 Sätze Zusammenfassung. Dieser Absatz erklärt das WARUM und die BEDEUTUNG – keine Fakten, Zahlen oder Beispiele hier, die gehören ausschließlich in die Konkreten Details unten.]
 
 **Konkrete Details aus dem Gespräch:**
-- [Fakt/Zahl/Beispiel]
+- [Fakt/Zahl/Beispiel – NUR neue Informationen, die NICHT bereits im Fließtext-Absatz oben stehen]
+- KEINE REDUNDANZ! Fließtext = Einordnung & Kontext. Konkrete Details = harte Fakten, Zahlen, Namen. Null Überschneidung.
 
 **Einschränkungen/Offene Fragen:**
 - [Was nicht behauptet wurde]

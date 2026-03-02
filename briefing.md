@@ -2,100 +2,77 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| Energie & Infrastruktur | Radiant Nuclear hat $360 Mio. Kapital erhalten und regulatorische Genehmigungen für die Massenproduktion von 1-Megawatt-Kernreaktoren, um den wachsenden Energiebedarf, insbesondere von KI-Rechenzentren, zu decken. | Doug Bernauer (Radiant), Adam Draper (Boost VC) | TBPN |
-| Technologie-Strategie | Nvidia verzeichnete Rekordumsätze, doch die Diskussion verlagert sich von Chip-Engpässen zu einem drohenden Energie-Engpass für Rechenzentren, während CEO Jensen Wong die Kannibalisierung von SaaS durch KI-Agenten zurückweist. | Jensen Wong (Nvidia), Doug O'Loughlin (Semi Analysis), Gavin Baker, Citadel Securities | TBPN |
-| Wirtschaftspolitik & KI | Block hat eine drastische Reduzierung der Belegschaft um 40% angekündigt, explizit begründet mit der Effizienz von KI-Tools und kleineren Teams, was als Signal für eine bevorstehende Welle KI-bedingter Entlassungen interpretiert wird. | Jack Dorsey (Block) | TBPN |
-| Finanzwesen & Geopolitik | Howard Marks betont die Rolle der menschlichen Psychologie in Marktzyklen und sieht KI als eine einzigartig autonome und schnelle Technologie, die zu erheblichen gesellschaftlichen Verwerfungen führen wird, insbesondere im Kontext der US-China-Rivalität um strategische Ressourcen. | Howard Marks (Oak Tree Capital Management) | TBPN |
+| KI-Marktdisruption | Anthropic's KI-Produkte haben in kurzer Zeit mehrere Marktsektoren (Recht, Code-Sicherheit, COBOL-Modernisierung) disruptiert, was zu erheblichen Kursverlusten bei etablierten Unternehmen führte und den Markt von einer "Wann"- zu einer "Ob"-Frage bezüglich der Dauerhaftigkeit von Cashflows verschoben hat. | Chamath, Sacks, Jason | All-In |
+| KI-Infrastruktur | Der Bau von KI-Rechenzentren in den USA stößt auf zunehmenden lokalen Widerstand, was zu Projektstornierungen und erheblichen Umsatzverlusten führt, während andere Länder die Infrastruktur aggressiv ausbauen und die USA Gefahr laufen, wirtschaftliche Vorteile zu verlieren. | Sacks, Friedberg, Chamath | All-In |
+| US-Zollpolitik | Der US Supreme Court hat Trumps IEPA-Zölle für verfassungswidrig erklärt, doch der Präsident reagierte umgehend mit der Verhängung neuer, temporärer Zölle und signalisierte die Absicht, die Zollpolitik über alternative Rechtsgrundlagen fortzusetzen. | Sacks, Chamath, Friedberg, Jason | All-In |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## ⚡️ Energie & Infrastruktur: Kernkraft als Produkt für die KI-Ära
+## 🤖 KI-Marktdisruption und Cashflow-Unsicherheit
 
-Doug Bernauer (Radiant) und Adam Draper (Boost VC) diskutieren die jüngsten Fortschritte von Radiant Nuclear, die eine signifikante Kapitalbeschaffung und regulatorische Meilensteine umfassen. Das Unternehmen konzentriert sich auf die Massenproduktion von kleinen, modularen Kernreaktoren, die als "Produkt" konzipiert sind, um den steigenden Energiebedarf, insbesondere im Kontext der KI-Entwicklung, zu decken.
-
-**Konkrete Details aus dem Gespräch:**
-- Radiant hat $360 Millionen in einer Finanzierungsrunde erhalten, die von Boost VC angeführt wurde.
-- Das Unternehmen skaliert die Produktion in einer neuen, 80 Hektar großen Fabrikanlage in Tennessee, die bis zu 50 1-Megawatt-Reaktoren pro Jahr produzieren soll.
-- Es wurde die "Preliminary Design and Safety Approval" vom US-Energieministerium für die erste Einheit erteilt, was das Design festlegt.
-- Die Nachfrage hat sich verschoben, wobei KI-Unternehmen wie Echo Necks bereits 20 Einheiten bestellt haben.
-- Die Reaktoren sind als massenproduzierbare Produkte konzipiert, die mobil sind und schnell bereitgestellt werden können, im Gegensatz zu traditionellen, immobilen Großkraftwerken.
-- Potenzielle Anwendungen umfassen extreme Umgebungen wie den Meeresboden oder den Weltraum, wo konventionelle Energiequellen nicht verfügbar sind.
-
-**🇪🇺 Europa-Relevanz:**
-- Deutschland hat den Atomausstieg 2023 vollzogen, während Radiant die Kernkraft als Produkt massenproduziert – dies könnte die Debatte um SMRs in der EU (z.B. Schweden) neu befeuern, die nach Alternativen zur Deckung des Energiebedarfs suchen.
-- Die €11 Mrd. Investition von Schwarz Digits in ein Rechenzentrum in Lübbenau (Brandenburg) mit 200 MW und bis zu 100.000 GPUs zeigt den enormen Energiebedarf, den Radiants 1MW-Reaktoren dezentral decken könnten.
-- Kanzler Merz' Regierung senkt Netzentgelte und Stromsteuer, um die höchsten Industriestrompreise in Europa zu adressieren; Radiants dezentrale Lösungen könnten hier einen Beitrag leisten, um die EU-Strompreise (2-3x höher als in den USA) zu senken.
-- Die EU-weiten Moratoriums-Diskussionen für Rechenzentren (z.B. Frankfurt, Amsterdam, Dublin) aufgrund des hohen Stromverbrauchs könnten durch modulare, schnell deploybare Kernkraftwerke entschärft werden.
-
-## 📈 Technologie-Strategie: Nvidias Rekordgewinne und der drohende Energie-Engpass
-
-Nvidia hat beeindruckende Quartalsergebnisse vorgelegt, die von einer exponentiellen Nachfrage nach Hochleistungs-KI-Chips getragen werden. Trotzdem fiel der Aktienkurs, und die Diskussion verlagert sich zunehmend von der Chip-Verfügbarkeit hin zu einem potenziellen Energie-Engpass für Rechenzentren. Jensen Wong, CEO von Nvidia, widerspricht der These, dass KI-Agenten die Software-as-a-Service (SaaS)-Branche kannibalisieren werden.
+Laut **Chamath** (All-In) hat die schnelle Entwicklung von KI-Produkten, insbesondere durch Anthropic, zu einer tiefgreifenden Verunsicherung an den Märkten geführt. Die Frage, ob die Cashflows etablierter Unternehmen dauerhaft sind, hat sich von einem "Wann" zu einem "Ob" verschoben. Dies führt zu einer Neubewertung von Unternehmen, mit niedrigeren Kurs-Gewinn-Verhältnissen und Umsatzmultiplikatoren sowie einem höheren gewichteten durchschnittlichen Kapitalkostensatz (WACC). **Jason** (All-In) berichtet, dass seine Firma durch den Einsatz von KI-Agenten die Effizienz um 10-20% pro Woche steigert, ohne Personal aufzustocken.
 
 **Konkrete Details aus dem Gespräch:**
-- Nvidia erzielte einen Umsatz von $68,1 Milliarden, ein Anstieg von 73% gegenüber dem Vorjahr, und übertraf die Konsensschätzungen um fast 3%.
-- Trotz der starken Ergebnisse fiel der Aktienkurs nach der Markteröffnung um 5%, der schlechteste Tag seit April letzten Jahres.
-- Nvidia verfügt über $21,4 Milliarden an Lagerbeständen und $95,2 Milliarden an Lieferzusagen, was die Nachfrage über die nächsten Quartale hinaus sichert.
-- Die höchste Nachfrage besteht für die leistungsstärksten Modelle für spezifische Aufgaben, während die Nachfrage nach weniger leistungsfähigen Lösungen gering ist.
-- Jensen Wong wies die "SaaSpocalypse"-Erzählung zurück und erwartet, dass KI-Agenten bestehende Software-Tools nutzen und deren Effizienz steigern, anstatt sie zu ersetzen.
-- Gavin Baker und Citadel Securities weisen auf einen grundlegenden Mangel an "Watts und Wafern" hin, der einen Überbau von Hyperscalern verhindert.
-- Rechenzentren verbrauchen derzeit weniger als 1% des US-Stroms, aber der Energieengpass wird als "sehr real" und "langsam" beschrieben.
+- Anthropic's Claude-Plugins für Rechtsdienstleistungen (Co-Work, Thompson Reuters, Lexus Nexus, LegalZoom) führten zu Kursverlusten von mindestens 10% bei den betroffenen Unternehmen.
+- Die Ankündigung von Claude Code Security (CrowdStrike, Cloudflare, Okta) und Claude COBOL-Modernisierung (IBM) verursachte ebenfalls erhebliche Kursrückgänge, wobei IBM an einem Tag 13% verlor.
+- **Chamath** erklärt, dass SaaS-Geschäftsmodelle, die einst als "Wachstumsrente" mit 120% Net Dollar Retention galten, nun unsicher sind, da KI das Wachstum beeinträchtigen oder Preismodelle ändern könnte.
+- **Sacks** (All-In) widerspricht der Annahme eines massiven Jobverlusts und verweist auf steigende Stellenangebote für Software-Ingenieure (ca. 10% YoY) und eine rasche Zunahme von Unternehmensgründungen, da KI die Produktivität erhöht und die Gründungskosten senkt.
+- **Jason** beschreibt, wie seine Firma OpenClaude-Agenten einsetzt, um Software zu entwickeln und Aufgaben wie Werbeakquise, Podcast-Clip-Erstellung und interne Berichte zu automatisieren.
+- Die Automatisierung ermöglicht es, interne CRM-Systeme und Software-Stacks zu erstellen, was die Abhängigkeit von externen SaaS-Anbietern reduziert und die Verhandlungsposition bei Vertragsverlängerungen stärkt.
 
 **🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA, was den Bedarf an Rechenzentren und damit Energie in der EU unterstreicht.
-- Die EU AI Champions Initiative mobilisiert €200 Mrd. für KI, davon €20 Mrd. für 4-5 KI-Gigafactories mit je ~100.000 Next-Gen-AI-Chips, was den Energiebedarf massiv erhöhen wird.
-- Die €11 Mrd. Investition von Schwarz Digits in das Rechenzentrum Lübbenau (200 MW) ist ein konkretes Beispiel für den europäischen Versuch, die "AI Infrastructure Gap" zu schließen, die durch den Energieengpass bedroht ist.
-- Die EU hat das REPowerEU-Ziel von 45% Erneuerbaren bis 2030, aber die hohen EU-Strompreise (2-3x US-Niveau) und Moratorien für Rechenzentren (z.B. Frankfurt) erschweren den Ausbau der benötigten "Watts".
+- Ab Aug 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein – Anthropic's schnelle Marktdisruption könnte den Wettbewerbsdruck auf EU-konforme Anbieter erhöhen, die strengere Standards einhalten müssen.
+- EVP Henna Virkkunen prüft mit dem Digital Fitness Check (Konsultation bis 11. März 2026) die Wechselwirkung aller EU-Digitalgesetze, um die Umsetzung zu vereinfachen, während US-Firmen wie Anthropic schnell neue Anwendungsfelder erschließen.
+- Der EU AI Act sieht Bußgelder bis €35 Mio. oder 7% des Umsatzes für Verstöße vor, was die Risikobereitschaft europäischer Unternehmen bei der schnellen Einführung disruptiver KI-Anwendungen im Vergleich zu US-Anbietern beeinflussen könnte.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen, was die Fähigkeit europäischer Unternehmen, mit der Geschwindigkeit der US-KI-Disruption mitzuhalten, stark einschränkt.
 
-## ✂️ Wirtschaftspolitik & KI: Blocks drastischer Personalabbau als KI-Signal
+## ⚡ KI-Infrastruktur: Lokaler Widerstand und globale Konkurrenz
 
-Block hat eine massive Reduzierung seiner Belegschaft um 40% angekündigt, wobei CEO Jack Dorsey diese Entscheidung explizit mit der Effizienz von KI-Tools und der Notwendigkeit kleinerer, agilerer Teams begründet. Dies wird als ein wegweisendes Ereignis interpretiert, das eine Welle von KI-bedingten Entlassungen in der Technologiebranche auslösen könnte.
+**Sacks** (All-In) und **Friedberg** (All-In) diskutieren den zunehmenden lokalen Widerstand gegen den Bau von KI-Rechenzentren in den USA, der zu erheblichen Projektstornierungen und wirtschaftlichen Verlusten führt. Präsident Trump hat darauf mit einem "Rate Payer Protection Pledge" reagiert, um sicherzustellen, dass Tech-Unternehmen ihre eigenen Strombedürfnisse decken und so die Strompreise für Privatkunden nicht steigen. **Chamath** (All-In) betont, dass die zugrunde liegende Abneigung gegen Big Tech und die Ungleichheit der Vermögensverteilung diesen Widerstand antreiben.
 
 **Konkrete Details aus dem Gespräch:**
-- Block reduziert seine Belegschaft von über 10.000 auf unter 6.000 Mitarbeiter, was einem Abbau von fast 40% entspricht (4.000 Entlassungen).
-- Jack Dorsey erklärte, die Entscheidung sei nicht auf geschäftliche Probleme zurückzuführen (Umsatz und Rentabilität wachsen), sondern auf eine grundlegende Veränderung durch "Intelligence Tools".
-- Die Abfindungen umfassen 20 Wochen Gehalt, eine Woche pro Dienstjahr, bis Ende Mai unverfallbare Aktienoptionen, sechs Monate Krankenversicherung und $5.000 Übergangshilfe.
-- Der Aktienkurs von Block stieg nach der Nachricht um 25%, was die Zustimmung der Investoren signalisiert.
-- Dies wird als der größte prozentuale Personalabbau in der Geschichte des S&P 500 bezeichnet (Twitter's größerer Abbau erfolgte nach dem Delisting).
-- Kommentatoren sehen dies als "ersten KI-Cut", der Schockwellen auslösen und Mitarbeiter dazu anspornen wird, sich unentbehrlich zu machen und KI-Tools zu erlernen.
+- In den USA wurden 25 Rechenzentrumsprojekte aufgrund lokalen Widerstands gestrichen, weitere 100 Projekte sind betroffen.
+- Dies führte 2025 zu einem Verlust von 5 Gigawatt Kapazität (geschätzter Umsatzverlust von $50 Mrd.) und könnte 2026 weitere 7 Gigawatt (geschätzter Umsatzverlust von $70 Mrd.) kosten.
+- Präsident Trump schlug vor, dass Tech-Unternehmen ihre eigenen Strombedürfnisse für KI-Rechenzentren decken oder eigene Kraftwerke "hinter dem Zähler" betreiben, um die Strompreise für Privatkunden zu stabilisieren.
+- **Friedberg** argumentiert, dass Datenzentren weltweit platziert werden können und andere Länder (z.B. der Nahe Osten) die wirtschaftlichen Vorteile (Arbeitsplätze, Energieinfrastruktur) ernten werden, wenn die USA den Bau nicht zulassen.
+- **Sacks** kritisiert, dass Klagen von wenigen Personen (z.B. sechs Bürgern in New York) Milliarden-Investitionen (z.B. eine $100 Mrd. Micron-Fabrik) stoppen können, selbst wenn die Mehrheit der Bevölkerung die Projekte befürwortet.
+- Die Behauptung, dass Rechenzentren übermäßig viel Wasser verbrauchen, wird als "Hoax" bezeichnet, da das Wasser rezirkuliert wird.
 
 **🇪🇺 Europa-Relevanz:**
-- Der EU AI Act sieht ab August 2026 die vollständige Compliance für High-Risk-KI-Systeme vor, was die Einführung von AI-Agenten in europäischen Unternehmen komplexer machen könnte als in den USA.
-- Die Mainzer Erklärung der Merz-Regierung betont die Notwendigkeit einer F&E-Quote von 3,5% des BIP und einer "KI-Offensive" zur Stärkung von KI-Forschung und -Anwendung, um die Wettbewerbsfähigkeit deutscher Unternehmen zu sichern.
-- Die Diskussion um den "Brain Drain" von KI-Talenten aus der EU in die USA könnte sich durch solche AI-bedingten Entlassungswellen verschärfen, da europäische Fachkräfte möglicherweise in den USA bessere Chancen sehen.
-- EVP Henna Virkkunen prüft mit dem Digital Fitness Check die Wechselwirkung aller EU-Digitalgesetze, um die Umsetzung zu vereinfachen – dies könnte auch die Rahmenbedingungen für AI-gestützte Restrukturierungen beeinflussen.
+- In der EU sind die Strompreise 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa, was den Bau von Rechenzentren zusätzlich erschwert.
+- Städte wie Frankfurt, Amsterdam und Dublin haben bereits Moratorien oder temporäre Genehmigungsstopps für Rechenzentren verhängt, was den US-Trend in Europa verschärft.
+- Die Schwarz Gruppe investiert €11 Mrd. in ein Rechenzentrum in Lübbenau (Brandenburg) mit 200 MW und bis zu 100.000 GPUs, um der drohenden "AI Infrastructure Gap" in Europa entgegenzuwirken.
+- Kanzler Merz will mindestens eine KI-Gigafactory nach Deutschland holen und die Netzanschluss-Regeln für Rechenzentren überarbeiten, um den Bau zu beschleunigen.
 
-## 🧠 Finanzwesen & Geopolitik: Howard Marks über Marktzyklen, KI und strategische Rivalität
+## ⚖️ US-Zollpolitik: SCOTUS-Urteil und Trumps Reaktion
 
-Howard Marks (Oak Tree Capital Management) erläutert seine Theorie der Marktzyklen, die stark von der menschlichen Psychologie beeinflusst werden. Er sieht KI als eine technologische Innovation von beispielloser Macht und Autonomie, die zu erheblichen gesellschaftlichen Verwerfungen führen wird. Marks betont die strategische Rivalität zwischen den USA und China, insbesondere im Bereich der KI und kritischer Ressourcen, und warnt vor den Folgen von "Skrupeln" in der Technologieanwendung.
+Der US Supreme Court hat Trumps IEPA-Zölle für verfassungswidrig erklärt, was die größte Zurückweisung einer Exekutivmaßnahme seit 1935 darstellt. **Sacks** (All-In) und **Chamath** (All-In) sind sich jedoch einig, dass die Zollpolitik der Trump-Regierung nicht enden wird, da der Präsident umgehend neue Zölle verhängte und alternative Rechtsgrundlagen zur Fortsetzung der Politik bestehen. **Friedberg** (All-In) lobt das Urteil als Beweis für die Funktionsfähigkeit der Gewaltenteilung.
 
 **Konkrete Details aus dem Gespräch:**
-- Marktzyklen werden durch menschliche Psychologie (Gier, Angst, FOMO) verursacht, die Preise wild um den intrinsischen Wert schwanken lässt.
-- Marks vertritt einen konträren Ansatz: Er agiert entgegengesetzt zur Herde, insbesondere in Extremphasen von Optimismus oder Pessimismus.
-- "Black Swan"-Ereignisse sind real, aber schwer zu managen; eine Überversicherung dagegen ist ineffizient.
-- KI dient als "Mentor", indem sie Daten aufbereitet und Fragen formuliert, aber menschliches Urteilsvermögen bleibt bei neuen, unstrukturierten Problemen überlegen.
-- Marks betrachtet KI als weitaus mächtiger und schneller in der Innovation als frühere Technologien (z.B. das Internet).
-- Er prognostiziert einen "Netto-Rückgang von Arbeitsplätzen" aufgrund der Autonomie der KI, die neue Aufgaben entwirft und ohne Anweisung agiert.
-- Marks hebt die Rivalität zwischen den USA und China hervor, wobei US-"Skrupel" (z.B. bei der Anwendung von Technologie oder dem Abbau seltener Erden) Chinas Fortschritt begünstigen könnten.
-- Als Beispiel nennt er die Auslagerung des Abbaus seltener Erden durch die USA an China aus Umweltgründen, was zu einer strategischen Abhängigkeit führte.
+- Der US Supreme Court entschied mit 6:3 Stimmen gegen Trumps IEPA-Zölle, wobei drei konservative Richter (Roberts, Barrett, Gorsuch) mit den drei liberalen Richtern stimmten.
+- Rund $175 Mrd. an bereits gezahlten Zöllen könnten zur Rückerstattung an 2.000 Importeure anstehen, die Frage der Rückerstattung ist jedoch ungeklärt.
+- Trump reagierte sofort mit der Verhängung eines 15%igen globalen Zolls für 150 Tage gemäß Section 122 des Trade Act von 1974.
+- **Sacks** argumentiert, dass das Minderheitsvotum von Richter Kavanaugh eine Roadmap für die Regierung bietet, Zölle über Section 301 (unfaire Handelspraktiken) oder Section 338 (Diskriminierung von US-Handel) zu implementieren.
+- **Chamath** sieht das Experiment der Zölle als erfolgreich an, da es strukturelle Ungleichgewichte im Handel aufdeckte und die amerikanische Fertigungs- und Mittelklasse stärkte; er fordert den Kongress auf, diese Politik dauerhaft zu ratifizieren.
+- **Friedberg** betont, dass das SCOTUS-Urteil die Funktionsfähigkeit des Systems der Gewaltenteilung demonstriert, da der Gerichtshof unabhängig von politischen Ausrichtungen entschied.
 
 **🇪🇺 Europa-Relevanz:**
-- Die EU-Position, die umfassende KI-Regulierung (AI Act) der US-Selbstregulierung gegenüberstellt, könnte als europäisches "Skrupel" im Sinne von Marks interpretiert werden, das die Innovationsgeschwindigkeit im Vergleich zu China beeinflusst.
-- EU-Handelskommissar Maroš Šefčovič verhandelt bilateral mit den USA, während die EU WTO-Verfahren gegen US-Zölle eingeleitet hat – dies zeigt die Spannungen in der Handelspolitik, die durch strategische Abhängigkeiten (wie bei seltenen Erden) verschärft werden.
-- Die deutsche Wirtschaftsministerin Katherina Reiche betont die Notwendigkeit einer "entschlossenen aber besonnenen" EU-Handelspolitik, was Marks' Punkt über "Skrupel" und strategische Entscheidungen widerspiegelt.
-- Die Abhängigkeit Europas von russischem Gas (historisch) und die deutsche Entscheidung zum Atomausstieg sind Parallelen zu Marks' Beispiel der US-Abhängigkeit bei seltenen Erden, die strategische Risiken durch rein wirtschaftliche/ökologische Entscheidungen aufzeigen.
+- Die EU hatte Gegenmaßnahmen im Umfang von €93 Mrd. gegen US-Zölle vorbereitet, die aktuell suspendiert sind, aber das Anti-Coercion Instrument (ACI) steht als Druckmittel bereit.
+- EU-Handelskommissar Maroš Šefčovič verhandelt bilateral mit dem US-Handelsbeauftragten, während die EU WTO-Verfahren gegen die US-Zölle eingeleitet hat.
+- Deutsche Industrieverbände wie VDMA und SPECTARIS warnen vor massiven Auswirkungen auf den deutschen Maschinenbau und die optische Industrie, die jährlich Waren im Wert von ~€160 Mrd. in die USA exportieren.
+- Wirtschaftsministerin Katherina Reiche (CDU) betont die Notwendigkeit einer „entschlossenen aber besonnenen" EU-Handelspolitik als koordinierte EU-Antwort.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-- **DJI Robo-Vacuum Hack:** Ein Hacker demonstrierte, wie er über eine Schwachstelle in der DJI Home App Zugriff auf Live-Video, Mikrofon und 3D-Karten von 7.000 DJI-Staubsaugern und 3.000 DJI Power-Geräten erhalten konnte, was die Notwendigkeit robuster Cybersicherheit für vernetzte Konsumgüter unterstreicht.
-- **Micron Fab-Verzögerung:** Ein $100 Milliarden teures Micron-Megafab in New York ist von einer Klage von nur sechs Bürgern bedroht, die den Bau verzögern könnte, obwohl eine Umweltverträglichkeitsprüfung 612 Tage dauerte. Dies verdeutlicht die Herausforderungen bei der Umsetzung strategischer Technologieprojekte in den USA durch "frivole Klagen".
-- **AI Selves von Pika:** DemiGuo stellte "AI Selves" vor, eine Technologie, die eine "zweite Version" einer Person erstellt, die 24/7 verfügbar ist, auf persönlichen Daten trainiert wird und zur Monetarisierung von Expertise oder zur Unterstützung im Alltag dienen kann.
+- **KI-Skalierungsbeschränkungen:** Die enorme Nachfrage nach KI-Tokens wird voraussichtlich um das Zehnfache steigen, während die Kosten pro Token um 90% sinken könnten. Dies erfordert jedoch eine massive Erweiterung der Infrastruktur (Land, Strom, Chips), die derzeit durch reale Engpässe begrenzt ist. (Chamath, Sacks)
+- **Yamanaka-Faktoren zur Altersumkehr:** Ein Harvard-Wissenschaftler, David Sinclair, hat mit seiner Firma Life Biosciences eine FDA-Zulassung für die erste Humanstudie zur Anwendung von Yamanaka-Faktoren erhalten. Diese Proteine sollen die Zellalterung umkehren und könnten bei Glaukom zur Wiederherstellung der Sehkraft führen, was einen Durchbruch in der Anti-Aging-Therapie darstellen könnte. (Friedberg)
 
 # 💭 Zum Drüber Nachdenken
 
-**US-Tech-Giganten entlarven Europas Energie-Illusion – während Brüssel noch über Standards brütet.**
-Kontext: Nvidias Rekordgewinne und die explizite Warnung vor einem Energie-Engpass für Rechenzentren in den USA zeigen, dass "Watts" die neue Währung der KI-Ära sind. Gleichzeitig mobilisiert die EU zwar €200 Mrd. für KI-Investitionen und Gigafactories, aber die Realität sind EU-Strompreise, die 2-3x höher sind als in den USA, und Moratorien für Rechenzentren in Hotspots wie Frankfurt. Doug Bernauers Radiant Nuclear bietet 1MW-Reaktoren als "Produkt" an, während Deutschland den Atomausstieg vollzogen hat und Kanzler Merz über Netzanschluss-Regeln für Rechenzentren nachdenkt.
-Die Frage dahinter: Ist Europas Fokus auf umfassende KI-Regulierung (AI Act, Aug 2026 High-Risk-Deadline) ein Luxus, den es sich angesichts der drohenden "AI Infrastructure Gap" nicht leisten kann, wenn die USA und China ungebremst Rechenpower aufbauen?
+**Europas KI-Regulierungs-Dilemma: Sicherheit vs. Geschwindigkeit im Angesicht der US-Disruption**
+Kontext: Während Anthropic in den USA in Wochen ganze Marktsektoren (Recht, COBOL) umkrempelt und etablierte Unternehmen Milliarden verlieren, ringt Europa mit der Umsetzung des AI Act. High-Risk-Systeme müssen ab Aug 2026 compliant sein, doch EVP Virkkunen erwägt im Digital Omnibus eine Verschiebung der Deadline um bis zu 16 Monate. Tim Höttges (Telekom) beklagt, dass Europa nur 5% der KI-Hochleistungschips nutzt.
+Die Frage dahinter: Kann Europa seine hohen KI-Standards halten, ohne den Anschluss an die globale Innovationsgeschwindigkeit zu verlieren und seine Unternehmen der US-Konkurrenz schutzlos auszuliefern?
 
-**Jack Dorseys Axtschlag bei Block ist der Weckruf für Europas "Vibe Coder" – oder der Todesstoß für den Mittelstand.**
-Kontext: Jack Dorseys drastischer Personalabbau von 40% bei Block, explizit begründet mit der Effizienz von KI-Tools und kleineren Teams, sendet ein klares Signal: Die AI-Transformation ist real und disruptiv. Während in den USA "Vibe Coding" und "Bootleg Skills" die Produktivität von Software-Ingenieuren steigern, kämpft Europa mit einem "Brain Drain" von KI-Talenten. Die Merz-Regierung fordert eine F&E-Quote von 3,5% des BIP und eine "KI-Offensive", aber die Frage ist, ob der europäische Mittelstand schnell genug die "agentic workflows" adaptieren kann, um nicht von agileren, KI-gestützten Wettbewerbern überrollt zu werden.
-Die Frage dahinter: Wird Europas "entschlossene aber besonnene" Handelspolitik und umfassende Regulierung den Unternehmen die nötige Agilität geben, um die "AI-Cut"-Welle zu überleben, oder werden sie zu spät erkennen, dass "indispensable" zu sein heute bedeutet, KI zu beherrschen?
+**Trumps Kraftwerks-Zwang entlarvt Europas Rechenzentrum-Illusion**
+Kontext: US-Präsident Trump fordert, dass Tech-Giganten ihre KI-Rechenzentren selbst mit Strom versorgen, um private Haushalte zu entlasten, da lokaler Widerstand Projekte im Wert von $130 Mrd. blockiert. Gleichzeitig investiert die Schwarz Gruppe €11 Mrd. in ein Rechenzentrum in Lübbenau, während Kanzler Merz eine deutsche Gigafactory anstrebt. In der EU sind Strompreise 2-3x höher als in den USA, und Städte wie Frankfurt verhängen Moratorien.
+Die Frage dahinter: Wie will Europa seine ambitionierten KI-Ziele erreichen, wenn es nicht nur mit US-Protektionismus, sondern auch mit eigenen, hausgemachten Energie- und Genehmigungsengpässen kämpft, die den Bau kritischer Infrastruktur verhindern?

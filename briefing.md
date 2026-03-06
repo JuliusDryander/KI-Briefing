@@ -2,115 +2,100 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| Makroökonomie & Geopolitik | Das globale Finanzsystem befindet sich laut Ray Dalio in einem kritischen Schuldenzyklus, geprägt von hohen Defiziten, geopolitischen Risiken und einer Verschiebung hin zu Gold, während die USA und China unterschiedliche KI-Philosophien verfolgen, die den globalen Wettbewerb beeinflussen. | Ray Dalio | All-In |
-| KI-Infrastruktur | Akash Systems entwickelt diamantgekühlte Server für KI- und Cloud-Anbieter, die GPU-Temperaturen signifikant senken, die Inferenz beschleunigen und Energiekosten reduzieren, was zu einem $300 Millionen Deal geführt hat. | Felix Ejeckam (Akash Systems) | TBPN |
-| KI-Governance & Agenten | Unternehmen stehen vor der Herausforderung, KI-Agenten in ihrer Infrastruktur zu kontrollieren und zu steuern, was neue Governance-Plattformen erfordert, um Vertrauen, Sicherheit und Kosteneffizienz zu gewährleisten. | Raj Rajamani (Jetstream Security), James Everingham (Guild AI) | TBPN |
-| Software & Arbeitsmarkt | Die Softwarebranche erlebt eine Umwälzung ("SaaSpocalypse"), bei der oberflächliche Software durch KI-Agenten ersetzt wird, während tief integrierte Systeme widerstandsfähiger sind, was zu massiven Entlassungen und einer Neubewertung von Geschäftsmodellen führt. | Gokul Rajaram (Marathon Management) | TBPN |
-| Medien & IP-Wert | Die Übernahme von Warner Brothers Discovery durch David Ellison für $11 Milliarden, finanziert durch hohe Verschuldung, verstärkt die Konsolidierung in Hollywood und setzt auf den langfristigen Wert von etabliertem IP, während KI die Produktionskosten senken, aber die Schaffung neuer Franchises erschweren könnte. | Matthew Belloni (Puck), David Ellison, Larry Ellison | TBPN |
+| KI-Infrastruktur & Rohstoffe | Der Wert im KI-Zeitalter konzentriert sich auf die Infrastrukturschicht (Chips, Verpackung, Energie), was zu enormer Nachfrage nach Rohstoffen wie Kupfer und Engpässen bei Komponenten wie Leistungstransformatoren führt. | Daniel Gross (via Text), John, Jordy | TBPN |
+| Geopolitische Implikationen der KI-Dominanz | Die USA sind der dominante Gewinner der KI-Ära mit massiven Investitionen und Modellentwicklung, während China versucht, mit weniger fortschrittlicher Chip-Technologie aufzuholen, was die Spannungen um Taiwan verschärft. | Daniel Gross (via Text), John, Jordy | TBPN |
+| Venture Capital & IPO-Markt im Umbruch | Der Venture-Capital-Markt zeigt seit 25 Jahren mediane Renditen unterhalb des S&P 500, während der IPO-Markt trotz großer Erwartungen langsam bleibt, was zu einer Konzentration von Kapital in Top-Fonds und einer Zunahme von Illiquidität führt. | Dan Primack, John, Jordy | TBPN |
+| Hardware-Test & -Betrieb für kritische Infrastruktur | Nominal entwickelt eine Plattform für Hardware-Tests und -Betrieb, die die Qualitätssicherung und den Lebenszyklus von physischen Assets von der Fertigung bis zum Einsatz in kritischen Bereichen revolutioniert, unterstützt durch KI-Testagenten und robuste Bereitstellungsoptionen. | Cameron Record, John, Jordy | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🌍 Makroökonomie & Geopolitik: Der globale Schuldenzyklus und die KI-Systemkonkurrenz
+## ⚡ KI-Infrastruktur & Rohstoffe: Der Kampf um Chips, Energie und Kupfer
 
-Ray Dalio beschreibt das globale Finanzsystem als in einem kritischen Schuldenzyklus gefangen, der durch hohe Defizite und geopolitische Spannungen gekennzeichnet ist. Er betont die Notwendigkeit einer Reduzierung des US-Defizits auf 3% des BIP, um Stabilität zu erreichen, warnt aber, dass dies strukturell schwierig sei. Dalio sieht Gold als sicheren Hafen, da Zentralbanken und Individuen Alternativen zu Fiat-Währungen suchen. Zudem hebt er die unterschiedlichen KI-Philosophien der USA (profitbasiert) und Chinas (kostenlos, quelloffen) hervor, die den globalen Wettbewerb grundlegend verändern könnten.
-
-**Konkrete Details aus dem Gespräch:**
-- Das US-Defizit zu BIP wird 2026 auf 6% geschätzt, während 3% zur Stabilisierung nötig wären.
-- Die Hälfte des $2 Billionen Defizits sind Zinszahlungen; $9 Billionen Schulden müssen refinanziert werden.
-- Gold ist die zweitgrößte Reservewährung der Zentralbanken; Zentralbanken und Individuen suchen Alternativen zum Fiat-Geld.
-- Tarife werden als legitimes Mittel zur Einnahmengenerierung und zum Aufbau nationaler Unabhängigkeit (gegen "Hollowing out" der Produktion) verteidigt.
-- China verfolgt eine KI-Philosophie, die auf kostenlose, quelloffene Nutzung abzielt, um Produktivitätsgewinne zu erzielen, im Gegensatz zum gewinnorientierten US-Modell.
-- Demokratien sind in Gefahr durch unversöhnliche Differenzen und mangelnde Bereitschaft, das System zu akzeptieren.
-
-**🇪🇺 Europa-Relevanz:**
-- US Section 122-Zölle (max. 15%) könnten die EU-Gegenmaßnahmen von €93 Mrd. (Anti-Coercion Instrument) auslösen, die EU-Handelskommissar Maroš Šefčovič bereits vorbereitet hat.
-- Die EU exportiert jährlich ~€500 Mrd. in die USA, Deutschland allein ~€160 Mrd.; VDMA und SPECTARIS warnen vor massiven Auswirkungen auf den deutschen Maschinenbau und die optische Industrie.
-- Chinas Fokus auf kostenlose, quelloffene KI-Nutzung steht im Gegensatz zur EU AI Champions Initiative (€200 Mrd. Investition) und dem Ziel, 4-5 KI-Gigafactories mit europäischer Mehrheitsbeteiligung aufzubauen (EVP Henna Virkkunen).
-
-## 💎 KI-Infrastruktur: Diamantgekühlte Server als Game Changer
-
-Felix Ejeckam, Gründer und CEO von Akash Systems, stellt diamantgekühlte Server für KI- und Cloud-Anbieter vor. Diese Technologie nutzt die extrem hohe Wärmeleitfähigkeit von Diamanten, um GPUs effizienter zu kühlen. Dies führt zu einer Beschleunigung der Inferenzleistung und erheblichen Kosteneinsparungen bei der Kühlung von Rechenzentren. Akash Systems hat kürzlich einen $300 Millionen Deal abgeschlossen und plant eine schnelle Skalierung.
+Laut der Diskussion konzentriert sich der Wert im KI-Zeitalter stark auf die Infrastrukturschicht, insbesondere auf Chips, deren Verpackung und die Energieversorgung. Dies führt zu einer massiven Nachfrage nach grundlegenden Rohstoffen und kritischen Komponenten, die Engpässe in der Lieferkette verursachen.
 
 **Konkrete Details aus dem Gespräch:**
-- Diamant ist das thermisch leitfähigste Material der Welt.
-- Eine dünne Diamantschicht direkt auf der GPU reduziert Temperaturen um 10-15 Grad Celsius.
-- Ermöglicht Serverbetrieb bei bis zu 120 Grad Fahrenheit (ca. 49 Grad Celsius) ohne Klimaanlage oder Flüssigkeitskühlung.
-- Generiert etwa $1 Million zusätzlichen Umsatz und Kosteneinsparungen pro GPU über 3-4 Jahre.
-- Kosten eines Akash-Servers ca. $400K vs. $250-300K für traditionelle Server.
-- Die Technologie stammt ursprünglich aus der Raumfahrt (Kühlung von Satelliten).
-- Lab-grown Diamanten sind dramatisch günstiger geworden, was die Wirtschaftlichkeit verbessert.
+- Nvidia verzeichnete seit Januar 2024 einen Marktkapitalzuwachs von 3,2 Billionen Dollar, während Microsoft trotz 80 Milliarden Dollar AI CAPEX nur 4% zulegte.
+- Der Kupferpreis stieg von 3,75 auf 6,61 Dollar pro Pfund (Allzeithoch), da ein Nvidia G-200 NVL-72 Server-Rack über 5.000 Kupferdrähte (2 Meilen lang) benötigt.
+- Ein 100-Megawatt-Rechenzentrum benötigt etwa 3.000 Tonnen Kupfer; Rechenzentren werden in wenigen Jahren jährlich eine halbe Million Tonnen Kupfer verbrauchen.
+- Lieferzeiten für Leistungstransformatoren erreichten über drei Jahre mit einem Angebotsdefizit von 30%; die Kosten stiegen seit 2020 um 150%.
+- Microsoft schloss einen 16-Milliarden-Dollar-PPA zum Neustart von Three Mile Island; Google und Meta sicherten sich ebenfalls Kernkraft für Rechenzentren.
+- Frontier-KI-Modelle wurden bisher nicht auf Hardware trainiert, die älter als 5-Nanometer ist; Chinas beste Anstrengung (Huawei Ascend 910C auf Smics 7-Nanometer-DUV-Prozess) ist für Inferenz wettbewerbsfähig, erfordert aber dramatisch mehr Chips und Energie für das Training.
 
 **🇪🇺 Europa-Relevanz:**
-- Das €11 Mrd. Rechenzentrum Lübbenau (Schwarz Digits) und das Telekom/Nvidia-Projekt München (~€1 Mrd.) könnten von solchen Kühltechnologien profitieren, um die Energieeffizienz zu steigern und den "AI Infrastructure Gap" in Europa zu schließen.
-- EU-Strompreise sind 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa, was energieeffiziente Kühlung für Rechenzentren (wie in Frankfurt, Amsterdam, Dublin) besonders relevant macht.
-- Kanzler Friedrich Merz will Netzanschluss-Regeln für Rechenzentren überarbeiten, um den Ausbau zu beschleunigen, während die EU das REPowerEU-Ziel von 45% Erneuerbaren bis 2030 verfolgt.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA – ein Indikator für Europas Abhängigkeit und den Bedarf an eigener Infrastruktur.
+- Die EU mobilisiert mit InvestAI €200 Mrd. für KI, davon €20 Mrd. für 4-5 KI-Gigafactories mit je ~100.000 Next-Gen-AI-Chips, um die Chip-Abhängigkeit zu reduzieren.
+- Schwarz Digits investiert €11 Mrd. in ein Rechenzentrum in Lübbenau (Brandenburg) für bis zu 100.000 GPUs, während die Deutsche Telekom mit Nvidia ein KI-Rechenzentrum in München (~€1 Mrd., 10.000 GPUs) baut, um der steigenden Nachfrage nach Rechenleistung zu begegnen.
+- Die EU-Strompreise sind 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa, was den Aufbau energieintensiver KI-Infrastruktur erschwert.
 
-## 🤖 KI-Governance & Agenten: Kontrolle über autonome Systeme
+## 🌍 Geopolitische Implikationen der KI-Dominanz: USA, China und Taiwan
 
-Raj Rajamani, Co-Founder und CEO von Jetstream Security, und James Everingham, CEO von Guild AI, beleuchten die wachsende Herausforderung der Kontrolle von KI-Agenten in Unternehmensumgebungen. Sie argumentieren, dass Unternehmen ein "AI trust problem" haben, da Agenten probabilistisch agieren und unaufgefordert Aktionen ausführen können. Neue Governance-Plattformen sind entscheidend, um Sicherheit, Compliance und Kosteneffizienz zu gewährleisten, insbesondere da Agenten sich schnell vermehren und hohe Inferenzkosten verursachen können.
+Die USA haben sich als dominanter Akteur in der KI-Ära etabliert, mit erheblich höheren privaten Investitionen und einer führenden Rolle bei der Entwicklung von KI-Modellen im Vergleich zu China. China versucht, durch den Einsatz von weniger fortschrittlicher Chip-Technologie aufzuholen, was jedoch für das Training von Frontier-Modellen ineffizient ist. Diese technologische Asymmetrie verschärft die geopolitischen Spannungen, insbesondere im Hinblick auf Taiwan, das eine kritische Rolle in der globalen Halbleiterlieferkette spielt.
 
 **Konkrete Details aus dem Gespräch:**
-- Jetstream Security erhielt $34 Millionen Seed-Finanzierung für eine KI-Governance-Plattform, die "AI trust problems" lösen soll.
-- "AI-Blueprints" definieren den operativen Vertrag eines KI-Workflows und verfolgen Laufzeitaktivitäten, Berechtigungen und Datennutzung.
-- Guild AI erhielt $44 Millionen für eine Agent Control Plane, die Governance, Kontrolle, Effizienz, Zugriffskontrolle und Observability bietet.
-- Ein Ingenieur verbrauchte das Monatsbudget in 12 Stunden, was die Notwendigkeit der Kostenüberwachung unterstreicht.
-- Agenten werden in allen Unternehmensgrößen und Branchen aggressiv eingeführt, außer in stark regulierten Bereichen.
-- Innovative Agenten-Anwendungen umfassen Onboarding, "sentient code-bases" und Risikoanalyse für CI/CD-Systeme.
-- Guild strebt eine "Agent Hub"-Plattform an, ähnlich GitHub, für den Austausch von Agenten.
+- Die USA verzeichneten 2024 private KI-Investitionen von 109 Milliarden Dollar (kumulativ 470 Milliarden seit 2013), gegenüber Chinas 9,3 Milliarden Dollar im Jahr 2024.
+- Die USA produzierten 2024 40 bemerkenswerte KI-Modelle, China 15.
+- Kein Frontier-Modell wurde auf Hardware trainiert, die älter als 5-Nanometer ist; Chinas Huawei Ascend 910C auf Smics 7-Nanometer-DUV-Prozess erfordert für das Training dramatisch mehr Chips und Energie.
+- China führte im Oktober 2024 und Dezember 2025 Militärübungen um Taiwan durch, bei denen Raketen in Taiwans angrenzende Zone einschlugen.
+- China trennte in seinem 2026-2035-Plan "friedliche" von "Wiedervereinigung" im Kontext Taiwans.
+- TSM plant einen Fab-Komplex in Arizona, der 30% der gesamten fortschrittlichen Produktion abwickeln soll, als Reaktion auf die geopolitischen Risiken.
 
 **🇪🇺 Europa-Relevanz:**
-- Ab August 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein; AI-Governance-Plattformen wie Jetstream Security und Guild AI könnten Unternehmen helfen, diese Anforderungen zu erfüllen und Bußgelder bis zu €35 Mio. zu vermeiden.
-- Die EU-Kommission hat den "AI Omnibus" vorgeschlagen, um die Umsetzung des AI Act zu vereinfachen, einschließlich der Förderung regulatorischer Sandboxes, in denen solche Agenten-Kontrollsysteme getestet werden könnten.
-- EVP Henna Virkkunen betont die Notwendigkeit, "doing business in Europe easier without compromising our high standards", was durch effiziente Governance-Tools unterstützt werden könnte.
+- Die EU hat mit dem AI Act (High-Risk-Systeme müssen ab Aug 2026 compliant sein) einen umfassenden Regulierungsansatz gewählt, der im Gegensatz zur US-Selbstregulierung steht und von US-Vizepräsident JD Vance als "authoritarian censorship" kritisiert wurde.
+- EVP Henna Virkkunen betont die Notwendigkeit der "Tech-Souveränität" Europas, während die Abhängigkeit von asiatischen Chip-Produzenten und US-KI-Modellen ein strategisches Risiko darstellt.
+- Die Mainzer Erklärung der Merz-Regierung fordert KI als "Grundlage für Souveränität und Sicherheit", was die Notwendigkeit eigener Kapazitäten im Kontext der US-China-Spannungen unterstreicht.
+- EU-Handelskommissar Maroš Šefčovič verhandelt bilateral mit den USA über Zölle (Section 122-Zölle), während die EU WTO-Verfahren eingeleitet und Gegenmaßnahmen von €93 Mrd. vorbereitet hat, was die Fragilität globaler Handelsbeziehungen zeigt.
 
-## 📉 Software & Arbeitsmarkt: Die "SaaSpocalypse" und KI-bedingte Produktivitätsrevolution
+## 📉 Venture Capital & IPO-Markt im Umbruch: Hoffnung über Erfahrung?
 
-Gokul Rajaram von Marathon Management beschreibt eine "SaaSpocalypse", bei der oberflächliche, sitzbasierte Software durch KI-Agenten ersetzt wird. Er prognostiziert, dass tief integrierte ERP-Systeme widerstandsfähiger sind, aber auch sie sich anpassen müssen. Rajaram warnt vor massiven Entlassungswellen in öffentlichen Unternehmen, da KI die Produktivität erheblich steigert. Er betont, dass Geschäftsmodelle mit physischen Komponenten ("Atomen"), regulatorischen Moats oder Geldflüssen am besten geschützt sind.
+Dan Primack (Axios) und die Diskussionsteilnehmer beleuchten die anhaltende Schwäche des Venture-Capital-Marktes, dessen mediane Renditen seit 25 Jahren hinter den großen Aktienindizes zurückbleiben. Trotzdem strömt weiterhin Kapital in den Markt, auch durch neue Kanäle wie 401K-Pläne. Der IPO-Markt bleibt zögerlich, obwohl große Namen wie SpaceX und führende KI-Labs einen Börsengang anstreben. Die zunehmende Illiquidität in privaten Märkten und die Möglichkeit, Kapital durch Sekundärtransaktionen zu beschaffen, mindern den Druck für Unternehmen, an die Börse zu gehen.
 
 **Konkrete Details aus dem Gespräch:**
-- Leichtgewichtige, sitzbasierte Software (z.B. Zendesk) ist anfällig für Ablösung durch KI-Agenten.
-- Tief integrierte ERP-Systeme (z.B. NetSuite) sind widerstandsfähiger, haben aber Jahre Zeit zur Anpassung.
-- KI-Modelle verdoppeln ihre Fähigkeiten alle sechs Monate, was in 5-7 Jahren eine 1000-fache Verbesserung bedeutet.
-- Geschäftsmodelle mit "Atomen" (physische Welt), regulatorischen Moats oder Geldflüssen sind geschützt.
-- DoorDashs Moat basiert auf Dichte, Liquidität und der Bewältigung von Problemen in der physischen Welt (z.B. Lieferfehler, Kundenservice).
-- Prognose: Mehrere 20-40%ige Entlassungswellen in öffentlichen Unternehmen in den nächsten 18 Monaten.
-- KI führt zu einem "30% Boost in productivity", was 30% weniger Personal pro Jahr bedeutet.
+- Mediane VC-Renditen liegen seit 25 Jahren unter S&P 500, NASDAQ und Russell 3000.
+- Die Trump-Administration erlaubt 401K-Plänen Investitionen in private Fonds, was "dummes Geld" in den Markt spülen könnte.
+- Top-Fonds und junge Fonds erzielen weiterhin die besten Renditen, während der Großteil des Geldes in der Mitte landet.
+- Unternehmen bleiben länger privat (10-15 Jahre), was zu "Papierrenditen" und Illiquidität für LPs führt.
+- Der IPO-Markt ist 2026 bisher um über 20% bei Preisen und Einreichungen gegenüber dem Vorjahr zurückgegangen.
+- Große IPOs wie SpaceX (1,75 Billionen Dollar angestrebt), Databricks, OpenAI und Anthropic werden erwartet, könnten aber große Verluste offenbaren.
+- Private Märkte bieten "unendliche Liquidität" durch Sekundärtransaktionen und Continuation Vehicles, was den Druck zum Börsengang mindert.
+- CEOs und CFOs lehnen SPVs ab, da sie die Cap-Table komplizieren.
 
 **🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen, was die Dringlichkeit der Produktivitätssteigerung durch KI-Agenten in europäischen Unternehmen unterstreicht.
-- Der "Digital Fitness Check" der EU-Kommission (Konsultation bis 11. März 2026) prüft die Wechselwirkung aller EU-Digitalgesetze, um die Anpassung an neue KI-getriebene Geschäftsmodelle zu erleichtern.
-- Das 1.000-Köpfe-Plus-Programm der deutschen Regierung soll dem "Brain Drain" von KI-Talenten entgegenwirken, der durch die "SaaSpocalypse" und die Notwendigkeit neuer KI-Skills verstärkt werden könnte.
+- Das EU-VC-Volumen liegt bei nur ~30% des US-Niveaus, was die Herausforderung für Europa unterstreicht, mit der US-Kapitalflut mitzuhalten.
+- Die EU mobilisiert mit InvestAI €200 Mrd. für KI, davon €150 Mrd. aus privaten Investitionen (EU AI Champions Initiative), um die Finanzierungslücke zu schließen und europäische KI-Gigafactories zu fördern.
+- Der Deutschlandfonds (€30 Mrd. Garantien, €130 Mrd. mobilisiert) zielt darauf ab, private Investitionen in DeepTech, KI und Verteidigung zu lenken, um die Abhängigkeit von öffentlichen Mitteln zu reduzieren.
+- Kanzler Merz betont die Notwendigkeit, den europäischen und deutschen Kapitalmarkt besser für die Unternehmensfinanzierung zu nutzen, da die Kapitalmarktunion (CMU) nur langsam Fortschritte macht.
+- Die Mainzer Erklärung der Merz-Regierung fordert eine Senkung der Körperschaftsteuer und verbesserte Abschreibungen, um Deutschland als Investitionsstandort attraktiver zu machen und dem US-Kapitalmarkt entgegenzuwirken.
 
-## 🎬 Medien & IP-Wert: Hollywoods Konsolidierung im Zeitalter der KI
+## 🛡️ Hardware-Test & -Betrieb für kritische Infrastruktur: Nominal als Rückgrat der neuen Industrie
 
-Matthew Belloni von Puck analysiert die $11 Milliarden schwere Übernahme von Warner Brothers Discovery durch David Ellison (Paramount Skydance), die zu einer massiven Verschuldung des kombinierten Unternehmens führt. Er sieht darin eine weitere Konsolidierung in Hollywood, die voraussichtlich zu weniger Jobs und reduzierter Produktion führen wird. Die Ellison-Familie setzt auf den langfristigen Wert etablierter IP-Assets wie Batman und Harry Potter, die sie als durch KI nicht replizierbar ansieht, während AI die Produktionskosten senken und die Personalisierung von Inhalten vorantreiben könnte.
+Cameron Record (Nominal) stellt eine Plattform für Hardware-Tests und -Betrieb vor, die den gesamten Lebenszyklus physischer Assets von der Fertigung bis zum Einsatz in kritischen Bereichen abdeckt. Das Unternehmen, das eine 80-Millionen-Dollar-Runde bei einer Bewertung von 1 Milliarde Dollar abgeschlossen hat, wächst durch die Verlagerung von F&E zu skalierter Fertigung und die Onshoring-Produktion. Nominal setzt auf KI-Testagenten zur Optimierung von Testprozessen und bietet robuste Bereitstellungsoptionen für Kunden, einschließlich direkter Regierungsaufträge im Verteidigungssektor.
 
 **Konkrete Details aus dem Gespräch:**
-- David Ellison (Paramount Skydance) übernimmt Warner Brothers Discovery für $11 Milliarden.
-- Das kombinierte Unternehmen wird $70 Milliarden Nettoschulden haben (6x EBITDA).
-- Netflix erhielt $2.8 Milliarden Breakup Fee und zog sich aus dem Bieterkampf zurück.
-- Regulierungsbehörden könnten Lizenzierungsauflagen für die neue Einheit fordern.
-- Die Konsolidierung (zwei Studios verschmelzen) wird voraussichtlich zu weniger Jobs und reduzierter Filmproduktion führen, trotz Versprechen von 30 Filmen/Jahr.
-- Netflix nutzt Kinos als Marketinginstrument, nicht als primären Vertriebskanal; glaubt, dass Netflix die beste Marketingplattform für Netflix-Inhalte ist.
-- Larry Ellison investiert massiv in KI-Rechenzentren, während sein Sohn David in Hollywood-IP investiert (Barbell-Effekt).
-- Die Ellison-Familie glaubt, dass AI etablierte Hollywood-Assets nicht zerstören wird, da ikonisches IP (Batman, Harry Potter) nicht replizierbar ist.
-- AI könnte die Kosten für Animation und visuelle Effekte senken; Gewerkschaften kämpfen um Bezahlung für AI-Nutzung.
+- Nominal hat eine 80-Millionen-Dollar-Runde bei einer Bewertung von 1 Milliarde Dollar unter Führung von Founders Fund abgeschlossen.
+- Die Plattform verwaltet Hardware-Tests und -Operationen vom Ende der Fertigung (Qualitätstests) bis zu Labortests (Stromversorgungen, Oszilloskope).
+- Das Geschäft wächst mit der Verlagerung von F&E zu skalierter Fertigung und der Onshoring-Produktion, da die Qualität in der Branche sinkt.
+- Nominal ermöglicht die Korrelation von Telemetrie- und Sensordaten in großem Maßstab, um anomales Verhalten zu überwachen und mit physischen Assets zu verknüpfen.
+- Die Branche nutzt noch veraltete Tools wie Excel und MATLAB; Nominal bietet eine Cloud-basierte, horizontal skalierbare Alternative.
+- Nominal entwickelt KI-Testagenten, die den nächsten besten Testpunkt bestimmen, um die Wissensmaximierung zu optimieren, anstatt linear durch Testmatrizen zu gehen.
+- Das Unternehmen bietet "rugged deployability", einschließlich luftdicht abgeschotteter On-Premise-Server oder Bereitstellung in Kunden-VPCs, und unterstützt klassifizierte Arbeiten mit einer Betriebsstättenfreigabe.
+- Rund zwei Drittel der 60 Kunden sind kommerziell, ein Drittel sind direkte Regierungsaufträge (z.B. US Air Force Test Pilot School).
 
 **🇪🇺 Europa-Relevanz:**
-- Die EU AI Act GPAI-Transparenzpflichten treten im August 2025 in Kraft; Meta verweigert die Unterzeichnung des Code of Practice, während 26 andere Anbieter (u.a. Microsoft, Google, Amazon, OpenAI, Anthropic) unterzeichnet haben.
-- EVP Henna Virkkunen fordert, dass Mehrheitseigentümer von EU-finanzierten KI-Projekten aus Europa kommen sollten und keine Beteiligung von "High-Risk-Anbietern" erlaubt ist, was die Kontrolle über IP und Daten betrifft.
-- Der "Brain Drain" von KI-Talenten in die USA könnte die Fähigkeit Europas beeinträchtigen, eigene KI-Franchises zu entwickeln, um mit dem US-IP-Monopol zu konkurrieren.
+- Das EU SAFE-Programm zielt auf autonome europäische Sicherheit und Verteidigung ab, was den Bedarf an robusten Hardware-Test- und Betriebs-Plattformen wie Nominal unterstreicht, um die Fragmentierung der Verteidigungsindustrie zu überwinden.
+- Der Deutschlandfonds enthält erstmals ein Modul für Verteidigungs-Startups, um die Entwicklung von Technologien zu fördern, die die Lücke zu US-Anbietern wie Anduril oder Palantir schließen könnten.
+- Der Berlin-Anschlag auf das Stromnetz (Jan 2026) hat die Debatte über kritische Infrastruktur (Kritis-Dachgesetz) neu entfacht und den Bedarf an sicheren und zuverlässigen Systemen für deren Überwachung und Wartung hervorgehoben.
+- Nominals Expansion mit einem Büro in London zeigt das globale Problem und die europäische Nachfrage nach solchen Lösungen, insbesondere im Kontext der erhöhten geopolitischen Spannungen.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-Die Diskussion um **Alibaba's KI-Labor Quen** zeigte einen Talent-Shakeup, der Fragen nach der Zukunft von Open-Source-KI-Modellen in China aufwirft. Zudem wurde die **$4 Milliarden Finanzierungsrunde für Anduril** erwähnt, die das Verteidigungs-Startup auf $60 Milliarden bewertet und seine Position im Defense-Tech-Sektor stärkt.
+Die Verzögerungen bei Apples KI-Strategie, insbesondere der Gemini-gestützten Siri, bis voraussichtlich iOS 27, werfen Fragen nach der Wettbewerbsfähigkeit des Unternehmens im KI-Bereich auf, während OpenAI mit Hardware-Gerüchten und potenziellen Durchbrüchen bei Sprachmodellen experimentiert. Max Haot (Vast Space) kündigte eine 500-Millionen-Dollar-Finanzierungsrunde für den Bau der ersten kommerziellen Raumstation Haven 1 an, die die alternde ISS ersetzen und die Kosten für die Raumfahrt senken soll. Christian Howell (Cognito Therapeutics) stellte eine nicht-invasive, auf Licht- und Klangstimulation basierende Therapie für Alzheimer vor, die in einer großen klinischen Studie vielversprechende Ergebnisse bei der Erhaltung von Kognition und Funktion zeigt und eine 105-Millionen-Dollar-Finanzierung erhielt.
 
 # 💭 Zum Drüber Nachdenken
 
-**Trumps Zoll-Drohung entlarvt Europas Handels-Illusion.**
-Kontext: Ray Dalio verteidigt Zölle als Einnahmequelle und Mittel zur nationalen Unabhängigkeit. Die EU hatte Gegenmaßnahmen von €93 Mrd. vorbereitet, die bei neuen US-Zöllen (Section 122) aktiviert werden könnten. Deutsche Verbände wie VDMA und SPECTARIS warnen vor massiven Auswirkungen auf den Export von ~€160 Mrd. nach USA. Wirtschaftsministerin Katherina Reiche (CDU) betont die Notwendigkeit einer „entschlossenen aber besonnenen" EU-Handelspolitik.
-Die Frage dahinter: Ist Europas "entschlossene, aber besonnene" Handelspolitik ausreichend, um die eigene Industrie zu schützen, wenn die USA protektionistischer werden?
+**Europas Rechenzentrum-Illusion: Wenn Trumps Kraftwerks-Zwang auf Höttges' Chip-Mangel trifft**
+Kontext: Während US-Tech-Giganten wie Microsoft und Google Kernkraftwerke für ihre Rechenzentren sichern und Oracle sich zum "Rate Payer Protection Pledge" bekennt, warnt Tim Höttges (Telekom) eindringlich: Europa nutzt nur 5% der KI-Hochleistungschips, die USA 70%. Die EU investiert zwar €200 Mrd. in InvestAI und Gigafactories wie Schwarz Digits' €11-Mrd.-Projekt in Lübbenau, doch die 2-3x höheren Strompreise in Europa und die strengeren Genehmigungsverfahren könnten diese Ambitionen untergraben.
+Die Frage dahinter: Kann Europa seine KI-Souveränität wirklich aufbauen, wenn es die Energie- und Infrastrukturkosten nicht in den Griff bekommt und gleichzeitig die USA ihre Energieversorgung für KI aggressiv sichern?
 
-**Chinas KI-Kommunismus frisst Europas AI-Champions.**
-Kontext: Dalio beschreibt Chinas Strategie, KI kostenlos und quelloffen anzubieten, um Produktivität zu maximieren, im Gegensatz zum westlichen Profitmodell. Die EU mobilisiert €200 Mrd. für InvestAI und Gigafactories, mit dem Ziel, europäische Mehrheitsbeteiligung zu sichern und High-Risk-Anbieter auszuschließen (EVP Henna Virkkunen). Ab August 2026 müssen High-Risk-KI-Systeme in der EU compliant sein (Bußgelder bis €35 Mio.).
-Die Frage dahinter: Kann Europas teure, regulierte KI-Entwicklung im globalen Wettbewerb bestehen, wenn China KI als kostenloses Gut behandelt?
+**Der AI Act als Fessel oder Schutzschild: Wenn US-Regulierungs-Spott auf europäische Tech-Souveränität prallt**
+Kontext: US-Vizepräsident JD Vance verhöhnt den EU AI Act als "autoritäre Zensur", während die EU mit EVP Henna Virkkunen auf Tech-Souveränität pocht und ab August 2026 strenge Compliance-Regeln für High-Risk-KI-Systeme durchsetzt. Gleichzeitig ringt der Digital Omnibus um eine mögliche Verschiebung dieser Deadline bis Dez 2027/Aug 2028. Die US-Dominanz bei KI-Modellen und -Investitionen (40 vs. 15 Modelle in 2024, $109 Mrd. vs. $9.3 Mrd. Investitionen) stellt Europa vor die Wahl: Entweder die eigenen Standards bremsen die Innovation, oder sie schützen vor den unregulierten Auswüchsen der US-Tech-Giganten.
+Die Frage dahinter: Ist Europas umfassende KI-Regulierung ein notwendiger Schutz für seine Werte und Bürger, oder wird sie zum Bremsklotz im globalen KI-Wettlauf, der die Abhängigkeit von US-Technologien nur noch verstärkt?

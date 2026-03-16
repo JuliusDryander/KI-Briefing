@@ -1,0 +1,2370 @@
+=== PODCAST-TRANSKRIPT: TBPN ===
+Titel: TBPN Live - Uber Founder Travis Kalanick is Back with a New AI Startup
+Quelle: https://podscripts.co/podcasts/tbpn-live/uber-founder-travis-kalanick-is-back-with-a-new-ai-startup
+Datum: 2026-03-16
+Länge: ~55k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+Read less
+
+Transcript
+
+Discussion
+
+(0)
+
+We have our next guest ready to join us live in the TDPN Ultram.
+
+We have Travis Kalanak.
+
+He is the CEO of Cloud Kitchens.
+
+Welcome to the show, Travis.
+
+Great to meet you.
+
+Appreciate you coming on down to our studio, our humble boat.
+
+Great to meet you.
+
+We are truly an honor.
+
+I'm just down the street.
+
+Yeah.
+
+That's right.
+
+That's right.
+
+Yeah.
+
+We were actually, we started the show in downtown LA at the Jonathan Club on Figaroa.
+
+And so I think we were even closer then.
+
+There you go.
+
+That's going that far.
+
+How are things going?
+
+How's life?
+
+Whoa.
+
+Can we turn that down?
+
+We're getting some feedback.
+
+Wow, that was crazy.
+
+Man, that's crazy.
+
+Yeah?
+
+What's crazy?
+
+The building doesn't stop guys.
+
+I mean, I don't know how much you guys, I mean, I've just, I've been in hiding.
+
+So I've been doing, I've been doing this, I run a company called cities, up until today, let's just say.
+
+I was running a company.
+
+called city storage systems. Okay, which was basically about the future of food, a conglomerate
+
+operating in about 30 countries. The whole idea was, can you get a meal that's prepared and
+
+delivered to you so efficient that it starts to approach the cost of going to the grocery store?
+
+Yep. Because if you do, you do to the kitchen what Uber did to the car. So I've been doing
+
+that since 2018. Yeah. And after just
+
+the intensity of Uber from in terms of like being in the public sphere,
+
+dealing with 100 headlines every day,
+
+deciding what you do or the actions you take
+
+based on what the New York Times is gonna write.
+
+I was like, I would like to just-
+
+That's a tough way to run a business.
+
+It is very tough.
+
+So I was just like I gotta wake up every day
+
+and sort of just get to work and build.
+
+So do you think of-
+
+So I went under the radar.
+
+Do you think of this as like stealth mode?
+
+Is that the right term?
+
+We've been in stealth mode for eight years.
+
+Okay.
+
+And that's like, till today, employees were not allowed to put the name of the company on their LinkedIn.
+
+We have thousands of employees.
+
+Yeah, that's crazy.
+
+Okay.
+
+So today what happened was, it's like for my company, and I just got out of all hands and then came right here, is we went out of stealth.
+
+Yep.
+
+Now, city storage systems is like a hilarious name.
+
+It's like the most, like, let me choose the most generic, generic name that no one will ever notice.
+
+The business corporation of America.
+
+It was on purpose.
+
+Yeah.
+
+Okay.
+
+And it worked.
+
+It was like we had two choices when we launched.
+
+We had what my sort of normal instinct was.
+
+Remember, it was only seven, eight months after I left Uber when I started this.
+
+Yeah.
+
+And let's just say the mission is infrastructure for better food.
+
+We have hardcore real estate assets.
+
+We buy the assets.
+
+We do construction.
+
+We sell restaurateurs on a delivery-only location.
+
+I have a software stack.
+
+That's like ARR, ARR life.
+
+I've got a robotics company.
+
+I have a marketplace for corporate lunch.
+
+Like there's a ton of stuff going on.
+
+We use it, but yeah, that's right.
+
+That's right.
+
+Of course, yeah.
+
+It's great.
+
+All right.
+
+It's great.
+
+Okay.
+
+So, shit, I forgot what I was saying.
+
+So, so.
+
+It's just a very different business from Uber.
+
+Some people would leave that company and be like, I'm going to start the exact same thing.
+
+I got the playbook.
+
+Well, this is what, this is what the Uber guys when I left were, were like a little bit worried about.
+
+We're talking about 2017, 18.
+
+They're paranoid.
+
+So my instinct was, okay, I left.
+
+It's seven months later.
+
+I'm going to name my company super.
+
+You leave a company called Uber.
+
+You call it Super.
+
+I'm like, you go from Uber to Super.
+
+You're like, no, that cannot be a thing.
+
+And so I did the opposite.
+
+Full underground, full stealth, put the toothpaste back in the tube,
+
+the genie back in the bottle, and built.
+
+Literally thousands of employees.
+
+And it's like a vacuum of information, full lockdown.
+
+It's been great building.
+
+But today we sort of came out.
+
+And we renamed the company.
+
+We renamed what we do.
+
+We call it Adams.
+
+Okay?
+
+But we started a new company at the same time.
+
+And so let's just say like physical AI and robotics,
+
+action and movement through the physical world,
+
+Of course, on the food side, we already have all the things I just talked about.
+
+But think of it as like, I'm trying to get the mission.
+
+Like, I'm so riled out.
+
+Yeah, it's so fresh.
+
+But basically it's, yeah, so I'll leave it at that.
+
+We can get rolling here.
+
+I'm like super caffeinated on four hours of sleep.
+
+I love it.
+
+I love it.
+
+How much harder, in many ways, I think, building in stealth,
+
+so long made a lot of things easier, right? You're not running your business based on headlines
+
+or thinking about what headlines are going to come. What are the ways in which you made it harder?
+
+I imagine there's a lot of, there's a lot of, there's a lot of talent out there that wants to go work
+
+at the hot company that's in the news constantly. I'm sure you got the benefits of people maybe
+
+so opting out of that path and saying, hey, I just want to come in with you and build and I don't
+
+care about the hype and I don't want, I don't need every recruiter hitting me up constantly.
+
+because of whatever's on my LinkedIn,
+
+but what were the kind of key challenges
+
+and why was now the right time to come out
+
+and start to get loud again?
+
+So like first, I mean 100%, so imagine every recruiter
+
+has to be outbound, every salesperson has to be outbound,
+
+there's no impound, that's where it starts.
+
+You get good at your craft when that's what you have to do.
+
+Like I believe we have some of the best recruiters
+
+in the world because of it,
+
+and one of the best recruiting systems.
+
+Now they leverage, okay, you're working with Travis, former, you know, founder of Uber, like there's leverage there.
+
+But then you have a name like city storage systems.
+
+And it's like, so do you guys just have like these, these like boxes sitting in parking lots?
+
+Like, what is this?
+
+And that's sort of like the reason it's different now is because, look, number one, lots of time since the Uber, you know, from having to live that life.
+
+but two is the world is different.
+
+Like in 2016, 2017, the world of, let's call it business press,
+
+was just beginning to say business is politics,
+
+but people didn't know it.
+
+They're like, if New York Times says something,
+
+everybody just treated it as the gospel,
+
+like it just must be true.
+
+And if they say something bad, it must be true.
+
+I believe everything I read on the internet as an example.
+
+And by the way, this sounds crazy, but 2017, the media world was actually more negative then than it is today.
+
+And I think partly because it even shows like this.
+
+It's like, let's bring some optimism to the party.
+
+Can we get excited about what the future looks like and what's being built?
+
+And that's the difference between today and then.
+
+And so when you go, 95% of all press is negative.
+
+You're like, why engage?
+
+when the world is used to business being politics, let's just say.
+
+And if I thought of my favorite journalist, sorry, my favorite politician and say,
+
+what does the internet say that's bad about them?
+
+And it's like an insane amount.
+
+What does the internet say that's negative, or sorry, untrue about them?
+
+And it's a ton of stuff.
+
+And you go, well, that's how they're going to think about our company, too.
+
+That's how it's going to play.
+
+We're now, we're desensitized to that stuff.
+
+And now we can get back to optimism and building.
+
+and not be so worried about, you know, 95% of the media just being negative.
+
+Sure.
+
+Yeah, I mean, this is pretty, like, whole trend of going direct, right?
+
+Like Lulu, I'm sure you've met it at some point,
+
+basically coached a generation of CEOs on, you know, you just can't,
+
+if you want to have any control over how people perceive you,
+
+you need to tell you.
+
+You have to counteract with like a story, not like a statement.
+
+And the boilerplate, like, you know, official statement just doesn't,
+
+it doesn't entertain people as well as a full read, a long read.
+
+And it's also guys like Elon owns Twitter now.
+
+Yeah.
+
+It's X.
+
+Yeah.
+
+Right?
+
+Pre-post is like a massive difference in the mix of sort of ideas that can get out there.
+
+And again, you're allowed to be optimistic about things where maybe before everything had to be negative and sort of.
+
+Yes, you talked about the initial idea of naming the next company super.
+
+That would have, in many ways, I'm sure, turned into a, basically a spite company.
+
+Yeah, where you're just, in this case, like, kind of taking the high road was, I'm just going to be quiet.
+
+I'm going to do the years and years and years and years of just like chewing glass, building up the infrastructure, getting to scale, getting to thousands of employees, getting to operating globally before you even poke your head up again.
+
+end, which I think is, to any of your former critics, that's, to me, that's taken the high road,
+
+basically.
+
+Yeah, and what you get when you create a culture around that is you then build a culture of builders.
+
+You build a culture of people that want to build and do not need to be famous when they do it,
+
+which basically means emotional intelligence.
+
+Now, it's a human nature.
+
+I want to be acknowledged for the things that I do.
+
+Yeah.
+
+I'd like the things I build to be seen.
+
+And I'd like somebody to know that I did it.
+
+And so this is when you cut against sort of the core of human nature,
+
+and we sort of went all the way.
+
+And so we have a very high EQ culture,
+
+but like it is, like you have to go the extra mile of recruit,
+
+the extra mile on sales, et cetera.
+
+Again, the world's different, LFG.
+
+Are the laws of physics of the different businesses slightly different?
+
+And I'm just thinking about your career arc with like red swoosh's enterprise communications.
+
+You're in a very particular industry.
+
+Uber is a consumer company.
+
+Now you're working on something that looks, you probably running like real estate developers.
+
+It's like a different industry, different community.
+
+Has there been adjustments and what's different?
+
+What's the same?
+
+Like what can you just be like a good business operator and power through?
+
+And what do you actually have to learn about the new industry?
+
+Look, I think probably the biggest one is when you go from consumer to, because I have a, I mean, when you go from consumer to B to B, the number one mega challenge that you must master is called LTV to KAC.
+
+Yes, you could make that argument on consumer, but when you have a sales funnel that starts with, I'm going to talk to customers.
+
+And I'm going, I have to make LTV to KAC work versus like my LTV to KAC is the app store.
+
+it's a whole different ballgame.
+
+And LTV to KAC with a sales machine,
+
+especially if you go small business,
+
+this is like life in hard mode.
+
+And talk to anybody who's crushed it on SMB.
+
+Like those guys are special individuals
+
+who've made that happen because life in the SMB
+
+B2B world is no joke.
+
+So talk about motes.
+
+I feel like Uber,
+
+the greatest example of network effects and runaway scale. What do what did
+
+moats look like at Red Swoosh? What were you thinking then and then what does it
+
+look like now? So like nobody knows what Red Swish is. Yeah, sorry. That's all good.
+
+So guys I started a company in 2001. Yeah. That was let's call it BitTorrent meets
+
+Akamai. Yeah. Sold to Ockmai. Before BitTorrent existed. Yeah. Okay. That's crazy. You
+
+click on a link and you can pull from
+
+from other PCs that already have that file or that video stream,
+
+but it looks like the internet.
+
+That's basically what it was.
+
+The first four years, no salary.
+
+Wow.
+
+Yeah.
+
+Had some famous investors.
+
+Famous investors.
+
+You know, like, Mark Cuban was on the board of Red Swush.
+
+So before that scour was Ovitz and Ron Burkle.
+
+That was the company before that.
+
+So anyways, I was confusing to do.
+
+Yeah, anyways.
+
+So there's a network effect there.
+
+Once you get the CDN up and running.
+
+That company wasn't meant to be and I willed it into being.
+
+And I sold it to Akamai for like, I think it was like $19 million.
+
+And probably to this day is still the happiest day in my life.
+
+You're like, it was crazy.
+
+It was crazy.
+
+Like I cleared $3 million and I was like, praise the Lord.
+
+Okay, so then we're very obvious, very obvious moats and scale economies.
+
+What does this look like with Adams?
+
+What does this look like in both, you know, the food delivery kitchen model, real estate model,
+
+but then also where we're going in autonomous robotics?
+
+Look, if you look at where modes are and really you're looking for network effects in different places.
+
+Right.
+
+So right now I have these facilities.
+
+There's 30 restaurants in each of them.
+
+Picnic is like a perfect example of this.
+
+Yes.
+
+Right?
+
+You order from your office.
+
+It looks like Uber eats or DoorDash.
+
+you get 100 options except all the meals are coming out of my facilities.
+
+There's one courier that brings 100 orders at a time,
+
+but it's on demand and it's personalized for you.
+
+And we've got enough facilities near here that you can basically get anything.
+
+And so who's going to, who can play ball?
+
+Like you've got to have the real estate.
+
+That's a frickin' mode.
+
+You have the network effect now of like,
+
+what if I sell every floor on every tower,
+
+meaning every office floor is on this?
+
+And I've shells.
+
+in all of these floors. That means that one career can bring 100 ors and by
+
+well have five careers going to a single office with 500 ors hitting every
+
+shelf and you get notified when it arrives. If you even took one floor, you would be
+
+like sad because your economics are going to be screwed. Because you don't have the
+
+efficiency or the operation sort of depth to make it work. So there's network
+
+effects of a building. There's network effects on a on a facility with kitchens in it.
+
+Sure.
+
+There's, but then there's the moat of like, we own real estate.
+
+Yeah.
+
+Okay, so like if you want to compete with us, go buy $100 million.
+
+So very high.
+
+Billions of dollars of real estate in every major city in the world,
+
+and then we're going to go head to head.
+
+Yeah.
+
+Talk about capital.
+
+Yeah, the other, the other, I don't know exactly what bucket this falls in,
+
+but just the moat of you would have to be absolutely insane,
+
+to compete.
+
+But people were.
+
+People were.
+
+Like this is how I remember the Uber versus Lyft battle
+
+was Uber was doing so well.
+
+And then all of a sudden, a whole bunch of VCs
+
+were like, I want a piece of that.
+
+And I didn't get Uber.
+
+So I'm funding the.
+
+But I'm saying in the context of Cloud Kitchens
+
+and city storage, like even though people generally
+
+figured out what you were up to, right?
+
+You did have to share some little things along the way.
+
+Or you buy this company or so there.
+
+You've got to go to a website and say, what is it
+
+What is a delivery-only location?
+
+What the hell is that?
+
+Yeah.
+
+And so somebody had to know.
+
+Yeah.
+
+But even then we're like, we're going to say the cross streets of the facility,
+
+not the actual address.
+
+Like these are the little moves you do to be stealth, you know?
+
+In, you know, when I look at the new site and how everything's positioned,
+
+a lot of it feels insulated from all the changes and progress that we're seeing in AI.
+
+And in many ways, like, accelerated.
+
+because you'll get a lot of the benefits of AI progress and progress in robotics,
+
+but you're moving physical atoms around the world in an era where, you know,
+
+you can generate any piece of software fairly quickly.
+
+This feels like you've been kind of planning for this type of technology progress.
+
+Sounds great, dude.
+
+I love that.
+
+I love it.
+
+Yeah, dude.
+
+It's all in the plan.
+
+Look, I think it's always been the plan.
+
+a meal that's efficient, you know, so efficient it starts to approach the cost of going to the
+
+grocery store, a meal that's prepared and delivered to you. That's real. You must do automated
+
+production of food. You must do automated delivery of the meal. I call that autonomous burritos,
+
+which is why I'm moving into this, making this move on atoms, which is okay, we're still
+
+doing the food thing, but then we're adding mining and transport, okay? Mining being like more, you know,
+
+We like to say more efficient minds for Earth's industries.
+
+Or on transport, it's just wheelbase for robots.
+
+Okay.
+
+Okay.
+
+Because if you're going to do specialized robots, not humanoids, but specialized robots,
+
+they need to have wheels.
+
+Okay.
+
+Right?
+
+I like to say like if you saw the Beijing, in Beijing, they had the humanoid Olympics.
+
+Yeah.
+
+And the half marathon and you're watching a humanoid cruising.
+
+I'm like, dude, could you imagine if that thing had wheels?
+
+That'd be crazy.
+
+So like, human-oids have their place,
+
+but there's a lot of room for specialized robots
+
+that do things in an efficient sort of industrial scale kind of way,
+
+which is sort of where we play.
+
+I wanna go back to Capital Wars,
+
+lessons from Capital Wars when these play out,
+
+because we're seeing this AI.
+
+The OG.
+
+And you, yeah.
+
+My, my, well, I used to be.
+
+Were you the OG?
+
+Because, or when this Capital War kicked,
+
+were you looking to lessons from the 90s?
+
+I mean, look, you can always say there was the guy before.
+
+Yeah.
+
+Okay? Like, you know, Rockefeller was the OG.
+
+And then before him was it like the Medici's?
+
+I don't know.
+
+But I was the goat for a period of time, and now I'm a baby goat.
+
+Yeah.
+
+And that's okay.
+
+And so then one day the baby goat will grow up again.
+
+That's fine.
+
+It's gonna be fine.
+
+I just mean like this idea of like you have a network effect, it's growing, and then you see
+
+a bunch of venture capitalists start throwing money at like the second place and there's
+
+this debate over catching up and like how do you, what modes do you retreat to in that moment?
+
+Like I feel like that's the lesson from the Uber story that gets missed amid all the
+
+random drama is that there's actually like a very interesting financial war happening.
+
+And it played out very well for you and I'm wondering like what level of confidence
+
+you had, what did you do strategically to set yourself up for success?
+
+It's a super interesting thing because of course all the AI guys are playing that game right now,
+
+which is the ability to attract capital.
+
+The Capital Wars becomes a strategic weapon.
+
+Capital becomes a strategic weapon, which means you must be the best at getting capital
+
+in order to win.
+
+And we realize that early on in the Uber days, of course that's happening times 10 in the
+
+sort of, let's call the digital AI wars. And look, the last round of funding that I did at Uber,
+
+we were like a 70 million, you know, I don't know, it was like a 60, 70 billion dollar pre.
+
+Let's see that. Yeah. When that used to be a thing. And now like, oh, that's small stuff.
+
+But we had four rooms. This was our, our, how we'd fundraise. We had four rooms in our New York
+
+office booked for a week with an hour and a half slot.
+
+on each. So like for 12 hours in a day, four rooms going in parallel. I was in the-
+
+Are you bouncing between? No, I'm in the $250 million in over club. Okay. That's one room. And it goes
+
+all, there's all these other, there's these other rooms to the fourth room is like $25 million
+
+checks. Okay. Okay. There's a guy who works for a guy who works for a guy who works for me,
+
+who's doing that room. Yeah. Okay. And then, but we're oversubscribed. So we started putting multiple
+
+investors in the same room. We're like, dude, we're just out of slots, dude, like, let's go.
+
+But what it means is about the system. It's about the system for sort of acquiring that capital
+
+at scale and super efficiently. And what it means is that storytelling that we did, anybody in my team
+
+could tell that story, let's say on the strategic finance team, could tell that story and make it
+
+happen. And that was a big part. It was a story that's just like, of course, like if I'm pitching
+
+it, people like, holy shit, let's go. Then there is making it scalable so that there are 10 different
+
+people in a company that can pitch it at any given time. And that's when you take it all the way.
+
+And then there's like even auction dynamics of how he would do it. We would basically, once they
+
+said they were interested, we would then give them a piece of paper. It was like digital. But it was
+
+like you need to fill out this table, which is this valuation, how much money you want to put in.
+
+This valuation, how much money? This much money. This valuation, how much money? And then we would
+
+aggregate the demand. It's like building an IPO book. Yes, but like done way better because you don't
+
+respect to the bankers. But like, yeah, I was in charge of pricing. Sure, sure. And so, and then you're
+
+like, oh, we're trying to clear $5 billion. That takes us to this price. We would tell all these guys,
+
+hey, your price isn't big enough because you don't make it under the curve.
+
+And then they would move their price.
+
+And then that would change the curve and you would do it again.
+
+Make sense.
+
+Were you bringing new investors to private markets at that time?
+
+I feel like if I go back to Facebook, I think the IPO around 50 billion.
+
+You're doing a $70 billion raise.
+
+There's a lot of different, it's a completely different shape of investor.
+
+What were those conversations like?
+
+Look, in some ways I have to give some credit,
+
+at the beginning, it was an era where this was happening.
+
+You had like the fidelity of the world
+
+and other guys that are moving in.
+
+Yeah.
+
+I have to give credit to Drew at Dropbox.
+
+He was like the first guy in that game.
+
+Yeah.
+
+And, you know, Drew and I'd meet up and we'd, you know,
+
+and I'd like, flex, I'm like, dude.
+
+What's up?
+
+You're like this is my, our little safe space?
+
+Yeah, it was like Chesky at Airbnb.
+
+Like that was the crew that was
+
+doing it in the 2010s and sort of pushing the boundaries of what it meant to be like people
+
+didn't even know what private equity what is a private what is private equity yeah now we're just
+
+like yeah private equity that's VC it's the same thing and but back then private equity is like
+
+I do leverage buyouts and so you're bringing private equity mutual funds those guys into the game
+
+in a way that didn't exist before now it's just old hat have you have you coached any of the
+
+AI founders on fundraising.
+
+Culturally, like that crew that you just described,
+
+most of them have been on the show,
+
+it feels very different aesthetically
+
+than what we're dealing with today.
+
+Yeah, but I'm sure Chesky's pumping up, Sam.
+
+I love these guys.
+
+I love them all.
+
+That's so interesting.
+
+Look, the times when I get hit up
+
+are usually when the shit is about to hit the fan.
+
+Or it's actually.
+
+Or it's actually hitting the fan.
+
+They're like, dude, somebody needs to call Travis immediately.
+
+He'll know what to do.
+
+So my, so my phone is like, what are the crazy, wild, wackiest things going down are like here because that's when I usually get the call.
+
+And I'm so underground.
+
+Yeah, yeah.
+
+That's what happens.
+
+But like, I should, you know, I should give, you know, I know these guys.
+
+I should give him a call and be like, dude, we should.
+
+Let's talk.
+
+Let's cook.
+
+I still think we probably did things better than anybody.
+
+Some of those things probably are still better than anybody even today.
+
+But obviously the check size is much bigger.
+
+Is that approach like systematizing, fundraising, productizing it?
+
+Do you apply that across the entire?
+
+Is that like everything that you do that is important?
+
+You're creating like a ground up kind of solution for it?
+
+Yeah.
+
+Well, like for instance, I mean this will,
+
+You know, this is just crazy, but like, how about when you do construction?
+
+You know how effed up construction is?
+
+Yeah.
+
+I tell my guys that in the real estate department, I'm like, your entire department is the anti-fraud department.
+
+Oh, yeah.
+
+You know?
+
+Guys just are incentivized to just run up.
+
+So how do you do epic high-quality construction at an insanely efficient price?
+
+There's a way.
+
+I'm not going to tell you.
+
+But there's a way.
+
+Do you have any like white pills or ideas that potentially AI speeds up the rate of building broadly, like solving the housing crisis through?
+
+Like permitting.
+
+Perfecter permitting, stuff like that.
+
+This is so one of the things is that, and I think people are starting to come out of this now, this whole like, the jobs are gone.
+
+Like I know people still say that.
+
+But there is another side of this story.
+
+And like, I'll just make this because I'm the Adams guy.
+
+I'm like, let's just talk about plumbers.
+
+Okay?
+
+Let's say the entire world, everything in our world was automated except for plumbers.
+
+Okay.
+
+Okay.
+
+You had machines making buildings.
+
+You would basically have like a thousand buildings a day.
+
+Yeah.
+
+A thousand buildings being built at a single time in Los Angeles alone.
+
+Sure.
+
+Just machines doing.
+
+Yeah.
+
+Except plumbers.
+
+Okay.
+
+How valuable would those plumbers be?
+
+Extremely valid.
+
+Okay.
+
+Those guys each and every plumber would be like,
+
+LeBron. Why? Why? Because because plumbing is the long pull in the tent to progress.
+
+Sure. That you can't get those thousand buildings unless you have a plumber.
+
+And by the way, you've got so much efficiency everywhere else that you need millions of plumbers.
+
+Yeah. And then plumbing is like, yeah. What's up? And so once you, once you realize that,
+
+Yeah.
+
+Then you're like, until we get super AGI,
+
+yeah.
+
+Humans are valuable.
+
+Mm-hmm.
+
+And they're going to become more and more valuable because they will be the long pull in the tent to progress.
+
+And that progress is going to accelerate and get faster and more, you know, more robust, except if you're a plumber, you're crushing.
+
+And so until we get to humans are replaced, like fully.
+
+Fully.
+
+Yeah.
+
+And by the way, I have, I think we have solutions for that.
+
+I think Elon's got that at Neurlink.
+
+It's going to be all good.
+
+Okay, and then people are like, oh, God.
+
+But until we get there, I believe we're going to be super fine.
+
+That's my white pill.
+
+Yeah.
+
+Yeah, it does.
+
+If you have plumbers that are getting paid like LeBron,
+
+it obviously increases the prize pool of automating.
+
+But again, there's like these kind of windows.
+
+But there's going to be a bunch of things like Plumption.
+
+and it's not just plumbing, it's gonna be all over the place.
+
+And even when it comes to software, so like, for instance, look at like autonomous cars.
+
+They, like, like, Waymo has people that oversee the rides.
+
+Yeah.
+
+Okay, and it starts with like, okay, five rides for every person.
+
+Then it goes to 20, then it goes to 100.
+
+But like, if we get to this place where autonomous cars are everywhere, okay,
+
+and let's just say it's one in a thousand.
+
+And like nobody owns cars.
+
+There's just ride sharing everywhere.
+
+where, I mean, some people own cars, but it'd be the top of the top of the pyramid, let's say.
+
+Okay, so what do we replace, billions of cars with ride sharing?
+
+Yeah.
+
+If it was 1,000 to 1, you still probably have, I don't know, 20 million jobs.
+
+Yep.
+
+50 million jobs.
+
+I'm just riffing on just the concept of this.
+
+You will see this everywhere, is that until humans are fully replaced,
+
+we become the long pull in the tent to progress.
+
+and that progress, by the way, is to serve us.
+
+Yeah.
+
+Yeah, yeah.
+
+Robots yet don't yet have bank accounts.
+
+So that plumber gets paid.
+
+Yeah, yeah.
+
+You mentioned mining.
+
+Yeah.
+
+Have you been to a mine recently?
+
+Have you visited a mine?
+
+Like, what's going on in mining?
+
+I imagine that mines are fairly automated already.
+
+There's machinery.
+
+There's thousands of employees at a given mine.
+
+And that's work that human...
+
+And there's so many resources.
+
+Children, children yearn for the minds of Minecraft, but it's not the best, not the best job.
+
+Well, like, maybe that's actually how it gets, you know, maybe that's where it goes.
+
+Oh, yeah.
+
+It's like an ender's game situation.
+
+Look, the, it's interesting, you go, a lot of times they're like, oh, oh, well, is labor really the issue in my, you know, is that really a thing?
+
+But that's what it really comes down to is productivity.
+
+Okay.
+
+Right.
+
+So if a mine is automated, then it can run all hours of the day and night.
+
+It doesn't have off hours.
+
+The way machines queue up, doing that really efficiently, like computer science style,
+
+I call it digitizing the physical world, you can make that mind substantially more productive.
+
+What is the value of a more productive mind?
+
+And by the way, let's get to the real sort of the outdoors.
+
+come here is does the world as we enter this sort of new golden age that's about to come do we need
+
+more minerals do we need more materials look around us guys like look around us in this studio or
+
+walk outside everything you see is grown or mined yeah manufactured and moved yeah so if you're
+
+not in the mining business like you're like let's just say the mine like I shouldn't say that
+
+But like it's a very critical part of the situation.
+
+I can't wait till we're putting some machines
+
+on SpaceX's rockets to go mine an asteroid
+
+or a planet or whatever.
+
+In the meantime, lots of mines on planet Earth.
+
+So what level of abstraction do you wanna operate at?
+
+Do you wanna go and find land and mine it?
+
+Because that's sort of on the table.
+
+If I look at what you're doing in food,
+
+you own real estate, or do you wanna sell
+
+to mining companies that already have explored and they understand and they're running up and running.
+
+Yeah. How do you think?
+
+I'm not, um, I'm not buying land for mines anytime.
+
+That's just not anytime soon, but.
+
+In the next three months.
+
+Yeah.
+
+He's like, not.
+
+Not 120 days out.
+
+Oh yeah.
+
+Okay.
+
+Yeah.
+
+I just think it's super fascinating.
+
+Yeah.
+
+Again, it's just like, like I'm an Adams guy.
+
+I'm like all about digitization of the physical world.
+
+And I have this framework for it, which is like CPU manipulates bits, storage, stores,
+
+bits, network moves bits from point A to point B.
+
+I was a computer engineer at UCLA.
+
+I didn't graduate, but I loved it.
+
+Those are the three core computing resources that you're told about on day one.
+
+But if you're treating atoms like bits, digitizing the physical world, CPU manipulates bits.
+
+What manipulates atoms?
+
+Manufacturing.
+
+Storage stores bits.
+
+What stores atoms?
+
+Real estate.
+
+Network moves bits from point A to point B.
+
+What moves atoms?
+
+Transport logistics.
+
+I didn't know it then, or I didn't think about that way exactly.
+
+But at Uber, we were building network for the physical world,
+
+also known as digitized transportation.
+
+City storage systems then makes sense.
+
+Storage for the physical world.
+
+That's real estate.
+
+We're building atoms-based computers with a real estate foundation.
+
+storage.
+
+Right?
+
+But now leveling up and saying,
+
+okay, we have a food computer.
+
+What about a mining computer?
+
+And what about a wheel-based platform
+
+to serve industry generally?
+
+Yeah.
+
+If I look at the last two decades of your career,
+
+you're uniquely good at managing very geographically
+
+spread out workforces.
+
+What is the secret?
+
+I could never get behind the remote work thing.
+
+Everyone here works in one studio.
+
+But you've had to do it, basically, because you had to have a presence in New York.
+
+You had to have a presence in L.A., and you can't be in 10 places at once.
+
+It's all good.
+
+How do you do it?
+
+There's a difference between remote work where somebody works at home and they're like in boxers and then a suit.
+
+Okay.
+
+Versus we have an office in every major city in the world.
+
+And whatever city you're in, you're going to that office every day, five days a week.
+
+Yes.
+
+And sometimes six or seven.
+
+And that's it.
+
+But satellite offices still feel like a headache.
+
+How did you solve it?
+
+Because you can only be in one place?
+
+Yeah, I guess I just, I cracked the code so thoroughly in Uber times before, I think maybe even before anybody else.
+
+Yeah.
+
+It almost feels like normal.
+
+Yeah.
+
+But like I basically have figured out sort of the management and leadership structures where you, the real thing is about empowerment.
+
+thing is about empowerment.
+
+Okay.
+
+Is you must be able to empower teams, but I,
+
+it's like, I like to say the fewest number of rules
+
+while staying out of chaos.
+
+Sure.
+
+And once you have those systems in place,
+
+your imagination is only constrained by management capacity.
+
+So once you figure out the management piece,
+
+your imagination can go pretty damn far.
+
+And so it's just figuring out the management part of this
+
+is the thing.
+
+Talk about empowering young people.
+
+We've had a ton of founders on the show
+
+who have the origin story of like,
+
+yeah, I was the GM of Miami or he sent me to Atlanta.
+
+And I was me in a hotel room with a bunch of energy drinks.
+
+And we had to open up this market.
+
+So we had to do a stunt and hire some people.
+
+And it just felt like a lot, you know,
+
+startup within a startup is a bad phrase that gets sort of misused.
+
+But why were you, you know, you weren't,
+
+This wasn't your first company with Uber.
+
+Why were you so heavy on leaning on young people, empowering them, pushing them?
+
+It wasn't on purpose.
+
+It was just the right answer.
+
+Okay.
+
+Why?
+
+Yeah, I mean, once you have a city team and you're like, okay, I need to find people that can run this, like, old people aren't the answer.
+
+Like, I need fresh.
+
+I didn't think of it as like, I got to get youthful people or not.
+
+I'm just like, I need good talent that can go do X and who have.
+
+has no judgment on what it is we got to get done.
+
+And it was just like water flows downhill.
+
+So what do you look at it was a, you know,
+
+like the the first driver ops guy that we brought in
+
+in San Francisco in 2010, we basically took 200 cards
+
+and put names on them.
+
+And we said, alphabetize them.
+
+Click.
+
+And we just would measure how much time it took to alphabetize.
+
+We would give them like,
+
+crazy analytics tests.
+
+And then we're like, okay, this is our guy.
+
+You know what I mean?
+
+Free, free AI.
+
+If you're on the marketing manager,
+
+if you're on the marketing manager,
+
+but even today, you'd still want that guy.
+
+Yeah.
+
+Even today.
+
+So like, you can't use AI.
+
+Now alpha-bettized in the most efficient way.
+
+Now, if you're, if you know computer science,
+
+sorting is like a big freaking deal.
+
+Sorting efficiently and being able to do that
+
+in your brain, not in software is a thing.
+
+That's what ops people do.
+
+Yeah.
+
+Yeah, that makes sense.
+
+So I don't know.
+
+I don't know how to answer that question other than problem solving
+
+whether you're young or old, executive or junior,
+
+who can solve problems is number one.
+
+When you interview, simulate what it's like working together
+
+so that day one is really like week two.
+
+And you're already pumped because you saw them in action.
+
+How are you, with Adams, how are you thinking
+
+about recruiting and how are you gonna change
+
+your approach to building the company, you've been kind of hold up in LA.
+
+This is your kind of hideout.
+
+Yeah, totally.
+
+But I imagine, like, do you push back into SF, go back to being the king?
+
+Well, here, so first, let's just be clear on December 18th, I moved to Texas.
+
+Sure.
+
+You know, I don't know what's so specific about December 18th, but let's just say it's prior to January.
+
+Yep.
+
+Yeah.
+
+So I'm a primary resident of Texas, but the action for a lot.
+
+of this Adams-type technology I'm talking about, of course, like the Bay is a real thing.
+
+My head of the Advanced Technology Group at Uber is running my robotics division at Adams.
+
+It's called Lab 37 in Pittsburgh.
+
+No, no, that's Eric Meyhofer.
+
+Okay, Eric Meyerhofer.
+
+So that's robotics on the food side.
+
+Yeah, Anthony Evadowski was running Pronto.
+
+I was the largest investor in Pronto, and then we just were basically right.
+
+in the final like we're checking off the list maybe closing today or tomorrow on that deal so
+
+amazing let's talk about that deal yeah give us give us yeah give us like what's the kind of
+
+background on on pronto and then how it fits into the to the empire well look i i sort of broke out
+
+how mining fits yeah yeah so we got that look i've been i'm the largest investor in pronto
+
+and it's super inspiring work like like go to a mine right
+
+Check out how these things work and let your mind imagine what that might look like when you bring automation to it and how much more productive it is and what that means for industry when all minds are producing more.
+
+Where does that go?
+
+And in some ways you could say low-hanging fruit on the autonomy problem because, yes, there are different problems off-road, but they ain't like they're,
+
+way more control than what's going on on road.
+
+Okay, but then you get into the physical action,
+
+like cars on the road, the Waymo's on the road,
+
+you know, they're moving, but they're not acting on atoms, right?
+
+So when you think about excavation and you think about crush,
+
+like when you get the material and then you move it,
+
+then you're basically crushing the material
+
+and then you process it, you think about all of the automation
+
+through that stack, it's fantastic.
+
+And it's like,
+
+it's hard, right?
+
+Like I, somebody asked me, like, we have a bunch of roboticists that make some of our food machines.
+
+And somebody came like, hey, like, is AI going to help us design food machines?
+
+We're like, dude, let me show you.
+
+Like, this thing has, like, an insane number of parts.
+
+And let me show you just the design of a single part.
+
+Like, like, that AI can't even do frickin math.
+
+You know what I mean? It's like, we're not there yet.
+
+Now, could it get there? Yeah. But then you're really an AGI.
+
+If you look at how much harder it is the physical world, how much harder it is AI in the physical world versus in the digital world.
+
+And I'm not defeating it in any way. I'm just saying it's like maybe it's just call it a different problem set.
+
+Yeah, we're just far away from one shot.
+
+There's just way less training data.
+
+Yeah.
+
+It's like one shotting on software.
+
+Do you have one shotting on designing a machine or a robot?
+
+We're just not there yet.
+
+Yeah.
+
+But that makes it more fun.
+
+That's the point is like, do the hard things.
+
+If you are in the Adams world, you have decided I like hard things.
+
+I like pain more than anybody else.
+
+This is kind of what you've got to be about.
+
+Chewing glass.
+
+I love it.
+
+So I can see how AVs at Adams fit into mining.
+
+What other and just heavy industry broadly, what other kind of categories of AVs are exciting?
+
+How do you see the space evolving?
+
+Yeah, look, anything, I mean, we, the mission is wheelbase for robots.
+
+Yeah.
+
+So then you're just like, okay, what moves?
+
+Yeah.
+
+Right?
+
+And you go, okay, where you have to find the businesses that make sense, of course.
+
+So we're like, okay, mining is a no-brainer.
+
+And how do you think about, how do you think about sizing for wheelbase for robots that can scale up and down?
+
+Yeah.
+
+Yeah.
+
+Like I tell my team, like, dude, there's like a ton of silver metals here.
+
+and there's actually a few other gold medals just in the category.
+
+So let's just go with delivery robots, like food delivery,
+
+which of course is near and dear to my heart.
+
+You make a lot of food.
+
+Yeah.
+
+Your $15 bowl became $30.
+
+Yeah.
+
+Okay?
+
+And this is like I would put it up there as like one of the number one
+
+annoyances of the average American,
+
+And regardless of where they are in society, it's like food inflation.
+
+Food is just the cost of food delivery.
+
+Everybody wants food fast, cheap, hot, et cetera.
+
+Yeah.
+
+And there's all this data that just came out this week that just shows, like,
+
+it doesn't matter even how much money you're making.
+
+You're spending a lot on this category.
+
+Isn't it interesting, right?
+
+Remember, I talked about the plumbers.
+
+Yeah.
+
+But like you could take whole categories, become the long pole in the tent.
+
+Food.
+
+boring to a lot of people boring is that for me interesting let's go let's go
+
+look I did taxis I did taxis yeah when they're like people looking at me funny
+
+it was a weird idea okay they're looking at me super funny yeah so Jason Calcanus
+
+the most famous investor in Uber of all time more famous than you and so whenever I
+
+meet with them like dude I'm so honored to be meeting one of our earlier investors but
+
+He, there was like an angel group that I pitched to.
+
+Yeah, yeah.
+
+There were like 30, 40 people in the room.
+
+I think it was like three or four that invested.
+
+It's crazy.
+
+OK, the 10 grand check became like 100 million bucks.
+
+It was crazy.
+
+But the boring places are the places.
+
+Yeah.
+
+Less competitive.
+
+But also just weird and hard.
+
+There's a reason why it's that way.
+
+The graveyard is stacked of tech guys that,
+
+thought they could crack food, which is why, which is again, like,
+
+go back to where they are.
+
+And you can go, you can go compete in this category, but you have to actually be insane.
+
+And you have to have to have.
+
+Yeah.
+
+And then you have to attack it all at all these levels.
+
+And in my, so my head of the robotics division.
+
+Yeah.
+
+We're like, yeah, let's do this.
+
+The band back together.
+
+Let's go.
+
+Right.
+
+This is Eric Meyerhofer.
+
+Yeah.
+
+And, and he's like, okay, we can make a food robot.
+
+I'm like, I got one, there's one requirement,
+
+the other, I got one hanging chat or one string attached.
+
+He's like what?
+
+I'm like, you're gonna have to build a restaurant
+
+that the robot serves.
+
+So my roboticist team in Pittsburgh made a restaurant
+
+that is the restaurant that our first robot went into
+
+because we had to make sure that we understood
+
+how a restaurant worked.
+
+We had to make sure that this wasn't just
+
+a machine that made food,
+
+but a machine that makes food
+
+and the ecosystem of machines call a restaurant.
+
+Yeah.
+
+And people don't understand, but a restaurant is a manufacturing facility.
+
+In fact, if you look at like the labor statistics, et cetera,
+
+restaurants fits under manufacturing for obvious reasons.
+
+It just hasn't changed in 50 years.
+
+Yeah, yeah, yeah.
+
+Anyways, back to a little...
+
+Sorry, I'm all over the...
+
+No, I love it.
+
+I love it.
+
+Firing on all cylinders.
+
+Yeah.
+
+But so, so again, do you want to move people with a...
+
+with AVs? Do you care more about commercial?
+
+Look, the industrial thing is sort of like probably our main jam,
+
+but the bottom line is once you crack movement in the physical world,
+
+there's lots of people who want access to that.
+
+And in fact, you need partners because you're going to be putting billions of dollars
+
+to work to make it happen.
+
+So there's going to be lots of partners across different categories
+
+that are going to probably want some of that,
+
+and I have no issues with that.
+
+We're not like a, you know, this is ours and this thing.
+
+It's more like, hey, there may be ways to work with ours.
+
+We're happy to do it.
+
+We've got to pick our spots, but you get the idea.
+
+What about manufacturing broadly?
+
+You're doing it in food.
+
+Are there other categories that are interesting?
+
+Are you happy to be kind of the transport rails?
+
+Look, I think once you are in physical AI,
+
+you should basically understand that manufacturing is part of your tech stack.
+
+Like, it just is.
+
+And by the way, energy is part of your tech stack.
+
+Land development, real estate is part of your tech stack.
+
+That's just what it's going to be.
+
+People don't think about it like that, but it's true.
+
+Of course, they're, you know, I, you know, Tesla just crush it.
+
+If you look at this list of things, you're just like, they got it all.
+
+So good.
+
+but there's just so much to do.
+
+Yeah.
+
+You know what I mean?
+
+We can see all the things,
+
+we can see all the things Tesla's doing.
+
+That's cool.
+
+I'm like, there's a million other things.
+
+I can still help you mine.
+
+Yeah.
+
+I can still get some food to some peeps.
+
+You know what I mean?
+
+So you get the idea.
+
+Is that really,
+
+when you're pitching investors around Adams
+
+in this new vision,
+
+is it basically like,
+
+there's a lot of jobs to do in the world.
+
+We're going to do it with physical AI
+
+and you're basically better.
+
+on applying my general ethos to all these categories over time.
+
+No, you've got to be able to pick your spots.
+
+If you are too broad, people are like, dude, what's wrong with you?
+
+Now, you know, I think every entrepreneur always gets that.
+
+Like, you know, I joke around like, in the 90s, like, dude, I'm an old guy.
+
+What are you going to do?
+
+In the 90s, it's like, dude, Microsoft's going to kill you.
+
+Like, why do you think?
+
+Then in the 2000s, it was like, why isn't Google going to do this?
+
+In the 2010s, it's like, dude, that looks like Uber's thing.
+
+Yep.
+
+And now it's like, if you're talking about physical AI, it's like, that's Tesla.
+
+They are the incumbent.
+
+They are, and not just the incumbent, they're also just doing great, awesome stuff.
+
+But find your spot.
+
+Know yourself, know what you're good at, be self-aware, and find the thing that is your business soulmate, for sure.
+
+But also know that you're in an ecosystem and you need to find your spot.
+
+What was your experience like in dot com and the financial crisis broadly in 2008?
+
+Okay, so basically I sold my peer-to-peer CDN, Akamai meets BitTorrent, in 2007 to Akamai.
+
+Okay.
+
+So I was earning out when that happened, and I was, I just started, I think I didn't last very long in that earn-out.
+
+Sure.
+
+Um, so, uh, I was the CXO. I was like an advisor and a CXO. Okay. Little known fact, I was a, I was a, I was
+
+blogging. Okay. I was like a tech influencer blogger. There is a, a blog still out there called
+
+swooshing. Yeah. Okay. Crazy amazing, ridiculous content. Okay. We're going to dedicate. I was in the
+
+click. I was in the click economy guys. I was in it. Okay. But um, so I was, I was, uh,
+
+advisor and CXO for like five different companies at a time. And so I'd help them on their deals or I would be their CTO.
+
+Or I would, you know, help them sell or product or whatever, but I could always just put the phone down and forget.
+
+So somewhat insulated from like the mortgage crash. Yeah, I mean, my thing was, I was trying to figure out. I was getting a bunch of my friends together and saying, okay, do you have a mortgage with Bank of America? I do too. Let's pool our thing. I'm going to go to Bank of America and say, I will buy.
+
+these mortgages off for 40 cents on the dollar.
+
+Yeah.
+
+Because you're selling them on the market for 10 cents.
+
+Interesting.
+
+Could be fun and then they're like...
+
+Get out of here.
+
+Yeah.
+
+You're not a hedge fund.
+
+It's wild.
+
+What about dot com?
+
+You're talking about the 90s?
+
+Yeah, the 90s, late 90s.
+
+Like, at that point you're like sort of starting your career, right?
+
+Yeah.
+
+It's an interesting place to start a career in tech.
+
+Like a lot of people watched that and said,
+
+So look, that was a, we did peer-to-peer file sharing at a company called Scour.
+
+Yeah.
+
+Okay, so some people did Napster.
+
+Some went to like, you know, all the ones that came after, BitTorrent all the way to like,
+
+what was the one that Zendstrom did, Kazah, or some of these others, right?
+
+We were the OG file sharing.
+
+Yeah.
+
+Okay.
+
+Michael Ovitz was on the board.
+
+Ron Berkel was on the board, L.A.
+
+Yeah.
+
+Okay.
+
+Doing a tech.
+
+Doing tech in LA was like being a finance guy in Fresno.
+
+They don't know what the hell is going on.
+
+They're like, who are you?
+
+And you're a little bit sheltered from it in LA.
+
+Every time you went to the Silicon Valley,
+
+it was like wild and crazy.
+
+And like every bar was like packed like after hours,
+
+like happy hour thing, like things were bubbling.
+
+The crazy part is not just what happened during the run of
+
+up, it was post. I was raising money on this peer-to-peer CDN that I didn't have, I didn't
+
+pay myself a salary for four years. I was raising money in two, in late 2001 for a networking
+
+software company. Are you freaking kidding me? And so I remember going to one of these,
+
+going to a bar to meet up with a VC. And this is like 2002. And it's empty. Like this thing that
+
+would be mega packed just two years earlier.
+
+I mean, we're talking dust bowl tumbleweeds, empty.
+
+And this VC, I wish I remember who it was, because it'd be amazing, was like, yeah, Travis, dude, I think, I think it's all done.
+
+It's over.
+
+He told you, it's over.
+
+I'm like, what do you mean?
+
+He's like, all the software that could be invented has been invented.
+
+Wow.
+
+We're done.
+
+And he meant it.
+
+He meant it.
+
+He meant it.
+
+He's like, it's been real, dude.
+
+Let's have a whiskey.
+
+Let's go.
+
+We're done.
+
+That's incredible.
+
+How have you processed the last two years when people are able to raise an amount of money that took you four different rooms in this, you know, entire, you know, process and they can just raise it literally without a deck often.
+
+They can just pull it together.
+
+Look, it's all good.
+
+Like, I don't, I just have, you know, when you build a company the way I built it, which is like my current one, where you're literally under the radar, it means that you are power.
+
+It means that you are powered by you have an internal fulfillment.
+
+You're not like caring what others think you.
+
+You get internally fulfilled with building.
+
+And I don't look at somebody and go,
+
+oh dude, I had it so much harder uphill both ways to school, whatever.
+
+You know, I don't think like that.
+
+It's more about the excellence of the process.
+
+So I'm like, well, how do you raise money?
+
+how do you raise money? And they're like, oh yeah, I just throw a deck to the guy. I'm like,
+
+okay, well, that's not a thing. What is a thing is going all the way until it hurts.
+
+If you're doing something and it's easy, it's not valuable. And I'll explain. Like, let's just
+
+think of like a marathoner. Yeah. World class marathoner on mile 21. Is that dude smiling?
+
+No, he's not smiling. By the way, if he is smiling, you know what's about to happen? He's
+
+about to get his ass whoop. Okay? It's over. Because why? Because somebody else who's down for the pain
+
+will go harder and further and pass him. And so if you're getting money easy, I'm like, why didn't
+
+you go harder? You could have done it better and more. Now, you don't do things hard just because.
+
+Maybe he's like, it just doesn't matter, too. Like, I got to go do something else that's hard.
+
+But the key is like, if money matters, which I think we would say it does, especially in certain
+
+categories you need to be the best in the world at it and it's not enough to say it was easy if
+
+anybody comes to me and says a strategic thing was easy i'm like you messed up you could have been
+
+way better and gone way further more competitive advantage more differentiation get it together
+
+give me the update like tony robins right i love it i love it no i think people i think people
+
+need to hear this they do they do and and yeah the challenge is like when when if raising money is super
+
+and then you actually start building.
+
+And you're like, well, actually, money doesn't,
+
+money makes this possible, but it doesn't make the work easy.
+
+Yeah.
+
+And it is funny that some of the greatest fundraisers,
+
+the critique is always like, oh, well, they are raising too much money.
+
+You look at Elon, Sam, all these crazy deals,
+
+and people are like, well, like, okay, it's nice that you're good,
+
+but like, are you too good?
+
+And it's, look, here's the thing,
+
+you know, back in the day, 2010's reference,
+
+like, there was a problem with getting Mossa money.
+
+Yeah.
+
+there was a problem with that.
+
+Yeah.
+
+Because it was easy money.
+
+Sure.
+
+And it was too loose.
+
+Yeah.
+
+And so people would get loose with the culture of the investor
+
+that they were getting the money from.
+
+And so you had to be careful.
+
+So if somebody got Masa money, I'd be like, dude,
+
+you got to grind.
+
+It was maybe a little too easy.
+
+And you still to this day.
+
+So, so, um,
+
+There's nothing wrong with money as a sort of a competitive advantage or a strategic weapon.
+
+It's okay.
+
+Like that's part of business.
+
+It's necessary.
+
+But treat it with respect.
+
+Last question about Texas.
+
+For the Californians that are thinking about making a trip out there.
+
+Austin, Dallas, Houston.
+
+What do you recommend?
+
+Well, look, I'm Austin.
+
+Now, I own a place in Austin.
+
+I've owned it for five years.
+
+I'm an avid.
+
+I would say almost professional water skier.
+
+No way.
+
+Slalom skiing.
+
+I'll send a video.
+
+I'll send a video.
+
+It's sick.
+
+Don't even get it started.
+
+So I've owned a place there for five years.
+
+Right on the lake, Lake Austin,
+
+20 minutes from the city.
+
+There you go.
+
+Lake life.
+
+Hell yeah.
+
+Go for it.
+
+I get a little bit fomo on like these people going to Florida.
+
+I'm like, dude.
+
+Yeah.
+
+Why so much Florida action?
+
+Like, come on, homies.
+
+I know.
+
+It's been a blood bath for, it's just in every single guy's going to Florida.
+
+But like, yeah, like every weekend this year I've had this year's in Texas.
+
+Yeah.
+
+You ever take calls while you're water skiing, like AirPods?
+
+Dude, I should.
+
+Be good.
+
+I love it.
+
+Don't get me excited.
+
+Well, I went to Serronic, which does the boats, the autonomous boats.
+
+Yeah, yeah.
+
+And I'm like.
+
+Build me a water skiing.
+
+Water skiing boat.
+
+Ooh, okay.
+
+I just want a water ski.
+
+That's great.
+
+And like,
+
+you're skiing behind a serranic boat is so funny.
+
+I'm like,
+
+autonomous water ski.
+
+Yeah, dude, I love it.
+
+Pretty viral.
+
+Who should, who should come?
+
+You're poking your head up.
+
+Who should come work for you?
+
+Yeah.
+
+60 seconds.
+
+Who do you want?
+
+Not, not any individual, like, one individual person.
+
+That's so funny.
+
+I have a message for this one guy who didn't take my offer.
+
+Look, I think the thing is, is like,
+
+we're just getting the best.
+
+This is so cliche and like, whatever, banal.
+
+But look, we are in the physical AI space.
+
+So it's a mix of sort of, let's call it, sensors, compute,
+
+the software that sits on top of those things.
+
+I mean, it's just going to be great engineers.
+
+And then you go through what I would call the physical AI stack.
+
+and you would, you know, but.
+
+It's a long project.
+
+It's someone who wants a career.
+
+It's like infrastructure software, guys,
+
+because you've got to have epic AI on the back end,
+
+and the way to use that, it sort of has to be epic.
+
+You have to have physical AI model people
+
+who are sort of translating foundational models
+
+into the physical world,
+
+and there's some core research and some just like,
+
+I know all the white papers,
+
+and we're just going to, we're building and going end
+
+or some hybrid version of that.
+
+You have just normal software because you've got applications that sit on top that then of course customers see in some fashion or another
+
+Actuation and manipulation on the mechanical and sort of robotic side of things and mechanical engineers that build machines
+
+You know and then of course remember I've got construction real estate like I could go on
+
+It's lots of cool stuff. Go to the website. There's lots of stuff there
+
+The website folks at the website.com
+
+Adam's dot co and by the
+
+at Adams.co slash vision. I just threw down.
+
+Oh, okay. I know. Read it.
+
+I know. Check it out. Well, thank you. It's amazing.
+
+Yeah, with us.
+
+This was awesome.

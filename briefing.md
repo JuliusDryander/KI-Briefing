@@ -2,116 +2,93 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| Geopolitik & Technologie | NVIDIA nimmt die Produktion von AI-Chips für den Verkauf in China wieder auf, um geopolitische Risiken zu mindern, während China weiterhin eine inländische Lieferkette aufbauen will. | Jensen Wong (NVIDIA) | TBPN |
-| Finanzwesen & KI | Der Private-Credit-Markt zeigt Belastungen durch steigende Zinsen und KI-Disruption von SaaS-Produkten, wird aber eher als sektorspezifischer Reset denn als systemische Krise interpretiert. | Eric Suford (Mobile Dev Memo) | TBPN |
-| Finanzinfrastruktur & KI | Das Tempo Project hat eine auf Zahlungen optimierte Blockchain und das Machine Payments Protocol (MPP) in Zusammenarbeit mit Stripe gestartet, um AI-Agenten das Bezahlen von Diensten zu ermöglichen. | Georgios Konstantopoulos (Tempo Project), Matt Wong (Paradigm) | TBPN |
-| US-Politik & KI-Infrastruktur | Senator John Fetterman kritisiert die Haltung seiner Partei in Bezug auf Geopolitik und Technologie, befürwortet eine harte Linie gegen den Iran und lehnt ein Moratorium für KI-Rechenzentren ab. | Senator John Fetterman | All-In |
-| Technologie-Strategie | DoorDash setzt auf KI zur Steigerung der Mitarbeiterproduktivität und zur Verbesserung des Kundenerlebnisses durch "agentic commerce" und "physical intelligence", beschleunigt durch eine Akquisition. | Andy Fang (Co-Founder, DoorDash) | TBPN |
+| AI-Infrastruktur | Nvidia entwickelt sich vom GPU- zum "AI-Factory"-Unternehmen, das durch disaggregierte Inferenz und spezialisierte Hardware die explosionsartig wachsende Nachfrage nach AI-Compute bedient und dabei neue Märkte wie Physical AI und Digital Biology erschließt. | Jensen Huang (Nvidia) | All-In |
+| Globale AI-Investitionen | Massive private und unternehmensspezifische Investitionen in AI-Infrastruktur und -Fertigung prägen die globale Industriepolitik, wobei Europa ein wachsendes Talentreservoir darstellt, aber auch Herausforderungen wie Wettbewerbsverzerrungen und Infrastruktur-Engpässe bestehen. | Host, Tyler, Tom Hulme (GV), Mark Cuban, Jensen Huang (Nvidia) | TBPN, All-In |
+| AI-Regulierung & Geopolitik | Die schnelle Entwicklung von AI-Agenten und -Technologien überholt bestehende Regulierungsmodelle, während geopolitische Spannungen und Handelspolitik die globale Diffusion von AI-Technologie und die Resilienz der Lieferketten beeinflussen. | Jensen Huang (Nvidia) | All-In |
+| Unternehmenssoftware & Agenten | Die Unternehmenssoftware-Landschaft wird durch eine neue "System of Intelligence"-Schicht von AI-Agenten transformiert, die auf bestehenden Systemen aufsetzen und sowohl etablierten SaaS-Anbietern als auch AI-nativen Startups neue Wachstumschancen bieten, während sie gleichzeitig die Produktivität massiv steigern. | Carl Eschenbach, Pat Grady (Sequoia), Jensen Huang (Nvidia) | TBPN, All-In |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🇨🇳 NVIDIA & China Chips: Geopolitische Gratwanderung im Chip-Handel
+## 🏭 Nvidia's AI-Factory-Strategie & Inference Explosion
 
-Jensen Wong (NVIDIA) gab bekannt, dass NVIDIA die Produktion von AI-Chips für den Verkauf in China wieder aufnimmt, nachdem die Lieferkette nach Monaten gemischter Signale wieder "angefeuert" wurde. Die US-Exportverbote für Chips nach China, die 2022 mit dem Chips Act begannen, erhöhten das Risiko eines Taiwan-Konflikts, da Chinas Abhängigkeit von TSM-Chips sank. Der H-200 Prozessor, eine Generation hinter dem leistungsstärksten Blackwell, wird in China verkauft, unter der Bedingung, dass NVIDIA 25% der Einnahmen mit der US-Regierung teilt. Chinesische Behörden haben den Verkauf genehmigt, entgegen der Erwartung, dass sie die heimische Industrie fördern würden. Der chinesische Markt für NVIDIAs AI-Prozessoren könnte jährlich "zig Milliarden Dollar" wert sein.
-
-**Konkrete Details aus dem Gespräch:**
-- NVIDIA nimmt die Produktion von AI-Chips für den Verkauf in China wieder auf.
-- US-Exportverbote für Chips nach China begannen 2022 unter dem Chips Act.
-- Das Verbot erhöhte das Risiko eines Taiwan-Konflikts, da Chinas Abhängigkeit von TSM-Chips sank.
-- Der H-200 Prozessor wird in China verkauft, mit einem Exportzoll von 25% der Einnahmen an die US-Regierung.
-- Chinesische Behörden haben den Verkauf von H-200 Chips genehmigt.
-- Der chinesische Markt für NVIDIAs AI-Prozessoren könnte jährlich "zig Milliarden Dollar" wert sein.
-
-**🇪🇺 Europa-Relevanz:**
-- Die EU hatte Gegenmaßnahmen im Umfang von €93 Mrd. gegen US-Zölle vorbereitet (aktuell suspendiert), was die Komplexität internationaler Handelskonflikte unterstreicht.
-- EU-Handelskommissar Maroš Šefčovič verhandelt bilateral mit den USA, während die EU WTO-Verfahren gegen US-Zölle eingeleitet hat.
-- VDMA und SPECTARIS warnen vor massiven Auswirkungen auf den deutschen Maschinenbau und die optische Industrie durch US-Zölle, was die Bedeutung einer stabilen Chip-Lieferkette für die europäische Industrie hervorhebt.
-- Die US-Entscheidung, Chips an China zu verkaufen, könnte den Wettbewerbsdruck auf europäische Chiphersteller wie Infineon oder STMicroelectronics erhöhen.
-
-## 📉 Private Credit & AI Disruption: Ein sektorspezifischer Reset statt systemischer Krise
-
-Eric Suford (Mobile Dev Memo) analysiert, dass der Private-Credit-Markt, der seit der globalen Finanzkrise (GFC) stark gewachsen ist, Anzeichen von Belastung zeigt. Dies ist auf steigende Zinsen und die disruptive Wirkung von KI auf Vertical-SaaS-Produkte zurückzuführen. JPMorgan schätzt, dass 21% des Private-Credit-Marktes (bis zu 40% mit Tech/Business Services) ein Software-Exposure aufweisen. UBS prognostiziert bei "rapid, severe AI disruption" Ausfallraten von 14-15% für Private Credit. Suford argumentiert jedoch, dass die aktuellen Bedingungen keine Ähnlichkeit mit der GFC haben, da Private Credit weniger vernetzt und transparenter ist. KI reduziert die Kosten für Softwareentwicklung, ermöglicht hausgemachte Lösungen und erweitert den Zugang zu Software für kleinere Firmen, während etablierte Unternehmen höhere Anpassungskosten an die KI-Ära haben.
+Jensen Huang (Nvidia) beschreibt die Transformation von Nvidia von einem GPU-Unternehmen zu einem "AI-Factory"-Unternehmen. Diese Strategie basiert auf disaggregierter Inferenz und spezialisierter Hardware, um die explosionsartig wachsende Nachfrage nach AI-Compute zu bedienen. Nvidia erschließt dabei auch neue Märkte wie Physical AI und Digital Biology.
 
 **Konkrete Details aus dem Gespräch:**
-- Der Private-Credit-Markt in den USA erreichte Mitte 2024 1,34 Billionen Dollar, mit Schätzungen bis zu 3 Billionen Dollar weltweit.
-- Wuchs nach der GFC stark, um eine Finanzierungslücke zu schließen, da Banken stärker reguliert wurden.
-- JPMorgan schätzt 21% des Private-Credit-Marktes als Software-Exposure (bis zu 40% mit Tech/Business Services).
-- Negative Stimmung durch steigende Zinsen und KI-gestützte Coding-Tools, die die Verteidigungsfähigkeit von Vertical-SaaS-Geschäften gefährden.
-- UBS prognostiziert bei "rapid, severe AI disruption" Ausfallraten von 14-15% für Private Credit.
-- Der Vergleich mit der GFC wird als fehlerhaft angesehen, da Private Credit weniger vernetzt und transparenter ist.
-- KI reduziert die Kosten für Softwareentwicklung, ermöglicht hausgemachte Lösungen und erweitert den Zugang zu Software für kleinere Firmen.
+- Nvidia's "Dynamo" ist das Betriebssystem der AI-Fabrik, basierend auf disaggregierter Inferenz. (All-In)
+- Die Vera Rubin Plattform ist für extrem diverse Workloads in AI-Datenzentren konzipiert, inklusive Storage (Bluefield), Groc-Prozessoren, CPUs und Networking. (All-In)
+- Der TAM (Total Addressable Market) von Nvidia hat sich durch diese Erweiterung um 33-50% erhöht. (All-In)
+- Eine 50 Mrd. $ AI-Fabrik kann die niedrigsten Token-Kosten erzeugen, da Effizienz den Preis der Hardware überwiegt. (All-In)
+- "Physical AI" ist eine 10-Jahres-Reise, die vor 10 Jahren begann und jetzt ein Multi-Milliarden-Dollar-Geschäft für Nvidia ist (nahe $10 Mrd./Jahr). (All-In)
+- "Digital Biology" steht kurz vor einem "ChatGPT-Moment" und wird die Gesundheitsbranche in 2-5 Jahren revolutionieren. (All-In)
 
 **🇪🇺 Europa-Relevanz:**
-- Die EU Kapitalmarktunion (CMU) hinkt den USA hinterher (EU VC-Volumen bei ~30% des US-Niveaus), was die Anfälligkeit europäischer Software-Startups für ähnliche Private-Credit-Probleme erhöhen könnte.
-- Der Deutschlandfonds (KfW-gestützt, €30 Mrd. Garantien, €130 Mrd. private Investitionen) zielt darauf ab, private Investitionen in DeepTech und KI zu mobilisieren und könnte als Puffer gegen solche Disruptionen dienen.
-- Die "Made for Germany"-Initiative (€735 Mrd. Investitionszusagen bis 2028) zeigt den Willen, die deutsche Wirtschaft zu stärken, muss aber die AI-Disruption in Software-Sektoren berücksichtigen.
-- Die EU-Kommission prüft mit dem Digital Fitness Check (Konsultation bis 11. März 2026) die Wechselwirkung aller EU-Digitalgesetze, um die Wettbewerbsfähigkeit zu sichern.
+- Tim Höttges (Telekom) warnt: Europa nutzt nur 5% der KI-Hochleistungschips vs. 70% in den USA. Nvidia's Strategie, die gesamte AI-Fabrik anzubieten, könnte den Druck auf europäische Unternehmen erhöhen, die eigene Infrastruktur aufzubauen.
+- Das €11-Mrd.-Rechenzentrum Lübbenau (Schwarz Digits) und das Telekom/Nvidia-Projekt München sind konkrete europäische Initiativen, die versuchen, die von Jensen Huang beschriebene "AI-Factory"-Kapazität in Europa zu etablieren.
+- Die InvestAI-Initiative der EU mobilisiert €200 Mrd. für KI, darunter €20 Mrd. für 4-5 KI-Gigafactories, um die von Nvidia vorangetriebene Infrastruktur-Entwicklung in Europa zu spiegeln.
 
-## ⛓️ Tempo Project Blockchain: Zahlungen für AI-Agenten und Stablecoin-Adoption
+## 💰 Globale AI-Investitionen & Industriepolitik
 
-Georgios Konstantopoulos (Tempo Project) und Matt Wong (Paradigm) stellten das Tempo Mainnet und das Machine Payments Protocol (MPP) vor, eine auf Zahlungen optimierte Blockchain, die in Zusammenarbeit mit Stripe entwickelt wurde. MPP ermöglicht AI-Agenten das Bezahlen von API-Diensten und nutzt "Sessions", um Blockchain-Transaktionen zu bündeln und Kosten zu amortisieren. "Access Keys" bieten programmierbare Ausgabenlimits für Agenten, um Fehlfunktionen zu mindern. MPP ist bereits in den Stripe Docs als Zahlungsoption verfügbar. Die Stablecoin-Adoption hat in den letzten 18 Monaten überraschend stark zugenommen, angetrieben durch grenzüberschreitende Zahlungen, sofortige Auszahlungen und die Nutzung als Cash-Instrument für Venture Capital. Regulatorische Klarheit, wie der "Genius Act" in den USA, hat die Akzeptanz durch Unternehmen erhöht.
+Die globale Industriepolitik wird zunehmend von massiven privaten und unternehmensspezifischen Investitionen in AI-Infrastruktur und -Fertigung geprägt. Während Europa ein wachsendes Talentreservoir darstellt, bestehen weiterhin Herausforderungen wie Wettbewerbsverzerrungen und Infrastruktur-Engpässe.
 
 **Konkrete Details aus dem Gespräch:**
-- Tempo Mainnet und Machine Payments Protocol (MPP) wurden live geschaltet.
-- MPP ist eine Lösung, um AI-Agenten das Bezahlen von API-Diensten zu ermöglichen.
-- Die Tempo-Blockchain ist für Zahlungen optimiert: schnell (Blockzeiten < 1 Sekunde), hoher Durchsatz, niedrige Latenz.
-- "Sessions" bündeln Blockchain-Transaktionen, um Kosten zu amortisieren (nur Öffnen/Schließen einer Transaktion).
-- "Access Keys" ermöglichen programmierbare Ausgabenlimits für Agenten (z.B. 10 Dollar pro Stunde).
-- MPP wurde gemeinsam mit Stripe entwickelt und ist bereits in den Stripe Docs als Zahlungsoption verfügbar.
-- Stablecoin-Adoption hat in den letzten 18 Monaten überraschend stark zugenommen, auch außerhalb des Krypto-Handels.
+- Samsung investiert $70 Mrd. in die Erweiterung seiner Fab-Kapazitäten für AI-Chips, um Engpässe bei TSMC zu adressieren. (TBPN)
+- Jeff Bezos plant einen $100 Mrd. "AI Manufacturing Fund" (Project Prometheus) für Sektoren wie Chipherstellung, Verteidigung und Luft- und Raumfahrt. (TBPN)
+- Europa verfügt über 35% der weltweiten AI-Forscher und vier der global führenden technischen Universitäten (Oxford, Cambridge, Imperial, ETH Zurich). (TBPN)
+- Mark Cuban prognostiziert, dass Bandbreiten-Engpässe ein großes Problem für zukünftige, videobasierte AI-Modelle darstellen werden. (TBPN)
+- Mark Cuban kritisiert Wettbewerbsverzerrungen auf Amazon, wo chinesische Unternehmen ohne Nexus und Steuerpflicht amerikanische Produkte leichter nachahmen können. (TBPN)
+- GV sieht Multiplikatoreffekte durch "Repeat Founders" und ein "PayPal Mafia"-Äquivalent in Europa. (TBPN)
 
 **🇪🇺 Europa-Relevanz:**
-- Die EU MiCA-Verordnung (seit Juni 2024 in Kraft) hat die weltweit strengste Stablecoin-Regulierung, was die Integration von MPP in Stripe für europäische Märkte komplexer machen könnte.
-- Die EU-Banklizenz dauert 12-18 Monate (vs. 7 Monate in den USA), was die Markteinführung neuer Finanzprodukte wie MPP in Europa verlangsamen könnte.
-- Die Kapitalmarktunion (CMU) soll den europäischen Kapitalmarkt stärken, aber der langsame Fortschritt könnte die Akzeptanz neuer Blockchain-basierter Finanzinfrastrukturen wie Tempo behindern.
-- Die Merz-Regierung arbeitet an einer "entschlossenen Vereinfachung" der Finanzregulierung, was die Chancen für Tempo in Deutschland verbessern könnte.
+- Die EU-Handelskommissar Maroš Šefčovič verhandelt bilateral mit den USA über Zölle, während die neuen Section 122-Zölle (max. 15%) die Wettbewerbsfähigkeit europäischer Hersteller beeinträchtigen könnten, die in den USA produzieren oder dorthin exportieren.
+- Die InvestAI-Initiative der EU mobilisiert €200 Mrd. für KI, darunter €20 Mrd. für 4-5 KI-Gigafactories, um die von Samsung und Bezos angekündigten Investitionen in AI-Fertigung und -Infrastruktur zu kontern.
+- EVP Henna Virkkunen betont, dass die Mehrheit der Eigentümer von EU-finanzierten Gigafactories aus Europa kommen sollte, um die Tech-Souveränität zu sichern und Beteiligungen von "High-Risk-Anbietern" zu vermeiden.
 
-## 🇺🇸 Fetterman on Geopolitics & AI Infrastructure: Eine parteiübergreifende Kritik
+## ⚖️ AI-Regulierung & Geopolitische Risiken
 
-Senator John Fetterman kritisiert die Haltung seiner Partei in Bezug auf Geopolitik und Technologie. Er befürwortet eine harte Linie gegen den Iran und bezeichnet die Zerstörung des iranischen Regimes als "good thing". Er kritisiert NATO-Verbündete, die sich weigern, die USA bei der Wiedereröffnung der Meerengen zu unterstützen, obwohl sie Öl konsumieren. Fetterman lehnt ein Moratorium für den Bau von KI-Rechenzentren ab, da dies die USA im KI-Wettlauf gegenüber China benachteiligen würde. Er kritisiert "landish kind of thing" und "excesses" in seiner Partei, die solche Moratorien fordern, und betont die Notwendigkeit von Rechenzentren für die US-Führung in der KI-Entwicklung. Er sieht die Demokratische Partei als "governed by the TDS" (Trump Derangement Syndrome), was eine konstruktive Zusammenarbeit behindert.
+Die rasante Entwicklung von AI-Agenten und -Technologien überholt bestehende Regulierungsmodelle, was die Notwendigkeit einer informierten und ausgewogenen Politik unterstreicht. Gleichzeitig beeinflussen geopolitische Spannungen und Handelspolitik die globale Diffusion von AI-Technologie und die Resilienz der Lieferketten.
 
 **Konkrete Details aus dem Gespräch:**
-- Senator Fetterman ist ein "unapologetic supporter" Israels und befürwortet die Zerstörung des iranischen Regimes.
-- Er kritisiert NATO-Verbündete, die sich weigern, die USA bei der Wiedereröffnung der Meerengen zu unterstützen.
-- Er lehnt ein Moratorium für den Bau von KI-Rechenzentren ab, da dies die USA im KI-Wettlauf gegenüber China benachteiligen würde.
-- Er kritisiert "landish kind of thing" und "excesses" in seiner Partei, die solche Moratorien fordern.
-- Er sieht die Demokratische Partei als "governed by the TDS" (Trump Derangement Syndrome).
-- Er ist mystifiziert über seine höhere Popularität bei Republikanern (60er%) als bei Demokraten (50-50, oder 22% in einer anderen Umfrage).
+- Jensen Huang (Nvidia) warnt davor, dass AI-Gesetzgebung schnell veraltet sein kann, da sich das Paradigma rasch verschiebt (z.B. durch Open Claw als "Personal AI Computer"). (All-In)
+- Huang betont die Notwendigkeit, Politiker über den Stand der Technologie zu informieren und "Dumerism und Extremismus" zu vermeiden, um die nationale Sicherheit nicht zu gefährden. (All-In)
+- Nvidia verlor 95% seines Marktanteils im zweitgrößten Markt der Welt (China) aufgrund von US-Handelspolitik und ist jetzt bei 0%. (All-In)
+- Präsident Trump möchte, dass US-Unternehmen wie Nvidia wieder Lizenzen erhalten, um in China zu verkaufen. (All-In)
+- Huang fordert die Reindustrialisierung der USA, Diversifizierung der Lieferketten (Südkorea, Japan, Europa) und Zurückhaltung in geopolitischen Spannungen, insbesondere im Hinblick auf Taiwan. (All-In)
+- Anthropic wird für seinen Fokus auf Sicherheit und Ethik gelobt, aber Huang kritisiert "scaring is less good" und extreme, katastrophale Vorhersagen ohne Evidenz. (All-In)
 
 **🇪🇺 Europa-Relevanz:**
-- Die EU hat das REPowerEU-Ziel (45% Erneuerbare bis 2030) und steht vor ähnlichen Herausforderungen bei der Energieversorgung von Rechenzentren wie die USA (Frankfurt, Irland, Amsterdam mit Moratorien).
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen – ein Moratorium für Rechenzentren würde diese Lücke weiter vergrößern.
-- Das €11 Mrd.-Rechenzentrum Lübbenau (Schwarz Digits) und das Telekom/Nvidia-Projekt München sind konkrete europäische Initiativen, um die Rechenleistung zu erhöhen und der "AI Infrastructure Gap" entgegenzuwirken.
-- Die EU-Verteidigungsbudgets (gesamt ~€300 Mrd. vs. US ~$900 Mrd.) und das Verfehlen des NATO 2%-Ziels durch die meisten EU-Staaten zeigen eine Abhängigkeit von den USA, die durch Trumps Drohungen mit NATO-Rückzug und Fetterman's Kritik an NATO-Verbündeten verstärkt wird.
+- Der EU AI Act sieht ab Aug 2026 die vollständige Compliance für High-Risk-KI-Systeme vor, doch der Digital Omnibus könnte diese Deadline um bis zu 16 Monate verschieben (Backstop: Dez 2027/Aug 2028), was die von Jensen Huang angesprochene schnelle Veralterung von Regulierung widerspiegelt.
+- Die EU hatte Gegenmaßnahmen im Umfang von €93 Mrd. gegen US-Zölle vorbereitet, die aktuell suspendiert sind. Das Anti-Coercion Instrument (ACI) steht als Druckmittel bereit, um die von Jensen Huang beklagten Handelspolitiken zu adressieren.
+- EVP Henna Virkkunen (Tech-Souveränität) und der Digital Fitness Check (Konsultation bis 11. März 2026) prüfen die Wechselwirkung aller EU-Digitalgesetze, um die Umsetzung zu vereinfachen, ohne die hohen Standards zu kompromittieren.
 
-## 🤖 DoorDash AI Strategy: Agentic Commerce und Physical Intelligence als Wachstumstreiber
+## 🚀 Zukunft der Unternehmenssoftware & Agenten
 
-Andy Fang (Co-Founder, DoorDash) erläutert, dass DoorDash stark auf KI setzt, um die Mitarbeiterproduktivität zu steigern und das Kundenerlebnis zu verbessern. Dies geschieht durch die Akquisition von Metis, einem angewandten KI-Forschungslabor. Der Fokus liegt auf "agentic commerce", bei dem KI-Agenten im Namen des Kunden handeln, um beispielsweise die "Entscheidungsparalyse" bei der Essensauswahl zu überwinden. Ein weiterer Schwerpunkt ist "physical intelligence", also die Anwendung von KI in Robotik und der physischen Welt, unterstützt durch die Milliarden von Datenpunkten, die DoorDash täglich sammelt. DoorDash ist zudem ein früher Partner im Apps-Ökosystem von OpenAI und arbeitet an der Integration von Stablecoins mit Tempo, um disruptive und innovative Zahlungen zu ermöglichen.
+Die Unternehmenssoftware-Landschaft wird durch eine neue "System of Intelligence"-Schicht von AI-Agenten transformiert. Diese Agenten setzen auf bestehenden Systemen auf und bieten sowohl etablierten SaaS-Anbietern als auch AI-nativen Startups neue Wachstumschancen, während sie gleichzeitig die Produktivität massiv steigern.
 
 **Konkrete Details aus dem Gespräch:**
-- DoorDash hat Metis, ein angewandtes KI-Forschungslabor, akquiriert, um KI-Anwendungsfälle zu beschleunigen.
-- Fokus liegt auf "agentic commerce" (KI-Agenten, die im Namen des Kunden handeln) und "physical intelligence" (KI für Robotik und physische Welt).
-- KI soll Kunden bei der Entscheidungsparalyse helfen, angesichts der großen Auswahl auf DoorDash.
-- Es gibt Interesse von Gründern an einer "DoorDash CLI" für die Integration eigener KI-Agenten.
-- DoorDash ist ein früher Partner im Apps-Ökosystem von OpenAI.
-- Das Unternehmen sammelt täglich Milliarden von Datenpunkten in der physischen Welt über sein Kurier- und Support-Netzwerk.
+- Carl Eschenbach und Pat Grady (Sequoia) sehen eine dritte Schicht von "Systems of Intelligence" (Agenten) auf den bestehenden "Systems of Record" (ERP) und "Systems of Engagement" (Workflow-Apps). (TBPN)
+- Pat Grady argumentiert, dass "People do business with people" weiterhin gilt, auch wenn AI die Geschäftsmodelle verändert. (TBPN)
+- Carl Eschenbach ist bullish auf etablierte SaaS-Unternehmen mit hoher Kundenbindung (z.B. Workday mit 98% Retention), da sie Skalierung, Sicherheit und Compliance bieten. (TBPN)
+- Gleichzeitig haben AI-native Startups die Chance, von Grund auf neu zu bauen und Märkte schnell zu disruptieren, insbesondere dort, wo Daten, Kontext und Workflows fehlen. (TBPN)
+- Jensen Huang prognostiziert, dass die Enterprise IT Software-Industrie nicht zerstört, sondern durch "100x mehr Agenten" auf bestehenden Tools (SQL, Blender, Photoshop) massiv expandiert wird. (All-In)
+- Huang sieht "Open Claw" als den ersten "Personal AI Computer", der durch seine Agenten-Fähigkeiten (Memory, Skills, Scheduling, IO, APIs) das moderne Computing neu definiert. (All-In)
 
 **🇪🇺 Europa-Relevanz:**
-- Der EU AI Act (High-Risk-Systeme compliant ab Aug 2026) könnte die Entwicklung von "agentic commerce" und "physical intelligence" in Europa beeinflussen, insbesondere bei Anwendungen in kritischen Infrastrukturen oder öffentlichen Diensten.
-- EVP Henna Virkkunen betont die Notwendigkeit, "doing business in Europe easier" zu machen, was für die Skalierung von KI-basierten Plattformen wie DoorDash in der EU relevant ist.
-- Das EU AI Office (operativ ab Aug 2025) überwacht GPAI-Transparenzpflichten und den Code of Practice, was für die OpenAI-Partnerschaft von DoorDash relevant sein könnte.
-- Die EU AI Champions Initiative (Ziel: €200 Mrd. für KI) fördert die Entwicklung von KI-Technologieunternehmen und -Anwendungen in Europa, was ein günstiges Umfeld für DoorDashs KI-Strategie schaffen könnte.
+- Der Deutschlandfonds (KfW-gestützt, €30 Mrd. Garantien) zielt darauf ab, bis zu €130 Mrd. private Investitionen in Startups & Scale-ups (DeepTech, KI) zu mobilisieren, um die Entwicklung von AI-nativen Unternehmen zu fördern, die mit den "Systems of Intelligence" konkurrieren.
+- Rolf Schumann (Co-CEO Schwarz Digits) betont die Notwendigkeit von Rechenpower für Deutschland, um in der ersten Liga bei KI mitzuspielen, was die Basis für die von Jensen Huang beschriebene "100x Agenten"-Expansion in der Enterprise-Software ist.
+- Die EU AI Champions Initiative (Feb 2025) mit €150 Mrd. Investitionszusage europäischer Unternehmen konzentriert sich auf KI-Technologieunternehmen und -Anwendungen, die die neue Schicht der "Systems of Intelligence" in Europa aufbauen sollen.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-Die Diskussion über **Private Credit und AI Disruption** beleuchtete auch, wie KI die Kosten für Softwareentwicklung drastisch senkt und so kleineren Unternehmen den Zugang zu maßgeschneiderten Lösungen ermöglicht, was zu einer breiteren wirtschaftlichen Produktivitätssteigerung führen könnte. Im Bereich **Performance Medicine** wurde die Debatte um Peptide und unzugelassene Substanzen thematisiert, wobei Dr. Cameron Sepah (Maximus) die Vorteile von FDA-zugelassenen Medikamenten wie GLP-1s und Testosteron zur Leistungssteigerung betonte und vor dem Schwarzmarkt warnte.
+- **Phantom Space Corporation (TBPN):** Jim Cantrell diskutiert die Zukunft der Weltraumökonomie, einschließlich AI-Inferenz in Orbit-Datenzentren, vertikaler Integration und der Bedeutung von Helium-3 und seltenen Erden auf dem Mond als strategische Ressourcen.
+- **Paraform & EDRA (TBPN):** Paraform, eine agentische Einstellungsplattform, expandiert in den Rechtsmarkt und sieht Wachstum in Verteidigung und Fertigung. EDRA, ein agentisches Lernsystem, automatisiert Unternehmensprozesse und hat bereits große Kunden wie ASOS und HubSpot gewonnen.
+- **Run Civil (TBPN):** Ari Herbert-Voss, ein ehemaliger OpenAI-Forscher, gründete Run Civil, um offensive AI-Sicherheit zu bieten und Hacker-Intuition zu automatisieren, mit Fokus auf alte Codebasen und große Unternehmen.
 
 # 💭 Zum Drüber Nachdenken
 
-**Trumps Kraftwerks-Zwang entlarvt Europas Rechenzentrum-Illusion**
-Kontext: Senator Fetterman lehnt ein Moratorium für KI-Rechenzentren ab, da dies die US-Führung in der KI-Entwicklung gefährden würde. Gleichzeitig warnt Tim Höttges (Telekom), dass Europa nur 5% der KI-Hochleistungschips nutzt. Während in den USA über die Energieversorgung von Rechenzentren diskutiert wird, stehen europäische Hubs wie Frankfurt und Amsterdam bereits vor Moratorien, verschärft durch höhere Strompreise und strengere Genehmigungsverfahren. Das €11-Mrd.-Rechenzentrum Lübbenau (Schwarz Digits) und das Telekom/Nvidia-Projekt München sind Leuchtturmprojekte, die aber nur einen Bruchteil des Bedarfs decken.
-Die Frage dahinter: Kann Europa seine "AI Infrastructure Gap" schließen, wenn es den Bau von Rechenzentren politisch behindert, während die USA ihre Führungsposition aggressiv verteidigen?
+**Trumps "America First"-AI-Politik droht Europas Tech-Souveränität zu untergraben, während Brüssel mit dem Digital Omnibus die eigenen Standards verwässert.**
+Kontext: Jensen Huang (Nvidia) beklagt, dass US-Handelspolitik Nvidia 95% Marktanteil in China gekostet hat und Präsident Trump eine Rückkehr zu aggressiverer globaler Diffusion von US-AI-Technologie fordert. Gleichzeitig betont Huang die Notwendigkeit der Reindustrialisierung und Diversifizierung der Lieferketten (auch nach Europa). In Europa verhandelt EVP Henna Virkkunen den Digital Omnibus, der die High-Risk-Deadline des AI Act um bis zu 16 Monate verschieben könnte, um die Industrie zu entlasten.
+Die Frage dahinter: Kann Europa seine "Tech-Souveränität" und hohen AI-Standards halten, wenn die USA ihre AI-Technologie aggressiver global verbreiten und gleichzeitig die EU-Regulierung auf Druck der Industrie aufweicht?
 
-**Der "Genius Act" und MiCA: Warum Europas Stablecoin-Regulierung zum Eigentor werden könnte**
-Kontext: Während der US "Genius Act" die Stablecoin-Adoption beflügelt und das Tempo Project mit Stripe ein "Machine Payments Protocol" für AI-Agenten lanciert, hat die EU mit MiCA die weltweit strengste Stablecoin-Regulierung eingeführt. Diese verlangt EU-Lizenzen und höhere Anforderungen, was die Markteinführung neuer Finanzprodukte in Europa verlangsamen könnte. Die Merz-Regierung spricht zwar von "entschlossener Vereinfachung" der Finanzregulierung, doch die langwierigen EU-Banklizenzprozesse (12-18 Monate) stehen im Kontrast zur schnellen US-Entwicklung.
-Die Frage dahinter: Riskiert Europa, durch übermäßige Regulierung den Anschluss an die globale Entwicklung von AI-gestützten Finanzinnovationen zu verlieren, die in den USA durch regulatorische Klarheit und schnelle Markteinführung vorangetrieben werden?
+**Europas €200 Mrd. InvestAI-Initiative könnte im globalen AI-Wettlauf verpuffen, wenn die Rechenzentrum-Infrastruktur nicht mit der "10.000x Compute"-Explosion Schritt hält.**
+Kontext: Jensen Huang (Nvidia) spricht von einer 10.000-fachen Steigerung des Compute-Bedarfs in nur zwei Jahren durch den Übergang zu agentischen Systemen. Mark Cuban warnt vor Bandbreiten-Engpässen für videobasierte AI-Modelle. In Europa mobilisiert die InvestAI-Initiative €200 Mrd. für KI, darunter €20 Mrd. für 4-5 KI-Gigafactories. Deutsche Bewerbungen wie Schwarz Digits' €11 Mrd. Rechenzentrum in Lübbenau und die Telekom/Nvidia-Kooperation in München sollen gegensteuern. Tim Höttges (Telekom) kritisiert, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen.
+Die Frage dahinter: Reichen Europas ambitionierte Investitionen und Gigafactory-Pläne aus, um den massiven Compute-Bedarf der AI-Ära zu decken und eine "AI Infrastructure Gap" zu vermeiden, oder droht die europäische Industrie im globalen Wettlauf um Rechenleistung abgehängt zu werden?

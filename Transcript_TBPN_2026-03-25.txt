@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-03-25 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~171k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - Hill & Valley Gigastream, Apple's Next CEO, OpenAI's Non-Profit | Scott Nolan, Sarah Guo, Casey Handmer, Shaun Maguire, Delian Asparouhov, Zach Dell, Ryan Petersen, and Chase Lochmiller
 Quelle: https://podscripts.co/podcasts/tbpn-live/hill-valley-gigastream-apples-next-ceo-openais-non-profit-scott-nolan-sarah-guo-casey-handmer-shaun-maguire-delian-asparouhov-zach-dell-ryan-petersen-and-chase-lochmiller

@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-03-26 ===
-Quellen: All-In
-Anzahl Transkripte: 1
-Gesamtlänge: ~40k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: All-In ===
 Titel: All-In with Chamath, Jason, Sacks & Friedberg - Are Psychedelics the Key to Living Forever? (ft. Bryan Johnson)
 Quelle: https://podscripts.co/podcasts/all-in-with-chamath-jason-sacks-friedberg/are-psychedelics-the-key-to-living-forever-ft-bryan-johnson

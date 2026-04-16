@@ -2,78 +2,111 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| KI-Infrastruktur & Disruption | Die aktuelle KI-Ära stellt eine Rückkehr zum Halbleiterfokus dar, wobei die Infrastrukturschicht als sicherer Gewinner gilt, während die disruptive Natur von KI die Softwarebranche vor komplexe Herausforderungen stellt. | Thomas Laffont (Co2) | TBPN |
-| Dringlichkeit der KI-Adaption | Im Gegensatz zu früheren Technologiezyklen herrscht in der aktuellen KI-Ära ein universelles Bewusstsein für die Dringlichkeit der Adaption, wobei Führungskräfte verschiedene Ansätze zur Integration von KI verfolgen. | Thomas Laffont (Co2) | TBPN |
-| Demokratisierung von Investments | Es besteht eine enorme Nachfrage von Kleinanlegern, an der Wertschöpfung großer, lange privat bleibender Technologieunternehmen teilzuhaben, was eine breitere gesellschaftliche Beteiligung erfordert. | Thomas Laffont (Co2) | TBPN |
+| KI-Sicherheit | Anthropic hat sein neues "Mythos"-Modell zurückgehalten, da es Tausende von Software-Schwachstellen autonom identifizieren kann, und stattdessen eine branchenweite "Project Glass Wing"-Initiative zur Behebung dieser Sicherheitslücken gestartet. | Brad Gerstner, David Sacks | All-In |
+| KI-Umsatzwachstum | Anthropic verzeichnet ein beispielloses Umsatzwachstum mit einer jährlichen Run Rate von über 30 Milliarden US-Dollar, angetrieben durch die schnelle Akzeptanz von Enterprise-Kunden, die die Modellfähigkeiten als "nahe AGI" einstufen. | Brad Gerstner, David Sacks, Chamath Palihapitiya | All-In |
+| Open-Source-Sicherheit | Cal.com wechselt von Open-Source zu Closed-Source-Software, um sich gegen eskalierende KI-gesteuerte Sicherheitsbedrohungen zu schützen, die eine schnelle Ausnutzung von Open-Source-Code ermöglichen. | Bailey Pumfleet | TBPN |
+| KI-Dokumentation | Mintlify, ein Anbieter von KI-nativen Dokumentationslösungen, verzeichnet ein starkes Wachstum, da über 50% des Dokumentations-Traffics von KI-Agenten stammt und bis Jahresende voraussichtlich über 90% erreichen wird, was Dokumentation zu einer kritischen Infrastruktur für KI-Agenten macht. | Han Wang | TBPN |
+| Satellitenkommunikation | Amazon erwirbt Globalstar für 11 Milliarden US-Dollar, um sein Satelliten-zu-Smartphone-Geschäft (Project Kuiper) zu stärken und mit SpaceX Starlink zu konkurrieren, wobei Globalstars Spektrum und die bestehende Partnerschaft mit Apple entscheidend sind. | Laut der Diskussion | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🧠 KI-Infrastruktur: Der sichere Gewinner im disruptiven Rennen
+## 🛡️ KI-Sicherheit: Anthropic hält "Mythos"-Modell zurück und startet Cyber-Koalition
 
-Thomas Laffont (Co2) sieht die aktuelle KI-Ära als eine Rückkehr zu seinen Wurzeln im Halbleiterbereich. Er argumentiert, dass die Infrastrukturschicht (GPUs, Speicher) als sicherer Gewinner gilt, während die disruptive Natur von KI die Softwarebranche vor komplexe Herausforderungen stellt, da unklar ist, welche Geschäftsmodelle bestehen bleiben.
-
-**Konkrete Details aus dem Gespräch:**
-- Ko2's Wissen über Halbleiter (Semis) gab einen Vorsprung beim Verständnis von KI-Infrastruktur.
-- Das Unternehmen investierte in Cerebras (Series B), die Laffont als "generationale Firma" bezeichnet.
-- Jensen Huangs (Nvidia) Momentum im Rechenzentrum war ein "erster telltale" für die Größe der Entwicklung.
-- Die gesamte Infrastrukturschicht wird gewinnen, unabhängig davon, wer die Modelle gewinnt.
-- KI ist disruptiver als frühere Architekturwechsel; es ist unklar, ob KI-Modelle in zwei Jahren ganze Softwareprodukte (z.B. Workday) ersetzen können.
-- Die Branche erlebt ein "Darwin-ähnliches Überleben des Stärkeren".
-
-**🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen, was einen "AI Infrastructure Gap" offenbart.
-- Das €11 Mrd. Rechenzentrum Lübbenau (Schwarz Digits) und das Telekom/Nvidia-Projekt München (~€1 Mrd.) sind konkrete europäische Infrastruktur-Investitionen, die gegen diesen Gap ankämpfen sollen.
-- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen, um europäische KI-Technologieunternehmen und kritische Infrastruktur zu stärken.
-- EVP Henna Virkkunen betont, dass die Mehrheit der Eigentümer von EU-finanzierten Gigafactories aus Europa kommen sollte, um Souveränität zu sichern.
-
-## 🚀 Dringlichkeit der KI-Adaption: Kein "Head in the Sand" mehr
-
-Thomas Laffont (Co2) stellt fest, dass im Gegensatz zu früheren Technologiezyklen (z.B. Cloud, iPhone) in der aktuellen KI-Ära ein universelles Bewusstsein für die Dringlichkeit der Adaption herrscht. Führungskräfte verfolgen verschiedene Ansätze zur Integration von KI in ihre Unternehmen, deren Erfolg sich jedoch erst noch zeigen muss.
+Anthropic hat sein neues "Mythos"-Modell zurückgehalten, da es Tausende von Software-Schwachstellen autonom identifizieren kann, und stattdessen eine branchenweite "Project Glass Wing"-Initiative zur Behebung dieser Sicherheitslücken gestartet. Brad Gerstner, ein Investor, sieht dies als Beginn von AGI-Modellen, die zu intelligent sind, um sofort veröffentlicht zu werden. David Sacks warnt, dass KI-gesteuerte Cyber-Angriffe in den nächsten sechs Monaten eine Vielzahl von alten Bugs aufdecken könnten.
 
 **Konkrete Details aus dem Gespräch:**
-- Es gibt kein "Head in the Sand"-Verhalten wie bei der Einführung von Cloud oder iPhone; der Konsens ist, dass KI funktionieren wird und ein "extension level event" ist.
-- Die Dringlichkeit ist hoch, und die Einsätze sind höher als in früheren Zyklen; jedes Board und jeder Gründer ist auf KI fokussiert.
-- Square (Jack Dorsey) pivotierte die gesamte Infrastruktur auf eine AI-Ära (Remote, kleine Teams), während andere Unternehmen auf In-Person-Produktentwicklung setzen.
-- Unternehmen verfolgen Token-Verbrauch, COGS, GNA und Entwickler-Ausgaben für KI-Tools.
-- Anil Singh (Workday) kehrte zurück, um einen "Gründer-Mindset" für die notwendigen Veränderungen einzubringen.
+- Das "Mythos"-Modell fand eine 27-jährige OpenBSD-Schwachstelle und einen 16-jährigen FFMPPag-Bug, die von Audits übersehen wurden (All-In).
+- Das Modell kann Schwachstellen verketten, um komplexe Exploits zu erstellen (All-In).
+- "Project Glass Wing" ist eine KI-gesteuerte Cyber-Koalition mit 40 wichtigen Unternehmen, darunter Apple, Microsoft, Google, Amazon und JP Morgan (All-In).
+- Ziel der Initiative ist es, innerhalb von 100 Tagen Schwachstellen zu finden und zu beheben, bevor Hacker sie ausnutzen können (All-In).
+- Laut David Sacks ist es wahrscheinlich, dass KI-Modelle in den nächsten sechs Monaten eine Vielzahl von seit 20 Jahren unentdeckten Bugs aufdecken werden (All-In).
+- Brad Gerstner betont, dass es keine Vorschrift gibt, ein fertiges Modell sofort zu veröffentlichen, und befürwortet das Sandboxing (All-In).
 
 **🇪🇺 Europa-Relevanz:**
-- Der EU AI Act setzt ab August 2026 strenge Compliance-Anforderungen für High-Risk-KI-Systeme durch (Bußgelder bis €35 Mio. / 7% Umsatz), was die Dringlichkeit für europäische Unternehmen erhöht, KI-Strategien zu entwickeln, die sowohl innovativ als auch konform sind.
-- Der von EVP Henna Virkkunen vorgeschlagene Digital Omnibus könnte die High-Risk-Deadline um bis zu 16 Monate verschieben (Backstop: Dez 2027), um der Industrie mehr Zeit für die Adaption zu geben, ohne die Standards zu kompromittieren.
-- Kanzler Merz fordert eine F&E-Quote von 3,5% des BIP und eine „KI-Offensive" im Bundeshaushalt 2026 (€17,1 Mrd. für F&E), um die deutsche Wirtschaft zur KI-Führerschaft zu motivieren.
-- Die EFI-Kommission empfiehlt 2026, „europäisch zu denken statt nationaler Kleinstaaterei", um die KI-Entwicklung und -Anwendung in Deutschland und Europa zu stärken.
+- Ab Aug 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein – Anthropics Entscheidung, Sicherheitsstandards zu lockern, könnte den Wettbewerbsdruck auf EU-konforme Anbieter erhöhen.
+- Die EU-Kommission hat den "AI Omnibus" vorgeschlagen, der die High-Risk-Deadline um bis zu 16 Monate verschieben könnte (Backstop: Dez 2027/Aug 2028), um der Industrie Zeit für die Anpassung an solche neuen Sicherheitsherausforderungen zu geben.
+- Der Berliner Anschlag auf das Stromnetz im Jan 2026 hat die Debatte über kritische Infrastruktur (Kritis-Dachgesetz) neu entfacht; KI-gesteuerte Schwachstellenfindung ist hier von direkter Relevanz für die nationale Sicherheit.
 
-## 💰 Demokratisierung von Investments: Zugang zu Tech-Giganten für alle
+## 📈 KI-Umsatzwachstum: Anthropic erreicht 30 Mrd. US-Dollar Run Rate
 
-Thomas Laffont (Co2) sieht eine enorme Nachfrage von Kleinanlegern, an der Wertschöpfung großer, lange privat bleibender Technologieunternehmen wie OpenAI und Anthropic teilzuhaben. Er argumentiert, dass eine breitere gesellschaftliche Beteiligung erforderlich ist, um hohe soziale Kosten zu vermeiden, die entstehen, wenn eine ganze Generation von der Wertschöpfung ausgeschlossen bleibt.
+Anthropic verzeichnet ein beispielloses Umsatzwachstum mit einer jährlichen Run Rate von über 30 Milliarden US-Dollar, angetrieben durch die schnelle Akzeptanz von Enterprise-Kunden, die die Modellfähigkeiten als "nahe AGI" einstufen. Brad Gerstner sieht dies als Beleg für ein "nahezu unendliches TAM" für Intelligenz, während Chamath Palihapitiya die Bruttomargen hinterfragt.
 
 **Konkrete Details aus dem Gespräch:**
-- Menschen wollen Zugang zu Unternehmen wie Anthropic und OpenAI.
-- Ein starkes Argument für den Börsengang ist die Demokratisierung des Zugangs.
-- Die Idee, jedes Kind in den Markt zu investieren (Brad Gersoner), wird als "marvelous idea" gelobt.
-- Die Kosten, keine breite Beteiligung zu haben, sind "incredibly high".
-- Eine Generation mit Studentenschulden, ohne Eigenheim und ohne wirtschaftliche Beteiligung an Tech-Giganten ist keine gute Zukunft.
-- Transparenz und demokratisierte Natur von öffentlichen Märkten können einen großen Unterschied machen.
-- Ko2 hat einen Fonds namens C-Tech, der sich mit diesem Thema befasst.
+- Die Umsatz-Run-Rate von Anthropic stieg von 1 Milliarde US-Dollar (Ende 2024) auf 30 Milliarden US-Dollar (April 2026) (All-In).
+- Über 1.000 Unternehmen zahlen jährlich mehr als 1 Million US-Dollar für die Dienste von Anthropic (All-In).
+- Brad Gerstner interpretiert das Wachstum als Beweis für ein "nahezu unendliches TAM" (Total Addressable Market) für Intelligenz (All-In).
+- Das Wachstum wird durch Compute-Engpässe gebremst; Anthropic plant, dieses Jahr 3 Gigawatt Compute hinzuzufügen (All-In).
+- 65 bis 70 Prozent der Token-Nutzung großer Unternehmen entfällt auf Open-Source-Modelle, was zeigt, dass das Wachstum nicht nur auf Frontier-Modellen basiert (All-In).
+- Brad Gerstner spricht von "explodierenden" Bruttomargen und "akzidenteller Profitabilität", da die Einnahmen schneller wachsen als die Ausgaben für Compute (All-In).
 
 **🇪🇺 Europa-Relevanz:**
-- Der Deutschlandfonds (KfW-gestützt, €30 Mrd. Garantien, €3,2 Mrd. Eigenmittel) zielt darauf ab, bis zu €130 Mrd. private Investitionen zu mobilisieren, auch für Startups in DeepTech und KI, um die Kapitalmarktunion zu stärken und breitere Beteiligung zu ermöglichen.
-- Kanzler Merz betont, dass der europäische und deutsche Kapitalmarkt besser für die Unternehmensfinanzierung genutzt werden muss, da das Kapital vorhanden ist, aber die richtigen Marktstrukturen fehlen.
-- Das EU VC-Volumen liegt bei nur ~30% des US-Niveaus, was die Notwendigkeit einer breiteren Kapitalmobilisierung und Zugänglichkeit unterstreicht.
-- Die MiCA-Verordnung (seit Juni 2024 in Kraft) reguliert Krypto-Assets streng, was zwar Anlegerschutz bietet, aber auch Hürden für neue Finanzprodukte und breitere Beteiligung schaffen kann, wenn der Zugang zu innovativen Anlageformen erschwert wird.
+- Die EU mobilisiert €200 Mrd. für KI-Investitionen (InvestAI), davon €150 Mrd. privat, um europäische KI-Champions zu fördern und dem US-Wachstum entgegenzuwirken.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA, was die Compute-Engpässe und das Wachstum europäischer Anbieter zusätzlich verschärft.
+- Die "EU AI Champions Initiative" mit über 60 Unternehmen und €150 Mrd. Investitionszusage zielt darauf ab, KI-Technologieunternehmen und kritische Infrastruktur (Rechenzentren) zu stärken, um solche Wachstumsraten auch in Europa zu ermöglichen.
+
+## 🔒 Open-Source-Sicherheit: Cal.com wechselt zu Closed Source wegen KI-Bedrohungen
+
+Cal.com wechselt von Open-Source zu Closed-Source-Software, um sich gegen eskalierende KI-gesteuerte Sicherheitsbedrohungen zu schützen, die eine schnelle Ausnutzung von Open-Source-Code ermöglichen. Bailey Pumfleet, Co-Founder und CEO, betont, dass KI Code mit "unvorstellbaren Geschwindigkeiten" brechen kann und die Komplexität von Scheduling-Software eine einfache "Vibe-Coding"-Ersetzung erschwert.
+
+**Konkrete Details aus dem Gespräch:**
+- KI kann Code mit "unvorstellbaren Geschwindigkeiten" brechen, was die Anwendungssicherheit von Open-Source-Software gefährdet (TBPN).
+- Fortschritte in der KI ermöglichen die schnelle Ausnutzung von Open-Source-Code (TBPN).
+- Das Unternehmen möchte sensible Nutzerdaten schützen und das Vertrauen der Nutzer wahren (TBPN).
+- Open-Source-Code wird zunehmend für "Reputation Farming Attacks" und "AI Slop" auf Plattformen wie GitHub genutzt (TBPN).
+- Bailey Pumfleet betont, dass die Komplexität von Scheduling-Software (insbesondere für Enterprise-Anwendungsfälle) eine einfache "Vibe-Coding"-Ersetzung erschwert (TBPN).
+- Der Wechsel ist eine Reaktion auf die veränderte Sicherheitslandschaft und nicht primär eine Geschäftsentscheidung zur Gewinnsteigerung (TBPN).
+
+**🇪🇺 Europa-Relevanz:**
+- Der EU AI Act verbietet ab Feb 2025 bestimmte KI-Praktiken und sieht Bußgelder bis zu €35 Mio. / 7% Umsatz vor, was den Druck auf Unternehmen erhöht, ihre Software – ob Open- oder Closed-Source – gegen KI-gesteuerte Angriffe abzusichern.
+- Die BaFin-Aufsicht in Deutschland und die EU-Banklizenz-Prozesse (12-18 Monate) erfordern hohe Sicherheitsstandards, was die Entscheidung für Closed-Source in sensiblen Bereichen wie Finanz-Apps beeinflussen könnte.
+- Die EU fördert Regulatorische Sandboxes im Rahmen des Digital Omnibus, um Unternehmen die Erprobung neuer KI-Technologien unter kontrollierten Bedingungen zu ermöglichen, was bei der Abwägung von Open- vs. Closed-Source-Sicherheitsrisiken helfen könnte.
+
+## 📄 KI-Dokumentation: Mintlify wird zur kritischen Infrastruktur für Agenten
+
+Mintlify, ein Anbieter von KI-nativen Dokumentationslösungen, verzeichnet ein starkes Wachstum, da über 50% des Dokumentations-Traffics von KI-Agenten stammt und bis Jahresende voraussichtlich über 90% erreichen wird. Han Wang, Co-Founder und CEO, sieht Dokumentation als entscheidende Infrastruktur für KI-Agenten, um die Welt zu verstehen und Produkte zu implementieren, und die "SaaSpocalypse" als Enabler für Mintlify.
+
+**Konkrete Details aus dem Gespräch:**
+- Mintlify hat eine Series B-Finanzierungsrunde über 45 Millionen US-Dollar bei einer Bewertung von 500 Millionen US-Dollar abgeschlossen (TBPN).
+- Über 10.000 Unternehmen, darunter Anthropic, Microsoft und Coinbase, nutzen Mintlify (TBPN).
+- Han Wang prognostiziert, dass KI-Agenten bis Ende des Jahres über 90% des Dokumentations-Traffics ausmachen werden (TBPN).
+- Dokumentation wird als "entscheidender Teil der Infrastruktur" für Agenten angesehen, um die Welt zu verstehen und Produkte zu implementieren (TBPN).
+- Die "SaaSpocalypse" wird als Enabler für Mintlify gesehen, da mehr Produkte gebaut werden und Discoverability wichtiger wird (TBPN).
+- Die einfache Erstellung von Software durch KI erhöht die Notwendigkeit, Produkte durch gute Dokumentation für Agenten auffindbar zu machen (TBPN).
+
+**🇪🇺 Europa-Relevanz:**
+- Die EU AI Act GPAI-Transparenzpflichten treten im Aug 2025 in Kraft und erfordern von Anbietern wie Microsoft und Anthropic (die Mintlify nutzen), klare Dokumentation ihrer Modelle, was die Nachfrage nach KI-nativen Dokumentationslösungen in Europa erhöht.
+- Die "KI-Offensive" im Bundeshaushalt 2026 mit €17,1 Mrd. für F&E und das 1.000-Köpfe-Plus-Programm zur Gewinnung internationaler Wissenschaftler unterstreichen den Bedarf an effizienter KI-Entwicklung und -Anwendung, die auf guter Dokumentation basiert.
+- Die EU AI Champions Initiative und die deutschen Gigafactory-Bewerbungen (z.B. Schwarz Digits, Telekom) zielen auf die Entwicklung komplexester KI-Modelle ab, deren Erfolg maßgeblich von der Qualität und KI-Lesbarkeit ihrer Dokumentation abhängt.
+
+## 🛰️ Satellitenkommunikation: Amazon kauft Globalstar für 11 Mrd. US-Dollar
+
+Amazon erwirbt Globalstar für 11 Milliarden US-Dollar, um sein Satelliten-zu-Smartphone-Geschäft (Project Kuiper) zu stärken und mit SpaceX Starlink zu konkurrieren. Globalstars Spektrumressourcen und die bestehende Partnerschaft mit Apple für iPhone-Funktionen sind dabei entscheidend.
+
+**Konkrete Details aus dem Gespräch:**
+- Amazon plant, 2028 einen neuen Satelliten-zu-Mobilfunkdienst zu starten (TBPN).
+- Globalstar verfügt über wertvolle Spektrumressourcen, die Amazon für Satellitenverbindungen zu Smartphones nutzen kann (TBPN).
+- Apple hat bereits eine Partnerschaft mit Globalstar für iPhone-Funktionen (Notrufe, Textnachrichten in abgelegenen Gebieten) und besitzt 20% der Anteile (TBPN).
+- SpaceX Starlink hat bereits rund 10.000 Satelliten im Orbit und verbindet über 12 Millionen Menschen (TBPN).
+- Amazon investiert Milliarden in andere Startanbieter wie ULA und Blue Origin, um sein Kuiper-Netzwerk aufzubauen, trotz Verzögerungen (TBPN).
+- Globalstars aktuelle Konstellation besteht aus 24 Satelliten, die sich dem Ende ihrer Lebensdauer nähern, und nutzt eine "Bent Pipe"-Architektur ohne Onboard-Verarbeitung (TBPN).
+
+**🇪🇺 Europa-Relevanz:**
+- Die EU-Strompreise sind 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa, was den Betrieb von Rechenzentren für Satelliten-Bodenstationen und die damit verbundene Infrastruktur verteuert.
+- Die EU hat das REPowerEU-Ziel von 45% erneuerbaren Energien bis 2030, was den Druck auf energieintensive Infrastruktur wie Satelliten-Bodenstationen erhöht, nachhaltige Energiequellen zu nutzen.
+- Kanzler Merz will Netzanschluss-Regeln überarbeiten, auch für Rechenzentren, was die Genehmigungsverfahren für die notwendige Bodeninfrastruktur für Satellitenkommunikation in Deutschland beeinflussen könnte.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-**Ko2's Investment-Strategie:** Ko2 begann 2003 nach dem Dotcom-Crash mit einem Fokus auf Halbleiter, wobei Apple (iPod/iPhone) ein ikonisches Investment war. Die Philosophie beinhaltet das eigenständige Erstellen von Finanzmodellen und die Fähigkeit, jede Investmentthese in drei Sätzen zu pitchen.
-
-**Makro- vs. Mikro-Faktoren und Data Science:** Während Ko2 früher einen stärkeren Mikro-Fokus hatte, ist Data Science heute ein integraler Bestandteil der Investmentforschung, die App Store-, Clickstream- und Kreditkartendaten nutzt, um Trends zu erkennen und in Unternehmen wie Databricks und Snowflake zu investieren.
+-   **Snap Layoffs:** Snap entlässt 16% seiner Belegschaft (1.000 Vollzeitmitarbeiter), um Kosten zu senken und Profitabilität zu erreichen. CEO Evan Spiegel nennt Verbesserungen in der KI-Technologie als Grund für die Effizienzsteigerung und erwartet eine Reduzierung der jährlichen Kostenbasis um über 500 Millionen US-Dollar (TBPN).
+-   **Uber Robotaxis:** Uber verpflichtet sich, über 10 Milliarden US-Dollar in den Kauf Tausender autonomer Fahrzeuge zu investieren und plant, 2026 Robotaxi-Dienste in mindestens 15 Städten zu starten. Dies markiert eine Abkehr vom "Asset-Light"-Geschäftsmodell, um einer Disruption durch Robotaxis zuvorzukommen (TBPN).
+-   **Iran War Ceasefire:** Ein zweiwöchiger Waffenstillstand im Iran-Krieg wurde vereinbart, und eine US-Delegation reist nach Islamabad für Friedensgespräche. Die Diskussion beleuchtet Trumps Tweets, die Marktreaktion und die Debatte über Netanyahus Einfluss auf die US-Außenpolitik, wobei auch die Rolle von X's Auto-Translate-Funktion für das globale Verständnis hervorgehoben wird (All-In).
 
 # 💭 Zum Drüber Nachdenken
 
-**Trumps Kraftwerks-Zwang entlarvt Europas Rechenzentrum-Illusion**
-Kontext: Thomas Laffont (Co2) sieht die KI-Infrastruktur als sicheren Gewinner, aber die USA mobilisieren mit Initiativen wie "Stargate" $500 Mrd. für KI-Supercomputing. In Europa warnen Tim Höttges (Telekom) und Digitalminister Wildberger vor einem "AI Infrastructure Gap", da Europa nur 5% der Hochleistungschips nutzt. Während in den USA über den Widerstand gegen Rechenzentren diskutiert wird, verschärft sich das Problem in der EU durch höhere Energiepreise und strengere Genehmigungsverfahren. Das €11 Mrd. Rechenzentrum Lübbenau (Schwarz Digits) ist ein Leuchtturmprojekt, aber die EU muss bis 2030 45% erneuerbare Energien erreichen, um den Strombedarf zu decken.
-Die Frage dahinter: Kann Europa seine KI-Souveränität wirklich aufbauen, wenn es bei der Energieversorgung und dem Ausbau der Rechenzentren nicht mit der US-Geschwindigkeit mithalten kann?
+**Anthropic's "Mythos"-Schock: Ist Europas AI Act schon veraltet, bevor er richtig greift?**
+Kontext: Anthropic hält sein "Mythos"-Modell zurück, weil es Tausende von Software-Schwachstellen autonom finden kann, und startet eine 100-Tage-Initiative zur Behebung. Gleichzeitig tritt der EU AI Act ab Aug 2026 für High-Risk-Systeme in Kraft, mit Bußgeldern bis zu €35 Mio. EVP Virkkunen verhandelt den Digital Omnibus, der die Deadline bis Dez 2027 verschieben könnte. Die Geschwindigkeit der KI-Entwicklung (AGI-Modelle) überfordert die traditionelle Gesetzgebung.
+Die Frage dahinter: Wie kann Europa seine hohen KI-Sicherheitsstandards durchsetzen, wenn die Bedrohungslandschaft sich alle paar Monate fundamental ändert und US-Anbieter wie Anthropic die Regeln selbst definieren?
 
-**Der EU AI Act: Schutzschild oder Fessel für Europas KI-Champions?**
-Kontext: Laffont betont die universelle Dringlichkeit der KI-Adaption und den "Darwin-ähnlichen" Wettbewerb. Während US-Firmen wie Square radikale KI-Pivotierungen vornehmen, müssen europäische Unternehmen ab August 2026 die strengen Compliance-Anforderungen des EU AI Act für High-Risk-Systeme erfüllen (Bußgelder bis €35 Mio. / 7% Umsatz). EVP Henna Virkkunen versucht mit dem Digital Omnibus, die Deadline zu verschieben und die Umsetzung zu vereinfachen, aber die regulatorische Asymmetrie zu den USA (kein bundesweites KI-Gesetz) bleibt bestehen.
-Die Frage dahinter: Wie kann Europa seine hohen KI-Standards durchsetzen, ohne die Innovationsgeschwindigkeit und Wettbewerbsfähigkeit seiner eigenen Unternehmen im globalen KI-Rennen zu opfern?
+**Europas "CERN für KI" vs. US-Wachstumswunder: Droht ein €200 Mrd. Rohrkrepierer?**
+Kontext: Anthropic erzielt eine jährliche Run Rate von $30 Mrd. mit über 1.000 Enterprise-Kunden, die jeweils über $1 Mio. zahlen, und ist dabei massiv Compute-limitiert. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt. Die EU mobilisiert €200 Mrd. für InvestAI, inklusive €20 Mrd. für 4-5 KI-Gigafactories, um ein "CERN für KI" zu schaffen. Deutsche Bewerbungen wie Schwarz Digits (€11 Mrd. Rechenzentrum Lübbenau) und Telekom/Nvidia sind im Rennen.
+Die Frage dahinter: Kann Europas fragmentierte InvestAI-Strategie mit ihren Gigafactories und dem Fokus auf "Tech-Souveränität" jemals die Skalierung und Geschwindigkeit der US-Anbieter erreichen, wenn selbst diese an Compute-Grenzen stoßen und Europa einen massiven Chip-Nachteil hat?

@@ -1,0 +1,2792 @@
+=== PODCAST-TRANSKRIPT: All-In ===
+Titel: All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence
+Quelle: https://podscripts.co/podcasts/all-in-with-chamath-jason-sacks-friedberg/anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence
+Datum: 2026-04-16
+Länge: ~90k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+Welcome back to the number one podcast in the world.
+
+David Freeberg is out this week.
+
+But in his place, the one, the only,
+
+our fifth best.
+
+Brian Gersner.
+
+I mean,
+
+why don't you ever give me a little namaste in your payday anymore?
+
+You used to be,
+
+you used to be the greatest moderator,
+
+but now it's just this kind of label.
+
+You know what?
+
+These guys beat me up.
+
+They beat me up,
+
+and they just beat the joy out of me doing this.
+
+program. It's because you're a
+
+rocana apologist now.
+
+No. I will get into it. Okay, save it for the
+
+fuck. Oh, not a rocana
+
+apologist. Just because I said like, hey, they've
+
+stopped retard maxing and they've started
+
+doing like some logical things.
+
+Yeah, okay. It's great to be here. Great to be here.
+
+Good to have you. Good to have you here. And of course
+
+we have David Sachs.
+
+Is back. Everybody wants to hear from David Sachs. We missed you
+
+last week, Bestie. We didn't beat the
+
+joy out of you. We just try to beat some of the hot air.
+
+Any fluff that you can put on the show that just involves you
+
+talking and saying nothing is that's the stuff we got out.
+
+Yeah. Fair enough. Okay. Yeah, I'm cutting it right now.
+
+We'll cut it out and we'll just put a promo in for the syndicate.com. Thank you.
+
+Also with us, Jamal Polyopatia is here. How's your retard maxing going since last week?
+
+Did you have a retard maxing full weekend? Did you have a good full weekend of just
+
+smoking cigars in the back deck and not ruminating about all the chaos you've caused in the last 20 years?
+
+I think I've done generally more good than not.
+
+Oh, you have, but there's been some chaotic moments.
+
+Don't think about it, your mom.
+
+You can't, bro, you can't have ups without downs, man.
+
+It's like, what are you there to do just like placate everybody and be a loser?
+
+Are you there to be a winner?
+
+Yes, you're in the arena.
+
+But have you stopped going to there after realizing and ruminating?
+
+What's up with this sudden interest in retard maxing?
+
+Are you like that clavicular for a retard maxing?
+
+No, the world finally caught up with me.
+
+That's it.
+
+I mean, I've been retard maxing this whole time.
+
+They just didn't have a name for it, guys.
+
+Eli's videos are really good.
+
+I watched two more this week.
+
+Take us through what's so appealing about not ruminating, smoking a cigar, and just living
+
+your life.
+
+Because what he says actually works at every level of society and every.
+
+sort of thing that you may want to achieve. Even if you're trying to like climb the rungs,
+
+you very quickly learn that the more you want something, the less you're going to get it.
+
+And I think that's like his real message is let go, live life, and just try stuff or don't try
+
+stuff. And I think that that detachment is really healthy for people. I like it. I like it a lot.
+
+Who's the guy who says this? I actually didn't know.
+
+Eli Shalong, but Eli, I think, is how he goes by.
+
+But he's fantastic. He's got a YouTube channel. Mark Andreessen found him.
+
+And he's like, this is, this guy is the new guy.
+
+Modern day philosopher. He gives you a roadmap for how to live your life, right? A new age, sage.
+
+What's the name of the guy, the character's name from Dune?
+
+I was into girls. I didn't read these books. I was dating girls.
+
+He's the Lizaan al-Gaib of the modern internet. This is why we need Freiburg here is to explain
+
+these deep holes.
+
+All right, listen, we got a lot to get to.
+
+The basic point is build something and don't ruminate, okay?
+
+Ruminating is just not worth it.
+
+Just everybody go forward.
+
+So just do stuff.
+
+Stop blathering in your own head.
+
+Just do stuff.
+
+Absolutely.
+
+All right, listen, speaking of doing stuff,
+
+Anthropic is withholding its newest model,
+
+mythos.
+
+I'm using the Greek pronunciation.
+
+Its newest model, mythos,
+
+saying it is far too dangerous for any of us to have access to it,
+
+according to the company,
+
+the model autonomously found thousands of vulnerabilities,
+
+including bugs in every major operating system in web browser.
+
+This little study they did included 20-year-old exploits
+
+that had been missed by security audits for decades.
+
+Some examples, they found a 27-year-old vulnerability in OpenBSD,
+
+used in firewalls and critical infrastructure.
+
+They found a 16-year-old bug in FFMPPag.
+
+That was missed by automated tools after 5 million scans.
+
+the Linux kernel, all kinds of bugs they found,
+
+they released a hype video hyping up
+
+why they were not going to share this model.
+
+Here's Darya.
+
+Come on the program anytime, brother.
+
+But as a side effect of being good at code,
+
+it's also good at cyber.
+
+The model that we're experimenting with
+
+is by and large as good as a professional human
+
+at identifying bugs.
+
+It's good for us because we can find more of an elevator sooner
+
+and we can fix them.
+
+It has the ability to chain together vulnerabilities.
+
+So what this means is you find two vulnerabilities,
+
+either of which doesn't really get you very much independently.
+
+But this model is able to create exploits out of three, four, sometimes five vulnerabilities
+
+that in sequence give you some kind of very sophisticated end outcome.
+
+All right, Brad.
+
+By the way, that's set they're using there.
+
+That's the same room those guys play Dungeons and Dragons in every Sunday.
+
+Brad, you're an investor in this company.
+
+is this virtue signaling or is it reality? Is this a good move by them to not release this model and be thoughtful?
+
+Give it to a handful of people and just find all the bugs it can before releasing it to the public.
+
+And we've got a lot more issues to discuss about this.
+
+I actually think they deserve a ton of credit here and let me walk you through why.
+
+The company could have just released mythos, broken a lot of core things on the internet.
+
+Oftentimes in Silicon Valley, we say move fast and break things. In this case, it means just release.
+
+the model to move further ahead of your competition. But here the company realized it would wreak havoc.
+
+They ran their own vulnerability testing. They saw that it would allow offensive hacking and people
+
+to expose browsers and browser history, expose credit cards, you know, on the internet. So,
+
+you know, what I like about this is they didn't need government to hold their hand on this.
+
+We have plenty of government regulations. They know it's in the best long-term interest of the
+
+company and the industry. You know, so they set up Project Glass Wing. It's an AI
+
+driven, you know, kind of cyber coalition, Apple, Microsoft, Google, Amazon, JP Morgan, 40 of the
+
+most important companies. And their goal is very simple. Let's spend 100 days, use advanced AI to find
+
+and to fix and to harden these software vulnerabilities before hackers exploit them. Now, what I think
+
+this represents, Jason, is a threshold that we're crossing. Mythos and Spud, which is going to be out
+
+from OpenAI any day now, which is the first Blackwell trained model at OpenAI.
+
+They represent the beginning of what I would call AGI models.
+
+These are models with massive step function improvements and intelligence.
+
+And they're just too smart to be released immediately.
+
+And by the way, there was nothing that said that every time you finish a model,
+
+you've got to immediately release it GA.
+
+So they set up this idea of sandboxing, building defensive alliances,
+
+you know, in order to move away from that regime. I think it shows, and Saxon and I have talked
+
+about this a lot, so I'm interested to hear what he thinks. It shows you can trust the industry
+
+and market forces in coordination with the government. They were talking to the government about
+
+this, but they're not relying on some top-down regulation in order to do this. They laid out a
+
+blueprint that seems to me very pragmatic that now that we're at this threshold, we're going to
+
+sandbox these things. I think that OpenAI will end up doing the same thing. I think Google will
+
+end up doing the same thing. It's an aggressive way to keep the pressure on and win the race at AI
+
+while making the tradeoffs to protect safety. So, you know, I think you're always going to have to
+
+make these tradeoffs. I think in this case, it was a great move by Dario and team, and I think they
+
+deserve a lot of credit. Sacks, when you look at this, we had Emil Michael on the program a couple
+
+weeks ago. I might have been four or five weeks ago. And we had a very thoughtful discussion about,
+
+hey, if the government is going to have these tools, you know, an anthropic wants to withhold them
+
+and, you know, what is the proper relationship there? You have to think that the government,
+
+and I know you don't speak for all parts of the government, if you were just going to run through
+
+the game theory, they must have gone to the government and said, listen, this thing is so powerful.
+
+It can put together two or three hacks, create a novel attack vector. And this is incredibly
+
+dangerous? What if China has it? And if this thing is as powerful as Dario says it is,
+
+then this is an offensive weapon as well for us to take out, let's just pick a prescient issue,
+
+the North Korea's ballistic missile program. This is equivalent the way it's being described
+
+as the Manhattan Project, perhaps. So what are the chances, two-part question for USACs,
+
+that China already has this and is using it? And do you think Dario is doing the right thing,
+
+by regulating themselves?
+
+I think Anthropic has proven that it's very good at two things.
+
+One is product releases.
+
+The second is scaring people.
+
+And we've seen a pattern in their previous releases of at the same time, they roll out
+
+a new model or new model card, something like that.
+
+They also roll out some study showing really the worst possible implication of where
+
+the technology could lead.
+
+We saw this last year, about a year ago.
+
+they rolled out this blackmail study where supposedly the new model could blackmail users.
+
+There's been a whole bunch of these things.
+
+Actually, I went back to GROC and I just asked, hey, give me examples where Atropic has basically used scare tactics.
+
+And it's a pattern, okay?
+
+It's a pattern.
+
+Okay.
+
+These guys, I'm not saying it's not sincere, but they have a proven pattern of using fear as a way to market their new products.
+
+And if you think back to, again, my favorite example is this blackmail study where they prompted the model over 200 times to get the result they wanted.
+
+And that result was clearly reverse engineered.
+
+And it got them the headlines they wanted.
+
+And I would say the proof that it's reverse engineers were now a year later.
+
+There's a bunch of open source models out there that have the same level of capability that that anthropic model had.
+
+And have you seen any examples of blackmail in the wild?
+
+I don't think so.
+
+So in other words, if that study were true in the sense of being a likely outcome of that model,
+
+I think you would see examples in the wild of that behavior.
+
+We haven't seen any of that in the past year.
+
+Now, let's talk about this specific example with cyber hacking.
+
+I actually think that this one is more on the legitimate side.
+
+I mean, look, the reason why I bring this up is anytime Anthropic is scaring people,
+
+you have to ask, is this a tactic? Is this part of their chicken little routine? Or is it real?
+
+Are they crying wolf or not? I actually would give them credit in this case and say,
+
+this is more on the real side. It just makes sense, right? So that as the coding models become
+
+more and more capable of finding bugs, that means they're more capable of finding vulnerabilities.
+
+And like one of their engineers said, that means they're more capable of stringing together
+
+multiple vulnerabilities and creating an exploit. And so I do think that over, say, the next six months,
+
+we're going to have this call it one time period of catching up where AI-driven cyber is going to be
+
+able to detect a whole range of bugs that maybe have been dormant over the past 20 years
+
+across a wide range of systems.
+
+And so I do think that there is real risk here.
+
+And I do think, therefore, that having this pre-release period makes a lot of sense where
+
+they're giving the capability to all these software companies that have existing codebases to
+
+use the tool to detect the vulnerabilities for themselves so they can patch them before these
+
+capabilities are widely available. And by the way, it won't just be anthropic that makes these
+
+capabilities available. We know that, like, let's say the Chinese open source models like Kimi K2,
+
+it's about six months behind. So we have a window here of maybe six months where we're still in
+
+this pre-release period where I think companies that have large code bases can get advanced access
+
+to this model.
+
+And I guess Open AIS is going to release a similar thing in the next few weeks.
+
+I do think that every company or IT department or CSO that is managing codebases should take this
+
+seriously and use the next few months to detect any, again, like dormant bugs or vulnerabilities
+
+and roll out patches.
+
+If everybody does their job and reacts the right way, then I do not think it will be the doomsday scenario
+
+that Anthropic is sort of portraying.
+
+But it's one of these things where the fear might end up being a good thing in order to drive
+
+the correct behavior.
+
+So I ultimately think this is going to work out fine, but you do need everyone to kind of pay
+
+attention, use the capabilities, fix the bugs.
+
+Then we're going to get into a big arms race between AI being used for cyber offense
+
+and AI being used for cyber defense, but it'll be a more normal sort of period.
+
+Chamath, we have Dario and, you know, a number of the participants here are taking this super seriously.
+
+They're making a big statement.
+
+SAC's very nuanced, I think, take there.
+
+What's your take on, how do these companies have it both ways?
+
+Hey, this shouldn't be regulated.
+
+This should be regulated.
+
+If this is, in fact, a cataclysmic, oh, my God, they're going to hack everything.
+
+What if the Chinese have this right now?
+
+That would speak to more government, either coordination,
+
+regulation or some kind of relationship between the CIA, the FBI for domestic stuff, and these
+
+companies, because it is a non-zero chance that the Chinese have an equal capability here.
+
+We're assuming they're behind, but who knows what they're doing behind closed doors?
+
+So what's your take on this? Is it The Boy Who Cryed Wolf, or is this the real deal now?
+
+I think it's mostly theater.
+
+Okay.
+
+In February of 2019, when Dario was still at OpenAI, they did the same thing with GPT2.
+
+That was a 1.5 billion parameter model, which sounds like a total fart in the wind in 2026.
+
+But at that time, this 1.5 billion parameter model was supposed to be the end of days.
+
+And it was supposed to unleash this torrent of spam and misinformation.
+
+And that was the big bugaboo at the time.
+
+And so what happened?
+
+They went through this methodical rollout over six or nine months.
+
+They started releasing the smaller parameter models,
+
+and then they scaled up to the big $1.5 billion parameter model.
+
+And at the end of it, it was a huge nothing burger.
+
+If you actually think that Mythos is capable of doing what it says it can do,
+
+two things are true.
+
+One, as a very sophisticated hacker, can probably do those things right now with Opus.
+
+and two, if these exploits are this easy to find, whether you use opus or whether you use
+
+mythos, the reality is you'd have to shut down the internet for about five years to patch them all.
+
+So when you see like a large multi-trillion dollar G-Sid bank, it's a bit of theater.
+
+Why?
+
+What do you think they can actually accomplish in two months?
+
+Do you actually think that if there's these vulnerabilities, it's all going to get fixed?
+
+Let's give them six months.
+
+Let's give them nine months.
+
+But the reality is that capitalism moves forward, the funding needs moves forward,
+
+and the need for these guys to build adoption moves forward.
+
+And that's going to supersede what this is.
+
+So I do think that Sachs is right, that they have figured out a very clever go-to-market
+
+muscle here and a go-to-market motion that activates hyperattention and hyper-usage.
+
+And so I give them tremendous credit.
+
+And I'll maintain what I've maintained before.
+
+Anthropic is shooting the lights out right now.
+
+This is like Steph Curry going bananas.
+
+From everywhere on the court, these guys are Huckin' Threes.
+
+Clay Thompson.
+
+It's all net.
+
+Okay?
+
+So huge kudos to Anthropic.
+
+But we've seen it before.
+
+We saw it when these folks were the principal architects at OpenAI, who are now seeing
+
+the same playbook here.
+
+I think we'll look back.
+
+And I think what we'll say are these two things.
+
+One is, if we're really going to patch all these security goals, we need to shut down the internet
+
+for some number of years, honestly, literally years.
+
+And the second is, an advanced hacker can probably do this today with Opus if they really wanted to.
+
+Okay.
+
+Hey, Brad, I've got to, I'll get you in here for the last word.
+
+I'm going to go with, yeah, maybe they did Cry Wolf before.
+
+But based on what I see with these models advancing and using them and I'm using a lot of the open
+
+source ones right now from China. I think that this is like code red kind of moment. This is
+
+DefCon. We should be taking this deadly seriously. And I think these companies got to coordinate
+
+with the CIA. And this is equally a defensive as offensive opportunity. Do you think this is a
+
+nationalization of AI now? No, I'm actually, I don't think it should be nationalized,
+
+although I did see people sort of insinuating that. I think these companies need to build a group,
+
+Brad that work and coordinate with the CIA. I assume that they're already doing this. I'm assuming
+
+Emil Michael and Trump and everybody have these people in a room and that they've given the DefCon
+
+and said, hey, how can our government use this to stop bad actors? And this is already being
+
+coordinated with the CIA and the FBI. I am 100% certain of that, that Dario went to them and said,
+
+look what we found. This is the real deal. I'll give you the last word on this, Brad, since you're
+
+investor in both companies, you know them quite well.
+
+tier model forum, which was put together in 23, is cooperating on anti and adversarial distillation
+
+stuff as we speak, right? They don't want to make it easy on, you know, so Google and OpenAI and
+
+Anthropic. They're coordinating on this stuff. You know, there are times where I push back on
+
+Anthropic because I thought it was, you know, perhaps regulatory capture or something else. This is very
+
+different in my mind, right? He could have easily, Dario could have easily come out and said, oh my God,
+
+we've passed a threshold. We need to have a government more.
+
+memorandum. Remember, even our friend Elon called for a six-month moratorium in 2023 because of civilization
+
+risk. This guy didn't do that. Instead, he said, okay, what should we do? I'm going to get 40 of the
+
+leading companies together. We're going to spend 100 days, sandboxing, hardening the systems,
+
+and then we're going to keep pushing forward. What do you honestly think is going to get accomplished
+
+in 100 days? How many PRs do you think are going to get pushed to the core structural internet in 100
+
+days? What's the over-under number? Because I'll give you a number. You're going to say zero.
+
+My answer to that is...
+
+No, no, no.
+
+I'll say like 10,000, but it's going to be a meaningless thing.
+
+But if it prevents your browser history from being released to everybody in the world,
+
+Chimath, that may be something that you're willing to, you know, let 100 days pass on.
+
+I think you got Chimot's attention when you said browser history.
+
+What about the dickpicks?
+
+As Chmott is, he's going to release them himself.
+
+Right now, Chimot's like, hey, Chinese hackers, here are my dickpick.
+
+Please put them out.
+
+Oh, my God.
+
+We have to be out there complimenting when they're doing the right things,
+
+or relying on the market, rather than running to the nanny state and saying, do more of this.
+
+So this to me was just an example of a good balance.
+
+I'm sure we're going to have plenty of debates about this in the future.
+
+But, you know, this is one I would like to see more of.
+
+This is why, to use your word, Jake, I tried to have a more nuanced take is because we have
+
+no choice but to take this seriously.
+
+Whether it's total theater, whether it's fearmongering, and they do have a pattern around
+
+this, we can't take the risk, right?
+
+And it does logically make sense that as these models become more and more capable at coding,
+
+they're going to get better at cyber.
+
+And there's going to be that one-time period where you're moving from pre-AI to post-AI
+
+and you need a patch for that.
+
+So my guess is we're going to see a lot of patches over the next few months.
+
+I think that that will resolve the problem.
+
+I think this is a case where I'm going to give them the benefit of the doubt.
+
+I think that, you know, I've criticized them in the past.
+
+I think that blackmail study was embarrassing to the level of being a hoax.
+
+But I think in this case, I'm going to give them credit and say that I think that it's legit.
+
+So it's not the anthropic hoax.
+
+This could be legit.
+
+We have no choice but to treat it that way.
+
+Of course.
+
+Yeah.
+
+I mean, even if two things could be true at the same time, Sacks, they could have used this tactic
+
+before.
+
+It could be performative, like the video with the dramatic music in the background.
+
+It does have a little bit of a drama.
+
+to it and the way they presented it is very dramatic. But it does make logical sense that the one
+
+company that made the bet on code bigger than anybody else would be the one who would discover
+
+this quickest. And in 100 days, that's a pretty good, that's a pretty big advantage versus the hackers.
+
+But let me think one more point there, Chumap. The most important thing that people haven't talked
+
+about here is the amount of code being pushed right now because of these tools is 10x,
+
+100x in most organizations. So we need to have this type of security embedded in these new coding
+
+tools to do it in real time. That's the opportunity. There should be real time correcting of this.
+
+If this is real, they pick the wrong companies. Meaning, there are energy companies,
+
+folks that control nuclear reactors. There are airplane companies that are flying hundreds
+
+of thousands of people in essentially manufactured missiles of like streaming gas going at 500 miles
+
+an hour. None of those companies were the ones that were included in this. And so I think if you
+
+really thought that this was end of days, at a minimum we can agree, maybe we should have expanded
+
+the circle a touch. Well, maybe those are customers of the ones they're including here. Anyway,
+
+this is a really important story. We'll obviously track it in the coming weeks to see
+
+what turns out to be reality. And Dario do come on the program at some point. Hey, Brad, will you get Dario to come on the program? I've invited him like three times. I got his phone number. He's ghosted me. I don't know why.
+
+Wait, he's ignored you? I literally got an introduction from the number, like one of the number one venture capitalists in the world is on the cap table very early. He just won't respond. I don't know why.
+
+I would tell you, Dario's podcast with Dworkish, who I think is an excellent podcaster. I've listened to that three or four times, taken notes every time. It is a really,
+
+really exceptional piece, really exceptional piece of work by them.
+
+All right.
+
+Let's keep moving.
+
+We've got a lot on the job today.
+
+You may once again be tarred with your affiliation with us.
+
+Poor you.
+
+I mean, I don't care.
+
+Literally, I've got friends on both sides of the aisle.
+
+I have friends.
+
+Of course you do.
+
+Even J-Cal.
+
+Even J-Cal has friends everywhere.
+
+Let me ask a bratic question here just while we're on the topic of Anthropic.
+
+There was a really interesting story or tweet, I guess you could say, by the founder of OpenClaw.
+
+That Peter.
+
+Peter, yeah. What's his name, Peter? Steinberger. Steinberger.
+
+Yeah. Renowned coder created OpenClaw, which is kind of the thing that launched the sole agent era now, I guess you could say. Any event, he said that Anthropic was cutting off his access to was to Claw? Is that the next topic?
+
+This is on the docket. It's a little bit nuanced. Everybody using OpenClaw would take their $200 a month subscription to Empropic, which was essentially like people were using.
+
+more tokens and it's an average, the people from OpenClaw, it is very verbose and those people
+
+are 100x the usage of the average subscriber. So he said, you can't use your 200, you have to use
+
+the API. You move from the $200 plan to the API, add a zero to your token use, or more. And so they
+
+essentially ankle open claw, and then 10 days later or less, they released or announced their new
+
+agent technology, which is, according to them, a safer, better version of OpenClaw.
+
+So, hey, all fair in love and war, and they have basically shot a huge cannon across the bow
+
+of OpenClawe.
+
+Can you just explain that exactly?
+
+So I think you're right that they systematically copied feature by feature of OpenClawe,
+
+incorporated that into Claude.
+
+And then the coup de Gros was basically cutting off open claw.
+
+The oxygen.
+
+Can you just explain exactly what they did?
+
+Okay, very simply.
+
+When you buy a subscription to these services, they have blended your usage across many users.
+
+So there's nine out of 10 users use less than the tokens they're paying for and the top 10% use much more.
+
+When OpenClaught became a phenomenon, the number one open source project in history on GitHub,
+
+with all of this usage, people went crazy and you heard me talking about how crazy I went for it.
+
+Those people with the $200 subscriptions were using $2,000, $20,000 worth of tokens.
+
+So they said you can no longer use your subscription to, you know,
+
+either your professional or enterprise subscription at $200 and plug that into your open clock.
+
+You now have to go to the API and pay per usage.
+
+So no more like unlimited essentially.
+
+If you use Anthropics own agent harness,
+
+are you part of the bundle flat rate?
+
+You can assume that that's what they'll do,
+
+which if you were thinking on an antitrust level might be token dumping or price dumping.
+
+I'm not saying like I'm ratting them out.
+
+No, it's like bundling, isn't it?
+
+Well, price dumping or bundling.
+
+When you price something under the market price in antitrust, that would be price dumping, right?
+
+And if you were to bundle, it would be like the bundling issue.
+
+Critically important, you can use OpenClawe via Claw API.
+
+And every company has a right to set the price for its products.
+
+It's just saying that you were for, under their current regime, they were selling dollars for 10 cents via OpenClawe because these were such power users.
+
+And now they're just saying, we have to price this rationally.
+
+but we're happy to have you guys use the API.
+
+Okay, okay, but Brad, when you use the open-claw competitor that Anthropic now offers,
+
+are they subsidizing that?
+
+Are you paying?
+
+We don't know yet because it's in closed-bin.
+
+So in other words, what I'm saying is if they charge for API usage, their own first-party
+
+agent harness or system, then that would be apples to apples.
+
+But if they end up charging the bundled flat rate, let's say, for their stuff,
+
+but then charge the meter rate for third-party stuff,
+
+you could make a bundling argument.
+
+Sure, sure.
+
+And you could say it's anti-competitive assuming
+
+that Anthropic has dominant market share in coding,
+
+which I think most people would say they do at this point.
+
+And assuming that it's the same product.
+
+I mean, the reason most enterprises will probably use the anthropic version of this
+
+agenic product is because it meets all of your security parameters, right?
+
+So Altimeter runs, you know, a lot of stuff,
+
+on Anthropic. They're already integrated within our data warehouse, our data lake,
+
+things of that nature. So just letting open claw loose on the altimeter data set would not be
+
+wise. And so it's a different fundamental product. No, I get that. And I think that Anthropic has a
+
+huge advantage, let's say cloning open claw and just building it into clawed. I'm not denying that.
+
+To me, that would be the reason why they don't need to do price discrimination is because there's
+
+already a very good reason to use the, let's call it the bundled offer.
+
+on a featured basis. But the question I'm specifically asking is whether they're giving themselves
+
+a price advantage. I think Brad is giving the most generous interpretation. You're taking a more cynical
+
+one. I'm with you, Sacks. I'm 100% on the cynical side. OpenClaw is so powerful. It's got so much
+
+momentum that not only is anthropic trying to ankle it, I believe when Sam Altman bought it,
+
+it was, and he didn't buy OpenClaw itself. He hired, Aqua hired Peter. I believe it was to
+
+subvert the open source project to get Peter's next set of genius ideas inside of open AI as
+
+opposed to letting them go there. People are going to say I'm a conspiracy theorist. But this is the
+
+number one focus. And let me just give you a list of who is trying to kill open claw slash compete
+
+with them. Obviously, you have Anthropic, but also perplexity computer launched. It's awesome.
+
+I've been using it. Anthropic has this clawed managed agents. They dropped that on Wednesday,
+
+April 8th, yesterday, today's Thursday when we tape.
+
+You guys listen on Fridays.
+
+And then you have Hermes agent.
+
+That was released on February 25th.
+
+That's also open source and very good.
+
+So that's in the open source camp.
+
+Ali Bob is coming out with one.
+
+That's going to be based on their Quinn model.
+
+Then you have Elon who said he's got something called GROC computer coming out of
+
+macro hard, which is a play on words for Microsoft.
+
+In addition to that, Amazon and Apple are preparing new releases of their
+
+retard maxing assistance, Alexa and Siri, that will be less retarded in this new version,
+
+and then nothing out of Satya and Microsoft yet. So the number one goal, I believe in the
+
+large language model, frontier model space, is to kill this open source product.
+
+No, I mean, come on, like why they're building multi-functioning agents that can move from
+
+answering questions to actually doing something for you. Like, you've got to do that because
+
+that's what consumers and enterprises wants.
+
+It doesn't mean that it's about killing OpenClawe.
+
+It's just this is an obvious thing.
+
+They have the right to do it, but this is a giant movement to stop it because this is
+
+the equivalent of having an open source Android-like player in the market.
+
+And that could be incredibly disruptive.
+
+I believe open source is going to win the day on the large language models and take
+
+90% of the token usage.
+
+And I think the entire frontier model space could be undercut by open source.
+
+And I think they realize that SLMs, the smaller line.
+
+models that are verticalized now, that will run on, you know, desktops and laptops and is even
+
+starting to run on the top ones, that is their biggest competitive threat. And I hope it happens.
+
+All due respect to your investments, Brad, I think this technology and the interface is, you know,
+
+he plays bets. But I think it's imperative that the agent level, which is essentially your entire
+
+life, you don't give that to Anthropic. You don't give that to Open AI. That's your entire
+
+business, your entire life. It is foolish for you, Brad, to give you.
+
+give your entire business and all the knowledge you have to anthropic through that,
+
+unless you're just doing it to boost your investment in those companies.
+
+But I would be very concerned if I was you with putting all of your knowledge that you've earned
+
+over a lifetime into any of these large language models.
+
+All right.
+
+Jake, Al, let me ask you.
+
+Can I ask a question?
+
+Thank you for that impassioned monologue.
+
+Actually, I want to ask all three.
+
+Thanks for my TED talk.
+
+Yes, thank you for that TED talk.
+
+I have a yes, no question for each of you.
+
+do you believe that Anthropic has dominant market share in coding right now?
+
+Yes, no.
+
+No.
+
+Encoding?
+
+Yes.
+
+They had the lead, but not dominant.
+
+I think it's a trillion dollar market, and these guys have less than 10% of it today,
+
+so it's hard to make a case that.
+
+What percent of coding tokens do you think that Anthropic is providing the market right now?
+
+Greater than 50%.
+
+Yeah, that's true.
+
+Okay, that's called dominant market share.
+
+I don't know about that.
+
+50% on the market.
+
+You've got to look at what the TAM is.
+
+You've got to look at what the TAM is, David.
+
+Right?
+
+There are a lot of people who provide, you know,
+
+that are in the business of helping people write software.
+
+You want to be the tiebreaker before we move on to the next.
+
+I'm not saying it's a permanent condition.
+
+Okay.
+
+But if you're telling me that today,
+
+Anthropic is delivering over half of the coding tokens,
+
+that's clearly a dominant position in the market for coding.
+
+It's an early market.
+
+It could change.
+
+If I were representing them, David,
+
+I would say nine months ago,
+
+everybody called us, you know, out of the game. We were being destroyed by Open AI. In three months,
+
+now people are saying we have dominant market position. This is the fastest changing, most competitive
+
+market in the world. I think it would be very hard pressed to walk into, you know, some district
+
+court make the case that these guys have somehow already formed a monopoly against Amazon,
+
+Google, Microsoft, OpenAI, etc. Well, I'm not saying it's already a permanent monopoly,
+
+but I am just asking about market share.
+
+And I do think you guys all agree.
+
+Let's get Shemoff.
+
+Go ahead.
+
+They probably have 50 to 60 percent market share because I think Codex is actually quite
+
+broadly used as well.
+
+But that belies the more important point, which is AI-enabled coding, I think, is still
+
+5 percent of the broad market.
+
+So it's kind of a nothing burger.
+
+Yes, they're leading, but they're leading in something that isn't that big yet.
+
+Now, you would say, how could it not be big?
+
+and what I would say is because most of the stuff that's being written is still white sheet de novo code.
+
+And I think the ugly truth is I don't care what model you have,
+
+but the long horizon ability for any of these models to actually build enterprise great software is still shit.
+
+S-H-I-T-Sh-T-Sh-T.
+
+And that's the actual lived experience.
+
+Not for me, but when I call on our customers,
+
+half a trillion dollar banks,
+
+$100 billion insurance companies.
+
+None of these guys are like,
+
+wow, it just works out of the box.
+
+It doesn't work.
+
+So most of it is still hand-tuned.
+
+So until I can honestly tell you
+
+that we can point a model at this
+
+with the right guardrails,
+
+which I can't today.
+
+What I would say is it's a small market
+
+that will become large
+
+as these models become better.
+
+But we are in the world where
+
+we have 50 years of accumulated tech debt as a world. And I suspect when you enumerate the number of
+
+lines that that represents, it's hundreds of trillions of lines of just pretty marginal, mediocre code
+
+to bad code. On top of that, we have all these legacy languages. I'll tell you one of our customers,
+
+they have to go and get 60-year-old pensioners to come into the office to interpret cop. No, I'm not
+
+joke. This is a homeball, Fortran. This is a hundred billion.
+
+dollar a year revenue company.
+
+And that's how they solve these problems.
+
+It's not Opus just solves it.
+
+So I would just keep in mind that most of the tech debt in the world that exists,
+
+99% of it is still poorly addressed by these models.
+
+We are untying this Gordian knot.
+
+It's going to take decades to do it right.
+
+So all the breathlessness about all this other stuff,
+
+I really think it's not where the money is.
+
+It's not the big time stuff.
+
+And you can tell me, oh, yeah, it's going to be the future.
+
+and I would say, tell this business that's $100 billion a year of revenue and 50 million billing relationships
+
+that all of a sudden you're going to open claw your way to a solution. It's bullshit. Not to say that you can't have a great chief of staff
+
+and not to say you can't do some useful stuff and trickery and have a good knowledge base. I'd like that too.
+
+But the core things that your lived experience sits on today is a mess of tech debt that will get very slowly replaced. And that's just the reality of life.
+
+And there are competitors that are extremely disruptive. I'll tell you about one, we talked about
+
+BitTensor Tao on this program a couple of weeks ago when we had the Jensen interview. You brought it up,
+
+actually, Chumabh. There's a project that's Subnet 62. It's called Ridges AI. And what they're doing
+
+is a competitor that is not only open source, but anybody can contribute to it. They spent about a million
+
+dollars in Tao like rewards. And in 45 days, they hit 80% of what Claude 4 is.
+
+And they did that in under 45 days.
+
+The way that works is they give rewards for people who, and they can do this anonymously,
+
+make that coding product, which is like Codex or Claude Code better.
+
+That flywheel is racing right now with participation in the same way Bitcoin is.
+
+So you're going to see a lot of open source and these crypto open source combinations.
+
+And anybody who's not investigated this, I highly recommend you investigate this.
+
+I do think you're right about one specific thing.
+
+I would put zero, literally the probability zero,
+
+of any important company worth anything more than a dollar,
+
+having and outsourcing their production code to an open source project.
+
+That'll never happen.
+
+However, what will happen, though,
+
+is when you look at the cost of training this 10 trillion parameter model on Blackwall,
+
+and when you look in the future,
+
+let's just say in six or nine months,
+
+that a 15 or 20 trillion per M model is going to get trained on Vera Rubin.
+
+I think, Jason, where you are right, I have zero, and just to be clear, I have no investments
+
+in this at all.
+
+I do to be so super clear.
+
+I'm just observing, because another project other than BitTensor that someone brought up to me
+
+is Venice.
+
+The concept of open source training and orchestration is a hugely disruptive idea, which is
+
+the complete orthogonal attack vector to this idea.
+
+that you have to raise tens and tens of billions of dollars to train your models.
+
+Because if the capital markets run out of $10 and $20 billion checks to give people,
+
+the only solution is to be totally distributed.
+
+So I tend to agree with you, Jason, that there is going to be, at some point,
+
+a very successful open source project for pre-training.
+
+Absolutely will there never, ever be an open source way where a real company that has any
+
+skin in the game says, here, guys, re-engineer my,
+
+codebase as an open source project. Never going to happen. Yeah, I think the coding tools will.
+
+And if you look at the history of open source, Brad, you actually, I think, had a lot of bets in
+
+the space, Linux, Kubernetes, Apache, Postgres, like Terraform. Like, these open source projects
+
+are deep inside of enterprises, deep. And we were sitting here 15, 20 years ago, the same argument
+
+was made. Nobody will ever adopt these inside the enterprise. You got to go with Oracle, whatever.
+
+And fair enough, many people do. But I think this is this $29.
+
+Ridge's subscription to do this versus 200, it's starting to take hold inside of startups.
+
+And that's where I always look at the tip of the spear startups, love to, you know, use open
+
+source products.
+
+I think this could be the next big thing.
+
+But listen, I invest in things that have a 90% chance of going to zero.
+
+So do your own research.
+
+No crying in the casino.
+
+Can I just make a final few points?
+
+So just quickly.
+
+So number one is, with respect to this market for code,
+
+or code tokens, whatever you want to call it.
+
+It might be 5% today, meaning 5% of the codes AI generated versus human generated.
+
+I think it's going to 95%.
+
+I mean, I bet any amount of money on that.
+
+The only question is when, probably over the next few years.
+
+That's point number one.
+
+Point number two is it's possible that if you're the early leader in coding as an AI model company,
+
+let's say you have 50 to 60% market share, you have the most developers using it,
+
+therefore you have the most access to code bases, you might get the most training tokens.
+
+There is a potential flywheel there where you can see the early market leader consolidating
+
+its lead because it's generating the most code tokens as getting access to the most existing code.
+
+Now, I'm not saying for sure that's going to happen.
+
+It's possible that the other guys catch up, but I think there is a possibility of a flywheel
+
+there and strong, I guess you'd call it data scale effects, things like that.
+
+So I do believe that the market for coding tokens could be monopolized.
+
+Third, Anthropics revenue run rate, as based on what I can tell and what's been publicly
+
+released, is the fastest growing revenue run rate at scale that I think we've ever seen.
+
+Perfect segue.
+
+It's the next story.
+
+Okay.
+
+Maybe pull up the tweets.
+
+But this thing is ramping at a rate we've never seen before.
+
+Yeah.
+
+We can get into that in a second.
+
+But just one last final point is I think it's pretty clear that where we go,
+
+go from here is agents. And coding gives you a huge step up on agents because, you know,
+
+one of the main things that agents need to do is write code to be able to enable them to
+
+complete tasks. Correct. And so if it is the case that coding is this huge market that's going to be
+
+dominated by one or two companies, and then that leads to another huge market, which is agents,
+
+my point is just I think all these companies need to behave in a very clean way and not engage in
+
+tactics that later the government might say, you know what, that was anti-competitive.
+
+Everyone should just, I think, play fair, do not engage in discrimination against other people's
+
+products, engage in fair pricing.
+
+I'm not accusing anyone of breaking any of the rules.
+
+But what I'm saying is that eventually the government is going to look at this market with
+
+the benefit of 2020 hindsight.
+
+and I think everyone should just basically, you know, keep it.
+
+Keep your nose clean.
+
+Keep it tight.
+
+Keep it tight and right.
+
+Tight is right.
+
+I think it's an excellent point.
+
+Let's talk about the revenue ramp of Anthropic.
+
+This is just unprecedented.
+
+Anthropics revenue run rate has topped 30 billion with a B.
+
+Early 2023, they turned on revenue.
+
+They started charging for API access.
+
+End of 2024, they're at a billion dollar run rate.
+
+February 25, they lost.
+
+they launched Claw Codd.
+
+That was the Starters Pistol.
+
+Mid 2025, $4 billion run rate.
+
+End of 2025, $9 billion run rate.
+
+Just a couple of months later in April,
+
+$30 billion run rate.
+
+Yes, that's right, triple.
+
+And the way they did this is enterprise customers
+
+are a major part of the spend.
+
+Dario announced a couple of months ago
+
+that there's over a thousand enterprises
+
+paying over $1 million annually.
+
+This is truly mind-boggling.
+
+when you think about it because those are the most coveted customers in the world.
+
+These are the big fish that you just, when people are running enterprise software,
+
+they dream, Slack dreamed of getting these million-dollar customers,
+
+Salesforce dreams of getting these million-dollar customers.
+
+Brad, you're an investor.
+
+I guess Sam famously on BG2 asked you to sell your Open AI stock back to him.
+
+You didn't, you demurred, but you're an investor in both.
+
+How shocking is it to you to place,
+
+both of those bets and then see one of them come from so far behind.
+
+You know, ChatGPT has 900 million users.
+
+I don't know if they've passed a billion officially yet, but they are the verb, right?
+
+They're the Uber.
+
+They're the Xerox.
+
+They're the Polaroid of AI.
+
+But they didn't go after the enterprise.
+
+Dario made that.
+
+And Dario worked.
+
+He was the co-founder of OpenAI.
+
+He left.
+
+And according to the New Yorker story that came out from Ronan Farrow this week,
+
+he was basically left because of his disgust in working with Sam Altman.
+
+Your thoughts, Brad?
+
+You know, before we go down the opening eye, rabbit hole, let's just really contextualize
+
+like what's going on here.
+
+You know, I have this additional chart.
+
+You showed one.
+
+You know, they added $4 billion of revenue in January, $7 billion in February, $11 billion
+
+of annualized run rates or $10 or $11 billion in March.
+
+Just to put in perspective, that's data bricks plus Palantir,
+
+combined that they added in a single month, right? So we started with everybody at the start of the
+
+year wringing their hands, including, you know, Gurley and others saying we're in a big bubble,
+
+asking whether the AI revenues would show up to justify all of this investment. And bam,
+
+you have the largest revenue explosion in the history of technology. So the company's plans were to
+
+end the year at about a $30 billion exit run rate. They got there by the end of March, right? And I
+
+suspect that it's continuing in April. So you have to ask what's going on and what's the big so
+
+what? The first thing for me is that model and product capability just hit this threshold. We talked
+
+about earlier, near AGI, whatever the hell you want to call it. And everybody like altimeter
+
+said, damn, this is so good. I have to have it. This is no longer about my IT budget. This is about
+
+labor augmentation and labor replacement. And by the way, co-work is growing even faster than Claude
+
+at the same stage of development.
+
+So what it showed is we have a near infinite tam.
+
+It turns out that the tam for intelligence
+
+is radically different than anything that we've seen before.
+
+And I think the best example of this, right,
+
+this is millions of self-interested parties, consumers, enterprises,
+
+a thousand now over a million dollars, right?
+
+It's not that there was some great go-to-market and anthropic
+
+that all of a sudden, you know,
+
+they snuck up and blew everybody away.
+
+No, it was companies demanding the product. They're getting throttled on the product. Why? Because it's so good, it makes them better at their business. We are all self-interested actors. And when millions of those people are all making the same decision, there's a huge tell. And the tell here is that the Tam is as big as Dario and Sam and others have been saying. We knew intelligence was going to scale on the exponential. The question was whether revenue will scale on the exponential. And that's what we're seeing. And remember, they're doing this.
+
+with only one and a half to two gigawatts of compute, right?
+
+These guys are massively compute constraint.
+
+They're each going to be adding three gigawatts of compute this year.
+
+And so that will unlock.
+
+They would be growing even faster, but for that.
+
+And then, Jason, to your point about the open source models,
+
+that we all want to be a part of this solution.
+
+I've talked to a lot of big companies,
+
+65 to 70% of their token consumption is open source model, right?
+
+Are these cheap Chinese and other tokens?
+
+So these revenue ramps are happening while the world is already using open source.
+
+This is not frontier only.
+
+This is frontier plus open source.
+
+We're going to see massive token optimization over the course of the year.
+
+But what happens on this Jevins paradox is the unit costs, right, of intelligence is plummeting.
+
+Not the cost of tokens.
+
+The unit cost of intelligence is plummeting because the capabilities of these models is so
+
+much better.
+
+I look at what it does for altimeter day in and day out.
+
+I talked to a major company yesterday.
+
+They're on a run rate to do 100 million of token consumption this year on about $5 billion in OPEX.
+
+They think that we're now nearing peak employment in their company, but that their token,
+
+their intelligence consumption, okay, let's not call it token consumption, right?
+
+Because tokens may go up a lot, but their intelligence consumption is going to go up, you know,
+
+a lot.
+
+So I would leave you with this.
+
+We're early to Chima's point.
+
+we have low penetration of the global 2000 we have low penetration of the use cases we have low
+
+penetration of within the use cases that they're already using and the models are only getting
+
+better so i think when you look out toward the end of the year i would not be shocked if you see
+
+anthropic exiting this year at 80 to a hundred billion dollars in revenue and by the way doing
+
+it at the same time the open ai who is also on the wave they'll be releasing an incredible model
+
+on the next, imminently, they're going to be on that wave and you're going to see an inflection in
+
+their revenues as well. Okay, Chamoth, question one has been answered. The question of, hey, does this
+
+stuff actually have utility? That went from a question mark to an explanation point. Of course,
+
+it's got utility. People are getting value from it. And it might be variable. Some people get more
+
+value in the other. Number two, the revenue ramp was a big question. Now that's turned into an
+
+explanation point. The final piece of the puzzle that you've brought up many times is, can this be
+
+profitable. And these companies are burning through a large amount of cash. So what is your take on
+
+when these companies can get out of the J-curve? We talked about this, I think three episodes ago.
+
+I estimated like we're going to be looking at $400,000 in investment into these data centers
+
+at a minimum. And then they have to climb out of that to get to profitability. So what are your
+
+thoughts on these becoming profitable companies? Do you remember that investor that
+
+published this list, Jason, where he put all of the terms you talk about when one of the terms
+
+you can't talk about his profit. It's a list where it's like, if you can't talk about free cash flow,
+
+you talk about EBITDA. When you can't talk about EBITDA, you talk about margin.
+
+Community EBDA. When you can't talk about that, you talk about revenue. And then when you can't
+
+talk about revenue, you talk about gross revenue. Bookings. So you can kind of figure out, I think,
+
+where we are in any part of any cycle
+
+by just indexing into
+
+what does everybody talk about.
+
+I think where we are is we are
+
+between gross revenue and net revenue.
+
+That's where the discussion is.
+
+Okay.
+
+There was another article, I think, today,
+
+and I think maybe it was the information
+
+that tried to categorize
+
+and distinguish that Anthropic presents gross,
+
+OpenAI presents net,
+
+they're different.
+
+We don't know what the,
+
+various take rates are. So they're saying that there's a difference. If it's not true, there's
+
+been no clarity provided by these companies. So at a minimum, you have this confusion where there's
+
+the breathless talk. Then there's people that don't even know the difference between actual
+
+recognized revenue and run rate revenue and how to multiple. I mean, so we're definitely there,
+
+okay? We can quibble about the details, but we are not at the place where people are like,
+
+oh, here's your steady state, you know, free cash flow margin and here's what your EBIT does.
+
+We're years from that.
+
+They're going to have token maxing EBDA,
+
+like a cumulative EBAA at the Wii.
+
+The thing that we need to understand
+
+is how gross margin negative
+
+is this revenue growth.
+
+We don't know that.
+
+And at least we don't as outsiders.
+
+Brad might know.
+
+Brad may know.
+
+I would tell you, think about this.
+
+What are their big cost inputs?
+
+The number one cost input is the cost of compute.
+
+Cost to compute, right?
+
+I just told you they only have a gigawatt
+
+and a half of compute.
+
+And they had that gigawatt
+
+I have a compute, whether they have a billion in revenue or whether they have 80 billion
+
+in revenue.
+
+So you might actually expect to see these companies.
+
+Their gross margins are exploding higher.
+
+Like the fastest increase in gross margins I've probably seen out of any technology company.
+
+So this is not gross margin negative, you're saying?
+
+No, definitely not gross margin negative.
+
+And what I would tell you is...
+
+So then they must be hugely profitable, then?
+
+Well, you may see accidental...
+
+What I call it, accidental profitability.
+
+They may not be able to spend this revenue fast enough,
+
+on compute and remember it's only 2,500 people. Google crossed this revenue threshold when
+
+they had 120,000 people. These guys have 2,500 people. So the only thing you can really spend
+
+money on, right, is compute and they can't stand up the compute fast enough. But none of this
+
+foots to me then, to be honest, because if you were on a threshold of 90% plus gross margin,
+
+I'm not saying it's there. I'm not saying it's 90% plus. I'm just saying it's gone from
+
+meaningfully negative 18 months ago to, you know, very, very positive.
+
+I've seen rumored out there 50 to 60 percent.
+
+So the trend is going on is what you're saying.
+
+Right.
+
+The trend is there.
+
+Let me just say this.
+
+I think if you're an incumbent, you want the cost of compute to go down.
+
+I think if you're not an incumbent, so specifically who do I mean?
+
+Meta, Google, and SpaceX.
+
+I think those three people who have all three of them, well, sorry, meta and Google have a
+
+fortress balance sheet. I think by the end of June, SpaceX will also have a fortress balance sheet.
+
+What they will want to do is they will want to make this a compute problem because they will
+
+control the conditions on the field. You already see this today. Meta's models today, what people's
+
+general reviews are, it's okay, but the one thing that people say is it's incredibly performant.
+
+The model quality is okay, but the performance is great, which speaks to meta's huge advantage.
+
+They have a massive compute infrastructure. So if you're not open AI,
+
+and Anthropic. They'll want to make this a capital problem because then they can win it. If you're
+
+anthropic and open AI, you want this thing to be as efficient as possible. I think where we are
+
+is very much in the early innings. And we're bumbling around talking about gross margins and, you know,
+
+revenues. We are not at profitability. And what is true for Facebook and what was true for Google
+
+was irrespective of where they got to a billion, who the fuck cares? They were profitable by
+
+year three and they never look back. I was there, I remember. It was glorious. The cost,
+
+the cost of building, you know, AI totally stipulate is radically higher than the cost of building
+
+retrieval at Google, right? Like, it's just a fundamentally more expensive problem, but I will tell
+
+you that there's a lot of thought out there about negative gross margins. I mean, Jason, you started this
+
+segment by saying they're burning through large amounts of cash. I think people are going to be shocked at
+
+the burn, how low the burn levels are at these companies.
+
+At anthropic or open AI. Yes. And I would say at OpenAI as well. Like if they're on,
+
+you know, if they do $50 billion this year again, just look at the number of people they have.
+
+Revenue per people. It's pretty low. And the inference cost is plummeted. Inference cost is down
+
+by 90% year over year. And so just finally I want to respond to this point about Gross versus
+
+Net, this tweet that Chimath was referencing. Okay. So there's a certain percentage, a smallish
+
+percentage of Anthropics revenue, right, that they distribute through the hyperscalers.
+
+And like a lot of arrangements, whether it's snowflake or data bricks or others, you pay a
+
+commission, right, on that. I will just tell you that you're talking single digit percentage
+
+of total revenue of these companies. So the gross versus net thing isn't what's being reported.
+
+Like the Apples for Apples is pretty easy. And if you want to be conservative on it, take down
+
+Anthropics revenue by, you know, five to 10%, which, you know, again, I don't, I think it's better
+
+to gross up Open AI's revenue, but any way you do it, I just think it's a distraction from what's
+
+really what's really going on here.
+
+Happy to-
+
+Zach, you have any thoughts on this massive revenue ramp?
+
+Yeah, I mean, I want to go back to a point that Brad Bates, I think it was just really
+
+important and I want to just underline it, consider where we were at the beginning of the year
+
+and what everybody was saying is that AI was a big bubble.
+
+And the evidence they would point to was the fact that hundreds of billions of dollars was
+
+going into CAP-X that needed to be spent on these data centers, and there was no evidence of
+
+significant revenue to justify that spend. Where was the ROI? By the way, as an aside,
+
+the same DOOMers who were saying that AI was in a bubble were also the ones who were saying
+
+that AI was so powerful that's going to put us all out of work and it's going to take over from
+
+humanity. I mean, in other words, they couldn't decide if AI was too powerful or not powerful
+
+enough. But putting aside that contradiction, they clearly were making this case that AI was this
+
+big bubble and there'd be no payoff or justification for this massive cap-ex that's being spent.
+
+And I think we're starting to see here there is justification for it. We're seeing it just in this
+
+one vertical of AI, which is coding. We're again seeing the fastest revenue growth in history.
+
+It's utterly unprecedented. And this is just one category or vertical of a,
+
+We know that agents are coming next, and the enterprise adoption of that is going to be absolutely
+
+massive.
+
+So I guess what I'm saying is that this is early proof for, I think, the thing that makes Silicon Valley
+
+special, which is we're willing to basically bet on things that just intuitively, on a gut level,
+
+we know are the next big thing.
+
+We're not that spreadsheet driven actually.
+
+Silicon Valley believes that if you build it, they will come and is willing to finance
+
+that build out. And that's basically what's been happening. Again, just the top four hyperscalers,
+
+$350 billion of expected CAPEX this year. On this way, I think Jensen said one trillion by 2030.
+
+So Silicon Valley, whether it's big companies, whether it's founders, they're always willing to
+
+bet on this next big thing. They're not like Wall Street. They don't need, you know,
+
+to tell them to tell them where to go. They know where the technology is going and they make
+
+their bets based on that. And I think that there is going to be a big payoff for this.
+
+And I think it's a thing that's going to make our economy and the United States in general remain extremely dynamic and in the lead on this thing is that we are willing to make those kinds of bets.
+
+And I think it's going to pay off big time.
+
+Yeah, clearly.
+
+Hey, Brad, you didn't answer my question about the vibes over at OpenAI versus Quad.
+
+Open AI is, I wouldn't say reeling, but there's a lot of hand-wringing going on, a lot of employees leaving, a lot of people who are wanting to.
+
+wondering, like, is our strategy, the winning strategy of, like, consumer first?
+
+They shut down SORA, you know, unwinding the Disney deal, and really trying to get the
+
+company focused.
+
+And it's kind of like, I mean, listen, the New Yorker story was a bit of a rehash.
+
+I don't think we have to go into the blow-by-blow because we covered here three years ago.
+
+But the truth is, a lot of the great founders, co-founders of Open AI, and a lot of the great
+
+contributors are now at Anthropic and other large language models.
+
+and in the secondary market, Open AI is trading lower than the last valuation, and Anthropic is
+
+trading significantly above the $380 billion. So maybe talk a little bit about this competition,
+
+this Microsoft versus Apple, this Google versus Facebook moment. Let's start with immense credit
+
+where credit is due. Anthropic was literally counted out of the game last year. Right. And here
+
+they come over the last 12 months. And they've kicked Open AI's ass over the last
+
+90 days, right? And what did Anthropic do? Anthropic made choices. No multimodal, no video, no hardware,
+
+no chips, no building data centers. They said, we're just going to focus on coding and co-work.
+
+We think that is the path to AGI and ASI. They executed their butts off. They took the lead,
+
+2,500 people tight, pulling on the ore in the same direction. But I think you would be seriously
+
+foolish to count out open AI, right? And I think we're at-
+
+Why?
+
+We're at peak open AI FUD, and I'll tell you, it starts with great researchers and great
+
+models.
+
+And I think when you see the Spud model, they're about ready to release.
+
+I think it's going to be an excellent model, shows that they're firmly on the wave.
+
+If you look at what's going on with Codex, incredible ramp on Codex, fastest ramping model
+
+with 5.4, I think 5.5 or Spud, whatever we're going to call, it's going to be an even faster
+
+ramp.
+
+Have you seen Spud?
+
+Have you used it?
+
+Have you gotten a preview?
+
+People are using Spud, right?
+
+So it is being previewed.
+
+And so you're talking to people who've used it and what are they telling you?
+
+They're telling us that it's an incredible model on par with mythos, right?
+
+And that it's a very usable model in terms of how it's packaged.
+
+I will say that back to David's point, now this is the most important point I think anybody can take away here.
+
+This is not zero sum.
+
+The tam of intelligence is dramatically larger than any tam.
+
+we've ever seen in our investing careers over the last two decades, right? And if you're on the
+
+wave, which Open AI is, you are going to be selling into the world's biggest Tam. They are going
+
+to build a very big company. I'm a buyer of the shares today, notwithstanding all of the vibes that
+
+you describe, I think these companies are firmly on the wave. They are jarred. They are sitting there saying,
+
+what do we do wrong and how do we get our mojo back? They want to compete. It is embarrassing to
+
+people on the research team and the product team over there. So I'm not saying there's not a real
+
+awakening occurring there. But I think that's what the case is. And by the way, to Chamaas point,
+
+do not count out meta. Right. I think meta is absolutely in this game. Google is absolutely in this game.
+
+Elon is absolutely in this game. And if you're on team,
+
+got some stuff dropping shortly, that's going to be very impressive. If you're on Team America,
+
+the fact that we have five frontier models competing against each other. And David made sure they
+
+weren't throttled by excessive government regulation. We have mythos come out. It's a self-imposed
+
+safe harbor, you know, to harden our system. It wasn't a call for moratoriums or getting the
+
+government involved. We have the type of competition that's causing us to accelerate our lead
+
+against the rest of the world. We can't take our eye off the prize. We've got to stop
+
+adversarial distillation. And we need to make sure that we're distributing our products around
+
+the world. But I view this as really good for Team America. Well said. And here is your
+
+Polymarket IPOs before 2027. Obviously, SpaceX at 95%, cerebrus at 94%. And hey, number five on this list,
+
+51% chance that Anthropic goes out before the end of the year. Forty-four percent chance that
+
+opening eye comes out before then. All right, here is the closing market cap for Anthropic on Polymarket,
+
+only $158,000 in volume. So, Chamath, when you put in 400,000.
+
+K, you're going to really tilt this market.
+
+78% chance that it's above $600 billion, 19% chance that it doesn't go out.
+
+So it's looking like this will be a decent investment for you.
+
+Brad, what valuation did you get into Anthropaget?
+
+We first invested, and I believe it was the $130 or $150 billion round.
+
+So this will be a 7x, 5x for Altimeter, L, please, congratulations.
+
+I mean, listen, again, there are lots of people.
+
+who were there before us and who are on the board and who are going to do better than us.
+
+Would you put it in 50?
+
+What'd you put it?
+
+No, we've got billions of both companies.
+
+Billions in both companies.
+
+Oh, my Lord.
+
+Yum.
+
+I think there's this existential thing going on in venture today.
+
+David could talk about it as well.
+
+I mean, people can't, they're extraordinary nervous about, you look at the IGV stock index,
+
+down 30% year to date, down 5% today.
+
+All software stocks plummet.
+
+right? Venture capitalists are terrified to invest money in anything other than these frontier
+
+models and things like SpaceX or military modernization. Finding something that's out of harm's
+
+way of AI, right, where you can count on the terminal value to Chimass insights over the last few weeks
+
+is very difficult to do. That's why you see this crowding. So we've taken a barbell approach,
+
+right? We've got a lot in what we think are the most important companies that are on the frontier.
+
+And then we're betting on really small teams that we think have very defensible businesses in a world of, you know, AGI.
+
+But it's tricky.
+
+What happens to all these enterprise software companies?
+
+Do they become PE takeouts?
+
+Do they get consolidated?
+
+Or do they just have to adopt these AI technologies and solve this problem of, hey, the frontier model is just going to solve for whatever these niche software companies do?
+
+I think the market's probably being a little too pessimistic with respect to.
+
+at least some of these software companies.
+
+I mean, obviously there's going to be big differences in the quality of the moats of these
+
+companies.
+
+And so, look, software is going to be a lot cheaper and easier to generate, but I'm not
+
+sure that was the competitive advantage of a lot of these companies.
+
+So there's probably a little bit of the baby being thrown out with the bathwater right now,
+
+and there probably are some value buys and enterprise software.
+
+I think the interesting question here, and we've been talking about this for a couple of years
+
+on the pod is just where you see the AI value capture being in terms of layer of the stack.
+
+Remember where we started.
+
+It was really just the chip layer of the stack was where all the value capture was.
+
+It was basically Nvidia was the first company to be worth multiple trillions of dollars
+
+because of AI.
+
+And for a while, it looked like that's where all the value capture was going to be because
+
+Open AI, for example, is losing so much money and Anthropic wasn't on the radar as much.
+
+Now we're seeing, wait a second.
+
+And it's not just the chip companies, it's also the hyperscalers are now benefiting.
+
+And now we're seeing at the model layer, it looks like entropic and OpenAI, they're all going to be huge beneficiaries.
+
+I think the next question is that the application layer of the stack, okay, well, now, does all that value capture just get eaten by the model companies?
+
+Or are there applications that get turbocharged?
+
+I guess you could say that Palantir is already one of them, right?
+
+It's an application company that's been turbocharged by these model capabilities.
+
+Who else will be a big beneficiary?
+
+Again, is it all going to be at the model layer or will you see an explosion of value at the application layer?
+
+I'm hoping, obviously, that it'll be at all layers, the stack you see beneficiaries.
+
+But to me, that's a really interesting question right now.
+
+Yeah, what happens to Salesforce, HubSpot, Oracle, right down the line.
+
+David, Chumath, your thoughts here on the layers here and where,
+
+the value is captured.
+
+It's too early to tell.
+
+Too early to tell.
+
+And energy can kind of put into sort of data center as well,
+
+but that's obviously been a clear winner.
+
+Little housekeeping here.
+
+Liquidity.
+
+Put a little Tiffany in here, producer Nick.
+
+That-da-da-da-da-da. is sold out.
+
+There's a wait list of hundreds of people,
+
+but it is what it is, folks.
+
+If you snooze, you'll lose.
+
+And top-tier speakers are coming.
+
+It's going to be great.
+
+We'll get an update from Schmop.
+
+But I think, Brad, you're going to be joining us again.
+
+Yes, for liquidity?
+
+I have an update.
+
+Also, that's probably not your headliner, though.
+
+I'm probably not your headline.
+
+No, but you always score so high.
+
+Every event you've spoken at, you've been either number one, two.
+
+I don't think you've ever dropped to three.
+
+Go ahead, Jamal.
+
+Make your announcement here.
+
+Da-da-da-da-da-da-da.
+
+Now, sent me an article from Wikipedia about peanut links when you guys are talking about dickens.
+
+Okay, this is breaking news.
+
+Showing me that I'm in the large category, top 5%.
+
+She highlighted it.
+
+Top 5%.
+
+Okay.
+
+And that's with, is that with nanobanana or without?
+
+She just texted, dummy, it's Claude.
+
+My apologies, Claude.
+
+Oh, all right.
+
+This is what Chmoth isn't afraid of the cyber is because nothing's going to come out.
+
+That's more embarrassing than what he says himself on the pond.
+
+It's like Bezos.
+
+When Bezos got hacked, he's like, guys, I got hacked.
+
+So I saw the agenda for this thing.
+
+It's incredible.
+
+Congrats to you guys.
+
+I mean, like just the fun of being in Nap, all the poker, all the dining experience.
+
+This is five-star all the way.
+
+It looks really cool.
+
+Six-star.
+
+It's a mom-level.
+
+because Chimoth was, I dare I say, belligerent in his demands.
+
+He said, this has to be six-star or I will not show up, Jake now.
+
+I said, okay, boss, get to work.
+
+And Chimap, what do you got?
+
+And no mids.
+
+This is all elite.
+
+And for the hundreds of people who are on the wait list, I am sorry, but we have a capacity issue.
+
+We'll try to get you in for next year.
+
+But Chmoth, give us some updates here.
+
+You have any updates that you want to share?
+
+Because you are running programming for liquidity, 2026 up in Yon.
+
+It's going really well.
+
+Really excited to hear all of these great folks speak.
+
+I think the next two will release today, Brad Gersoner, and Thomas LaFont of KOTU.
+
+Oh, of KOTU?
+
+That's a great get.
+
+We also have, I think, three people confirmed for their best ideas pitch.
+
+Really interesting folks, they each run between one and six or seven billion.
+
+Awesome.
+
+Superstar compounders early in their career.
+
+This is the new zone, Chama.
+
+It's great.
+
+So right now we have gone.
+
+This is on top of it.
+
+We have Bill Ackman, we have Andre Carpathy, we have Dan Lope, we have Thomas LaFont, we have Brad Gersoner, we have Sarah Friar, and more to come. We will announce more to come. There might be one or two surprises. And a couple of surprises. And a couple of surprises. Yeah, we don't announce all the speakers. Jay Cowell's got a couple of surprises coming. And if you didn't get in to liquidity, apologies, you're on the wait list. We are going to be hosting the fifth annual All In Summit in Los Angeles.
+
+lease, September 13th to the 15th,
+
+Sacks, you're going to come to that?
+
+Allin.com sessions.
+
+Sacks, you should come to that.
+
+I've been advised that I can attend business.
+
+I can be in the state for business reasons.
+
+Okay, there you go.
+
+Then we'll see you at liquidity and the summit.
+
+Correct.
+
+That's big news.
+
+Now we just got a bunch of sacks stands who are racing.
+
+And now we're going to get sacks.
+
+This is what happens every year behind the scenes.
+
+Sacks at the last minute says,
+
+oh, I have four speakers.
+
+and I have 72 people who need tickets.
+
+And then the whole team has to do a fire drill,
+
+48 hours before the event.
+
+Okay, here we go, guys.
+
+We're going to go to the third rail here.
+
+We've got to catch up on the Iran War.
+
+Here's the latest.
+
+Two weeks into ceasefire,
+
+I've started just two days ago at the taping of this.
+
+VP, J.D. Vance, friend of the pod,
+
+and some special consultants,
+
+Wikoff and Friend of the Pod, Jared Kushner,
+
+are headed to Islamabad,
+
+the capital of Pakistan.
+
+for talks this very weekend.
+
+So while you're listening to this event,
+
+they are going to be working on the peace deal.
+
+Easter Sunday, Trump posted a truth stating,
+
+open the fucking straight and crazy bastards,
+
+or you're going to be living in hell.
+
+Just watch.
+
+Praise be to Allah.
+
+On Tuesday morning, Trump posted another threat on social media.
+
+A whole civilization will die tonight.
+
+Never to be brought back again.
+
+I don't want that to happen, but it probably will.
+
+Tweets were obviously discussed a lot over the last week.
+
+he gave him an 8 p.m. deadline.
+
+At 6.30 p.m. Postist announced on Truth Social that he had agreed.
+
+President Trump had agreed to a two-week ceasefire if Iran opens the straight.
+
+He also said, hey, listen, we got the straight.
+
+Maybe there'll be a toll booth, but we'll take the majority of the toll and we'll split it with Iran.
+
+Here's the quote.
+
+We received a 10-point proposal from Iran, and we believe it's a workable.
+
+It is a workable basis on which to negotiate.
+
+And apparently Netanyahu took the ceasefire to mean level Lebanon dropping 160 bombs in 10 minutes yesterday.
+
+Sachs, you were out last week. Everybody wants to know your position on the war. I'll hand it off to you.
+
+What are your thoughts on how on the two-week ceasefire and everything that's occurred up until this point?
+
+Well, look, I have to preface what I'm about to say, which is I'm not part of the foreign policy team at the White House.
+
+And the last time I commented on the war on this show, it somehow made international headlines that Trump advisor says XYZ.
+
+And I'm not a Trump advisor on this issue. I think that would be a fair headline to write if it was a technology issue, but this is not.
+
+So whatever I say is just my personal opinion, but then the media is going to somehow portray it or attribute it to the White House or try and create an issue out of it.
+
+So I feel like I'm limited in what I can say, except that to say.
+
+say that I think it's terrific that we have the ceasefire. I think it's great that there's going
+
+to be this meeting in Islamabad to hammer it out. And I think what the presence has accomplished
+
+so far with the ceasefire is it's a great thing because what happens with these wars is they
+
+take on a life of their own, meaning they tend to go up the escalation ladder, right? There's a lot
+
+of podcasts that are discussing the so-called escalation trap. And supposedly there are stages
+
+this based on historical patterns. And so I think it's actually very hard to pull out of these things.
+
+And I give the president tremendous credit for negotiating the ceasefire that we've achieved so far
+
+and then sending the team to hopefully work this out. Brad, actually my first trip to the Middle East
+
+was when you and I maybe four years ago when, thank you for taking me. What is your take on where
+
+we're at here? I think we're just wrapped up week six of this and we're going into week seven.
+
+First, on March 4th, I tweeted the Trump doctrine in Iran massively destroy all military
+
+capabilities, kill the people building lethal weapons to use against us, and get out.
+
+Reserve the right to do it again if needed. Zero efforts to build Madisonian democracy.
+
+Iran's going to have to build what comes next. And I think what the market has said, right,
+
+if you look back at last year on tariffs, Jason, the top to bottom drawdown was about 15%.
+
+On the NASDAQ, intraday is down 22%. Okay. The drawdown in this period over Iran was only down
+
+about 5 to 7% on S&P and NASDAQ, right? So the market has said, listen, retrust Trump at his words.
+
+He said he's not going to get into an entangled war here. I think he terrifies the hell out of people
+
+with his tweets about, you know, destroying civilization and all this other stuff. But I think people,
+
+even though they don't like to hear it, they've resolved for themselves that when he says he's
+
+going to get out, he will in fact get out. Of course, there was a lot of hand-wringing.
+
+But if you look at the markets today, we basically bounced all the way back from where we were pre-Iran on both the S&P and the NASDAQ.
+
+If, in fact, we land the plane, if J.D. lands the plane. And by the way, on Lebanon, yes, they were bombing yesterday, but Netanyahu has now said that you're going to have direct government talks between Israel and Lebanon. So if we land the plane on these two things, I think it's off to the races in the market. And by the way, while everybody's focused on Iran, stay tuned. I think we're getting close to a deal on.
+
+Ukraine, Russia, right? Venezuela is, you know, kind of going seemingly very well. I think there's also
+
+going to be news on Cuba. You could envision a world. There's risk to the downside, certainly, I will
+
+stipulate. But you also have to pay attention to the risk to the upside. If you land the plane on
+
+those things, heading into America 250, July 4th, the market could really take off.
+
+All right. Well, let's maybe up-level this a little bit and talk about why we're in this war to begin
+
+with. And that's the big discussion amongst both sides of the aisle on Tuesday. The New York Times
+
+dropped and inside the room piece on how President Trump made the decision, according to this report,
+
+if it's true, I know some people don't subscribe to the New York Times anymore or think it's fake news,
+
+but how Trump decided to basically follow Netanyahu into this war on February 11th. Netanyahu
+
+met with Trump at the White House where he gave him a four-part pitch on attacking Iran. J.D. Vance,
+
+according to the story, if it's true.
+
+Disclaimer, disclaimer, warn Trump that the war could cause regional chaos and break apart
+
+Trump's MAGA 2.0, the Trump 2.0 coalition we talked about here, the big tent.
+
+And that's turned out actually to be true.
+
+There's been a bunch of hand-wringing from Megan Kelly Tucker Carlson right on down the line.
+
+Rubio was anti-regime change, but he was largely ambivalent, according to this story,
+
+about the bombing campaign.
+
+Susie Wiles, chief of staff, said she had concerns about gas prices before the midterms,
+
+pretty good advice there. And General Dan Kane, chairman of the Joint Chiefs of SAF, said,
+
+this of Netanyahu's pitch, quote, sir, this is in my experience, standard operating procedure
+
+for the Israelis. They oversell and their plans are not always well developed. They know they need
+
+us, and that's why they're hard selling. If you put this together with Rubio's walkback comments
+
+at the start of the war, we knew, this is quote from Rubio, we knew there was going to be an
+
+Israeli action, we knew that would precipitate an attack against American forces. And that's why we did it.
+
+I had Josh Shapiro on the All In Interview Show, and he talked a lot about this. There is a big
+
+underpinning here, Chimov, that the United States foreign policy is being driven by Netanyahu.
+
+Every Jewish-American person I've talked to feels Netanyahu is not doing Jewish-American and the Jewish
+
+Diaspora, any favors here by his approach to these wars? What are your thoughts on why we got into this
+
+and how we get out of it? I mean, the person that decides is the president of the United States.
+
+So a foreign leader isn't getting to call the shots in the United States. I think very practically
+
+speaking, the markets are effectively pricing in that this was a small blip for whatever
+
+people think that's just what the best prediction market that we have is telling us. I think that's
+
+important to acknowledge that we're probably in the end game here. And the second thing to acknowledge
+
+is, if I was Israel, I would really be concerned that unless I help find an off ramp quickly,
+
+the risk that Israel loses America as a predictably steadfast ally could go down. And I think
+
+that that's problematic for Israel, far more than it's problematic for the United States.
+
+States. So all of that kind of tells me that we will find an off ramp. A, because I think
+
+economically it makes sense, and then B, geopolitically, I think Israel, will want to make sure
+
+that this doesn't burn a longstanding relationship. Yeah, that seems to me to be the major
+
+issue here is Americans basically do not want to be in this war. Americans do not want our
+
+forest policy being influenced to the extent they believe. I'm not putting it. I'm not putting
+
+my belief in here. Just Americans believe we are being dragged into this by Israel and that Israel has
+
+too much, or Netanyahu specifically, has far too much influence. And then people believe the
+
+anti-Semitism that's occurring here, Josh Shapiro gave me a lot of pushback on this. But all the Jewish
+
+Americans I talk to say Netanyahu is causing with his actions in Gaza, Lebanon, Iran, he's gone too
+
+far and it's causing the anti-Semitism we're experiencing today. So you can make your own decisions
+
+about that. Any final thoughts here, Brad?
+
+on the American foreign policy being influenced too much by Israel?
+
+No.
+
+It's the discussion of the moment.
+
+I mean, listen, kind of like Sacks said earlier,
+
+I think that we will ultimately be judged by the outcomes, right?
+
+And that everybody is an armchair pundit today on, you know,
+
+the approach that we're taking in these two different places.
+
+I think we could be on the verge of a massive transformation of the Gulf states. You went there
+
+with me, Jason, Saudi, Qataris, Kuwaitis, Emirates, I've talked to a lot of them this week. I think
+
+they're very hopeful and optimistic. I think you could bring Iran into the fold. But listen,
+
+I'm an optimist on all of this stuff. I just want to remind people, doing nothing in Iran had
+
+tremendous risks. Doing nothing in Venezuela had tremendous risks. So it's not a
+
+though this was, you know, something that I think wasn't well calculated. But I think we have to
+
+let the cards be played and then let history be the judge. But I think there's a risk in both
+
+directions, but I'm going to remain optimistic. All right, Sachs, you said in the Gaza situation,
+
+we should have a wide berth for criticism of Israel and Netanyahu. What are your thoughts on this
+
+belief here in the United States now in this discussion that Israel is having far too much
+
+influence over the United States foreign policy? Well, I noticed in my feed today that Naftali Bennett,
+
+who is a major Israeli politician, who was a former prime minister, tweeted polling that showed
+
+that Israel was becoming very unpopular in the U.S., and he was expressing concern about that
+
+and expressing the need to basically address that or fix that. So I think you're starting to see
+
+Israeli politicians raising that as an issue. And I think that's probably a good thing. Yeah,
+
+there it is. And it's really cool. Actually, how X-Nal just automatically translates things from
+
+foreign languages, in this case, Hebrew, and it puts it in your feed. So yeah, so here's
+
+Naftali Bennett, former prime minister saying this is a serious situation. There's a lot of work
+
+ahead of us to fix everything. Now, obviously, this is not Netanyahu. This is one of his
+
+political opponents. But yeah, I mean, this is something for Israel to consider and think about.
+
+And I think that they would improve their popularity if they got behind the ceasefire.
+
+And I have no indication that they won't. But that would certainly be a good place to start.
+
+I have to say, just as an aside, this auto-translate feature has done more for understanding
+
+across borders than anything I've ever seen. And it is the most impressive tech,
+
+feature, I've seen released in years, putting AI and large language models aside for people
+
+don't know what's happening. Because of GROC being really good at doing auto-translate, they've taken
+
+the pockets of the best of what's happening in Japan, what's happening in Israel, what's happening
+
+in France, and they're surfacing it auto-translated. Then when you reply as an American to somebody
+
+in Japan, they see it auto-translated as well, which has led to people who don't speak the same language,
+
+engaging on X
+
+in a very nuanced,
+
+fun, interesting way.
+
+And that, as a truth mechanism,
+
+is just absolutely extraordinary.
+
+I think this is going to have
+
+such a profound effect.
+
+Maybe Elon and the X team
+
+should get like a Nobel Peace Prize award for this.
+
+I think it's going to change,
+
+I mean, I hate to be hyperbolic,
+
+but have you been using this feature,
+
+Chamath?
+
+Has it been coming up in your feed?
+
+And which language is up in your feed right now?
+
+English.
+
+Okay, so you're not part of the translation thing.
+
+Brad, is this hit your feed yet?
+
+And in which regions are you seeing?
+
+Definitely. Definitely see it in on the Middle East stuff.
+
+And, you know, I've seen on Chinese.
+
+I've seen it on the Russian stuff.
+
+Japanese.
+
+Super helpful.
+
+Let me tell you, base Japanese is a whole other level of base.
+
+Whoa, man.
+
+Base Japanese makes like Fentes and Alex Jones seem tame.
+
+They're like, look at this group of people.
+
+insert whatever group of immigrants you like,
+
+and they're like, this is unacceptable behavior,
+
+this is not Japanese culture,
+
+these people need to be, get the hell out of Japan.
+
+It is wild, folks.
+
+And if you don't have an X account, you are missing out.
+
+Go to X.com and sign up for this reason,
+
+only because you think about the velocity.
+
+Like, journalists are not even taking the time to translate
+
+and cover what's going on in those areas,
+
+and this is happening automatically in real time.
+
+So you start thinking about what happened in you,
+
+If you had people in Russia and Ukraine doing this and kind of conversations with each other,
+
+it would be wild.
+
+You're like such a good hype man.
+
+The problem is you hype buttered bread the same way you hype a nuclear reactor.
+
+And so it's hard to really tell, you know, what you're really hyped because your level of
+
+excitement, the intonation is exactly the same.
+
+Yo, man, there's nothing better than a slice of great toast.
+
+I mean, in a way, it is like sliced bread.
+
+It's very simple, but it is so powerful in the experience.
+
+Well, it is true. X is better today than it's ever been. And remember, they have 70% fewer employees than they had the day Elon walked into the building. And so if they were ever a debate about this, like, and I remember everybody saying, oh, it's going to tip over. Oh, it's going to be a crappy experience. So he's going to destroy it. The fact of the matter, here's we are a few years later, 70% fewer employees. And every other company in Silicon Valley is looking at that. I think for a lot of these tech companies, we've hit peak employment, we're going to create
+
+tremendous number of new jobs, but for the existing jobs,
+
+these companies are all realizing they can do more with less.
+
+Nikita Beer just tweeted that they're about to go ham on these bought accounts that
+
+auto-reply.
+
+Yes.
+
+Those literally ruined my feed.
+
+That's why I went to subscriber mode in my replies, and it's worked out great.
+
+Yeah, no, shout out to him and to Chris Saka, who was in tears, at what happened to Twitter.
+
+It's going to be okay, Chris.
+
+Sorry, you only, no more tears.
+
+You only let subscribers respond to your tweets?
+
+I do 50-50.
+
+Sometimes I'll just let it rip and get chaos.
+
+And then other times I have 2,000 paid subscribers.
+
+I give all the money of charity like 30 grand a year.
+
+And it's just wonderful to get to know the same 2,000 people out of my million followers.
+
+It's kind of like having this little subset.
+
+So sometimes I'm like, I don't have time to deal with 100 or 200 or 300 or 300 replies.
+
+You have a million followers.
+
+That's incredible.
+
+I mean, it's just...
+
+I mean, you have 2 million.
+
+I think Sachs must have a million, right?
+
+you have a million right sex only only how many you have now you're getting popular you built a
+
+couple hundee got a couple hundy what's your oh your alt cap a l tc a p i'm at one point four million
+
+what are you that jaco so i've i surprised you i think you have i'm like one point one how much what it
+
+caused me to get my real name jason i know a guy i couldn't find out you're 1.1 yeah i made it to 1.4
+
+i don't know how that happened exactly and just having the number one podcast in the world uh another
+
+episode of the number one. And Chimov has two million, but that's only because he
+
+engages, he has just incredible moments of engaging with his haters. Oh my God, the, the,
+
+reply is that Chimot sometimes drops are so great. I love Chimot goes. I like them up. I
+
+light them up. He lights them up. And then you had somebody who was like, oh my God, I was in the
+
+casino and you told me to bet black. So you bet black. So I bet black and I lost my money. And so
+
+You're responsible, and then you pay for the kids' college?
+
+He has two young girls, and so I funded their college accounts.
+
+I thought that was hilarious, just as...
+
+Obviously, I'm very happy for him and his two daughters.
+
+I'm even more happy at how much it'll anger all these other goofball dorks living in their mom's basement.
+
+Yes.
+
+Who literally have no...
+
+They take no responsibility for their lives.
+
+And they should enjoy those hot pockets.
+
+By the way, for those folks in their mom's basement, the hot pockets and the fish sticks are ready.
+
+Yeah.
+
+And you get one more hour.
+
+of Xbox from mom. All right, listen, we missed you, Friedberg, but this is the best episode in two years.
+
+To make a free bird at the end of the show, ways you can move. And we will see you all at the
+
+liquidity summit except for the 400 people on the wait list who aren't going to get in.
+
+You got an email from the guys at Athena because we were just... Oh, my God.
+
+They're going to hire like 500 new Athena assistance. Yes. They had a thousand people after
+
+last week when we mentioned how much we love Athena.
+
+Go to Athena.com.
+
+But that's amazing.
+
+Those are like 500 hardworking men and women
+
+who are like working in the Philippines.
+
+So now have great jobs.
+
+Sachs, I'm going to get you a couple of Athena assistance
+
+as a birthday present.
+
+That's something to get.
+
+You're going to love this, Sacks.
+
+Oh, Athena assistance are the best.
+
+Congratulations to my friends over there.
+
+All right, everybody.
+
+We'll see you next time.
+
+Love you, boys.
+
+On your favorite podcast, the Law & Podcast.
+
+Take care.
+
+Bye, bye, bye, bye.
+
+and they've just gone crazy with it.
+
+Love you, Ski.
+
+The queen of kid,
+
+should all just get a room
+
+and just have one big huge orgy
+
+because they're sexual tension
+
+but they just need to release some out.
+
+What?
+
+Your feet.
+
+We need to get merchies are fast.
+
+I'm doing all in.

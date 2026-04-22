@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-04-22 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~139k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - Tim Cook Retires, Mark Gurman Joins, Images 2.0 | Howie Liu, Scott Stevenson, Alex Wiltschko, Spiros Xanthos, Carolina Aguilar, Jake Jurewicz
 Quelle: https://podscripts.co/podcasts/tbpn-live/tim-cook-retires-mark-gurman-joins-images-20-howie-liu-scott-stevenson-alex-wiltschko-spiros-xanthos-carolina-aguilar-jake-jurewicz

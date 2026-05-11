@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-05-11 ===
-Quellen: All-In
-Anzahl Transkripte: 1
-Gesamtlänge: ~78k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: All-In ===
 Titel: All-In with Chamath, Jason, Sacks & Friedberg - Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back
 Quelle: https://podscripts.co/podcasts/all-in-with-chamath-jason-sacks-friedberg/spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back

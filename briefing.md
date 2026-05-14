@@ -2,91 +2,116 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| Unternehmensführung & Kulturwandel | Koch Industries' außergewöhnliches Wachstum basiert auf einem prinzipienbasierten Managementansatz, der Kreativität, das Lernen aus Misserfolgen und die konsequente Integration von Unternehmenskulturen bei Akquisitionen fördert. | Charles Koch, Chase Koch | All-In |
-| KI-Strategie & Menschliche Ermächtigung | Charles und Chase Koch sehen KI als ein entscheidendes Werkzeug zur menschlichen Ermächtigung und Selbstverwirklichung, das durch "permissionless innovation" und die Anwendung von Prinzipien jedem Einzelnen zugänglich gemacht werden sollte. | Charles Koch, Chase Koch | All-In |
-| Wirtschaftspolitik & Kapitalismus-Kritik | Angesichts der wirtschaftlichen Notlage vieler Amerikaner und der Kritik am Kapitalismus als einem System, das zu Monopolisierung führt, plädieren die Kochs für die Beseitigung von Barrieren, die Menschen daran hindern, ihr Potenzial zu entfalten, und für eine Politik, die Beitrag belohnt und Zölle abschafft. | Charles Koch, Chase Koch | All-In |
-| Standortvorteil & Talentstrategie | Koch Industries nutzt seinen Standort in Wichita als Wettbewerbsvorteil, um eine einzigartige Unternehmenskultur zu pflegen, die sich von der "Monokultur" des Silicon Valley abhebt, und verfolgt eine Talentstrategie, die "Werte vor Talent und Fähigkeiten vor Zeugnissen" priorisiert. | Charles Koch, Chase Koch | All-In |
+| Geopolitik & Tech-Handel | Das Trump-Xi-Gipfeltreffen in Peking sucht Stabilität im Handel, ist aber von tiefgreifenden Konflikten um Technologie, KI-Diebstahl und Taiwan überschattet, während die US-KI-Politik als inkonsistent wahrgenommen wird. | Wall Street Journal, Chris McGuire | TBPN |
+| KI-Infrastruktur & Engpässe | Die explodierende Nachfrage nach KI-Infrastruktur führt zu massiven Investitionen und Engpässen bei physischer Infrastruktur und Finanzierung, während neue Konzepte wie orbitale Rechenzentren erforscht werden. | Roman Chernin (Nebius), Shano Matthew | TBPN |
+| KI-Einfluss auf Business & Finanzen | KI revolutioniert Softwareentwicklung und Finanzdienstleistungen durch beschleunigte Code-Produktion und KI-native Geschäftsmodelle, erfordert aber eine strenge, metrikbasierte ROI-Bewertung. | Max Levchin (Affirm), Jubin Mirzadegan (Roadrunner) | TBPN |
+| Weltraumproduktion | Varda ist führend in der Weltraumproduktion von Pharmazeutika durch Mikrogravitation und plant den schrittweisen Ausbau zu einer industriellen Infrastruktur im niedrigen Erdorbit, mit zukünftigen Anwendungen in Faseroptik. | Delian Asparouhov (Varda) | TBPN |
+| Superintelligenz-Forschung | Das neue KI-Labor Recursive hat 650 Millionen Dollar eingesammelt, um eine "rekursive selbstverbessernde Superintelligenz" (RSI) zu entwickeln, die den wissenschaftlichen Prozess automatisieren und KI zur Selbstverbesserung befähigen soll. | Richard Socher (Recursive) | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 📈 Unternehmensführung & Kulturwandel: Prinzipien als Wachstumstreiber
+## 🇺🇸🇨🇳 Geopolitik & Tech-Handel: Trumps Stabilitäts-Suche im Schatten von KI-Konflikten
 
-Charles Koch und Chase Koch (Koch Industries) beschreiben, wie ihr Unternehmen von 300 Mitarbeitern im Jahr 1961 auf über 130.000 in 60 Ländern wuchs und seinen Wert um das 9.000-fache steigerte. Dieser Erfolg wird einem prinzipienbasierten Managementansatz zugeschrieben, der sich auf "capability-bounded, not industry-bounded" (Fokus auf Fähigkeiten statt Branchen) und "virtuous cycles of mutual benefit" (Wachstum, Innovation, Erfolg, Lernen aus Misserfolgen) konzentriert. Sie betonen die Notwendigkeit der "kreativen Zerstörung" und die Akzeptanz von Misserfolgen als Lernchancen.
-
-**Konkrete Details aus dem Gespräch:**
-- Koch Industries wuchs von 300 Mitarbeitern (1961) auf über 130.000 in 60 Ländern und steigerte seinen Wert um das 9.000-fache.
-- Misserfolge wie das Ag-Geschäft ("gas to bread spread") in den späten 1990ern und riskante Handelsgeschäfte (1973) führten zu großen Verlusten, weil Prinzipien wie "Werte vor Talent" und die "wissenschaftliche Methode" verletzt wurden.
-- Die Akquisition von Georgia Pacific (2005 für 20 Mrd. USD) war eine "massive Wette", bei der ein Kulturwandel von Top-down-Bürokratie zu Bottom-up-Empowerment durch Managementwechsel erzwungen wurde.
-- Bei der Akquisition von Molex (2013), einem Technologieunternehmen, wurde das Denken von Umsatzwachstum auf Gewinnorientierung umgestellt.
-- Eine Raffinerie in Minnesota (1967) wurde nach einem gewalttätigen Streik neun Monate lang erfolgreich ohne Gewerkschaftsmitarbeiter betrieben; ein Kulturwandel durch Mitarbeiter-Empowerment führte zu einer Verzehnfachung der Kapazität.
-- Der Kulturwandel wird nicht durch "Sheep Dipping" (Seminare), sondern durch Coaching kleiner, interessierter Gruppen und die Nachahmung von Erfolgen vorangetrieben.
-
-**🇪🇺 Europa-Relevanz:**
-- Die EU-Kommission hat im Dezember 2025 ein MoU mit der EIB Group für die Finanzierung von KI-Gigafactories unterzeichnet, wobei EVP Virkkunen betont, dass die Mehrheit der Eigentümer aus Europa kommen sollte – Kochs Ansatz der kulturellen Integration könnte hier als Blaupause dienen, um die Souveränität europäischer Projekte zu sichern.
-- Die Merz-Regierung in Deutschland fördert mit dem Deutschlandfonds (€130 Mrd. mobilisiert) und der Initiative "Made for Germany" (€735 Mrd. Investitionszusagen) die heimische Industrie, steht aber vor der Herausforderung, diese Investitionen in echte Innovation und Kulturwandel umzusetzen, wie Kochs Beispiele zeigen.
-- Die Warnungen von VDMA und SPECTARIS vor den Auswirkungen von US-Zöllen auf den deutschen Maschinenbau und die optische Industrie unterstreichen die Notwendigkeit für europäische Unternehmen, ihre "capabilities" zu stärken und sich nicht nur auf Branchen zu verlassen, um international wettbewerbsfähig zu bleiben.
-
-## 🤖 KI-Strategie & Menschliche Ermächtigung: "Permissionless Innovation"
-
-Charles und Chase Koch sehen Künstliche Intelligenz als ein entscheidendes Werkzeug zur menschlichen Ermächtigung und Selbstverwirklichung. Sie argumentieren, dass KI durch "permissionless innovation" und die Anwendung von Prinzipien jedem Einzelnen zugänglich gemacht werden sollte, anstatt zu einer weiteren Konzentration von Reichtum oder Jobverlust zu führen. Intern setzt Koch Industries auf eine "Principal Companion" App, die KI nutzt, um Mitarbeitern bei der Problemlösung nach sokratischer Methode zu helfen.
+Ein Gipfeltreffen zwischen US-Präsident Trump und dem chinesischen Präsidenten Xi Jinping in Peking, an dem führende US-Wirtschaftsvertreter teilnehmen, zielt auf Stabilität ab, wird aber von tiefgreifenden Meinungsverschiedenheiten über Handel, Technologie und geopolitische Interessen wie Taiwan überschattet. Das Wall Street Journal beschreibt die US-Ziele als Suche nach Stabilität und einem "Waffenstillstand bei Zöllen", während China versucht, Trump mit dem Kauf von Agrarprodukten und Flugzeugen zu beschwichtigen. Die Diskussionen um KI-Schutzmaßnahmen stehen im Kontrast zu Berichten über "industriellen Diebstahl amerikanischer KI-Modelle" durch Peking.
 
 **Konkrete Details aus dem Gespräch:**
-- Die Kosten für KI sinken, was einen breiten Zugang für alle ermöglichen sollte.
-- Koch Industries entwickelt intern die "Principal Companion" App, die auf den Prinzipien des Unternehmensbuches basiert und KI (ChatGPT/Claude) nutzt, um Mitarbeitern bei der Problemlösung durch sokratische Fragen zu helfen.
-- Ziel ist die menschliche Ermächtigung durch Bottom-up-Empowerment mit Prinzipien.
-- Es wird die Gefahr gesehen, dass KI Reichtum konzentrieren und Jobs vernichten könnte, wenn sie nicht richtig angewendet wird.
-- Kochs unterstützen Cosmos, ein Projekt, das KI auf Basis von "market-based management" und "human progress principles" entwickelt.
+- Teilnehmer des Gipfels: Elon Musk (Tesla), Tim Cook (Apple), Jensen Huang (Nvidia), Kelly Orkberg (Boeing), David Solomon (Goldman Sachs), Stephen Schwartzman (Blackstone), Larry Fink (Black Rock), Jane Fraser (City), Dina Powell McCormick (Meta).
+- US-Ziel: "Truce on tariffs" und Chinas Versprechen, keine Seltenen Erden als Geisel zu nehmen (Wall Street Journal).
+- Chinas Anreize: Schwache Wirtschaft, will Trump mit Kauf von Agrarprodukten und Flugzeugen beschwichtigen; US-Bauern haben jedoch ihren Marktanteil in China nie zurückgewonnen (Wall Street Journal).
+- AI-Konflikt: Xi Jinping sieht KI als entscheidend im Wettbewerb mit den USA und liegt nur etwa sechs Monate zurück; USA wollen über "AI guardrails" sprechen, aber Beijing betreibt "industrial scale theft of American AI models" (Wall Street Journal).
+- Taiwan: Xi Jinping fordert Veto-Recht über US-Waffenverkäufe an Taiwan und formelle Ablehnung der taiwanesischen Unabhängigkeit durch die USA (Wall Street Journal).
+- US-AI-Politik: Anthropic gewährt japanischen Banken Zugang zu "Mythos" (U.S. Treasury Secretary Scott Besson persönlich involviert), während Jensen Huang gleichzeitig AI-Chips an China verkauft, was von Chris McGuire als "inconsistent and incoherent" kritisiert wird.
 
 **🇪🇺 Europa-Relevanz:**
-- Der EU AI Act, dessen High-Risk-Systeme ab August 2026 vollständig compliant sein müssen (Bußgelder bis €35 Mio. / 7% Umsatz), steht im Spannungsfeld zu Kochs "permissionless innovation"-Ansatz und könnte die Entwicklung von internen KI-Tools wie der "Principal Companion" App in Europa verlangsamen.
-- EVP Henna Virkkunen verhandelt den Digital Omnibus, der die High-Risk-Deadline um bis zu 16 Monate verschieben könnte (Backstop: Dez 2027/Aug 2028), um der Industrie entgegenzukommen und die Umsetzung zu vereinfachen, was Spielraum für innovationsfreundlichere Ansätze schaffen könnte.
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen – Kochs Fokus auf KI als Enabler für jeden Mitarbeiter könnte ein Weg sein, diesen "AI Infrastructure Gap" durch effizientere Nutzung zu kompensieren.
+- Die US-Supreme-Court-Entscheidung zu AEPA-Zöllen und die Einführung neuer Section 122-Zölle (max. 15%) könnten die EU-Handelspolitik beeinflussen; EU-Handelskommissar Maroš Šefčovič verhandelt bilateral, und das Anti-Coercion Instrument (ACI) steht bereit.
+- Die EU hatte Gegenmaßnahmen im Umfang von €93 Mrd. vorbereitet, da Deutschland jährlich Waren im Wert von ~€160 Mrd. in die USA exportiert, wobei Maschinenbau und Optik besonders betroffen sind (VDMA, SPECTARIS).
+- Die Inkonsistenz der US-KI-Politik (Anthropic-Zugang vs. Nvidia-Chips für China) kontrastiert mit dem umfassenden EU AI Act, dessen Verbotene KI-Praktiken ab Feb 2025 durchsetzbar sind (Bußgelder bis €35 Mio. / 7% Umsatz).
+- Die Aug 2026-Frist für die vollständige Compliance von High-Risk-KI-Systemen in der EU könnte durch die US-Politik unter Druck geraten, da die USA auf Selbstregulierung setzen und US-Vizepräsident JD Vance den EU-Ansatz als „authoritarian censorship" kritisierte.
 
-## 🌍 Wirtschaftspolitik & Kapitalismus-Kritik: Barrieren abbauen statt Zölle erheben
+## ⚡ KI-Infrastruktur & Engpässe: Der Wettlauf um Rechenleistung
 
-Angesichts der wirtschaftlichen Notlage vieler Amerikaner (hohe Verschuldung, steigende Kosten, mangelnde Mobilität) und der Kritik am Kapitalismus als einem System, das zu Monopolisierung führt, plädieren Charles und Chase Koch für eine grundlegende Neuausrichtung der Wirtschaftspolitik. Sie fordern die Beseitigung von Barrieren, die Menschen daran hindern, ihr Potenzial zu entfalten, und eine Politik, die Beitrag belohnt und Zölle abschafft. Beide großen US-Parteien werden für die Schaffung dieser Hindernisse kritisiert.
+Die Nachfrage nach KI-Infrastruktur führt zu massiven Investitionen in Rechenzentren und Rechenleistung, wobei Engpässe bei der physischen Infrastruktur und der Finanzierung die größten Herausforderungen darstellen, während gleichzeitig neue Konzepte wie orbitale Rechenzentren erforscht werden. Roman Chernin von Nebius betont, dass die physische Infrastruktur – von der grünen Wiese bis zum funktionierenden Rechenzentrum mit GPUs – die größte Herausforderung darstellt, gefolgt von der Finanzierung. Die Debatte um "off-grid" Rechenzentren zeigt, dass die Industrie zu Hybridarchitekturen tendiert, die Netzanbindung mit eigener Erzeugung kombinieren.
 
 **Konkrete Details aus dem Gespräch:**
-- Die wirtschaftliche Lage in den USA ist kritisch: Hohe Studentenschulden, steigende Lebenshaltungskosten, mangelnde wirtschaftliche Mobilität, über 60% der Amerikaner haben negatives Eigenkapital.
-- Kritik am Kapitalismus: Erfolgreiche Unternehmen wie Koch Industries bauen "compounding advantage" auf, was es anderen erschwert, zu konkurrieren oder effektiv teilzunehmen.
-- Lösungsvorschläge konzentrieren sich auf den Abbau von Barrieren, wie z.B. Berufslizenzen, die den Einstieg in viele Berufe erschweren.
-- Sie plädieren dafür, "illegale Einwanderer", die arbeiten und beitragen, willkommen zu heißen, anstatt sie zu belästigen.
-- Zölle werden als schädlich kritisiert, da sie die Arbeitsteilung nach komparativem Vorteil untergraben und alles teurer machen.
-- Beide großen US-Parteien (Republikaner und Demokraten) werden dafür kritisiert, zur Schaffung von Hindernissen beizutragen.
+- Nebius (Roman Chernin): Vertikal integrierte, Full-Stack, AI-spezialisierte Cloud mit 8.141% Umsatzwachstum im Jahresvergleich.
+- Engpässe: Physische Infrastruktur (von der grünen Wiese zum funktionierenden Rechenzentrum mit GPUs) ist die größte Herausforderung, gefolgt von der Finanzierung (Roman Chernin).
+- Finanzierung: Unbegrenztes Kapital würde schnellere technische und operative Umsetzung ermöglichen; effiziente Finanzierung ist entscheidend, um Margen nicht aufzuzehren (Roman Chernin).
+- Off-Grid-Debatte: XAI Colossus ist eine "grid-tied architecture with supplemental on-site generation", nicht vollständig off-grid; die Industrie konvergiert zu Hybridarchitekturen (Netzanbindung, eigene Erzeugung, Speicher, Demand Response) (Shano Matthew).
+- Orbitale Rechenzentren: SpaceX und Google verhandeln über den Start von Rechenzentren in der Umlaufbahn; Google plant Prototyp-Satelliten bis 2027 ("Project Suncatcher"); SpaceX beantragte den Start von bis zu einer Million Satelliten für orbitale Rechenzentren.
+- Herausforderungen im Orbit: Thermische Steuerung (Wärmetauscher, Phasenwechselmaterialien) ist eine große technische Herausforderung.
 
 **🇪🇺 Europa-Relevanz:**
-- Die EU hatte Gegenmaßnahmen im Umfang von €93 Mrd. gegen US-Zölle vorbereitet, die aktuell suspendiert sind, während die Kochs Zölle als generellen Hemmschuh für die Arbeitsteilung und Preistreiber kritisieren – dies unterstreicht die Notwendigkeit für EU-Handelskommissar Maroš Šefčovič, eine ausgewogene Handelspolitik zu finden.
-- Die Merz-Regierung senkt Netzentgelte und Stromsteuer für produzierendes Gewerbe, um die höchsten Industriestrompreise in Europa zu bekämpfen, was Kochs Forderung nach Abbau von Barrieren und Kostenreduktion entspricht.
-- Die Kritik der Kochs an "occupational licensing" findet ein Echo in der EU, wo der Digital Fitness Check (Konsultation bis 11. März 2026) die Wechselwirkung aller EU-Digitalgesetze prüft, um "doing business in Europe easier" zu machen, wie EVP Virkkunen betont.
+- Die von Nebius genannten Engpässe bei der physischen Infrastruktur und Finanzierung spiegeln sich in Europas "AI Infrastructure Gap" wider, wo EU-Strompreise 2-3x höher sind als in den USA und Deutschland die höchsten Industriestrompreise hat.
+- Kanzler Merz will mindestens eine KI-Gigafactory nach Deutschland holen; Schwarz Digits plant ein €11 Mrd. Rechenzentrum in Lübbenau (Brandenburg) mit bis zu 100.000 GPUs, um dem entgegenzuwirken.
+- Die EU-Kommission und EIB Group haben ein MoU für die Gigafactory-Finanzierung unterzeichnet (Dez 2025), mit dem Ziel, €20 Mrd. für 4-5 KI-Gigafactories mit je ~100.000 Next-Gen-AI-Chips zu mobilisieren.
+- Die Diskussion um "off-grid" Rechenzentren ist in der EU besonders relevant, da Städte wie Frankfurt Moratorien diskutieren und Irland über 20% seines Stroms für Rechenzentren nutzt, was den Ausbau erneuerbarer Energien (REPowerEU-Ziel: 45% bis 2030) unter Druck setzt.
 
-## 🏙️ Standortvorteil & Talentstrategie: Werte vor Zeugnissen
+## 🤖 KI-Einfluss auf Business & Finanzen: Beschleunigung und neue Modelle
 
-Koch Industries nutzt seinen Standort in Wichita, Kansas, als strategischen Wettbewerbsvorteil. Die Isolation von der "Monokultur" des Silicon Valley ermöglicht es dem Unternehmen, eine einzigartige Unternehmenskultur und eigene Prinzipien zu pflegen, ohne dem Konformitätsdruck anderer Tech-Hubs zu unterliegen. Ihre Talentstrategie priorisiert "Werte vor Talent und Fähigkeiten vor Zeugnissen", was sich in der Einstellung von Mitarbeitern mit einer "contribution-motivated mindset" zeigt, die bereit sind, hart zu arbeiten und einen Beitrag zu leisten.
+KI revolutioniert die Softwareentwicklung und Finanzdienstleistungen, indem sie die Code-Produktion erheblich beschleunigt und neue, KI-native Geschäftsmodelle für kritische Unternehmensprozesse ermöglicht, erfordert aber eine strenge, metrikbasierte Bewertung des ROI. Max Levchin von Affirm berichtet von einem "rocketing" Anstieg des von KI geschriebenen Codes und dessen positiven Auswirkungen auf die Produktivität und internationale Expansion. Jubin Mirzadegan von Roadrunner entwickelt eine KI-native Lösung für das "Configure, Price, Quote" (CPQ)-Problem, das durch den Übergang zu nutzungsbasierten Abrechnungsmodellen immer komplexer wird.
 
 **Konkrete Details aus dem Gespräch:**
-- Der Standort Wichita bietet einen Wettbewerbsvorteil, da er eine Isolation von der "Monokultur" des Silicon Valley ermöglicht und eigene Denkweisen und Prinzipien fördert.
-- Die Talentstrategie lautet: "Werte zuerst, Fähigkeiten zweitrangig, Zeugnisse zuletzt."
-- Jared Benson, der heutige CIO von Koch Industries, begann seine Karriere ohne College-Abschluss mit dem Streifen von Parkplatzlinien und baute später die Cybersecurity-Fähigkeiten des Unternehmens auf.
-- Koch Industries bevorzugt die Einstellung eines "farm team" – Personen mit einer "contribution-motivated mindset", die hart arbeiten und einen Beitrag leisten wollen, anstatt eine Anspruchshaltung zu haben.
-- Ein Börsengang wird abgelehnt, da der prinzipienbasierte Ansatz und die "capability-bounded" Strategie für Analysten schwer verständlich wären, was zu einem niedrigen Kurs-Gewinn-Verhältnis führen würde.
+- Code-Produktion: Affirm sieht einen "rocketing" Anstieg des von KI geschriebenen Codes (60% bis 75% im letzten Monat), was Teams produktiver macht (Max Levchin).
+- Finanzdienstleistungen: Affirm nutzt KI für internationale Expansion (effizientere Code-Lieferung, Übersetzungen) und Kredit-Underwriting (neue, von Attention-Mechanismen inspirierte Modelle) (Max Levchin).
+- ROI-Messung: Affirm verfolgt Token-Ausgaben wöchentlich und misst den ROI pro Team, da Token-Kosten voraussichtlich steigen werden (Max Levchin).
+- AI-native Revenue Infrastructure: Roadrunner entwickelt eine KI-native CPQ-Lösung (Configure, Price, Quote), um das "most broken problem" für CIOs und CROs zu lösen, insbesondere bei der Umstellung von Abonnement- auf nutzungsbasierte Abrechnungsmodelle (Jubin Mirzadegan).
+- Roadrunner's "Secret Sauce": Kombination aus Agenten-Architektur, Policy Engines zur Durchsetzung probabilistischer Systeme durch deterministische Engines und einem flexiblen Datenmodell (Jubin Mirzadegan).
+- AI-Produktevaluation: Max Levchin's Heuristik: Ein KI-Tool ist vielversprechend, wenn die Evaluierungskriterien des Herstellers objektiv beschreibbar sind (z.B. Code-Generierung, Kundenservice); nicht-objektive oder langsam rückgekoppelte Systeme (z.B. Pitch-Deck-Assistenten) sind zu vermeiden.
 
 **🇪🇺 Europa-Relevanz:**
-- Die deutsche "1.000-Köpfe-Plus-Programm" zur Gewinnung internationaler Wissenschaftler versucht, dem "Brain Drain" von KI-Talenten in die USA entgegenzuwirken, während Kochs Ansatz, Talente unabhängig von Zeugnissen zu fördern, eine alternative Strategie für Europa darstellen könnte.
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen – Kochs Fokus auf die Entwicklung von Talenten mit "contribution-motivated mindset" könnte helfen, die Effizienz der vorhandenen Ressourcen in Europa zu maximieren.
-- Die Kritik der Kochs an der "Monokultur" des Silicon Valley und ihr Festhalten an Wichita als Standortvorteil könnte für europäische Regionen wie "Silicon Saxony" oder Bayerns "Blue Swan"-Initiative als Modell dienen, um eigene, resiliente Innovationsökosysteme abseits der großen globalen Tech-Hubs aufzubauen.
+- Affirms "rocketing" Anstieg des von KI geschriebenen Codes unterstreicht die Relevanz des EU AI Act, der ab Aug 2026 volle Compliance für High-Risk-KI-Systeme fordert, was die Entwicklungsprozesse in Europa beeinflusst.
+- Die von Affirm genannte Effizienzsteigerung durch KI bei der Code-Lieferung und Übersetzung ist für europäische Unternehmen mit ihren vielfältigen Sprachen und Märkten von besonderer Bedeutung, um die Komplexität der EU-Regulierung zu bewältigen.
+- Roadrunners Fokus auf KI-native CPQ-Lösungen für nutzungsbasierte Abrechnungsmodelle ist relevant für die EU-Kapitalmarktunion (CMU), die Merz vorantreiben will, um die Finanzierung europäischer Unternehmen zu verbessern und das VC-Volumen (30% des US-Niveaus) zu steigern.
+- Der Deutschlandfonds (KfW-gestützte Dachstruktur, €30 Mrd. Garantien) soll bis zu €130 Mrd. private Investitionen mobilisieren, auch für DeepTech und KI, um Unternehmen wie Roadrunner in Europa zu halten und zu finanzieren.
+
+## 🚀 Weltraumproduktion: Pharmazeutika als Startrampe für die Industrie im Orbit
+
+Varda ist führend in der Weltraumproduktion von Pharmazeutika, indem es die Mikrogravitation nutzt, um Medikamente effizienter zu formulieren, und plant, diese Plattform schrittweise zu einer industriellen Infrastruktur im niedrigen Erdorbit auszubauen, mit zukünftigen Anwendungen in Faseroptik und potenziell Halbleitern. Delian Asparouhov von Varda hebt die Partnerschaft mit United Therapeutics hervor, um physikalische Produkte im Weltraum herzustellen, was eine Premiere für ein börsennotiertes Unternehmen ist. Die Vision ist der Aufbau einer "ersten Industriestadt im niedrigen Erdorbit".
+
+**Konkrete Details aus dem Gespräch:**
+- Partnerschaft: Varda kooperiert mit United Therapeutics (25 Mrd. $ Marktkapitalisierung, NASDAQ-gelistet), um physikalische Produkte (Pharmazeutika) im niedrigen Erdorbit herzustellen.
+- Anwendung: Kristallisierung von Medikamenten in Mikrogravitation zur Verbesserung der Formulierung, z.B. Umstellung von IV-Tropf auf subkutane Spritze (Merck's Ketruda als Beispiel).
+- Prozess: Flüssigkeiten werden im Weltraum in Mikrogravitation in Feststoffe umgewandelt, wobei präzise Temperaturkontrolle (z.B. 14°C +/- 0.1°C) entscheidend ist; Vibrationen sind während der Phase des Phasenwechsels zu vermeiden.
+- Zukünftige Produkte: In den nächsten zehn Jahren werden voraussichtlich 195 von 200 im Orbit hergestellten Produkten Pharmazeutika sein; Faseroptik (Zblan) wird vor Halbleitern kommen (Anwendungen in Hochenergiewaffen, Quantenkommunikation, terrestrischen Rechenzentren).
+- Langfristige Vision: Aufbau einer "ersten Industriestadt im niedrigen Erdorbit" durch schrittweise Entwicklung wiederverwendbarer Systeme (Mini-Raumflugzeuge) und fester Infrastruktur (Satelliten mit Andockports).
+- Wettbewerbsvorteil: Fokus auf tiefe Partnerschaften mit Pharmaunternehmen für spezifische Lieferketten, anstatt mit SpaceX bei GPUs im Weltraum zu konkurrieren; TAM in Pharma ist riesig (Ketruda: 25 Mrd. $ Jahresumsatz).
+
+**🇪🇺 Europa-Relevanz:**
+- Vardas Pionierarbeit in der Weltraumproduktion von Pharmazeutika könnte Europas Abhängigkeit von globalen Lieferketten reduzieren, ein Ziel, das durch Initiativen wie das EU SAFE-Programm für autonome Sicherheit und Verteidigung unterstrichen wird.
+- Die EU AI Champions Initiative (Feb 2025) mobilisiert €150 Mrd. private Investitionen in KI-Technologieunternehmen und kritische Infrastruktur, was auch die Entwicklung von Weltraumtechnologien wie Vardas Plattform unterstützen könnte.
+- Die von Varda genannten zukünftigen Anwendungen in Faseroptik für Hochenergiewaffen und Quantenkommunikation sind für Europas Verteidigungsstrategie relevant, da die meisten EU-Staaten das NATO 2%-Ziel verfehlen und ein europäisches Äquivalent zu US-Verteidigungsunternehmen fehlt.
+- Die Vision einer "ersten Industriestadt im niedrigen Erdorbit" könnte Europas Bestrebungen nach technologischer Souveränität im Weltraum stärken, angesichts der langsamen Fortschritte bei der Kapitalmarktunion (CMU) und dem Brain Drain von KI-Talenten in die USA.
+
+## 🧠 Superintelligenz-Forschung: Recursive's 650-Millionen-Dollar-Wette auf RSI
+
+Das neue KI-Labor Recursive hat 650 Millionen Dollar eingesammelt, um eine "rekursive selbstverbessernde Superintelligenz" (RSI) zu entwickeln, die den wissenschaftlichen Prozess automatisieren soll, mit dem Ziel, KI zu ermöglichen, sich selbst zu verbessern und letztendlich alle anderen Anwendungen zu erschließen. Richard Socher, einer der Co-Founder, beschreibt die Mission als Laserfokus auf die Automatisierung der wissenschaftlichen Methode durch KI selbst. Das Team besteht aus "unglaublichen Co-Foundern", die an führenden KI-Entwicklungen beteiligt waren.
+
+**Konkrete Details aus dem Gespräch:**
+- Mission: Recursive will "recursive self-improving superintelligence" (RSI) aufbauen, um Wissensentdeckung zu automatisieren und KI zu ermöglichen, die wissenschaftliche Methode auf sich selbst anzuwenden (Ideation, Implementierung, Validierung).
+- Finanzierung: Über 650 Millionen Dollar bei einer Pre-Money-Bewertung von 4 Milliarden Dollar, angeführt von Google Ventures und Greycroft, mit Beteiligung von Nvidia und AMD.
+- Team: Das Team besteht aus "unglaublichen Co-Foundern", darunter Erfinder von Retrieve Augmented Generation (RAG), Rainbow Teaming, Prompt Reader, Genie 3 (Google DeepMind), Darwin Girdle Machine, Hyperagents, Cresta (Unicorn AI), frühen Open AI-Mitarbeitern (Chat GPT Agents, Codex), Co-Erfindern von Prompt Engineering und Vision Transformer, und ehemaligen RL-Leitern bei Meta (Richard Socher).
+- RSI-Definition: Aktuelle Coding Agents sind ein Schritt zum "Auto Research", aber nicht zur wahren RSI, die die volle Kontrolle über das gesamte System (Modell, Architektur, Infrastruktur, Training) erfordert.
+- Strategie: Laserfokus auf RSI, Nutzung aller verfügbaren Ressourcen (geschlossen und Open Source), aber langfristig das gesamte Stack selbst beherrschen können.
+- Produktisierung: Aufgrund schneller Fortschritte wird die Produktisierung der Forschung möglicherweise früher als ursprünglich geplant erfolgen, um eine "viable company" aufzubauen, die "massive impact to help humanity flourish" hat.
+
+**🇪🇺 Europa-Relevanz:**
+- Recursive's 650 Millionen Dollar Finanzierung für selbstverbessernde Superintelligenz stellt einen massiven Wettbewerbsdruck für Europas "InvestAI"-Initiative dar, die €200 Mrd. für KI-Gigafactories und ein "CERN für KI" mobilisieren will.
+- Die EU AI Act-Frist für Hochrisiko-KI-Systeme (Aug 2026) und die Diskussion um den Digital Omnibus (Verschiebung der Deadline bis Dez 2027) müssen berücksichtigen, wie schnell US-Labore wie Recursive die KI-Forschung vorantreiben.
+- EVP Henna Virkkunen (Tech-Souveränität) und Digitalminister Wildberger (Deutschland braucht Rechenpower) betonen die Notwendigkeit, in KI-Forschung und -Anwendung zu investieren, um mit solchen Entwicklungen Schritt zu halten.
+- Das "1.000-Köpfe-Plus-Programm" in Deutschland soll internationale Wissenschaftler anziehen, um dem Brain Drain entgegenzuwirken und Talente für ambitionierte KI-Projekte wie Recursive in Europa zu halten.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-- **Sozialphilosophie und Politikansatz:** Charles Koch beschreibt seine Entwicklung im sozialen Engagement, von einer anfänglich zu engen Zusammenarbeit mit der Libertarian Party hin zur Erkenntnis, dass man "mit jedem zusammenarbeiten sollte, um das Richtige zu tun, und mit niemandem, um das Falsche zu tun". Er betont, dass Menschen, die keinen Sinn im Leben finden, sich Macht oder Vergnügen zuwenden, was zu Totalitarismus und Sozialismus führen kann.
-- **Stand Together Initiative:** Diese Initiative, bestehend aus fast tausend Wirtschaftsführern, konzentriert sich auf soziale Veränderungen, indem sie Barrieren abbaut und Menschen befähigt, ihre Gaben zu finden. Ein Beispiel ist "The Phoenix", das Suchtbekämpfung durch Sport und Gemeinschaft fördert und bereits über eine Million Menschen erreicht hat.
-- **Bildungstransformation:** Stand Together fördert individualisierte Bildung und Mikroschulen, um das traditionelle "teach-to-test"-Modell zu überwinden und die Motivation der Schüler zu steigern, unter anderem durch Partnerschaften mit der Alpha School, Khan Academy und dem VALA Fund.
+- **Inflation & Stagflation Fears:** Die US-Inflation beschleunigt sich (3,8% im letzten Monat, Erzeugerpreise 6% YoY), getrieben durch steigende Energiepreise, was an der Wall Street Ängste vor Stagflation (Stagnation + Inflation) schürt, da das KI-Wachstum konzentriert ist und die Realwirtschaft nur langsam wächst. (TBPN)
+- **Supermarket OS:** Vori entwickelt ein "selbstfahrendes Betriebssystem für Supermärkte", das Prozesse vor und nach dem Checkout automatisiert, einschließlich der Echtzeit-Preisanpassung über elektronische Regaletiketten (ESLs), und hat dafür 22 Millionen Dollar eingesammelt. (TBPN)
+- **AI Film Studio:** True Short ist ein KI-Filmstudio und eine Streaming-Plattform für vertikale, mobile-first Kurzfilme ("Microdramas"), inspiriert vom Erfolg ähnlicher Apps in China, und hat dafür Finanzierung von Hollywood-Investoren erhalten. (TBPN)
 
 # 💭 Zum Drüber Nachdenken
 
-**Europas Industriepolitik: Zwischen "Made for Germany"-PR und Kochs "Farm Team"-Realität**
-Kontext: Die Kochs kritisieren die US-Wirtschaftspolitik, die durch Zölle und Barrieren die Arbeitsteilung untergräbt und die Kosten erhöht, während sie gleichzeitig den Standort Wichita und eine "Werte vor Zeugnissen"-Strategie als Wettbewerbsvorteil nutzen. In Europa versucht die Merz-Regierung mit Initiativen wie "Made for Germany" (€735 Mrd. Investitionszusagen) und dem Deutschlandfonds (€130 Mrd. mobilisiert) Investitionen anzuziehen und die F&E-Quote zu erhöhen. Gleichzeitig warnen VDMA und SPECTARIS vor den Auswirkungen von Zöllen, und die EU hat Gegenmaßnahmen von €93 Mrd. vorbereitet.
-Die Frage dahinter: Wie kann Europa eine Industriepolitik gestalten, die nicht nur Kapital mobilisiert, sondern auch die "unsichtbaren" Barrieren (wie Berufslizenzen oder übermäßige Regulierung) abbaut und eine Talentstrategie fördert, die über traditionelle Zeugnisse hinausgeht, um echte Wettbewerbsvorteile zu schaffen, anstatt nur PR-Erfolge zu feiern?
+**Trumps "Stabilitäts"-Forderung entlarvt Europas Chip-Dilemma**
+Kontext: Während US-Präsident Trump in Peking Stabilität im Handel fordert und gleichzeitig die Inkonsistenz der US-KI-Politik (Anthropic-Zugang vs. Nvidia-Chip-Verkauf an China) kritisiert wird, steht Europa vor der Herausforderung, seine eigene technologische Souveränität zu sichern. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA. Die EU AI Act-Frist für Hochrisiko-KI-Systeme im August 2026 rückt näher, während die USA auf Selbstregulierung setzen.
+Die Frage dahinter: Kann Europa seine "AI guardrails" durchsetzen und gleichzeitig den "industrial scale theft" von KI-Modellen verhindern, wenn es bei der Hardware so massiv im Hintertreffen ist und die USA eine widersprüchliche Exportpolitik fahren?
 
-**Kochs "Principal Companion" App: Europas KI-Regulierung als Innovationsbremse oder -chance?**
-Kontext: Koch Industries setzt auf "permissionless innovation" bei KI und entwickelt interne Tools wie die "Principal Companion" App, die KI nutzt, um Mitarbeitern bei der Problemlösung nach sokratischer Methode zu helfen. Dies steht im Kontrast zur umfassenden EU-KI-Regulierung (AI Act), die ab August 2026 hohe Compliance-Anforderungen für High-Risk-Systeme vorsieht (Bußgelder bis €35 Mio. / 7% Umsatz). EVP Virkkunen betont die Notwendigkeit, "doing business in Europe easier" zu machen, während der Digital Omnibus eine Verschiebung der High-Risk-Deadline bis Dez 2027/Aug 2028 diskutiert. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt.
-Die Frage dahinter: Kann Europas strenger AI Act, trotz möglicher Fristverlängerungen und Initiativen wie InvestAI (€200 Mrd. für KI), eine "permissionless innovation" wie Kochs "Principal Companion" App ersticken oder zwingt er europäische Unternehmen dazu, von Anfang an ethischere und sicherere KI-Lösungen zu entwickeln, die langfristig einen Wettbewerbsvorteil darstellen könnten?
+**Die "Eureka-Maschine" der Superintelligenz – Europas €200 Mrd. InvestAI-Wette unter Druck?**
+Kontext: Das neue KI-Labor Recursive hat 650 Millionen Dollar eingesammelt, um eine "rekursive selbstverbessernde Superintelligenz" zu entwickeln, die den wissenschaftlichen Prozess automatisieren soll – eine "Eureka-Maschine", die ständig neue Erfindungen macht. Dies steht im Kontrast zu Europas "InvestAI"-Initiative, die €200 Mrd. mobilisieren will, um 4-5 KI-Gigafactories zu finanzieren und ein "CERN für KI" zu schaffen. EVP Henna Virkkunen betont die Notwendigkeit, "doing business in Europe easier" zu machen.
+Die Frage dahinter: Ist Europas Fokus auf physische Gigafactories und "CERN für KI" ausreichend, um mit US-Laboren zu konkurrieren, die mit massiven Finanzierungen und einem "Laserfokus" auf selbstverbessernde Superintelligenz die Grundlagen der Wissensproduktion neu definieren wollen?

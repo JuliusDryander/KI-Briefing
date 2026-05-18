@@ -1,0 +1,2512 @@
+=== PODCAST-TRANSKRIPT: All-In ===
+Titel: All-In with Chamath, Jason, Sacks & Friedberg - Trump-Xi Summit, Benioff: "Not My First SaaSpocalypse," OpenAI vs Apple, Multi-Sensory AI, El Niño
+Quelle: https://podscripts.co/podcasts/all-in-with-chamath-jason-sacks-friedberg/trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino
+Datum: 2026-05-18
+Länge: ~78k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+welcome back to the number one podcast in the world, the All In Podcast,
+
+Episode 273. It's a huge week. Sacks is out. So we got to get Mark Beniof, CEO of Salesforce.
+
+I'm the only one left here. You're the only one left. That's how I made it on.
+
+No software CEOs, right? To China? There's no software CEOs in China.
+
+Interesting. But did you get the invite? What's your status with this administration?
+
+because you were obviously very famous for, you know, being a Democrat on the left.
+
+I'm not a Democrat on the left.
+
+I never have been.
+
+Sorry, bro.
+
+What are you talking about?
+
+You're donating to all these folks.
+
+And now you're kind of in Trump's camp?
+
+What is it?
+
+Listen, the number one thing is, hey, I'm here to support the country.
+
+That's what I do.
+
+Okay.
+
+So you're right in the middle.
+
+You have an allegiance to America.
+
+I hope so.
+
+Yeah.
+
+I'm not a Democrat or a Republican.
+
+I am an American.
+
+Okay. I like it.
+
+Beniof got the invite to the two hottest tickets.
+
+He got the invite to Windsor Castle in Tails.
+
+And then he got the invite when Prince Charles came here, too, I saw.
+
+He was in Tales then too.
+
+And also we were at that Saudi dinner, too.
+
+Weren't you there at Chimov?
+
+I did not go to that one.
+
+All right.
+
+Well, we have a big docket here that Trump-Shee summit has begun.
+
+That is the number one story right now after a two-month delay because of the war in Iran.
+
+This is the first visit to China since 2017.
+
+Seventh face-to-face meeting for Trump and President Xi.
+
+There are 12 hours, 15 hours ahead of us today.
+
+Thursday was officially day one.
+
+Here's what happened.
+
+China agreed that the straight of Hormuz should remain open with no military commitment
+
+and that Iran should not have a nuclear weapon.
+
+So we're in sync on that.
+
+On Taiwan, this is a little spicy.
+
+warned that, quote, if handled poorly, the two countries will collide or even clash, putting the
+
+entire U.S.-China relationship in an extremely dangerous situation. Polymarket says Taiwan is safe for
+
+2026. Only 6% chance China invades this year on 23 million volume, which is a lot of volume,
+
+17% chance, roughly triple. That something happens by the end of 2027. There's been a lot of debate.
+
+Some people say it will happen after Trump is out of office. Some people think it's going to happen while he's in office on trade. She committed to buy more soybeans, U.S. oil, LNG, and 200 Boeing jets. She said the talks laid out a vision for constructive, strategic, and stable ties. Trump was effusive in his praise for his friendship, giving the disclaimer that people don't like it when he praises she.
+
+Let's stop here and have a bit of a discussion. Friedberg, you have been a bit obsessed with this
+
+relationship and the bipolar nature of it. What are your thoughts here? And what is the goal for Trump?
+
+What is winning for Trump coming out of this? What is winning for she?
+
+I mean, she made comments in his opening remarks that it would be ideal if the United States
+
+and China could avoid the Fucydides trap, which, as you'll recall, we talked about with Graham
+
+Allison and we've talked about several times over the last few years that as a rising power
+
+meets a kind of declining power, there's always some moment where you end up in this kind of state of
+
+conflict. And the question is, can the U.S. and China avoid conflict and find a path to cooperation,
+
+which has happened a few times in history when we found ourselves in this moment, but doesn't often
+
+happen. And I think the way to kind of think about the opportunity is if you're in a resource
+
+expansive world where you're increasing productivity and increasing production globally at an
+
+accelerating pace, perhaps there's less of a reason to have conflict. Perhaps there's a way that
+
+both societies, both countries can increase the quality of life for their people without
+
+taking it away from the other side. And in a world where you're more resource constrained or
+
+resource static, that becomes less possible. You have to fight and grab land and grab territory
+
+and grab resources from the other side. And it seems like in this moment when we are seeing
+
+these extraordinary technology shifts unlocked by AI and automation and biotech and all of these
+
+kind of moments of which could be true abundance ahead of us, it seems like the perfect moment to say,
+
+hey, maybe the world can be more multipolar, doesn't need to be unipolar, doesn't need to be bipolar,
+
+but everyone can participate in the expansion of the pie.
+
+And I think that that's kind of the idealistic way to look at the opportunity in front of the administration and Chinese leadership right now.
+
+Is there a way to kind of look at the next 30 years and ask the question, how do we all share proportionally in growing the pie and not find ourselves in a moment of conflict where we assume the pie is static?
+
+That's, I think, hopefully, the message that comes out of this.
+
+From an administration political perspective, it just seems like this is going to be a major coup for,
+
+for the president, if he can walk away with a series of trade deals with China that increase
+
+job security, increased prosperity, increase income levels, increase investment in America and
+
+American jobs, it would be a huge win. And I think that's the tactical stuff that people will be
+
+truly looking for. And I think the big strategic question, which I care most about, which is avoiding
+
+conflict, is there a way we can chart an economic and cooperative path that doesn't involve
+
+eating each other and involves sharing in a bigger pie?
+
+Tramoth, why is Trump bringing all of these CEOs with him and what does success look like coming out of this meeting?
+
+I think that you find a resolution and a path forward with China through economic cooperation.
+
+It's the largest consumer economy in the world.
+
+It's still largely closed off.
+
+And so I think what this is was about bringing some amount of financial firepower with them so that they could start to penetrate that market.
+
+planes, cars, chips, you know, very much hard equipment type stuff. I've said this before, but I think
+
+the Chinese are very much a top-down Confucian societal philosophy, whereas Americans are much
+
+more bottoms up, kind of an individualist construction. The fact that we're so different actually
+
+gives us a lot of room to find cooperation and not find conflict. And I think at the center of that
+
+his economic cooperation. I had a friend call me this morning, very prominent Democrat. And, you know,
+
+he was the one that called out the media, which I was surprised by. And he said, you know, the media
+
+gets it all wrong because they're talking about why is he bringing these CEOs? And instead,
+
+the reality is that the simplest and surest path to no conflict detente with China is economic
+
+entanglement. And it has to be bidirectional because really for so many years it's been one way where
+
+they're sending us the cheap goods that they wanted.
+
+So I think strategically it's good.
+
+And I think, you know, I'll just take a slightly different take on what Freepard said.
+
+I think behind closed doors, they're probably just figuring out how to divide the pie.
+
+Unpack that for a second.
+
+Divide which pie.
+
+The globe, the economy, the Western Hemisphere versus the Pacific.
+
+China still needs a lot of energy.
+
+They also need a lot of critical technologies that America provides.
+
+And so I think that there is a trade there.
+
+And the quid pro quo is there are certain regions of the world where we want them to de-escalate their
+
+participation in, central South America being probably the most important, and then the second is
+
+probably in the Middle East.
+
+And then maybe the third is just to find some reasonable view of the Asia PAC region together.
+
+And I think there's a trade there to be done.
+
+And in that, you kind of start to carve up the world into a pretty easily identifiable bipolar
+
+construction.
+
+They also, Mark, need customers to,
+
+buy their goods, and we've had a bit of a mixed signals there. Tariffs obviously last year,
+
+sticking it to China in a pretty hard way, the decoupling after COVID. Hey, we need to be independent
+
+energy, PPE, drugs, chips from China. Now we're kind of saying, hey, let's come to the table
+
+and build connective tissue. So sort that out for us on a business level. Should the two countries be
+
+deeply entwined and then how do we manage having too much dependency on China?
+
+Well, you heard it today from President Xi when he said he wants a wider door.
+
+And that means that he wants the door of business to open even wider between the two countries.
+
+We have our absolute best salespeople there, not just our president, who has to be one of the
+
+best salespeople I've ever met, but also we've got Elon, we've got Jensen selling chip,
+
+Kelly Orkberg, selling planes.
+
+Kelly is selling planes.
+
+He's already sold 200.
+
+He wants to sell 500.
+
+Financial services.
+
+Brian is selling soybeans.
+
+Brian Sykes, the CEO of Cargill.
+
+You know, Cargill is the world's largest private company based in Minneapolis.
+
+And he is going to come away selling a lot of soybeans.
+
+So you go through the list of the CEOs.
+
+Each one is our best salesperson in this category.
+
+And they're going to come back with orders and it's going to be amazing.
+
+And by the way, I think you said it very very,
+
+very well. You know, this idea of business is this kind of greatest platform for change.
+
+They are working together like never before. Don't forget, this isn't Trump's and she's first meeting.
+
+These guys really like each other. They are very connected together. You can see they're smiling
+
+with each other. They're very, they have a sales orientation. So I expect a lot of order books to
+
+come back. I have a question for you. Are you allowed to sell software in China?
+
+We, well, with the right, the Chinese have a lot of.
+
+data residency laws. So, you know, we do it is we don't have any offices or employees in China.
+
+We never have. The only time we end up with any residue in China is when we buy a company and they
+
+have a presence over there. And then we have to divest from it. We have an exclusive partnership with
+
+Alibaba. Everything just goes through them. And we, we don't do anything in China.
+
+Is it significant growing? Is it what percentage of your revenue is it? Yeah, it's great.
+
+You know, we have it's a great partnership.
+
+Key customers of Salesforce like Louis Vuitton, you know, or Laura Piana.
+
+I know Chimothelows, Laura Piana.
+
+Yeah.
+
+And, you know, Laura Piana sells a lot of sweaters in China.
+
+And then, you know, in all other stores all over the world, they use Salesforce.
+
+But in China, it's Salesforce on Alibaba.
+
+It's still your code, but then it resides in their servers for data residency stuff.
+
+Their data residency, their partnership.
+
+It's a totally unique relationships.
+
+The only place in the world that we do such a thing.
+
+Yeah, and it has to be, all the data has to be kept in China.
+
+All the data has to be accessible by the CCP.
+
+That's why it's so extraordinary, by the way, what Elon has.
+
+You know, Elon has Tesla in China, no partnership.
+
+He's the only one.
+
+He has a phenomenal relationship with Xi.
+
+When you look at Xi and Elon together, notice how deferential and respectful they are of each other.
+
+and here is these AI cars with all these cameras, American-made, Chinese factories,
+
+driving around China. That is pretty incredible.
+
+How do you think he pulled that off?
+
+Is that just a one-off exception?
+
+I think Elon's the greatest salesman in the world.
+
+That's how.
+
+I mean, the cynical take on a Chimov would be they wanted him there and they wanted to study
+
+the company and the innovation.
+
+And they have now become the biggest competitor with their e-lawful.
+
+EVs. And so it is a pretty co-opetition, I guess. It would be the cynical way to look at it.
+
+I want one of those new B-Y-D Gulf, you know, what do you call those with the doors that flip up?
+
+Goal-Wing. I want one of those goal-wing B-Y-Ds. They have some cool cars. Have you seen those?
+
+They're cool, but they're not safe. They're incredible. They're talking in this, in this, they said
+
+they're talking about bringing some of those cars to the U.S. That would be incredible. I would
+
+hollow out the entire automotive industry here if we had $20,000, $30,000 cars from China. It would be the end of
+
+the U.S. automotive industry overnight. And Tim Cook's there. He has to store all his data there.
+
+That's been a pretty controversial issue for him because Friedberg, if anybody has private information
+
+or as a dissident, Tim Cook has to give that data over to the Chinese Communist Party. How do you think
+
+this plays in America vis-a-vis the midterms, Friedberg. Americans feel ignored inflation over
+
+3 percent, and they look at the Iran War as a betrayal by President Trump, and they look at China
+
+as not material to their well-being. So when you look at Trump being on a six-month timeline
+
+for the midterms, and he's only got two more years in office after that, you got Xi, who's
+
+working off of a hundred-year playbook, how does that dynamic play out with Trump and the midterms
+
+and his core constituency, MAGA, which is now evolving into America First, America only,
+
+and this kind of is rubbing that group of people the wrong way. I think the second and third
+
+order effects of anything that comes out of China is what's going to be most consequential
+
+to the average voter, which is job security and income security and income growth, and then
+
+cost of living impact. The cost of living impact, the cost of living impact,
+
+would be if there can be some deflationary effect from a trade deal that makes access to goods
+
+lower price for Americans, and then anything that America is exporting, there's increased demand.
+
+Like, there's a follow-on effect to the soybean export market.
+
+There's a follow-on effect, obviously, to the oil export market.
+
+There's a follow-on effect to, for example, technology and software being exported.
+
+So that increases economic productivity in the U.S. and increases job security income.
+
+And then the other side of the trade deal is can we get stuff that Americans really care about and make it cheaper?
+
+Can people now buy stuff at the store that drops in price by 30, 40 percent where we've kind of tariffed and reduced trade that increases the price of things.
+
+So if those deals kind of get worked out, people will see things get cheaper at the store and they'll feel good about kind of their income security.
+
+And I think that could be positive. I think that's what's ultimately going to make people to make the,
+
+blue-red decision when they go to the polls in November. That's the schizophrenic nature of this
+
+Chimov. We have Americans who very much want cheap goods from China, and then we have last year
+
+all these tariffs being put on, and we have this great decoupling. So how do you handicap the midterms,
+
+Trump's timeline, and she's timeline, and what their goals are? And then, I guess, we'll get to Taiwan
+
+after that. I don't know. I think it's a little bit above my pay grade, but what I will say is that
+
+The midterms, I think, are probably going to swing more based on these recent gerrymandering
+
+rulings from the Supreme Court and what happened in the Virginia Supreme Court and what's
+
+going to happen in the state legislatures of these red states and some of these blue states
+
+more than what's going to come out of this summit with President Xi. So let me just put that
+
+over here. And I think that money is getting organized. There was an article in the New York Times
+
+this week, which really surprised me, but the largest donor in this election cycle is Andresen Horowitz.
+
+Yeah, what is that about? Yeah. I think it's because they're trying to establish themselves
+
+as part of the financial firmament of America, which I think strategically as a business makes
+
+a lot of sense. Like, they're in the AUM business, right? So they can't stop at $100 billion of
+
+AUM. They're marching towards a trillion. They're going to be the next blackstone, which I think is an
+
+incredible feat. And they're building a juggernaut of a business. But I think they also realize
+
+that politics is now a permanent part of that if they're going to be investing in higher quantum,
+
+more geopolitically influenced parts of the capital cycle and parts of the economy. So I think they
+
+admit terms are largely that. The money that's going to be raised plus the gerrymandering
+
+that will get done and undone over the next few months. Again, I think the Chinese and the
+
+and the Americans have a very strong incentive to kind of divide up the world.
+
+Like, I think the future at this point, you have these critical resource inputs.
+
+China has a stranglehold.
+
+You have energy and intelligence AI, where America has a stranglehold on one and an effective
+
+strangle hold on the other, which is energy.
+
+And I think there's a trade there to be done.
+
+And as long as you can negotiate what a reasonable give and take is, I think they're just
+
+going to find common ground. Like, does China really need to be in Chile and Venezuela and Panama? Probably
+
+not. Does America have to have an incredibly strong point of view about the strait of Malacca?
+
+Probably not. And so there's probably a trade to be done so that we can get their rare earths,
+
+they can get some more oil, everybody can be happy and we can all find abundance. Yeah, the key issue here
+
+is China is, and most people are, you know, Chinatophobic, but China has serious systematic
+
+issues with population, with their real estate, with their GDP. All of this is in decline.
+
+And I think she most of all is concerned about another Tiananmen Square. If he doesn't get more
+
+people working, they've had the largest growth of any middle class in history. They have the
+
+largest middle class in the world. I think you were sort of referencing that mark with luxury goods
+
+and luxury goods providers are going there. But it's tenuous. And that's the number one, by the
+
+way, that is the number one point of focus of President Xi. President Xi's focus has been getting
+
+500 million people from poverty into the middle class. It's not exactly how we think about the
+
+world in the United States. That's the main focus of the political leader. And he's achieved that.
+
+That has been an incredible accomplishment. But it's at risk right now because their GDP is falling.
+
+They need their factories to operate. They're being undercut by other regions. And then, of course,
+
+Taiwan is what they want most of all and supremacy in, you know, their part of the world.
+
+I'm not convinced to that, actually.
+
+Okay.
+
+I think what they want.
+
+I mean, I think we just kind of said it.
+
+To summarize, they want to have, you know, economic success.
+
+They want to continue to grow their middle class.
+
+They want to continue to have a healthy economy.
+
+They want more trade.
+
+I thought it was interesting that they're talking about Trump is talking about not only having
+
+the board of peace now.
+
+He wants a board of trade.
+
+That was a discussion we've never heard before today.
+
+Then we have Xi saying, I want the wider door.
+
+Then we have all these folks there selling their products.
+
+Two people we didn't mention the CEO of Visa and the CEO of MasterCard are on the trip.
+
+Now, why is that?
+
+Because if you look at commerce in China, it is dominated by companies like Alibaba
+
+and these organizations who use these super apps.
+
+It's not really all the way open for a Visa and a MasterCard.
+
+That would be incredible for those executives.
+
+So in the same way that we want to sell airplanes, we want to sell chips, NVIDIA,
+
+the Qualcomm CEO, Cristiano is also there.
+
+We want to sell soybeans.
+
+We want to sell payments services.
+
+We want to sell everything.
+
+The more economic collaboration and cooperation you can get between the two countries,
+
+the more peace you're going to have.
+
+I think that is the problem.
+
+100%.
+
+I agree.
+
+Three hard questions, Mark.
+
+Should we be selling them the latest chips?
+
+Yes or no?
+
+In your mind?
+
+I think it's irrelevant at this point.
+
+I think that the Chinese models are as competitive as these U.S. models, and they've learned to make these models without having the highest end chips.
+
+I think the highest end chips is kind of more of an ego gratification for us.
+
+We have Blackwell.
+
+We have this.
+
+We have that.
+
+But when you look at their models, their models are excellent.
+
+They fast follow us, you know, the best models we had six months ago they have now.
+
+Should we just sell it to them since they're figuring it out anyway, Mark?
+
+We probably should just sell whatever we can at this point.
+
+Got it.
+
+And I think that, as I said, I think the more economic cooperation and collaboration is better.
+
+And if you want peace, I think that this, I think Taiwan, it's kind of a non-sad story.
+
+Freeberg, your take on chips?
+
+Should we sell them the latest chips?
+
+And then Chimah, I want to get the answer to that question from each of you.
+
+I think it's inevitable that they get there.
+
+By the way, I do think this is one of the key aspects of this deal.
+
+I've said this before, but maybe Taiwan becomes less relevant to the U.S. and to China as both
+
+China and the U.S. mainland fab. So as we build out our own manufacturing capacity here in the U.S.,
+
+and I know we've struggled and there are fits and starts and issues with it and whatnot,
+
+but the TSM facility in Arizona is running. They're printing, and if it works and they figure out
+
+how to scale it, there'll be other facilities in the U.S. And then China's mainlanding with Huawei
+
+standing up a lot of facilities. They've got a mulberry. They've got a mulberry.
+
+I think I talked about this on one of the shows, a multi-deca billion dollar government investment
+
+in ensuring competitiveness not just with fabs, but also with semiconductor manufacturing equipment
+
+so that they don't get cut off on the supply chain with companies like ASML blocking sales into
+
+mainland. So as they build out their own semiconductor capital equipment systems and their own
+
+fabs, does Taiwan really matter? Is there really that much of a security risk to the United States
+
+and to China in that sense. And perhaps what everyone's focused on, which is this pivot point around
+
+Taiwan, maybe it's not that the U.S. is selling Taiwan down the river, but it's just that no one gives
+
+a shit anymore. So, you know, there may be this kind of cultural moment for China where they want to,
+
+at some point say, hey, by 2040, which I think is what I've heard, they want to be able to kind of,
+
+you know, bring Taiwan fully into the sphere. Maybe the U.S. shouldn't care that much at that point
+
+from an economic and security perspective. So I think that's one of the things that's happening
+
+that maybe people are...
+
+So you're in the camp of sell the chips to them,
+
+and it will demotivate the TSM
+
+or the capture of those fans by the Chinese.
+
+Put it this way.
+
+I think the more the global productivity index can climb,
+
+the better off all humans will be.
+
+So the question is,
+
+do you really want the West to see their productivity index climb,
+
+and then you're effectively forcing conflict
+
+and forcing issues with the East,
+
+or if we all grow our productivity index,
+
+we all make more stuff.
+
+Everyone benefits, everyone has better jobs,
+
+everyone makes more money,
+
+everyone has access to more stuff,
+
+the cost of goods comes down for everyone.
+
+Doesn't that make the world a safer and more secure place?
+
+Sure.
+
+So I think this idea that technology should be held
+
+to one side of the world
+
+and not given to the other side of the world
+
+is inevitably going to lead to conflict
+
+or increase the probability of conflict.
+
+Whereas if you let technology diffuse and proliferate,
+
+everyone benefits and conflict indices go down.
+
+It's because it becomes commoditized.
+
+You know, and everybody has access to it, so then it becomes...
+
+You give everyone a higher standard of living,
+
+and you give everyone's economy a boost,
+
+and you give everyone less reason to fight with each other.
+
+So since you went there with Taiwan,
+
+should we take our arm sales off of the table, Friedberg,
+
+and should we ask China to not sell arms to Iran?
+
+Yes, we should ask China to not sell arms to Iran.
+
+Yeah.
+
+Okay.
+
+I don't know what there is...
+
+What is there to talk about there?
+
+Well, because I think what she wants is for us to not sell arms to Taiwan.
+
+So would you make that trade, I guess, is what I'm saying.
+
+Oh, yeah.
+
+I mean, that's a good question.
+
+I think in that context, that's a nuanced one.
+
+I don't.
+
+That's why I bring it up because that seems to be.
+
+Generally, you're right.
+
+Yeah.
+
+I mean, generally, that's probably a trade that, you know, that should be kind of
+
+get to do the deal.
+
+So you say make the trade.
+
+Chamath, I mean, I kind of know.
+
+We're 18 months from time.
+
+Taiwan not being an important moment of conversation the way it is today. Why 18 months?
+
+Because we are at a point where we're probably one to two nanometers away from being able to
+
+do what we need Taiwan to strategically do for us. And so as we scale up our chip fabs, as we get
+
+more capacity and interestingly, there are these orthogonal technologies being developed.
+
+I don't know if you guys saw, but Neurlink was showcasing now a machine that is a
+
+literally operating at the almost nanometer scale to do the brain operations for the implantation
+
+all automatically. So when you have the dexterity and the capability mechanically to make these
+
+things, the real reason then is a very different one than what it is today. Today it's economic.
+
+And if you take that off the table, I think we'll have a very different attitude to Taiwan.
+
+That's number one. Number two, sell the chips. And the reason we should sell the chips is we want
+
+invidient to win. We do not want to give enough oxygen for Huawei to then all of a sudden
+
+emerge and have a version of a chip that works. And what Mark said is totally right. These models
+
+are catching up. They're almost at the same pace. So the more important thing, Jason, is probably
+
+we should all agree, is just like, let's have a reasonable K-Y-C for how the models get used
+
+so that, you know, somebody in a basement doesn't cook up some bioweapon. Meanwhile, sell the chips,
+
+proliferate, let Jensen win, I'd rather he win than Huawei win. Mark, I'm going to give you the last
+
+word, but I'm going to force you to answer a hard question. China sets up a blockade around Taiwan,
+
+and they decide they're taking it. Should the U.S. defend it? Yes or no?
+
+I've said this for years. I don't agree with Neil Ferguson on that point. I think that this is
+
+a nonsense issue. I think China and Taiwan will reconcile. I think that, well, first of all,
+
+I do want to schedule, though, Chamoth for that neuralink. Next Tuesday, at 5 o'clock, we can drill
+
+your brain, Chimov.
+
+Can I get you in for that?
+
+What are you trying to put some empathy into Chimov?
+
+I talked to Elon.
+
+He said it doesn't give empathy more.
+
+You just drill right in.
+
+There's a and boom.
+
+And then, well, you can get hooked up.
+
+It is the craziest thing.
+
+I know.
+
+I got you scheduled at 5 o'clock on Tuesday, Chmoth.
+
+Hold your hand if you're too nervous.
+
+Yes, and by the way, empathy.
+
+Empathy installation.
+
+If I only had a heart, literally like,
+
+if I want a more connected Chmoth,
+
+it's going to make for an even better show.
+
+It would be incredible.
+
+Yes.
+
+I would laugh and I would giggle.
+
+We could get into show tunes here.
+
+Friedberg, I know you're, yeah, big on the showtunes.
+
+If I only had a heart.
+
+If I only had a brain.
+
+A heart, a brain.
+
+What's the third one?
+
+If I only had a neuralig.
+
+You got to give you courage, Friedberg.
+
+Go, go, go, go.
+
+Go, go, go.
+
+Okay, move on.
+
+All right, let's move on here.
+
+By the way, I took his kids.
+
+Tomop stayed home.
+
+I took his kids to the Wizard of Oz at the sphere.
+
+It was incredible if you haven't cheated.
+
+Yeah.
+
+Shemov was like, oh, do something enriching with my kids or hit the craps table.
+
+No, I'll be honest with you.
+
+I get a little freaked out in large, like groups of people.
+
+Benes, yeah.
+
+I get, I get, no, just like when there's a lot of people, I get very nervous.
+
+Really?
+
+Is this because of your news?
+
+You found celebrity? Is that the issue?
+
+No, I always have like, no, I don't even want to go there.
+
+I just have these bad thoughts of like, oh, my God, what if something happens?
+
+How do we get out?
+
+Oh, terrorist attack?
+
+How do you get out to the exit?
+
+Panic disorder.
+
+I don't know.
+
+Yeah, exactly.
+
+You have panic disorder.
+
+Panic disorder.
+
+Yeah, I don't like these large spaces with lots of people.
+
+I get a little winched out.
+
+Anyway, your kids had a great time.
+
+Great show.
+
+Tony Robbins lives very near you, Shamath.
+
+Don't you think we can get that to happen?
+
+Yeah, let's get Tony Robbins in there to clear that blockage.
+
+You're not Tony Robbins guy, Mark.
+
+Why are you so into Tony Robbins?
+
+Tony Robbins. I love Tony Robbins. I had him at my conference this week. It was incredible,
+
+actually. He did an incredible presentation for an hour. Did he unlock for you your success?
+
+He claims to that he has you on the roster of $50,000 a year CEOs. I am the number one fan
+
+of Tony Robbins. So, I mean, he is pretty awesome.
+
+What percentage of your success is attributed to Tony's mentorship? Hey, if it wasn't for Tony Robbins,
+
+I don't think there would be a Salesforce. So, there you go. Wow. Actually, no jokes aside. Can you
+
+tell us like what, like what, like what were those big kind of blockages?
+
+and how did he help you or how did you work through it?
+
+Just focusing on, hey, the questions,
+
+you know, the quality of your questions
+
+is the quality of your life.
+
+It's that insight.
+
+And just are you asking yourself the right questions?
+
+What do you want?
+
+What's important to you?
+
+How are you getting it?
+
+What is preventing you from having it?
+
+How will you know that you have it?
+
+Just no one had ever said that to me.
+
+And then it was just like clear to me,
+
+wait, I need to write that down.
+
+Like, what do I really want right now?
+
+What is my point of focus?
+
+And that is what gave me motivation.
+
+As soon as I got that clarity,
+
+I mean, a lot of us do it automatically, but that's not where I was when I was a kid.
+
+That's for sure.
+
+Did you run across the coals?
+
+Did you do any of that kind of stuff?
+
+Oh, I have many times.
+
+Really?
+
+Yeah, of course.
+
+Okay.
+
+There it is, folks.
+
+Hey, we can go together.
+
+Absolutely.
+
+We had Tony on the show.
+
+I tried to get in there and understand his psychology, but he just had us new breathing exercises.
+
+All right.
+
+The All In Summit is happening again.
+
+Fifth year in a row.
+
+Wow.
+
+We've been doing this for a while.
+
+Allin.com slash events.
+
+September 13th, 14th, and 15th.
+
+We'll have you back, Mark, in year 6.
+
+But when you score so highly on a keynote,
+
+we give you two years off so that we can build up the anticipation.
+
+So coming in 2027, our guy, Mark Banningoff.
+
+But for this year, all in.com slash events.
+
+Okay, topic two, AI's impact.
+
+By the way, real quick, can I just do a quick PSA?
+
+A public service announcement coming from freebie.
+
+Yes.
+
+Nick, just pull up this link.
+
+This dog named Scooter needs a home.
+
+Oh, God.
+
+Promise my wife I do this.
+
+Don't get mad of me.
+
+This dog named Scooter needs a home.
+
+He's in Baldwin Park.
+
+Dogs about to die.
+
+Lives in Baldwin Park at the animal care and control.
+
+They're overwhelmed in LA.
+
+There are so many homeless street dogs that are being collected.
+
+They're all being put to sleep.
+
+Wow.
+
+Someone give this dog a home.
+
+Gorgeous dog.
+
+His name is Scooter.
+
+Link will be on the YouTube channel.
+
+Thank you very much.
+
+Are you getting a little emotional, Freepard about this dog being put down?
+
+I just don't like these, you know, all these street dogs.
+
+Like they didn't choose that situation.
+
+that situation they were in, and then they all end up kind of getting pulled in by animal care
+
+and control, and then they all get put to sleep.
+
+It kind of sucks.
+
+You're a dog guy.
+
+Come on.
+
+You got to have a hard for this.
+
+No, I have a big heart.
+
+Chimoff, come on.
+
+It's $10,000 to keep these dogs alive for another week.
+
+Can we count on you for that donation?
+
+Any purebred white golden retrievers in that bunch?
+
+No, they're just nuts.
+
+Just months.
+
+We have a cat that we got at the shelter, actually.
+
+Cut of a fun story, walked into the shelter, learning so much.
+
+Looking for a cat.
+
+All of a sudden, we're in the shelter to this cat.
+
+like coming at, you know, my kids and all of a sudden they're, okay, we'll take this cat.
+
+What is this cat's name?
+
+This cat's name is cloud.
+
+Cloud's our cat.
+
+Wow.
+
+Absolutely.
+
+Yeah.
+
+That's cool.
+
+That's cool.
+
+All right.
+
+That's awesome.
+
+All right.
+
+AI's impact on software rippling through the market.
+
+Mark, you're on the front lines here.
+
+Thank you for reminding me.
+
+Yeah.
+
+Well, I mean, in pain and suffering are lessons, right?
+
+I think the Buddha and Tony Robbins both taught us that.
+
+And the only way to the.
+
+other side is through, as you know, Mark. So Salesforce down a whopping 37% 90 billion losses for you.
+
+Service now 42% workday, 45%, 180 billion in market caps been lost. And the assumption mark
+
+is that AI is going to make it unnecessary for you to use Slack or Salesforce or HubSpot,
+
+whatever it happens to be, that you'll just ask your AI to solve this for you. And we'll all look at a
+
+piece of glass and have no actual software. The AI will just tell us what to do. What's your response
+
+to the fear, the criticism, and how are you managing this massive change internally?
+
+You're right. It's the saspocalypse. I mean, it's not my first sasspocalypse, honestly,
+
+but it's the current saskopoclips. So we are all now drinking at Salesforce sospherlas.
+
+And we actually have a pet saskatch as well. Yeah, we're all a little more sassy. That's what I
+
+would say. That's number one. You bring the SaaS to SaaS? We've got to bring the SAS to Sassy,
+
+you know. And then you've always been a sassy man. Yeah. And then number two is, look, the market is
+
+rerated. It's not a mystery. Everybody knows. You know, you guys have been talking about it for a while.
+
+I've been living it. So the market, software market's rerated. It happens every now and then.
+
+There are cycles. You know, I've been doing Salesforce for 27 years, enterprise software for 40.
+
+And the market's rerated. So you mentioned HubSpot. They're
+
+trading at two-time sales. I've never seen that before. They just had a great quarter. We saw a lot
+
+of great quarters. I looked at the top 10 major enterprise software companies. They all had great quarters,
+
+and they're all trading in two-time sales. So why? Because of everything you just said, there's like,
+
+you know, a hypnosis around AI. And, you know, we haven't seen it show up in the numbers yet.
+
+If it shows up in the numbers, maybe people will be right. Right now, all we know is there's still a lot
+
+of enterprise software being sold in the world.
+
+So you've been through this. It's not your first time.
+
+This is not my first sospocalypse. I mean, I remember the saspocalypse of 2020 when COVID
+
+happened and all of it, you know, everything collapsed. There was the great sasbacolics,
+
+you know, 2016. What's that? In all sincerity, what's your strategy? What's your strategy?
+
+And how do you deal with, you know, your internal team, obviously, they are compensated through,
+
+you know, stock. And this is headwind. And you have competition.
+
+for employees from OpenAI, Anthropic and SpaceX. So how do you deal with rallying the troops?
+
+And then how do you develop a strategy? Well, you're right. I mean, it's a lot easier to be a
+
+private company right now where you don't have to be rationalized by the public markets.
+
+If you're in the public markets and you get re-rated, that's the reality of being in the public
+
+markets. And I think that for what I tell my employees, right, I just told my employees is,
+
+look, you can't get drunk on the stock price. If you are like focused on today,
+
+all the time and that is how you're getting you know your emotional state it is not
+
+going to work for you you have to find a different anchor so I try not to pay really a lot
+
+attention to it I'm focused on my customer success powers our revenue look we'll do
+
+over 46 billion this year more than 16 billion in cash flow we have more than
+
+83,000 employees these are the things that I'm focused on what is the level of
+
+customer success that we're delivering that's a really important I can't control
+
+the stock price there's nothing
+
+I can do. And for our employees, they can't control it either. They need to believe in the company
+
+and the quality of the success they're delivering to customers in the long term. And then you look
+
+at the market, you look at these other companies, not just us. They're doing great. And I mean,
+
+I saw some great numbers, but it doesn't really matter. The market's re-rated.
+
+Well, you've got all that free cash flow. You've been great at acquisition, so I'm sure you're...
+
+I've bought some great companies, by the way. Everything's a little cheaper. I like that.
+
+Yeah, Chamath, what's your take on this? You've been pretty critical of the SaaS space in previous episodes pointing out, hey, how durable are these revenues? So what's your take?
+
+I think the low end of the market is basically finished. I think there is no safe space. I think the high end of the market where Mark operates, where the large monoliths operate, is quite safe. And the tell was this week.
+
+the deployment company deal basically shows you what OpenAI is running into.
+
+So, you know, you have to put in $4 billion.
+
+You get all of these folks.
+
+You gave them a 17.5% preferred guaranteed return.
+
+For what?
+
+Essentially to stand up a competitor to Ernst & Young, Anderson, Deloitte, PWC, Cognizant,
+
+etc.
+
+If you just look at that, that doesn't actually mathematically make that much sense.
+
+if you look at what those companies are actually trading at.
+
+But why is Open AI doing this?
+
+I think why is because at the high end of the market,
+
+where all the action is,
+
+what people are finding is,
+
+hey, hold on a second,
+
+this is a lot harder than we thought.
+
+It's not like, boop, boot, boot, put in a prompt
+
+and beep, bat, poop, it all works.
+
+It's not how it works.
+
+And so I think we're a little,
+
+I think we're a little oversold.
+
+And now I think this consolidation and the re-race
+
+can happen in the opposite direction. So what is the opposite trade? The opposite trade is who has
+
+constructive net dollar retention, who has negative churn that's been really predictable, which is a way of
+
+saying who has the best relationships. Meaning, they're inside the CXOs and the C-suite. They have
+
+relationships with the CEOs and they're trusted. And they've been around for 20 years. Those guys,
+
+I think, are positioned to crush. Because eventually, Jason, the next trade that has to have
+
+happen is when the public markets become a little bit less breathless about AI, and they ask one
+
+simple question, okay, guys, you've spent $3 trillion in the last four years. What is the ROI of
+
+these tokens? And what's going to happen is they're going to have to go to guys like Mark and other
+
+people and say, please sell my tokens. And that's the next shooter drop. If you had to ask me,
+
+So I think you're going to see these revenues, which are way out of whack, like the multiples on revenue, multiples on assets, multiple of, they're not even multiples of divita yet.
+
+Those will come way back down.
+
+And I think these go back up and you'll find a balance.
+
+Yeah.
+
+And you've initiated what could only be described as an unprecedented massive stock buyback mark, 50 billion?
+
+I think it's one of the largest in history.
+
+Yeah, we're, you know, we want to buy back as much as we can.
+
+And I would just say that, you know, look, at a high level, look, there's awesome new capabilities.
+
+Like, these coding agents are awesome.
+
+Anthropic is awesome.
+
+Like, I am going to probably use $300 million of Anthropic this year at Salesforce coding.
+
+Everything's going to be cheaper to make.
+
+It's more efficient.
+
+I can do things that I just could not do before.
+
+I can go faster than ever before.
+
+I can implement my software and sell it at the same time.
+
+I've never been able to do that before.
+
+I can break through obstacles that I've had, you know, just by focusing because I have coding agents and humans together, working together.
+
+Today, I have humans, agents, and headless platforms all interoperating never before.
+
+So the opportunity for my own company and the efficiency that I have in my own company in service and support, in distribution, in marketing across the board is unprecedented.
+
+what I can do for our customers, unprecedented.
+
+And to that point, my gosh, have you seen Anthropic?
+
+I mean, it is a rocket ship that will not stop because you can use this product to do these
+
+incredible, amazing things.
+
+And then in complement it with platforms like ours, it's, you know, it's impossible to describe
+
+what we're going to be able to do for customers.
+
+It's going to be awesome.
+
+And never waste a crisis.
+
+You've been super focused on the efficiency of the company, headcount,
+
+share buybacks, and I'm guessing you're looking at M&A.
+
+So it's not your first time.
+
+Oh, we just finished up.
+
+One of our biggest deals ever, Informatica, I think it was $8 or $9 billion.
+
+It's been awesome because none of this stuff works if you don't have context.
+
+You know, the AI is very probabilistic.
+
+That is, it can kind of figure things out, but it needs to be grounded in real data.
+
+And it needs to have that semantic layer.
+
+It needs to be locked down into the truth, into a single source of truth, or it just cannot work well.
+
+And so our customers want more harmonized data, federated data, integrated data.
+
+So we bought Informatica.
+
+Our customers want our apps to use those large language models to be able to provide not just automation to their employees, but also to their agents, just like we just said.
+
+So like if you call 1-800-no software right now for the first time in 27 years, you talk to Agent Force.
+
+Hey, Agent Force, what's happening?
+
+But then after it authenticates you and you get on the system and it doesn't know who you are,
+
+then boom, it'll auto-escalate you to a human being who says, oh, I can see everything you've been doing.
+
+Oh, yeah, you just need to resolve this, this, and that.
+
+And so that Trinity of the phone, the web, and the human being are all together.
+
+it's all made possible by this AI.
+
+We just could never do that before.
+
+That is awesome.
+
+Was it controversial, Mark, to make Slack headless?
+
+Was that a big decision?
+
+Or was everybody kind of mostly on board with them?
+
+Well, we were the first to, you know, the way that our platform is architected and
+
+Shamath, you know it so well because your coding, your coding agents and the company
+
+you're building can run right on top of it and build awesome stuff also.
+
+So, you know, number one is we were the first with an XML API,
+
+a SOPE API, a Rest API, now a CLAI API, MCP API.
+
+We always wanted to have a platform that had every API possible.
+
+And our apps are not hard-coded where we had to cut the top off of them.
+
+They've always been embedded inside our platform.
+
+So now we can stream our apps out through a new API called AXL,
+
+and I can manifest it into any large language model or device or anything.
+
+And it just works better, actually.
+
+I think that, you know, when Jack Dorsey wrote that memo, J-Cal, and part of what he said is he's going to try to run his company by building a world model?
+
+My initial thought was, well, where is the context, Mark, what you said before, where is the semantic understanding to create a world model?
+
+And a lot of it for a lot of companies actually in Slack.
+
+It's in Slack and email.
+
+Yeah, those two places.
+
+I showed you that Slackbot, Jason.
+
+I mean, the thing is, all because you run your company on Slack, all your DMs,
+
+all your channels we're reading that now through the AI and we can tell you more about your business
+
+than you know because Slackbot is reading stuff that you know nobody knew what was happening and
+
+like I'm using that myself but I can then connect it into other things so I have the ability to go into
+
+Salesforce and Google and everything and so when I'm on Slackbot I can ask it any question about
+
+my company what are my top five deals what are my employees upset about what are the top three
+
+things I need to focus on and then boom, I get the information because it has the data.
+
+I think you should really look at making Slack more open and cheaper and getting more of that
+
+context because there are limitations in terms of getting your data out based on which plan
+
+you're on. It's just too convoluted. But once I upgraded to a higher plan and it's whatever,
+
+6, 12, 18K for our small company, I was able to get more and more context.
+
+to my open claw, Plexity computer, and Claude, and we're testing all of those.
+
+And today, I wrote literally before I got on the show a new prompt that is every two hours
+
+in our Slack, tell me what decisions are being made, who's making those decisions,
+
+and what you would handicap those decisions if you were my chief of staff, if you were a CEO,
+
+or if you were a board member, and I created personas to now evaluate decision-making going on.
+
+Just through that one lens.
+
+I have to show you the new version of Slack.
+
+You're going to love it, Jason.
+
+And you know, that open AI and enthropping and every AI company is standardized on Slack.
+
+Yes.
+
+And by the way, and our core sales cloud and service clouds as well.
+
+So I've got to show you what we're doing.
+
+It's so neat.
+
+So cool and so fun.
+
+What's your advice to, let's say you were running a software company that was like before
+
+the AI wave and you're private, right?
+
+There's a bunch of these companies that were supposed to go public, didn't go public.
+
+What should they do?
+
+Like, what do those boards do?
+
+What do they, what do the CLEEN X for them for all their tears?
+
+Because they're, I mean, I talk to these CEOs.
+
+They're crying with my market cap.
+
+I'm not getting paid for my work.
+
+Guys, grow up.
+
+You know, that's what I love about the public markets.
+
+They rationalize everything all the time.
+
+So great.
+
+Be in the public markets.
+
+You want to be in a private market.
+
+Your valuation is fantasy land until somebody's actually going to pay you.
+
+So I just tell them, hey, you got to focus on your revenue, focus on.
+
+on your customers, focus on your cash flow, focus on your profitability, focus on your innovation.
+
+How are you going to add value to your customers? That's what's really, truly important.
+
+Freeberg, any thoughts from you? We're doing a big Salesforce implementation at O'Halo.
+
+And I would say that one of my observations over the last six months, because we've talked a lot
+
+about using these generative tools, is we've kind of dropped all the vertical software,
+
+but we're doubling down our investment in horizontal tools. So,
+
+like we're investing heavily in these platform capabilities that then we're able to build
+
+apps and workflows on top of them that are specific to our business, rather than try and buy
+
+an off-the-shelf app or workflow tool. So I think that there's kind of a really interesting
+
+moment right now where we talked about this last time. You could kind of discern between founder-led
+
+and non-founder-led enterprise software. I also think that there's this kind of vertical horizontal
+
+shift where they're kind of trading the same right now, but you could probably break them.
+
+You could break that trade. So I think there's probably a good arbitrage there.
+
+And I think everyone who wants to sell those potato sleeves seeds, you know,
+
+it's going to need some tools to sell them.
+
+But the thing that's kind of cool is, you know, we have 15,000 salespeople now.
+
+So they're out there selling these products like Slack and selling to David and so
+
+worth.
+
+But here's the thing that's interesting.
+
+In the last 27 years, we calculated somewhere between 20, 30 million people.
+
+We didn't call back.
+
+We did not call them back because we didn't have the people to do.
+
+it. So just this week, I called back 50,000 people, you know, just through agents so I can qualify.
+
+I just bought a company called qualified so I can qualify the agents, call people back,
+
+the BDR, the SDR function. I can go outbound. I can do things I could never do before.
+
+level. Yeah. Okay. Breaking news. I want to get everybody's take on this. Open AI.
+
+in a breaking news story, it's considering suing Apple over their chat GPT partnership,
+
+as we all know.
+
+Two years ago, Apple and OpenAI announced ChatGPT would integrate into Siri, iOS,
+
+MacOS.
+
+But according to Bloomberg, the deal has gone so poorly for OpenAI that they might sue Apple
+
+for breach of contract.
+
+Here are OpenAI's gripes.
+
+Apple ChatGPT integration within Siri requires users to specifically say chat GPT to get results.
+
+We probably all experienced this if we haven't given up.
+
+on Siri, which is the worst personal assistant ever created.
+
+Apple hasn't, it's disgraciad to this level.
+
+Disgratziad with this product.
+
+How do you get there first and you remain worst?
+
+Apple hasn't promoted the integration at all.
+
+And users are still overwhelmingly going to the standalone chat, GPT app or others.
+
+OpenAI expected billions of subscription revenue from the deal and it hasn't come to fruition.
+
+And according to Bloomberg, Apple's side of the story is, hey, they have concerns about Open AI's privacy practices.
+
+Maybe they don't trust the guy in charge over there, which was a reoccurring theme in the lawsuit.
+
+And they're annoyed that Open AI, and here is the palace entry, they're upset that Open AI is building hardware to compete with Apple and that they recruited their designed guru Johnny Ive.
+
+Mark Benioff, you know the players.
+
+What is going on here?
+
+Yeah.
+
+And do you trust Sam Altman in Open AI?
+
+I love him, but let's just upscale this conversation just one second.
+
+Listen, what has happened?
+
+What happened is we have these LLMs, they're starting to come out, come out.
+
+Every company's kind of chosen a slightly different path.
+
+You had Elon, he went out, he had Grock, and he kind of started building these companions
+
+and sex bots and all this kind of stuff going on it.
+
+That was a huge focus of his, the sex bot focus.
+
+Then you kind of had Open AI and they were doing the SORA video thing
+
+and they're also doing ad networks and crazy stuff like that.
+
+Then you had Gemini and they had the nanobanana.
+
+And then finally, you've got Anthropath and they go,
+
+we don't know about those sex bots and we don't know about nanobanana,
+
+but we're going to do coding agents.
+
+And it turned out Anthropic was right.
+
+And all of a sudden the rocket ship took off.
+
+And now everybody's like, whoa, where did Anthropico?
+
+Oh, whoa, they're way up there.
+
+And then they're all like, we're all going to do coding agents too.
+
+And now they're all resetting and getting their buttons and going coding agents, everybody, focus, focus.
+
+Kill Sarah, kill this, get rid of that, sex bots off, you know, cursor on.
+
+Yeah.
+
+And that's where we are right now.
+
+And so everybody, look, this is what's cool about right now is that everybody is such a dynamic moment in our industry.
+
+so exciting that people have to pivot and you have to be ready to focus and refocus and constantly
+
+ask the question like, what do you want right now? And everyone is changing what they really want.
+
+And if you looked at where everybody was a year ago and where they are now, they're in a
+
+totally different place because we all know that when Anthropic 4-6 hit, boom, everyone could code
+
+in their companies. And before that, they really couldn't. It was a little bit of a
+
+productivity improvement, but not as much as we wanted. Now everybody sees this and goes, wow,
+
+this is unbelievable. We're even working on technology inside Slack to make it easier for everybody to
+
+code. So I think it's going to be really. Breaking news. Breaking news there. You're going to see some
+
+cool stuff with Slack and code. I'm not ready to talk about it yet. But there's no question that we are
+
+in a new moment in coding. I mean, Chimov's got a whole company around it. A lot of people have
+
+companies around it. There's going to be before coding was all about humans. And like,
+
+that's where I started. I was 15 years old, Burlingame High School, on hands-on keyboard,
+
+writing video games, you know, basic, 68,000, 6502. You know, no, no. Now it's like,
+
+how's that changed your org? Is it the product manager, the developer or the UX designer?
+
+It's all blended. The creator or did it all blend into one? And who wins? Who wins, Mark?
+
+It's all blend it together.
+
+And by the way, to Mark's point, the hands-on keyboard thing, you know, most of our engineers just speak.
+
+So it's like, and so, you know, one of our guys just has a foot button operated thing.
+
+And it just like, whispers.
+
+Oh, I have that too.
+
+That's all they do.
+
+Whispers flow plus pedal.
+
+It's all talking.
+
+Petal plus whisper flow and talking.
+
+There is no cans on keyboard anymore.
+
+All right.
+
+So let's get back to this story here.
+
+We're going for dolphin flow at saleswush.
+
+Dolphins on keyboards.
+
+Mahalo for you, O'Halo.
+
+Freeberg, two questions.
+
+One, now that Sam has shut down the sex spots,
+
+how are you filling that void?
+
+And then number two,
+
+thank you, Jamon.
+
+And number two, what's your take on the strained relationship here
+
+between Open AI and the world
+
+and specifically the Apple world?
+
+I don't know what to tell you.
+
+There doesn't seem to be a lot of long-term partnerships
+
+with Open AI.
+
+that's a very generous way to say it what should apple do should they just go back to the loving arms
+
+of google where they made a hundred billion dollars being partners with them on the search default
+
+your alma i don't know what to tell i mean look at the end of the day i think google has a real
+
+opportunity to integrate a jemini assistant into all of your personal information and jemini and calendar
+
+your Google Drive, your Google Photos, where all of your personal information sits,
+
+it can become your point of calendaring, your point of asking it questions about your personal
+
+life, hey, when did I email this person, et cetera. And in the enterprise context, I think that's also
+
+up for grabs with G Suite. And so Google has a real chance to kind of own that assistant interface.
+
+Maybe Salesforce does too, Mark. Apple obviously has an embedded install piece. How many people
+
+are using Apple services for doing all of their mail, for calendaring, for storing their information,
+
+I think a good number do.
+
+Oh, yeah, billions.
+
+Yeah.
+
+So that may end up becoming kind of the way that the world silos out.
+
+It is like you'll have an assistant, but the assistant for it to be truly useful to you individually,
+
+it has to have access to all of your information, whether it's in an enterprise context or a
+
+personal context.
+
+Apple is probably going to need to either build their own or white label with a partner.
+
+could be anthropic, could be someone else to get this to really work.
+
+But they're going to be up against a formidable competitor, as my point,
+
+because I think Google Assistant is going to end up being kind of a real kick-ass product
+
+once they get this flywheel gone.
+
+Apple has the clearest path to becoming, you know, a top two or three player in AI,
+
+simply by buying something like perplexity or mistral or some AI lab.
+
+And then using their hardware footprint, which is extraordinary.
+
+I just got this MacBook with 48.
+
+gigs of RAM on it with an M5. It is unbelievable. And the new ones with the studio coming out are going
+
+to have a terabyte of RAM. They are going to have a clear path to maintaining your privacy,
+
+running local models. And that's going to solve people's problems. It's going to be very easy
+
+to index all your images without giving the data to opening eye, which nobody trusts,
+
+or giving it to Gemini. And that's, I think, a big part of why they picked the current CEO is because
+
+he's an engineer and hardware-based.
+
+I think the future of this is going to be local models running on extraordinary desktop
+
+hardware.
+
+And if you have employees on this level of hardware running these models local like I have
+
+started to do, they become 10 times more valuable than the employee is not running it.
+
+I think Apple is my choice for the next year.
+
+I'm not a huge believer in these local models.
+
+And the only reason why is I think you want persistence.
+
+You have multiple devices.
+
+You have multiple persona.
+
+You're using a web browser in one instance.
+
+You're using a different computer at home and the other.
+
+And the idea that you don't have persistence that follows you around in 2026, I think, is a breaking feature.
+
+So I think you're not going to lug around a five-pound MacBook Pro everywhere you go so that you can get knowledge.
+
+Oh, wait, you're asking, oh, wait, I got a diagnosis from my doctor.
+
+Hold on a second.
+
+I don't think that that's a...
+
+You're right.
+
+I think you're both right.
+
+You're both right.
+
+The game on the field, though, is you will be able to use iCloud for this as
+
+well. So it's going to be, you know,
+
+effortlessly.
+
+Well, look, give me your opinion on this.
+
+I think the thing that you're assuming is that these form factors don't need to change.
+
+And I just wonder, like, don't we have an iPhone moment that we're just all going to be surprised
+
+by where somebody shows up and they're like this thing and you're like, oh, my God, that's the thing.
+
+Do you know what I mean?
+
+Yeah, there's enough.
+
+Yeah.
+
+There's enough ingredients here where somebody's going to cook something up.
+
+And then you have to think about Jason, the sunk cost of, like, you know, look, Apple is incredible.
+
+But that's the product of 40 years, 30 years of meticulous process optimization.
+
+What do you do if the form factor is totally different and the nature of the device is different?
+
+How do you pivot that organization?
+
+You're hitting on something very important, and it dovetails with another story on the docket.
+
+Miramirati released Thinking Machines' new real-time world.
+
+That was impressive.
+
+And this is super impressive.
+
+And Apple at the same time has patented putting cameras into your AirPods.
+
+So you're right.
+
+And then I use this plot pin.
+
+I've talked about it before.
+
+These persistent hardware devices, the watch, the ear pieces are going to know your entire
+
+reality.
+
+They're going to monitor your entire desktop.
+
+And this is going to lead to a use of tokens that would be a thousand times what business
+
+users are currently using because the way mirrors, we should have her on the pod or one
+
+of our events. The way her model works, Friedberg, is it's watching your desktop, it's listening
+
+to all the voices, and then it's watching your webcam all at the same time. And every 200 milliseconds,
+
+it's uploading it to two different models. One is deep thinking and looking backwards,
+
+you know, at maybe a 30 second clip and the other one's in real time. That will 1,000x the need
+
+for tokens if people are doing this for eight hours a day. Because it's not the turn-based.
+
+my latest prompt, here's my question, I got a response. It's in real time always querying
+
+an LLM, which is going to require a hardware upgrade to the average desktop mark.
+
+Benioff, what are your thoughts on this brave new world? It's one small step for man,
+
+one giant leap towards AGI. I think that you said it really well. I mean,
+
+we are in that we've been so kind of think the LLM is the be all, end all, we're going to go to AGI.
+
+I don't really understand how large language models, which are only about language and words,
+
+and we know how it works.
+
+It's one word, one word, therefore the next word is this is going to get us to where we want
+
+to go to, which is Minority Report or all the science fiction movies that we've seen.
+
+But what we saw in, and I think, Jason, you'd really articulated that super well, by the way,
+
+multi-sensory models.
+
+And multi-sensory models, well, here's a good one.
+
+Oh, yeah, me, I'm a multi-sensory bottle at a biological computer.
+
+I'm a multi-sensory model.
+
+I've got these eyes, ears, mouth, you know, work sometimes, some brain, heart, whatever,
+
+and some other things going on, too, that I don't even understand.
+
+And it's all running in this biological computer.
+
+I'm not exactly a large language model, though I do have one sometimes.
+
+So I would say that multisensory models are the next big wave for AI.
+
+But we're still not at AGI at that point.
+
+But those demos, like the demo of that model, that was pretty,
+
+Everyone should see like that was pretty awesome.
+
+And then I think we can kind of say, hmm, where are we now on this, on the path?
+
+But I think every model company is kind of go, hold on, pivot, you know, again, pivot.
+
+Like saying pivot, everybody's pivoting.
+
+And you're going to have to pick your poison and where are you going next, you know?
+
+And you can't do everything.
+
+You said you were spending $300 million on tokens with Anthropic.
+
+Now imagine what this would do to.
+
+to an average, you know, employee if they needed a thousand times the tokens they have now.
+
+So instead of spending 150K in tokens, you got to spend, you know, a hundred million.
+
+But you have some.
+
+I don't think that that's true.
+
+I don't think that that.
+
+I think we're getting brainwashed on that.
+
+Okay.
+
+So I think that's a mistake to think that way.
+
+See, I think we are wasting a lot of these tokens.
+
+Oh, for sure.
+
+So here's my, I think I convince you this.
+
+So here we're using $300 million of Anthropic this.
+
+year and we're coding, we're coding, we're coding, we're coding, right? The vast majority of those
+
+tokens don't need to go to Anthropic. There needs to be some intermediary layer that's saying,
+
+oh, that one has to go to Anthropic, but these quons can handle by a smaller model.
+
+You need a my show that can route it to the most affordable for the job. No, we're like in such
+
+an early moment. You know, it's an early moment. And I want to connect back to what you said before,
+
+which was brilliant, Jason, which was the importance of the edge, because the edge,
+
+and the cloud are going to come together, okay?
+
+And yes, you're going to have more distributed intelligence.
+
+It's going to work together.
+
+That's going to make a ton of sense what you said.
+
+What Chama said was also completely right.
+
+You were both right.
+
+Then you combine it to this idea.
+
+Let's put it together where we're going.
+
+Yes, we're going to have more distributed intelligence.
+
+We're going to have intelligence on the edge.
+
+We're going to have multi-sensory models.
+
+And yes, you're going to do coding.
+
+And it's going to be more efficient, though.
+
+So to think that it's going to be always so expensive,
+
+that is just the moment of time that we're at right now.
+
+And I think there's going to be a hot new company that's going to come along and say this.
+
+I'm going to sit between you and Anthropic and Open AI.
+
+And I'm going to make sure that you only need their tokens when you actually need them.
+
+And that is not really where we are right now.
+
+Does that make sense what I'm saying?
+
+Totally.
+
+You're like, it's like, oh, I need a shower.
+
+And okay, great, all the water.
+
+No, no, no.
+
+I just need some water.
+
+I don't need all of the water.
+
+Yeah.
+
+Okay.
+
+All right.
+
+Listen, we have two final topics here.
+
+We can talk about Anthropic unrolling the dark SPVs and the impact that has on the market.
+
+Or we can go to everybody's favorite Science Corner.
+
+Well, do both.
+
+Just do a quick around the neighborhood.
+
+Yeah.
+
+Okay.
+
+Lightning Round on what we'll do SPVs last.
+
+Freeburg, what do you got in Science Corner?
+
+Everybody, all the Friedberg fans just destroyed when we see.
+
+skip it. So let's give them a good one. Mark, do you like Science Corner? No, you do. I do.
+
+Come on. Yeah. Only if it's about the oceans. Mark is the greatest salesman in Silicon Valley. He
+
+loves it all and he wants to hear more. Mark, how did you learn sales? How do we become half as good
+
+as you? I'm not a good sale. I'm like a geek. You are. But you know how to like a Tony Robin seminar.
+
+Let's go. Okay. We're all going to Tony. Put out the coals. We're walking across him.
+
+Nick, let's pull up the first chart.
+
+This science corner is about the dreaded El Niño season that is coming up.
+
+And so this is a forecast for sea surface temperature anomalies.
+
+And basically what this means is that the ocean at this point has heated up so much
+
+that there is now a forecast on ocean temperatures that are going to exceed anything we have seen in recent history.
+
+So we're kind of looking at temperatures that might be four degrees above normal.
+
+That doesn't sound like a lot.
+
+But let's just look at this image.
+
+That top image is the sea surface temperature anomaly.
+
+That means how different the sea surface or the ocean temperatures are.
+
+Why does that matter?
+
+And this is compared to 1877 when we had the biggest El Nino year ever.
+
+And I'll explain what that means in a moment.
+
+But why does this all matter?
+
+The reason is the oceans are the battery of weather.
+
+What happens at one part of the year is that the oceans absorb
+
+heat energy. And absorb, absorb, absorb, gets hotter and hotter and hotter. And then that heat
+
+energy is released into the atmosphere. And then the atmosphere drives the weather events that happen all
+
+over the world. And it becomes somewhat predictable that you can estimate what the weather over the
+
+next year is going to be like based on how the temperatures are sitting in the ocean today. And at this
+
+point, there is so much excess energy stored up in the oceans. I'll give you guys a statistic.
+
+it's about 11 million terawatt hours.
+
+The whole planet Earth uses 25,000 terawatt hours in a year.
+
+So 11 million extra terawatt hours of energy is currently stored up.
+
+That's 500 years worth of human energy in this ocean.
+
+And over the next few months, that energy is going to be released into the atmosphere.
+
+And that will absolutely 99% confidence that will make the upcoming year,
+
+the hottest year on record by far that humans have ever experienced,
+
+or at least that we've experienced in recent history,
+
+where we didn't have data going back a long time.
+
+It changes the trade winds,
+
+which changes how a lot of the weather evolves from a normal season.
+
+It changes the moisture in the atmosphere in certain parts of the world.
+
+And I'll just give you some highlights of what this means over the coming year.
+
+There will be major atmospheric river events
+
+where you just get water dumped on you in the southwest in California and the Gulf Coast.
+
+You'll have very low snowfall and very high heat waves in the northern part of the U.S.
+
+going up to Canada. You guys remember all those fires a couple years ago in Canada.
+
+Interior regions of the U.S., like in Phoenix and so on, they're already seeing temperatures at 106 degrees in May.
+
+A super El Nino, like is forecasted for this year, could extend that duration of these heat domes,
+
+which could create temperatures that we've never seen in those areas.
+
+Southern Argentina, Chile, Brazil could see record-shattering heat waves.
+
+And this is where things start to get a little nasty, because when that happens, the crops start to fail.
+
+And in many parts of the world, Brazil, India, Australia, these are critical local consumption for
+
+large populations, but also major ag export markets. So if Brazil's crop fails, if Australia's
+
+wheat crop fails, Australia's wheat crop goes to places like Indonesia and the Philippines.
+
+Hundreds of millions of people depend on that wheat crop. Hundreds of millions of people depend on
+
+the exports out of Brazil. Brazil's the world's largest ag exporter. And the scariest one of all is if the
+
+monsoons fail, which is now a very high probability event in India, 150 million farmers in
+
+India that depend on their agricultural output or they don't make any money, they can't survive,
+
+and one and a half billion people that depend on that food. So the importance of this El Nino event
+
+goes beyond just like an interesting weather anecdote. But if you think about the second and third
+
+effects of this over the next year, you could see energy prices spiking and electricity
+
+spiking and the grid failing in parts of the southwest, commodity prices spiking all over the
+
+world. And then you would see places like India, the Philippines, Vietnam, starting to face some
+
+sort of unrest if there isn't enough food supply that's coming into those markets. And then the
+
+question in India is a really nasty one, because there isn't a really good solution. India and markets
+
+like it that are significantly dependent on having their monsoon event, but also are currently
+
+facing a shortage of nitrogen-based fertilizer because of the crisis with Iran and the straight-of-ormuz,
+
+which we've talked about is a double whammy. So,
+
+Over the next year in South Asia, you could see a calorie deficit and a major kind of economic
+
+crisis that starts to emerge.
+
+So this El Nino event, I just wanted to kind of bring it up as an interesting science corner
+
+because the data now seems pretty confirmed that over the next few months, we're going to have
+
+this record-breaking El Nino, and these are the sorts of consequences that will play out over
+
+the next year.
+
+This is fucking scary.
+
+God damn.
+
+What do you do about the food problem?
+
+That's a big problem.
+
+That's a big problem.
+
+And this is the commodity markets are going on.
+
+I'm wild for this right now. Did this happen the last time we had in El Nino?
+
+Yeah. So when we have El Nino, there's a severity of these sorts of events happening.
+
+No, I mean, did we have a food shortage problem in the last El Nino?
+
+Oh, yeah. When we have El Ninos, there's food shortages that come out of Australia,
+
+Brazil. You see these events. That's a regular part of the thing. The problem this year is the
+
+index is so off the charts. It is so far beyond anything we've seen. And it's correlated,
+
+obviously, with the severity that it triggers a crisis that may be really difficult to manage.
+
+in a lot of places. So the U.S. is a net ag exporter. So from a U.S. perspective, our big issues to worry
+
+about are the fire season. By the way, this does decrease Atlantic hurricanes. You're going to have
+
+fewer hurricanes this year in the south. But you know, you have these kind of major storm events that
+
+happen in California, the heat waves, electricity prices. We're probably more stable than other parts
+
+of the world. But think about the Brazil, the ag export market is such a significant part of the
+
+economy. And Brazil has a debt problem that this could end up becoming an economic problem in some
+
+parts of the world, including Brazil. So the commodity markets are trading this El Nino event
+
+pretty actively right now. It's become kind of a focal area for a lot of folks in commodity markets.
+
+Can your supersedes help or no? That's a longer term solution. But I mean, look, we're like at the
+
+end of the day having, it's actually a good point, but having genetics, a crop genetics that can
+
+adapt to a more rapidly changing climate is going to be critical over the next couple of decades.
+
+That's a big kind of macro for another part of this Friedberg.
+
+that as certain places heat up, they actually become viable places to put crops, i.e. Canada
+
+or the northern part of the United States. So we're seeing the actual places you can grow certain crops
+
+independent of genetic modification is expanding. In other words, farmlands expanding because of global
+
+warming. Right. So we increasingly grow soybeans in Canada. That was not the case two decades ago.
+
+Through both plant breeding where we've made the genetics adapt, but also the warm.
+
+temperature, the shorter winters and whatnot. They've been able to grow that crop further north.
+
+But if you guys go back a couple of years, there were major heat waves and droughts in Australia.
+
+Huge fires, yeah.
+
+Huge fires. But remember that week goes to Indonesia. It goes to Vietnam. It goes to these
+
+countries with hundreds of millions of people dependent on it. And then they got to go scramble
+
+and find it elsewhere. Now, on a global basis, there's always a bit of a give and a take.
+
+But in a year like this, when you have this much energy pumped into the atmosphere,
+
+you may not have the give and the take. And that's where things start to buckle.
+
+All right. So, yeah, it's just like an early warning sign. I know I've given food warnings,
+
+food crisis warnings twice before on the show. You gave a really good one for Ukraine four years ago.
+
+And it turned out that that warning resulted in a negotiation to allow wheat to flow out of Ukraine,
+
+that Russia, Ukraine, and other folks made a specific carve out in their war to make sure that famine didn't spread.
+
+Yeah, and the fertilizer export was negotiated at the start of the war as well, which was critical for sure.
+
+I think you played a role in raising awareness for that, so I'll give you credit there, Freiburg.
+
+Mark, thanks for coming on the program.
+
+Sorry that at the end of the program, we all want to commit Sapuku here, but we have Dr. Doom,
+
+and he always loves to end the show.
+
+There he is.
+
+Coming up from Marvel in December.
+
+Do you want to wrap with an upbeat, Anthropic story or something?
+
+Doomsday
+
+starring David Friedberg
+
+coming to the Marvel franchise
+
+in December.
+
+Yes.
+
+You thought Robert Downey Jr.
+
+was playing him.
+
+It's actually Friedberg.
+
+Here's your meme.
+
+It's not Mark Benioff's first time
+
+here in the Saspocalypse.
+
+There it is.
+
+First time.
+
+Oh, go on.
+
+He's like, I've been throwing this before, boys.
+
+I'm buying my stockback.
+
+Somebody cut that rope.
+
+Yeah, absolutely.
+
+All right.
+
+Listen.
+
+I'll just lightning around this one. Anthropic has had enough of the shenanigans of the multi-tiered, multi-layered SPVs being sold to dentists for 10% load-in fees. I think we all knew this day was coming since it's becoming the Wild West. They called out specific platforms and they said we're going to negate them Chimov. Tempest in a teapot or long overdue punishment for bad actors.
+
+Love. Mark said it right. All these companies.
+
+should go public and get evaluation and focus on the higher order bit. And all of these
+
+tiki-taki mechanisms that people can use to stay private longer need to get a bullet put in its head.
+
+And these SPVs are the worst. The layered SPVs on SPVs on SPVs. By the way, and I will
+
+guarantee you this, once SpaceX goes public, once Anthropic goes public, once Open AI goes public,
+
+you're going to see a litany of these lawsuits back and forth between the purveyors of these
+
+SBs. They should not be allowed. They should be all negated if possible. You can't, now you can't
+
+unbreak the eggs. So I guess you just have to call it what it is. I hope every company adopts this.
+
+And I hope as a result, these companies go public sooner and they rationalize their equity structure
+
+faster. I think it's the right thing to do. So I like the fact that Anthropics is just
+
+say, discratia.
+
+Well, it's not discruciad.
+
+I just think that you want to have a lot of...
+
+Well, you're going to have a lot of people that are going to be very upset once this SpaceX thing comes up.
+
+Because inevitably, because it happened in Uber, somebody gets screwed in a layered SPV somewhere that they didn't know.
+
+And they're going to be like, what happened?
+
+Read the fine print.
+
+You're getting double carry and you paid 10% on the load in fee.
+
+And you paid a price 10% over what the last round was.
+
+So it's a recipe for disaster.
+
+Recipe for disaster.
+
+Recipe for disaster.
+
+Hey, Mark, great job.
+
+Thanks so much for coming on with you guys.
+
+Yeah, come back any time.
+
+You were great.
+
+Hey, you repeat.
+
+We have a fan question here.
+
+This is a fan question that came in written by your PR department.
+
+They want to know when you do your charity work or your innovation as a founder, are you more, you know, at this stage in your career, you're known for both of these things.
+
+Are you more Steve Jobs or more Lorraine Powell right now?
+
+What did your PR department work very, very deeply on that question.
+
+The best decision I ever made, the best.
+
+When I started Salesforce, we put 1% of our equity, one percent of our profit, and 1% of all
+
+our employees' time into a foundation.
+
+Today, we've done more than 10 million hours of volunteerism.
+
+We've given away more than a billion dollars in grants.
+
+And we run over 50,000 nonprofits for free on our platform.
+
+That's just Salesforce.
+
+course. Every company should do this. It's amazing. Pledge1.org. That's my advertisement for the show.
+
+Everybody should jump on the one-one-one platform. Best decision I ever made 27 years ago.
+
+Irrespective, I've obviously done a huge amount of personal philanthropy to five hospitals, all of those things.
+
+You did one that was really, I think, personal. Susan Wojewski tragically died of cancer and
+
+major...
+
+Okay, you're going to get me crying. Let's not go there. This is not. You're talking about my
+
+My best friend, bestie, my bestie.
+
+She was a special person, huh?
+
+She's a star.
+
+The best.
+
+She was the best.
+
+I'm not kidding.
+
+I'm not kidding.
+
+Tell the audience what was so unique about Susan.
+
+Tell them, it's a good time to do a remembrance.
+
+This was one of the great people on the planet, incredible woman, mother of five amazing children, and two amazing sisters, great family.
+
+Everybody knows Anne, her sister, her sister Janet at UCSF.
+
+Sorry, my eyes are tearing up.
+
+I'll just tell you that, you know, she contracted a very rare form of cancer, passed away too young a couple years ago now.
+
+And she was on our board.
+
+She was one of the great people of all time.
+
+I'm so grateful that her family is focusing on building a new foundation to go after this rare cancer.
+
+We're backing it.
+
+I think everybody should.
+
+look, everyone should try to be a Susan.
+
+She was one of the absolute
+
+greats. And I have an altar in my office when you
+
+come to see me. You'll see what the photos of her and me.
+
+And I think of her every single day.
+
+And my heart just stays with her, her husband, Dennis,
+
+all the children, the sisters, the whole Wshiki family,
+
+amazing. And one of the great institutions
+
+in Silicon Valley were lucky to have the whole family.
+
+Yeah. She was fantastic.
+
+Well, sad.
+
+All right. Well, sad.
+
+Rest in peace.
+
+and we're checking. Thank you. All right. We'll see you all next time on the L'A
+
+podcast. Love you, boys. See you guys. Aloha. Thanks for you. Bye-bye.

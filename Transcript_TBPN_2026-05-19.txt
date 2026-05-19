@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-05-19 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~178k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - Leopold's 13F, Data Center Fixes, Shein Buys Everlane | Mike Isaac, Rowan Trollope, Dean Leitersdorf, Joanna Stern
 Quelle: https://podscripts.co/podcasts/tbpn-live/leopolds-13f-data-center-fixes-shein-buys-everlane-mike-isaac-rowan-trollope-dean-leitersdorf-joanna-stern

@@ -2,79 +2,97 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| KI-Rechenzentren | Die öffentliche Opposition gegen KI-Rechenzentren nimmt in den USA zu, getrieben von Bedenken hinsichtlich Arbeitsplatzverlust, Überwachung, Wasser- und Stromverbrauch, was zu Moratorien und politischen Rückschlägen führt. | Host, Quick Thoughts, Alex Cantorowitz, Ben Thompson, Mark Cuban, Palmer Luckey | TBPN |
-| KI-Compute & Infrastruktur | Die beispiellose Nachfrage nach Rechenleistung für KI führt zu Engpässen bei Chips und erfordert innovative Software- und Hardware-Optimierungen, um das Wachstum der KI-Branche zu ermöglichen. | Host, Leopold Asherbrador, Rowan Trollope (CEO Redis), Dean Leitersdorf (DeCard) | TBPN |
-| KI & Gesellschaft | KI verändert die Arbeitswelt, das Gesundheitswesen und die Mensch-Computer-Interaktion, wobei die Akzeptanz von KI von ihrer greifbaren positiven Wirkung und der Entwicklung intuitiver, weniger ermüdender Schnittstellen abhängt. | Host, Joanna Stern (Author, Business Owner) | TBPN |
+| KI-Infrastruktur | Nvidia wird voraussichtlich ein astronomisches Wachstum erleben, angetrieben durch eine massive Zunahme des Speicherbedarfs pro GPU und der GPU-Nachfrage, was die Lieferketten für KI-Chips auf Jahre hinaus dominieren könnte. | Tay Kim (Key Context) | TBPN |
+| Cybersicherheit | Eine "perfekte Sturm"-Situation entsteht durch KI-generierten Code und KI-Modelle, die Schwachstellen exponentiell erhöhen, während Angreifer die Software-Lieferkette ausnutzen. | Feross Aboukhadijeh (Socket) | TBPN |
+| KI im Design | KI-Agenten sollen Designern helfen, sich von repetitiven Aufgaben zu befreien und sich auf kreative Innovationen zu konzentrieren, erfordern aber die Überwindung von "AI slop" und "AI psychosis". | Dylan Field (CEO, Founder of Figma) | TBPN |
+| Googles KI-Strategie | Googles KI-Strategie wird als unzureichend kritisiert, insbesondere im Bereich der Coding Agents, was die Wertschöpfung zu Konkurrenten wie Anthropic und OpenAI verschieben könnte. | Tay Kim (Key Context) | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🚧 KI-Rechenzentren: Wachsender Widerstand und Lösungsansätze
+## 📈 Nvidia & KI-Infrastruktur: Astronomisches Wachstum und Lieferketten-Dominanz
 
-Die Diskussion zeigt eine zunehmende öffentliche Opposition gegen den Bau von KI-Rechenzentren in den USA. Diese Ablehnung kommt sowohl von links (Bedenken wegen Jobverlust, Kunst) als auch von rechts (Sorge vor Überwachung) und führt zu konkreten politischen Maßnahmen wie Moratorien und der Abwahl von Lokalpolitikern. Die Bedenken konzentrieren sich auf den Verbrauch von Wasser und Strom sowie die allgemeine Lebensqualität.
-
-**Konkrete Details aus dem Gespräch:**
-- 7 von 10 Amerikanern lehnen den Bau von KI-Rechenzentren in ihrer Nähe ab, wobei 48% stark dagegen sind.
-- In Hill County, Texas, wurde ein einjähriges Moratorium für den Bau von Rechenzentren und Kraftwerken verhängt.
-- In Missouri wurden vier amtierende Stadträte abgewählt, nachdem sie den Bau von Rechenzentren genehmigt hatten.
-- Eric Schmidt wurde bei einer Abschlussrede für die Erwähnung von KI ausgebuht, was die breite Skepsis widerspiegelt.
-- Ben Thompson schlägt vor, Anwohnern direkte jährliche Zahlungen (z.B. 10.000 USD pro Person) anzubieten, um die Akzeptanz für Rechenzentren zu erhöhen.
-- Mark Cuban schlägt eine Bundessteuer von 50 Cent pro Million AI-Tokens vor, um den Energieverbrauch zu optimieren und Einnahmen für den Staat zu generieren.
-
-**🇪🇺 Europa-Relevanz:**
-- EU-Strompreise sind 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa, was die wirtschaftlichen Herausforderungen für den Bau und Betrieb von Rechenzentren in der EU verschärft.
-- In der EU gibt es bereits Diskussionen über Moratorien für Rechenzentren (z.B. in Frankfurt, Amsterdam, Dublin), was den in den USA beobachteten Widerstand widerspiegelt und potenziell verstärkt.
-- Die €200 Mrd. InvestAI-Initiative der EU zielt auf den Bau von 4-5 KI-Gigafactories ab, die bis zu 100.000 Next-Gen-AI-Chips beherbergen sollen – öffentlicher Widerstand könnte diese strategischen Infrastrukturprojekte gefährden.
-- Kanzler Merz will Netzanschluss-Regeln überarbeiten, auch für Rechenzentren, um den Ausbau zu erleichtern, während US-Lokalregierungen Moratorien verhängen.
-
-## ⚡ KI-Compute: Engpässe und Optimierungsstrategien
-
-Die beispiellose Nachfrage nach Rechenleistung für KI, angetrieben durch die These, dass KI den Bedarf an Compute exponentiell steigern wird, führt zu erheblichen Engpässen bei Chips. Dies zwingt Unternehmen zu innovativen Software- und Hardware-Optimierungen, um das Wachstum der KI-Branche aufrechtzuerhalten.
+Tay Kim (Key Context) prognostiziert ein beispielloses Wachstum für Nvidia, angetrieben durch die explosionsartige Nachfrage nach KI-Beschleunigern. Er erwartet, dass der Bedarf an Speicher pro GPU und die Anzahl der benötigten GPUs in den nächsten zwei Jahren um das 25-fache steigen werden, was zu einer potenziellen 625-fachen Umsatzsteigerung führen könnte. Nvidia hat sich demnach bereits eine dominante Position in der Lieferkette gesichert.
 
 **Konkrete Details aus dem Gespräch:**
-- Leopold Asherbrador, CIO eines Hedgefonds, setzt auf die These, dass KI einen beispiellosen Bedarf an Rechenleistung und damit verbundene Engpässe schaffen wird.
-- Sein 13F-Filing zeigt massive Puts auf den Halbleitersektor, aber auch Long-Positionen in Nvidia und T1 Energy (Solarpanel-Hersteller).
-- Redis hat Iris als Kontext-Engine für KI-Agenten entwickelt, um Token-Kosten zu senken und die Geschwindigkeit zu erhöhen, sowie einen Agent Memory Server zur Speicherung von Agentenwissen.
-- Redis nutzt Flash als Backend-Speicher, um den hohen RAM-Preisen und dem wachsenden Datenvolumen gerecht zu werden.
-- DeCard's DOS 2.0, eine Inferenz-Engine, wurde aufgrund massiver Chip-Engpässe (keine Kapazität bis 2028) früher veröffentlicht.
-- DOS 2.0 unterstützt NVIDIA, Google TPU und Amazon Tranium, ermöglicht Echtzeit-Videomodelle in Full HD bei 100 FPS und Textmodelle über 1.500 Tokens/Sekunde.
+- Michael Dell prognostiziert, dass KI-Beschleuniger in zwei Jahren 25-mal mehr Speicher pro GPU und 25-mal mehr GPUs benötigen werden.
+- Nvidia hat Aufträge im Wert von einer Billion Dollar und die Kapazitäten für Speicher, Wafer und Optik gesichert.
+- Jensen Huang (Nvidia) bestätigt, dass die KI-Nachfrage das Angebot bei weitem übersteigt, erwartet aber, dass Lieferengpässe in 2-3 Jahren weniger problematisch sein werden.
+- TSMC wird das Investitionsvolumen (CAPEX) in den nächsten drei Jahren "dramatisch" erhöhen.
+- Nvidia wird voraussichtlich in den nächsten drei Jahren ein Wachstum von 50-75% verzeichnen.
+- Es wird erwartet, dass Nvidia bis zu 50% seines Free Cash Flows für Aktienrückkäufe verwenden wird, was das Bewertungs-Multiple des Unternehmens weiter erhöhen könnte.
 
 **🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA, was die Dringlichkeit der Chip-Engpässe für die EU unterstreicht.
-- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen für KI-Technologie und kritische Infrastruktur wie Rechenzentren, um die Abhängigkeit von US-Chips zu reduzieren.
-- Deutsche Bewerbungen für KI-Gigafactories, wie die €11-Mrd.-Investition von Schwarz Digits in Lübbenau und das Telekom/Nvidia-Projekt in München, sind direkte Antworten auf den Compute-Mangel und die Notwendigkeit der Optimierung.
-- EVP Virkkunen betont, dass Mehrheitseigentümer von EU-finanzierten Gigafactories aus Europa kommen sollen, um Tech-Souveränität zu gewährleisten.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen, was eine erhebliche Lücke in der KI-Infrastruktur aufzeigt.
+- Die EU mobilisiert über die InvestAI-Initiative €200 Mrd. für KI, davon €20 Mrd. für den Bau von 4-5 KI-Gigafactories, die jeweils ~100.000 Next-Gen-AI-Chips beherbergen sollen.
+- Schwarz Digits investiert €11 Mrd. in ein Rechenzentrum in Lübbenau (Brandenburg), das bis zu 100.000 GPUs aufnehmen kann, wobei der erste Bauabschnitt bis Ende 2027 abgeschlossen sein soll.
+- EVP Henna Virkkunen betont, dass Mehrheitseigentümer von EU-finanzierten Gigafactories aus Europa kommen sollen, um die Tech-Souveränität der Region zu gewährleisten.
 
-## 🤖 KI & Gesellschaft: Jobs, Gesundheit und die Zukunft der Interaktion
+## 🔒 KI & Cybersicherheit: Der "perfekte Sturm" in der Software-Lieferkette
 
-KI verändert grundlegend die Arbeitswelt, das Gesundheitswesen und die Art und Weise, wie Menschen mit Technologie interagieren. Die Akzeptanz von KI hängt stark von ihrer Fähigkeit ab, greifbare positive Auswirkungen zu erzielen und intuitive, weniger ermüdende Schnittstellen zu entwickeln, die über die aktuelle Smartphone-Müdigkeit hinausgehen.
+Feross Aboukhadijeh (Socket) beschreibt eine kritische Eskalation im Bereich der Cybersicherheit, die er als "perfekten Sturm" bezeichnet. Dieser wird durch die zunehmende Menge an KI-generiertem Code und die Fähigkeit von KI-Modellen, Schwachstellen zu finden, verstärkt, während Angreifer gezielt die Software-Lieferkette ins Visier nehmen.
 
 **Konkrete Details aus dem Gespräch:**
-- Joanna Sterns Buch "I Am Not a Robot" untersucht das Leben mit KI und ihre Auswirkungen auf den Alltag.
-- Im Gesundheitswesen kann KI Krebs erkennen, den Menschen übersehen, und Ärzte bei der Notizenverwaltung unterstützen, was als "magisches und nützliches Feature" beschrieben wird.
-- KI auf dem Backend erhält oft wenig Anerkennung, während negative Beispiele (z.B. Slop-Bilder, Fake News) die öffentliche Wahrnehmung prägen.
-- Es wird vor emotionaler Bindung an KI-Chatbots gewarnt ("Don't fall in love with your chatbot").
-- Das Potenzial für neue AI-Wearables wird als "nächster Computer-Shift" gesehen, der über die Smartphone-Müdigkeit hinausgeht und eine passivere, aber vernetzte Interaktion ermöglicht.
-- Junge Menschen sind zunehmend besorgt über den Einfluss von KI auf den Arbeitsmarkt; Tech-Jobs für Absolventen sind fragiler geworden.
-- Ratschlag für junge Menschen: KI-Tools lernen, menschliche Mentorschaft suchen und sich durch spezifisches Wissen über Unternehmen hervorheben.
+- Socket verzeichnete in den letzten 12 Monaten ein ARR-Wachstum von über 500%.
+- KI generiert mehr Code als je zuvor, was zu einer beispiellosen Geschwindigkeit bei der Integration von Open-Source-Abhängigkeiten führt.
+- Frontier-KI-Modelle wie Mythos entdecken Tausende von schwerwiegenden Schwachstellen in wichtigen Betriebssystemen und Open-Source-Bibliotheken.
+- Angreifer nutzen die Software-Lieferkette aus, um über eine einzige kompromittierte Open-Source-Komponente in Tausende von Organisationen einzudringen.
+- Open-Source-Maintainer sind überlastet und können Patches, selbst wenn sie von KI-Labs bereitgestellt werden, nicht schnell genug akzeptieren.
+- Socket bietet "Certified Patches" an, eine Lösung, die Schwachstellen in Open-Source-Abhängigkeiten mit einem Klick behebt, ohne dass Paket-Upgrades erforderlich sind.
 
 **🇪🇺 Europa-Relevanz:**
-- Der EU AI Act verbietet ab Feb 2025 bestimmte KI-Praktiken und erfordert ab Aug 2026 Compliance für High-Risk-Systeme (Bußgelder bis €35 Mio. oder 7% Umsatz), was die Entwicklung von "human-centric" KI in Europa fördern soll.
-- EVP Virkkunen prüft im Digital Omnibus eine Verschiebung der High-Risk-Deadline bis Dez 2027/Aug 2028, um der Industrie mehr Zeit für die Umsetzung zu geben und die Balance zwischen Regulierung und Innovationsförderung zu finden.
-- Das deutsche 1.000-Köpfe-Plus-Programm soll internationale KI-Wissenschaftler anziehen, um dem Brain Drain entgegenzuwirken, der durch Jobängste und bessere Bedingungen in den USA verstärkt wird.
-- Die EU-Kommission hat im Digital Fitness Check eine Konsultation bis zum 11. März 2026 eröffnet, um die Wechselwirkung aller EU-Digitalgesetze zu prüfen, was die Komplexität der KI-Regulierung in Europa unterstreicht.
+- Der Berlin-Anschlag auf das Stromnetz im Januar 2026 hat die Debatte über die Sicherheit kritischer Infrastrukturen (Kritis-Dachgesetz) und hybride Bedrohungen in Deutschland neu entfacht.
+- Das EU SAFE-Programm zielt auf autonome europäische Sicherheit und Verteidigung ab, was die Notwendigkeit robuster Software-Lieferketten und Cybersicherheitslösungen unterstreicht.
+- Der Deutschlandfonds enthält erstmals ein Modul für Verteidigungs-Startups, um die fragmentierte europäische Verteidigungsindustrie zu stärken und eigene Sicherheitslösungen zu fördern.
+- Die BaFin-Aufsicht in Deutschland und die Merz-Regierung arbeiten an einer Vereinfachung der Finanzregulierung, die auch die Integration von Cybersicherheitsstandards in Finanzdienstleistungen umfassen könnte.
+
+## 🎨 KI im Design: Kreativität jenseits des "Slop"
+
+Dylan Field (CEO, Founder of Figma) sieht KI-Agenten als transformative Werkzeuge für Designer, die repetitive Aufgaben automatisieren und kreative Explorationen ermöglichen. Er warnt jedoch vor einer "AI psychosis" und der Notwendigkeit, die Qualität von KI-generiertem "Slop" zu überwinden, um echte Innovationen zu erzielen.
+
+**Konkrete Details aus dem Gespräch:**
+- KI-generiertes Design wird zunehmend als solches erkennbar ("easy to clock as AI text").
+- Figma's Design Agent hilft, Kontext aus bestehenden Dateien in die Kontext-Fenster der Agenten zu bringen.
+- Agenten können für Design-Explorationen, Variationen und "rote Aufgaben" wie Design-System-Wartung, Komponentenänderungen oder Textübersetzung eingesetzt werden.
+- Die Herausforderung besteht darin, über "AI slop" hinauszugehen und echte UX-Probleme zu lösen, anstatt nur Klischees zu generieren.
+- Figma verzeichnet ein Wachstum der Nutzerbasis innerhalb von Organisationen, was die Bedeutung von Kollaboration und Ideenaustausch unterstreicht.
+- Field betont, dass Design der "Differentiator" und das "Schlachtfeld" ist, da Code zunehmend zur Ware wird.
+
+**🇪🇺 Europa-Relevanz:**
+- Der EU AI Act, dessen Verpflichtungen für High-Risk-Systeme ab August 2026 durchsetzbar sind, könnte die Entwicklung von Design-Agenten beeinflussen, insbesondere bei der Bias-Erkennung mit sensiblen Daten, die unter strengen Auflagen erlaubt wird.
+- EVP Henna Virkkunen's Digital Fitness Check, dessen Konsultation bis zum 11. März 2026 läuft, prüft die Wechselwirkung aller EU-Digitalgesetze, was für die Integration von KI in Design-Tools relevant ist.
+- Die EFI-Kommission empfiehlt in ihrem Gutachten 2026, "europäisch zu denken statt nationaler Kleinstaaterei" bei der KI-Entwicklung, was die Notwendigkeit von kollaborativen Design-Plattformen und dem Austausch von Best Practices unterstreicht.
+- Das 1.000-Köpfe-Plus-Programm soll dem Brain Drain von KI-Talenten in die USA entgegenwirken, was die Verfügbarkeit von Design-Experten in Europa verbessern könnte, die mit solchen Tools arbeiten.
+
+## 📉 Googles KI-Strategie: Kritik und Wettbewerbsbedenken
+
+Tay Kim (Key Context) äußert sich kritisch zu Googles KI-Strategie und bezeichnet das Unternehmen als "non-existent" im schnell wachsenden Markt der Coding Agents. Er warnt davor, dass Googles strategische Investitionen in Konkurrenten wie Anthropic langfristig die eigene Machtposition im Tech-Ökosystem schwächen könnten, da die Wertschöpfung zu den Modell-Anbietern abwandert.
+
+**Konkrete Details aus dem Gespräch:**
+- Google wird als "non-existent" im Bereich der Coding Agents beschrieben, einem Markt, der exponentiell wächst.
+- Konkurrenten wie Anthropic und OpenAI gewinnen Milliarden von Dollar und Millionen von Nutzern für ihre Coding Agents (Claude Code, Codex).
+- Googles eigener Coding Agent "Anti-Gravity" wird auf Twitter negativ bewertet und ist "nowhere to be found".
+- Google investiert massiv in Anthropic, was strategisch riskant ist, da die Wertschöpfung langfristig zu den Modell-Anbietern fließt.
+- Historische Beispiele wie Yahoo/Google Search und Netscape/Yahoo zeigen, wie die Unterstützung von Drittanbietern zur Schwächung der eigenen Position führen kann.
+- Trotz Vorteilen bei Compute, Distribution und Daten könnte Google die "Flywheel"-Effekte an die Konkurrenz verlieren.
+
+**🇪🇺 Europa-Relevanz:**
+- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen für europäische KI-Technologieunternehmen, um eine Abhängigkeit von US-Anbietern wie Google zu vermeiden und eigene KI-Kapazitäten aufzubauen.
+- Kanzler Merz fordert eine F&E-Quote von 3,5% des BIP und sieht KI als Grundlage für Souveränität und Sicherheit, was eine eigene europäische KI-Entwicklung gegenüber US-Dominanz bevorzugt.
+- Das EU AI Office, ab August 2025 operativ, überwacht den GPAI Code of Practice, dem 26 Anbieter (inkl. Google, OpenAI, Anthropic) beigetreten sind, was einen Rahmen für verantwortungsvolle KI-Entwicklung schafft.
+- Die regulatorische Asymmetrie, bei der die EU umfassend reguliert und die USA auf Selbstregulierung setzen, könnte europäische Unternehmen dazu zwingen, bei der Entwicklung von KI-Produkten wie Coding Agents andere Ansätze zu wählen als US-Konkurrenten.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-- **OpenAI Lawsuit:** Elon Musks Klage gegen OpenAI wurde wegen Verfristung abgewiesen, was OpenAI eine vorübergehende Erleichterung verschafft, aber die Debatte um die Ausrichtung von KI-Entwicklungen fortsetzt.
-- **Everlane Acquisition:** Die Übernahme des "ethischen" Modeunternehmens Everlane durch Shein für 100 Millionen Dollar verdeutlicht die Herausforderungen des Direct-to-Consumer (DTC)-Modells und die Schwierigkeiten, Nachhaltigkeit in großem Maßstab zu monetarisieren.
-- **Protein Shortage:** Eine steigende Nachfrage nach Protein, insbesondere Molkenprotein, führt zu Engpässen und Preiserhöhungen, da die Infrastruktur für die Milchverarbeitung nicht schnell genug skaliert werden kann, um die sich schnell ändernden Verbraucherpräferenzen zu bedienen.
+-   **SpaceX IPO:** Das bevorstehende IPO von SpaceX wird als "Blockbuster" erwartet, das alle bisherigen IPOs (einschließlich Saudi Aramco) in den Schatten stellen könnte, mit einer erwarteten Bewertung von 1,5-1,75 Billionen Dollar. Founders Fund und Valor könnten über 60 Mrd. Dollar, Sequoia über 20 Mrd. Dollar an Gewinnen erzielen. (Quelle: TBPN)
+-   **Mercury Funding & KI in FinTech:** Mercury hat eine Serie C über 200 Mio. Dollar bei einer Bewertung von 1 Mrd. Dollar abgeschlossen, angetrieben durch 2,5-faches Wachstum der Antragszahlen im Q1. Das Wachstum ist hauptsächlich organisch und wird durch LLM-Empfehlungen sowie die Integration von KI-Tools (CLI, API, Mercury Insights, Mercury Command) in Finanzworkflows gefördert. (Quelle: TBPN)
+-   **Intelligente Brillen:** Google kündigte Partnerschaften mit Samsung, Gentle Monster und Warby Parker für neue intelligente Brillen an, die Gemini-Funktionen integrieren. Diese sollen mit Kamera und Mikrofon ausgestattet sein und könnten eine diskretere Alternative zu Meta-Raybans darstellen. (Quelle: TBPN)
 
 # 💭 Zum Drüber Nachdenken
 
-**Trumps Kraftwerks-Zwang entlarvt Europas Rechenzentrum-Illusion**
-Kontext: In den USA wächst der Widerstand gegen Rechenzentren, selbst in traditionell wirtschaftsfreundlichen Staaten wie Texas. Ben Thompson schlägt direkte Zahlungen an Anwohner vor, um Akzeptanz zu schaffen. Gleichzeitig warnt Tim Höttges (Telekom), dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% verbrauchen. Projekte wie das €11-Mrd.-Rechenzentrum Lübbenau (Schwarz Digits) oder das Telekom/Nvidia-Projekt in München sollen gegensteuern, aber die EU-Strompreise sind 2-3x höher als in den USA, und Genehmigungsverfahren sind strenger.
-Die Frage dahinter: Kann Europa seine KI-Infrastrukturziele erreichen, wenn die öffentliche Akzeptanz fehlt und die Energiekosten ein Vielfaches der US-Preise betragen, oder muss Brüssel ebenfalls "Schmerzensgeld" zahlen?
+**Europas KI-Gigafactory-Träume kollidieren mit Nvidias Lieferketten-Realität**
+Kontext: Tay Kim (Key Context) betont, dass Nvidia eine Billion Dollar an Aufträgen hat und alle Kapazitäten für Speicher, Wafer und Optik gesichert hat, was die Lieferfähigkeit für KI-GPUs auf Jahre hinaus dominiert. Gleichzeitig mobilisiert die EU über InvestAI €200 Mrd. für KI, davon €20 Mrd. für 4-5 KI-Gigafactories, die jeweils ~100.000 Next-Gen-AI-Chips benötigen. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt. Die Schwarz Gruppe investiert €11 Mrd. in ein Rechenzentrum in Lübbenau.
+Die Frage dahinter: Kann Europa seine Tech-Souveränität bei KI-Infrastruktur wirklich erreichen, wenn die kritischen Komponenten von einem einzigen US-Anbieter kontrolliert werden, der bereits auf Jahre ausgebucht ist?
 
-**Der AI Act als Jobkiller? Wenn KI-Skepsis auf europäische Regulierung trifft**
-Kontext: Die Diskussion zeigt, dass junge Menschen in den USA zunehmend besorgt über KI-bedingten Arbeitsplatzverlust sind, was sich in Buhrufen gegen Tech-Größen wie Eric Schmidt äußert. In der EU tritt der AI Act ab August 2026 für High-Risk-Systeme in Kraft, mit Bußgeldern bis €35 Mio. oder 7% Umsatz. EVP Virkkunen prüft im Digital Omnibus eine Verschiebung der Deadline bis Dez 2027/Aug 2028, um der Industrie mehr Zeit für die Umsetzung zu geben, was die Balance zwischen Regulierung und Innovationsförderung zeigt. Das deutsche 1.000-Köpfe-Plus-Programm soll dem Brain Drain entgegenwirken.
-Die Frage dahinter: Verschärft Europas umfassende KI-Regulierung die Jobängste und den Brain Drain, indem sie Innovation bremst, oder schützt sie den Arbeitsmarkt und schafft Vertrauen in eine "humane" KI-Zukunft?
+**Googles KI-Strategie-Chaos: Ein Lehrstück für Brüssels AI Office?**
+Kontext: Tay Kim (Key Context) kritisiert Googles "non-existent" Präsenz im schnell wachsenden Markt der Coding Agents und die strategische Abhängigkeit von Konkurrenten wie Anthropic, was die eigene Machtposition schwächen könnte. Dylan Field (Figma) warnt vor "AI psychosis" und der Notwendigkeit, über "AI slop" hinauszugehen. Das EU AI Office wird ab August 2025 operativ und überwacht den GPAI Code of Practice, dem auch Google beigetreten ist. EVP Henna Virkkunen's Digital Fitness Check prüft die Wechselwirkung aller EU-Digitalgesetze.
+Die Frage dahinter: Sollte das EU AI Office angesichts der internen Spannungen und externen Abhängigkeiten großer US-Tech-Konzerne eine proaktivere Rolle bei der Förderung europäischer KI-Entwicklung einnehmen, um nicht nur Regulierung, sondern auch strategische Autonomie zu gewährleisten?

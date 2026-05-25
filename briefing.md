@@ -2,97 +2,96 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| KI-Infrastruktur | Nvidia wird voraussichtlich ein astronomisches Wachstum erleben, angetrieben durch eine massive Zunahme des Speicherbedarfs pro GPU und der GPU-Nachfrage, was die Lieferketten für KI-Chips auf Jahre hinaus dominieren könnte. | Tay Kim (Key Context) | TBPN |
-| Cybersicherheit | Eine "perfekte Sturm"-Situation entsteht durch KI-generierten Code und KI-Modelle, die Schwachstellen exponentiell erhöhen, während Angreifer die Software-Lieferkette ausnutzen. | Feross Aboukhadijeh (Socket) | TBPN |
-| KI im Design | KI-Agenten sollen Designern helfen, sich von repetitiven Aufgaben zu befreien und sich auf kreative Innovationen zu konzentrieren, erfordern aber die Überwindung von "AI slop" und "AI psychosis". | Dylan Field (CEO, Founder of Figma) | TBPN |
-| Googles KI-Strategie | Googles KI-Strategie wird als unzureichend kritisiert, insbesondere im Bereich der Coding Agents, was die Wertschöpfung zu Konkurrenten wie Anthropic und OpenAI verschieben könnte. | Tay Kim (Key Context) | TBPN |
+| KI-Infrastruktur & IPO | SpaceX hat mit der Veröffentlichung seines IPO-Prospekts eine Bewertung von $28.5 Billionen für seinen gesamten adressierbaren Markt (TAM) angegeben, wobei der Großteil ($26.5 Billionen) auf KI entfällt, was eine signifikante Verschiebung hin zu einem KI-Unternehmen mit Raketen signalisiert. | Hosts, Sawyer Merritt, Dan Primack, Kevin Kwok, Luke Nosek, David Kwan, Peter Hague, Antonio Gracios, Pocket Jack's Capital, Frank, Codd-Land-Sher | TBPN |
+| KI-Forschung & Durchbruch | Ein internes, allgemeines OpenAI-Modell hat einen Durchbruch bei einem bekannten kombinatorischen Geometrieproblem (Erdos Problem #90) erzielt, was als Beleg für die Fähigkeit von KI zu neuartigen, über das Training hinausgehenden Ideen und als "AlphaFold-Moment" für die Mathematik gewertet wird. | Hosts, Tyler Cosgrove, Nome Brown, Sidhar Ramesh | TBPN |
+| Geopolitik & Handel | Der jüngste US-China-Gipfel zeigte eine Phase des Stillstands, in der beide Seiten ihre gegenseitige Abhängigkeit und die Grenzen der Eskalation erkannt haben, wobei China durch seltene Erden und die USA durch Technologieexportkontrollen Hebelwirkung besitzen. | Hosts, Jordan Schneider | TBPN |
+| Compute-Infrastruktur | Modal Labs hat $355 Millionen in einer Series C-Runde erhalten, um seine allgemeine KI-Infrastruktur auszubauen, angetrieben durch das schnelle Wachstum des "Sandboxes"-Produkts und eine anhaltend hohe Nachfrage nach GPUs, die voraussichtlich noch 1-2 Jahre anhalten wird. | Hosts, Erik Bernhardsson | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 📈 Nvidia & KI-Infrastruktur: Astronomisches Wachstum und Lieferketten-Dominanz
+## 🚀 KI-Infrastruktur & IPO: SpaceX's $28.5 Billionen KI-Vision
 
-Tay Kim (Key Context) prognostiziert ein beispielloses Wachstum für Nvidia, angetrieben durch die explosionsartige Nachfrage nach KI-Beschleunigern. Er erwartet, dass der Bedarf an Speicher pro GPU und die Anzahl der benötigten GPUs in den nächsten zwei Jahren um das 25-fache steigen werden, was zu einer potenziellen 625-fachen Umsatzsteigerung führen könnte. Nvidia hat sich demnach bereits eine dominante Position in der Lieferkette gesichert.
-
-**Konkrete Details aus dem Gespräch:**
-- Michael Dell prognostiziert, dass KI-Beschleuniger in zwei Jahren 25-mal mehr Speicher pro GPU und 25-mal mehr GPUs benötigen werden.
-- Nvidia hat Aufträge im Wert von einer Billion Dollar und die Kapazitäten für Speicher, Wafer und Optik gesichert.
-- Jensen Huang (Nvidia) bestätigt, dass die KI-Nachfrage das Angebot bei weitem übersteigt, erwartet aber, dass Lieferengpässe in 2-3 Jahren weniger problematisch sein werden.
-- TSMC wird das Investitionsvolumen (CAPEX) in den nächsten drei Jahren "dramatisch" erhöhen.
-- Nvidia wird voraussichtlich in den nächsten drei Jahren ein Wachstum von 50-75% verzeichnen.
-- Es wird erwartet, dass Nvidia bis zu 50% seines Free Cash Flows für Aktienrückkäufe verwenden wird, was das Bewertungs-Multiple des Unternehmens weiter erhöhen könnte.
-
-**🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen, was eine erhebliche Lücke in der KI-Infrastruktur aufzeigt.
-- Die EU mobilisiert über die InvestAI-Initiative €200 Mrd. für KI, davon €20 Mrd. für den Bau von 4-5 KI-Gigafactories, die jeweils ~100.000 Next-Gen-AI-Chips beherbergen sollen.
-- Schwarz Digits investiert €11 Mrd. in ein Rechenzentrum in Lübbenau (Brandenburg), das bis zu 100.000 GPUs aufnehmen kann, wobei der erste Bauabschnitt bis Ende 2027 abgeschlossen sein soll.
-- EVP Henna Virkkunen betont, dass Mehrheitseigentümer von EU-finanzierten Gigafactories aus Europa kommen sollen, um die Tech-Souveränität der Region zu gewährleisten.
-
-## 🔒 KI & Cybersicherheit: Der "perfekte Sturm" in der Software-Lieferkette
-
-Feross Aboukhadijeh (Socket) beschreibt eine kritische Eskalation im Bereich der Cybersicherheit, die er als "perfekten Sturm" bezeichnet. Dieser wird durch die zunehmende Menge an KI-generiertem Code und die Fähigkeit von KI-Modellen, Schwachstellen zu finden, verstärkt, während Angreifer gezielt die Software-Lieferkette ins Visier nehmen.
+Die Diskussion um den IPO-Prospekt von SpaceX hebt eine strategische Neuausrichtung des Unternehmens hervor, das sich zunehmend als KI-Unternehmen positioniert. Laut der Diskussion hat SpaceX einen "Total Addressable Market" (TAM) von $28.5 Billionen identifiziert, wovon der Großteil ($26.5 Billionen) auf den KI-Sektor entfällt. Dies spiegelt sich auch in den Kapitalausgaben wider, die für KI dreimal höher sind als für die Raumfahrt. Eine Schlüsselpartnerschaft mit Anthropic, die ein Volumen von $15 Milliarden pro Jahr für Compute-Kapazität auf "Colossus 2" (GB200) umfasst, unterstreicht diese Entwicklung.
 
 **Konkrete Details aus dem Gespräch:**
-- Socket verzeichnete in den letzten 12 Monaten ein ARR-Wachstum von über 500%.
-- KI generiert mehr Code als je zuvor, was zu einer beispiellosen Geschwindigkeit bei der Integration von Open-Source-Abhängigkeiten führt.
-- Frontier-KI-Modelle wie Mythos entdecken Tausende von schwerwiegenden Schwachstellen in wichtigen Betriebssystemen und Open-Source-Bibliotheken.
-- Angreifer nutzen die Software-Lieferkette aus, um über eine einzige kompromittierte Open-Source-Komponente in Tausende von Organisationen einzudringen.
-- Open-Source-Maintainer sind überlastet und können Patches, selbst wenn sie von KI-Labs bereitgestellt werden, nicht schnell genug akzeptieren.
-- Socket bietet "Certified Patches" an, eine Lösung, die Schwachstellen in Open-Source-Abhängigkeiten mit einem Klick behebt, ohne dass Paket-Upgrades erforderlich sind.
+- SpaceX's IPO-Prospekt wurde veröffentlicht, mit dem Ziel, $80 Milliarden oder mehr zu beschaffen.
+- Der quantifizierbare TAM wird auf $28.5 Billionen geschätzt, davon $26.5 Billionen in KI, einschließlich $2.4 Billionen in KI-Infrastruktur.
+- Die Kapitalausgaben für KI sind dreimal höher als die für Raumfahrt.
+- SpaceX's Umsatz im letzten Jahr betrug $18.67 Milliarden.
+- Die Partnerschaft mit Anthropic sieht vor, dass Anthropic über $1 Milliarde pro Monat ($15 Milliarden pro Jahr) für Compute-Kapazität auf "Colossus 2" (GB200) ausgibt.
+- Elon Musks Strategie wird als jahrzehntelanger, gradueller Wertaufbau ohne Downrounds beschrieben.
 
 **🇪🇺 Europa-Relevanz:**
-- Der Berlin-Anschlag auf das Stromnetz im Januar 2026 hat die Debatte über die Sicherheit kritischer Infrastrukturen (Kritis-Dachgesetz) und hybride Bedrohungen in Deutschland neu entfacht.
-- Das EU SAFE-Programm zielt auf autonome europäische Sicherheit und Verteidigung ab, was die Notwendigkeit robuster Software-Lieferketten und Cybersicherheitslösungen unterstreicht.
-- Der Deutschlandfonds enthält erstmals ein Modul für Verteidigungs-Startups, um die fragmentierte europäische Verteidigungsindustrie zu stärken und eigene Sicherheitslösungen zu fördern.
-- Die BaFin-Aufsicht in Deutschland und die Merz-Regierung arbeiten an einer Vereinfachung der Finanzregulierung, die auch die Integration von Cybersicherheitsstandards in Finanzdienstleistungen umfassen könnte.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen, was die Dringlichkeit von Investitionen in Compute-Infrastruktur unterstreicht.
+- Das €11 Mrd.-Rechenzentrum Lübbenau (Schwarz Digits) und das Telekom/Nvidia-Projekt München sind europäische Initiativen, um die KI-Infrastruktur zu stärken und die "AI Infrastructure Gap" zu schließen.
+- Die EU AI Champions Initiative zielt darauf ab, €200 Mrd. für KI in der EU zu mobilisieren, einschließlich €20 Mrd. für 4-5 KI-Gigafactories mit je ~100.000 Next-Gen-AI-Chips.
+- EVP Henna Virkkunen betont, dass Mehrheitseigentümer von EU-finanzierten Gigafactories aus Europa kommen sollten, um Tech-Souveränität zu sichern und die Abhängigkeit von externen Anbietern zu reduzieren.
 
-## 🎨 KI im Design: Kreativität jenseits des "Slop"
+## 🧠 KI-Forschung & Durchbruch: OpenAI löst Erdos-Problem
 
-Dylan Field (CEO, Founder of Figma) sieht KI-Agenten als transformative Werkzeuge für Designer, die repetitive Aufgaben automatisieren und kreative Explorationen ermöglichen. Er warnt jedoch vor einer "AI psychosis" und der Notwendigkeit, die Qualität von KI-generiertem "Slop" zu überwinden, um echte Innovationen zu erzielen.
+Ein internes, allgemeines OpenAI-Modell hat einen bedeutenden Durchbruch erzielt, indem es das jahrzehntealte Erdos Problem #90, ein bekanntes kombinatorisches Geometrieproblem, gelöst hat. Dieser Erfolg wird als Beleg für die Fähigkeit von KI gewertet, neuartige Ideen zu entwickeln, die über die ursprünglichen Trainingsdaten hinausgehen, und nicht nur auf Brute-Force oder bestehende Lösungen zurückzugreifen. Die Inferenzkosten für diesen Durchbruch werden auf Hunderte bis Tausende von Dollar geschätzt, was die Effizienz des Modells unterstreicht.
 
 **Konkrete Details aus dem Gespräch:**
-- KI-generiertes Design wird zunehmend als solches erkennbar ("easy to clock as AI text").
-- Figma's Design Agent hilft, Kontext aus bestehenden Dateien in die Kontext-Fenster der Agenten zu bringen.
-- Agenten können für Design-Explorationen, Variationen und "rote Aufgaben" wie Design-System-Wartung, Komponentenänderungen oder Textübersetzung eingesetzt werden.
-- Die Herausforderung besteht darin, über "AI slop" hinauszugehen und echte UX-Probleme zu lösen, anstatt nur Klischees zu generieren.
-- Figma verzeichnet ein Wachstum der Nutzerbasis innerhalb von Organisationen, was die Bedeutung von Kollaboration und Ideenaustausch unterstreicht.
-- Field betont, dass Design der "Differentiator" und das "Schlachtfeld" ist, da Code zunehmend zur Ware wird.
+- Ein internes, allgemeines OpenAI-Modell hat das Erdos Problem #90 gelöst, ein bekanntes kombinatorisches Geometrieproblem.
+- Die Lösung wird als neuartig beschrieben und nicht als Ergebnis von Brute-Force oder der Nutzung bereits existierender Papiere.
+- Die Kosten für die Inferenz werden auf Hunderte bis Tausende von Dollar geschätzt, nicht auf Millionen.
+- Terence Tao, ein bekannter Mathematiker, bezeichnete den Durchbruch als "unglaublich".
+- Die Lösung könnte für eine Vielzahl anderer mathematischer Probleme nützlich sein.
+- Dieser Erfolg wird als Gegenargument zur Ansicht gesehen, dass KI lediglich "Papageien" oder "nächste Token-Prädiktoren" sind.
 
 **🇪🇺 Europa-Relevanz:**
-- Der EU AI Act, dessen Verpflichtungen für High-Risk-Systeme ab August 2026 durchsetzbar sind, könnte die Entwicklung von Design-Agenten beeinflussen, insbesondere bei der Bias-Erkennung mit sensiblen Daten, die unter strengen Auflagen erlaubt wird.
-- EVP Henna Virkkunen's Digital Fitness Check, dessen Konsultation bis zum 11. März 2026 läuft, prüft die Wechselwirkung aller EU-Digitalgesetze, was für die Integration von KI in Design-Tools relevant ist.
-- Die EFI-Kommission empfiehlt in ihrem Gutachten 2026, "europäisch zu denken statt nationaler Kleinstaaterei" bei der KI-Entwicklung, was die Notwendigkeit von kollaborativen Design-Plattformen und dem Austausch von Best Practices unterstreicht.
-- Das 1.000-Köpfe-Plus-Programm soll dem Brain Drain von KI-Talenten in die USA entgegenwirken, was die Verfügbarkeit von Design-Experten in Europa verbessern könnte, die mit solchen Tools arbeiten.
+- Der EU AI Act (Aug 2026) fordert für High-Risk-KI-Systeme vollständige Compliance, während US-Modelle wie das von OpenAI neuartige Fähigkeiten zeigen, die über die ursprünglichen Trainingsdaten hinausgehen und die Grenzen des Möglichen verschieben.
+- Die Mainzer Erklärung (Jan 2026) der Merz-Regierung betont KI als "Querschnittstechnologie" und "Grundlage für Souveränität und Sicherheit", was die Bedeutung solcher Durchbrüche für die europäische Wettbewerbsfähigkeit unterstreicht.
+- Die EFI-Kommission empfiehlt in ihrem Gutachten 2026, "europäisch zu denken statt nationaler Kleinstaaterei" bei der KI-Entwicklung, um mit globalen Fortschritten Schritt zu halten und nicht von externen Innovationen abhängig zu sein.
 
-## 📉 Googles KI-Strategie: Kritik und Wettbewerbsbedenken
+##  geopolitics China Summit & Geopolitics: Stillstand und gegenseitige Abhängigkeit
 
-Tay Kim (Key Context) äußert sich kritisch zu Googles KI-Strategie und bezeichnet das Unternehmen als "non-existent" im schnell wachsenden Markt der Coding Agents. Er warnt davor, dass Googles strategische Investitionen in Konkurrenten wie Anthropic langfristig die eigene Machtposition im Tech-Ökosystem schwächen könnten, da die Wertschöpfung zu den Modell-Anbietern abwandert.
+Der jüngste US-China-Gipfel wird als Zeichen eines Stillstands in den Beziehungen beschrieben, in dem beide Seiten die Grenzen der Eskalation und ihre gegenseitige Abhängigkeit erkannt haben. China hat durch den Einsatz seltener Erden als Gegenschlag Hebelwirkung gezeigt, während die USA Technologieexportkontrollen nutzen. Der Gipfel selbst wurde als "Prestige on the cheap" für die USA wahrgenommen, mit geringen substanziellen Ergebnissen und einer bemerkenswerten Abwesenheit führender KI-Persönlichkeiten wie Sam Altman oder Demis Hassabis. Taiwan bleibt ein zentraler geopolitischer Faktor, nicht nur wegen seiner Rolle in der Chip-Produktion, sondern auch als Demokratie und geostrategischer Anker.
 
 **Konkrete Details aus dem Gespräch:**
-- Google wird als "non-existent" im Bereich der Coding Agents beschrieben, einem Markt, der exponentiell wächst.
-- Konkurrenten wie Anthropic und OpenAI gewinnen Milliarden von Dollar und Millionen von Nutzern für ihre Coding Agents (Claude Code, Codex).
-- Googles eigener Coding Agent "Anti-Gravity" wird auf Twitter negativ bewertet und ist "nowhere to be found".
-- Google investiert massiv in Anthropic, was strategisch riskant ist, da die Wertschöpfung langfristig zu den Modell-Anbietern fließt.
-- Historische Beispiele wie Yahoo/Google Search und Netscape/Yahoo zeigen, wie die Unterstützung von Drittanbietern zur Schwächung der eigenen Position führen kann.
-- Trotz Vorteilen bei Compute, Distribution und Daten könnte Google die "Flywheel"-Effekte an die Konkurrenz verlieren.
+- Die US-China-Beziehungen befinden sich in einer "Stalemate"-Phase, in der China 2025 seltene Erden als Gegenschlag einsetzte.
+- Der Gipfel wurde als "Prestige on the cheap" für die USA beschrieben, mit Kabinettsmitgliedern und CEOs, aber ohne substanzielle Ergebnisse.
+- Es gab einen Mangel an KI-Repräsentation auf dem Gipfel, mit der Abwesenheit von Sam Altman, Demis Hassabis und Sundar Pichai, während Elon Musk und Jensen Huang anwesend waren.
+- Es besteht Skepsis gegenüber einer US-China-Kooperation bei KI-Sicherheit, da die US-Regulierung noch unklar ist und China als "hardware pilled" beschrieben wird.
+- Taiwan bleibt geopolitisch wichtig, nicht nur wegen der Chips (85-90% der globalen Produktion in 18 Monaten), sondern auch als Demokratie und geostrategischer Anker.
+- Waymo nutzt Zeekr-Chassis (chinesisch) für autonome Fahrzeuge, aber ohne Elektronik, um US-Beschränkungen zu umgehen.
 
 **🇪🇺 Europa-Relevanz:**
-- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen für europäische KI-Technologieunternehmen, um eine Abhängigkeit von US-Anbietern wie Google zu vermeiden und eigene KI-Kapazitäten aufzubauen.
-- Kanzler Merz fordert eine F&E-Quote von 3,5% des BIP und sieht KI als Grundlage für Souveränität und Sicherheit, was eine eigene europäische KI-Entwicklung gegenüber US-Dominanz bevorzugt.
-- Das EU AI Office, ab August 2025 operativ, überwacht den GPAI Code of Practice, dem 26 Anbieter (inkl. Google, OpenAI, Anthropic) beigetreten sind, was einen Rahmen für verantwortungsvolle KI-Entwicklung schafft.
-- Die regulatorische Asymmetrie, bei der die EU umfassend reguliert und die USA auf Selbstregulierung setzen, könnte europäische Unternehmen dazu zwingen, bei der Entwicklung von KI-Produkten wie Coding Agents andere Ansätze zu wählen als US-Konkurrenten.
+- Die EU hatte Gegenmaßnahmen im Umfang von €93 Mrd. gegen US-Zölle vorbereitet (aktuell suspendiert) und das Anti-Coercion Instrument (ACI) als Druckmittel bereit, um auf handelspolitischen Druck zu reagieren.
+- EU-Handelskommissar Maroš Šefčovič verhandelt bilateral mit den USA, während der BDI eine koordinierte EU-Antwort auf Handelspolitik fordert, um nationale Alleingänge zu vermeiden.
+- Die Mainzer Erklärung der Merz-Regierung betont KI als "Grundlage für Souveränität und Sicherheit", was die Notwendigkeit einer eigenen europäischen KI-Strategie im Kontext der US-China-Spannungen unterstreicht.
+- Das EU SAFE-Programm zielt auf autonome europäische Sicherheit und Verteidigung ab, um die Abhängigkeit von externen Akteuren zu reduzieren und die eigene Resilienz zu stärken.
+
+## ☁️ Compute-Infrastruktur: Modal Labs sichert $355 Millionen für KI-Infrastruktur
+
+Modal Labs hat in einer Series C-Runde $355 Millionen erhalten, um seine allgemeine KI-Infrastruktur weiter auszubauen. Das Unternehmen verzeichnet ein schnelles Wachstum seines "Sandboxes"-Produkts, das monatlich um fast 2x zulegt und die sichere Ausführung von LLM-generiertem Code ermöglicht. Der GPU-Markt bleibt laut Erik Bernhardsson von Modal Labs "ziemlich eng" und die Preise steigen, eine Situation, die voraussichtlich noch 1-2 Jahre anhalten wird. Trotz der Verfügbarkeit alternativer Beschleuniger wie TPUs oder AMD-Chips gibt es kaum Kundennachfrage, da die Kosten für die Software-Umschreibung zu hoch sind, es sei denn, Unternehmen operieren in Milliardenhöhe.
+
+**Konkrete Details aus dem Gespräch:**
+- Modal Labs hat $355 Millionen in einer Series C-Runde erhalten, angeführt von General Catalyst und Red Point.
+- Das "Sandboxes"-Produkt, das die sichere Ausführung von LLM-generiertem Code ermöglicht, wächst monatlich um fast 2x in den letzten sechs Monaten.
+- Modal Labs bietet allgemeine Infrastruktur für Training, Inferenz, Batch-Jobs und Reinforcement Learning.
+- Der GPU-Markt wird voraussichtlich noch 1-2 Jahre "ziemlich eng" bleiben, und die Preise steigen weiter.
+- Kunden zeigen keine Nachfrage nach alternativen Beschleunigern (TPUs, AMD), da die Kosten für die Software-Umschreibung zu hoch sind, es sei denn, man operiert in Milliardenhöhe.
+- Zukünftige Anwendungen, die eine hohe Nachfrage nach Compute-Leistung generieren könnten, umfassen Speech-to-Speech (erfordert geringere Latenz), Drug Discovery, Wettervorhersage und Robotik.
+
+**🇪🇺 Europa-Relevanz:**
+- Die EU AI Champions Initiative mobilisiert €200 Mrd. für KI, davon €20 Mrd. für 4-5 KI-Gigafactories mit je ~100.000 Next-Gen-AI-Chips, um die europäische Compute-Kapazität zu erhöhen und die Abhängigkeit von externen Anbietern zu reduzieren.
+- Rolf Schumann (Co-CEO Schwarz Digits) investiert €11 Mrd. in das Rechenzentrum Lübbenau (200 MW, bis zu 100.000 GPUs), um die "AI Infrastructure Gap" in Europa zu schließen und eine souveräne Cloud-Lösung anzubieten.
+- Tim Höttges (Telekom) kritisiert, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen, was die Dringlichkeit von Investitionen in Compute-Infrastruktur unterstreicht.
+- Kanzler Merz fordert eine F&E-Quote von 3,5% des BIP und will mindestens eine KI-Gigafactory nach Deutschland holen, um die nationale Rechenleistung zu stärken und die Wettbewerbsfähigkeit zu fördern.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
--   **SpaceX IPO:** Das bevorstehende IPO von SpaceX wird als "Blockbuster" erwartet, das alle bisherigen IPOs (einschließlich Saudi Aramco) in den Schatten stellen könnte, mit einer erwarteten Bewertung von 1,5-1,75 Billionen Dollar. Founders Fund und Valor könnten über 60 Mrd. Dollar, Sequoia über 20 Mrd. Dollar an Gewinnen erzielen. (Quelle: TBPN)
--   **Mercury Funding & KI in FinTech:** Mercury hat eine Serie C über 200 Mio. Dollar bei einer Bewertung von 1 Mrd. Dollar abgeschlossen, angetrieben durch 2,5-faches Wachstum der Antragszahlen im Q1. Das Wachstum ist hauptsächlich organisch und wird durch LLM-Empfehlungen sowie die Integration von KI-Tools (CLI, API, Mercury Insights, Mercury Command) in Finanzworkflows gefördert. (Quelle: TBPN)
--   **Intelligente Brillen:** Google kündigte Partnerschaften mit Samsung, Gentle Monster und Warby Parker für neue intelligente Brillen an, die Gemini-Funktionen integrieren. Diese sollen mit Kamera und Mikrofon ausgestattet sein und könnten eine diskretere Alternative zu Meta-Raybans darstellen. (Quelle: TBPN)
+- **Anthropic's Profitabilität:** Anthropic meldet im zweiten Quartal einen Anstieg des Umsatzes um 130% und den ersten operativen Gewinn, was die Skepsis gegenüber der Profitabilität von KI-Modellen widerlegt und die schnelle Wertschöpfung in der Branche unterstreicht. (TBPN)
+- **Baumol-Effekt und KI:** Alex Tabarrok diskutiert den Baumol-Effekt, der steigende Preise in Dienstleistungsbranchen aufgrund stagnierender Produktivität erklärt, und sieht in KI das Potenzial, diesen Effekt durch Automatisierung und Kapitalersatz zu mindern, insbesondere im Gesundheitswesen. (TBPN)
+- **White House Quantum Grants:** Die US-Regierung vergibt $2 Milliarden an Zuschüssen an neun Quantencomputing-Unternehmen und erwirbt dabei Eigenkapitalanteile, was eine direkte staatliche Investition in Schlüsseltechnologien darstellt und die strategische Bedeutung des Quantencomputings unterstreicht. (TBPN)
 
 # 💭 Zum Drüber Nachdenken
 
-**Europas KI-Gigafactory-Träume kollidieren mit Nvidias Lieferketten-Realität**
-Kontext: Tay Kim (Key Context) betont, dass Nvidia eine Billion Dollar an Aufträgen hat und alle Kapazitäten für Speicher, Wafer und Optik gesichert hat, was die Lieferfähigkeit für KI-GPUs auf Jahre hinaus dominiert. Gleichzeitig mobilisiert die EU über InvestAI €200 Mrd. für KI, davon €20 Mrd. für 4-5 KI-Gigafactories, die jeweils ~100.000 Next-Gen-AI-Chips benötigen. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt. Die Schwarz Gruppe investiert €11 Mrd. in ein Rechenzentrum in Lübbenau.
-Die Frage dahinter: Kann Europa seine Tech-Souveränität bei KI-Infrastruktur wirklich erreichen, wenn die kritischen Komponenten von einem einzigen US-Anbieter kontrolliert werden, der bereits auf Jahre ausgebucht ist?
+**Trumps Kraftwerks-Zwang entlarvt Europas Rechenzentrum-Illusion**
+Kontext: Die US-Diskussion über den Widerstand gegen Rechenzentren und die Möglichkeit, dass China diesen Widerstand finanziert, zeigt, wie kritisch die Infrastrukturfrage ist. In Europa ist das Problem verschärft: Höhere Energiepreise und strengere Genehmigungsverfahren führen zu Moratorien (Frankfurt, Amsterdam, Dublin). Während die USA über "schöne" Rechenzentren nachdenken, muss Europa die "AI Infrastructure Gap" schließen. Rolf Schumann (Schwarz Digits) investiert €11 Mrd. in Lübbenau für 100.000 GPUs, aber Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt.
+Die Frage dahinter: Kann Europa seine KI-Souveränität sichern, wenn es nicht einmal die grundlegende Infrastruktur bereitstellen kann, ohne in politische und energiepolitische Fallen zu tappen?
 
-**Googles KI-Strategie-Chaos: Ein Lehrstück für Brüssels AI Office?**
-Kontext: Tay Kim (Key Context) kritisiert Googles "non-existent" Präsenz im schnell wachsenden Markt der Coding Agents und die strategische Abhängigkeit von Konkurrenten wie Anthropic, was die eigene Machtposition schwächen könnte. Dylan Field (Figma) warnt vor "AI psychosis" und der Notwendigkeit, über "AI slop" hinauszugehen. Das EU AI Office wird ab August 2025 operativ und überwacht den GPAI Code of Practice, dem auch Google beigetreten ist. EVP Henna Virkkunen's Digital Fitness Check prüft die Wechselwirkung aller EU-Digitalgesetze.
-Die Frage dahinter: Sollte das EU AI Office angesichts der internen Spannungen und externen Abhängigkeiten großer US-Tech-Konzerne eine proaktivere Rolle bei der Förderung europäischer KI-Entwicklung einnehmen, um nicht nur Regulierung, sondern auch strategische Autonomie zu gewährleisten?
+**Der "AlphaFold-Moment" der KI-Forschung: Ist Europas AI Act schon veraltet, bevor er voll greift?**
+Kontext: OpenAI löst ein jahrzehntealtes Erdos-Problem mit geringem Compute-Aufwand und zeigt damit die Fähigkeit von KI zu neuartigen, über das Training hinausgehenden Ideen. Dies ist ein "AlphaFold-Moment" für die Mathematik. Gleichzeitig tritt der EU AI Act erst im August 2026 für High-Risk-Systeme vollständig in Kraft, mit möglichen Verschiebungen bis Dez 2027/Aug 2028 durch den Digital Omnibus (EVP Virkkunen).
+Die Frage dahinter: Wie kann Europa mit seiner umfassenden, aber langsamen Regulierung (AI Act) die Innovationsgeschwindigkeit von US-Modellen wie OpenAI einfangen, wenn diese bereits heute "generell intelligent" agieren und die Grenzen des Möglichen verschieben?

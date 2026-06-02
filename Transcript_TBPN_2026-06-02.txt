@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-06-02 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~168k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - YouTubers Win the Box Office, Salesforce on a Tear, Bernie Sanders: A.I. is a Public Resource | Adam Iscoe, Danial Jameel, Mike Schroepfer, Nico Ferreyra, Sue Khim, Bernie Su
 Quelle: https://podscripts.co/podcasts/tbpn-live/youtubers-win-the-box-office-salesforce-on-a-tear-bernie-sanders-ai-is-a-public-resource-adam-iscoe-danial-jameel-mike-schroepfer-nico-ferreyra-sue-khim-bernie-su

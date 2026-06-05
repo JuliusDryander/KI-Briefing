@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-06-05 ===
-Quellen: All-In
-Anzahl Transkripte: 1
-Gesamtlänge: ~31k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: All-In ===
 Titel: All-In with Chamath, Jason, Sacks & Friedberg - Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox
 Quelle: https://podscripts.co/podcasts/all-in-with-chamath-jason-sacks-friedberg/thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox

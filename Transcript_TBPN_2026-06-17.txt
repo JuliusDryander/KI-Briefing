@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-06-17 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~177k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - YC Demo Day Lightning Round, New Snap AR Glasses, SpaceX Rips | Garry Tan, Andrew Lee, Stamatios Floratos, Hugo Frisk, Efraín Torres, Russell Smith, Payton Case, Akshay Trikha, Diana Hu, Harj Taggar, Connor Hayes, Luke Burgis, Anda Gansca
 Quelle: https://podscripts.co/podcasts/tbpn-live/yc-demo-day-lightning-round-new-snap-ar-glasses-spacex-rips-garry-tan-andrew-lee-stamatios-floratos-hugo-frisk-efrain-torres-russell-smith-payton-case-akshay-trikha-diana-hu-harj-taggar-connor-hayes-luke-burgis-anda-gansca

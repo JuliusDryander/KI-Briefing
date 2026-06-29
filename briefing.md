@@ -2,80 +2,93 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| Unternehmens-Transformation | GameStop hat sich unter Ryan Cohen durch drastische Kostensenkungen und den Fokus auf das Collectibles-Geschäft von einem angeschlagenen Unternehmen zu einem profitablen Akteur mit starker Bilanz entwickelt. | Ryan Cohen (CEO, GameStop) | All-In |
-| Strategische Akquisition | Ryan Cohen strebt die Übernahme von eBay an, motiviert durch das Potenzial für "große Dinge", die Komplementarität der Geschäftsmodelle und die wahrgenommene Stagnation und Ineffizienz von eBay. | Ryan Cohen (CEO, GameStop) | All-In |
-| Zukunftsstrategie E-Commerce | Ryan Cohen plant, eBay durch massive Kostensenkungen, den Ausbau von Live Commerce und die Schaffung eines Marktplatzes für In-Game-Digital-Items zu transformieren. | Ryan Cohen (CEO, GameStop) | All-In |
+| AI Geopolitik & Open Source | Chinas offene KI-Modelle erreichen ein Leistungsniveau, das mit führenden US-Frontier-Modellen vergleichbar ist, was die globale KI-Wettbewerbslandschaft verändert und die Wirksamkeit westlicher Exportkontrollen in Frage stellt. | Gavin Baker, David Sacks, Jason Calacanis, Chamath Palihapitiya | All-In |
+| KI-Infrastruktur & Speicher-Engpässe | High Bandwidth Memory (HBM) ist der kritischste Engpass in der KI-Infrastruktur, was zu erheblichen Kostensteigerungen für Rechenzentren und Verbraucherprodukte führt und die Notwendigkeit neuer Fertigungskapazitäten unterstreicht. | Gavin Baker, Jason Calacanis, Chamath Palihapitiya, John | All-In, TBPN |
+| KI-Regulierung & Unternehmensstrategie | Die US-Regierung verstärkt die Kontrolle über die Veröffentlichung von KI-Modellen aus nationalen Sicherheitsgründen, was zu Verzögerungen und einer Debatte über die Balance zwischen Sicherheit und breitem Zugang führt. | John, Ben, David Sacks, Gavin Baker | TBPN, All-In |
+| Zukunft der KI-Architektur & Investitionen | Die Zukunft der KI-Architektur liegt in "Composable Models" und dezentralen Rechenlösungen, einschließlich orbitaler Rechenzentren und modularer "Megapods", um die steigende Nachfrage und die Kostenprobleme terrestrischer Infrastruktur zu bewältigen. | Masayoshi Son, Gavin Baker, Chamath Palihapitiya, Travis Kalanick | All-In, TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 📈 GameStop-Transformation & Kapitalallokation
+## 🇨🇳 AI Geopolitik & Chinas Open Source Offensive
 
-Ryan Cohen (CEO, GameStop) beschreibt, wie er GameStop von einem angeschlagenen Unternehmen zu einem profitablen Akteur mit starker Bilanz transformiert hat. Die ursprüngliche Strategie, das Chewy-Playbook auf GameStop anzuwenden, erwies sich als falsch. Stattdessen konzentrierte er sich auf "maniacal cost cutting" und Effizienz, um das Unternehmen neu auszurichten. Der Fokus wurde auf das Pre-Owned-Geschäft und insbesondere auf Collectibles gelegt, die heute 42% des Umsatzes ausmachen.
-
-**Konkrete Details aus dem Gespräch:**
-- Die ursprüngliche Strategie, GameStop wie Chewy zu führen, war "really, really stupid".
-- Der Fokus wurde auf "maniacal cost cutting mode" und Effizienz gelegt.
-- Das Pre-Owned-Geschäft und Collectibles wurden zum Kern der Strategie.
-- Collectibles machen 42% des Umsatzes aus.
-- Im ersten Quartal betrug der Umsatz $835 Millionen, ein Wachstum von 14% im Jahresvergleich.
-- Die Vertriebs- und Verwaltungskosten (SG&A) wurden von $228 Millionen auf $202 Millionen gesenkt.
-- GameStop verfügt über $9.7 Milliarden in Cash und $33 Millionen Free Cash Flow.
-- Der Vorstand hat einen Aktienrückkauf autorisiert.
-
-**🇪🇺 Europa-Relevanz:**
-- Ryan Cohens Fokus auf "maniacal cost cutting" und Effizienz bei GameStop könnte als Blaupause für europäische Unternehmen dienen, die mit 2-3x höheren Strompreisen als in den USA und strengeren regulatorischen Anforderungen kämpfen.
-- Die €130 Mrd. des Deutschlandfonds zielen darauf ab, private Investitionen in Startups, Energie und Industrie zu mobilisieren, ähnlich wie GameStop Kapital für Wachstum und Akquisitionen (eBay) nutzt.
-- Kanzler Merz' Forderung nach einer F&E-Quote von 3,5% des BIP und die "KI-Offensive" im Bundeshaushalt 2026 spiegeln den Bedarf an strategischen Investitionen wider, wie sie Cohen für GameStop und potenziell eBay plant.
-
-## 🛒 eBay-Akquisitionsangebot & Motivation
-
-Ryan Cohen (CEO, GameStop) strebt die Übernahme von eBay an, da er "große Dinge" erreichen möchte und die organische Wachststumsfähigkeit von GameStop begrenzt sieht. Er sieht eine hohe Komplementarität zwischen GameStop und eBay, insbesondere im Sekundärmarkt, bei Collectibles und Refurbished Tech. Cohen, der sich im E-Commerce wohler fühlt als im physischen Einzelhandel, kritisiert eBay's Stagnation und Ineffizienz.
+Laut der Diskussion erreichen Chinas offene KI-Modelle ein Leistungsniveau, das mit den führenden US-Frontier-Modellen vergleichbar ist. Dies verändert die globale KI-Wettbewerbslandschaft und stellt die Wirksamkeit westlicher Exportkontrollen in Frage. David Sacks betont, dass die USA es sich nicht leisten können, ihre Unternehmen unnötig zu verlangsamen, da China nicht unter US-Jurisdiktion steht.
 
 **Konkrete Details aus dem Gespräch:**
-- Ryan Cohen möchte "big things" tun und sieht die organische Wachstumsfähigkeit von GameStop als begrenzt an.
-- Er sieht eine hohe Komplementarität zwischen GameStop und eBay im Sekundärmarkt, Collectibles und Refurbished Tech.
-- eBay ist global und hat "significant scale", was es für Cohen attraktiv macht.
-- Cohen versteht E-Commerce besser als physischen Einzelhandel und ist dort "much more comfortable operating".
-- Seit COVID sind wichtige Metriken von eBay wie GMV, aktive Nutzer und operative Gewinne gesunken.
-- Die aktiven Nutzer sind um 30 Millionen zurückgegangen.
-- Die operativen Ausgaben von eBay sind über die Hälfte des Umsatzes, obwohl das Unternehmen kein Inventar hält.
-- Verkäufer sind unzufrieden, da eBay keine ausreichenden Tools bereitstellt und sie für selbstverständlich nimmt.
+- GLM 5.2 (ChinaZ.A.I.) ist ein offenes, selbst hostbares Modell mit 744 Mrd. Parametern und 1 Mio. Token Kontextfenster unter MIT-Lizenz. (All-In)
+- Es erreichte 51 Punkte auf dem Artificial Analysis Intelligence Index, den höchsten Wert für ein Open-Weight-Modell, und schlug GPT 5.5 im Frontier Coding Benchmark. (All-In)
+- Die API-Nutzungskosten sind 85% günstiger als GPT 5.5 für vergleichbare Leistung. (All-In)
+- GLM 5.2 wurde angeblich vollständig auf Huawei Ascend 910B Chips trainiert, was Chinas "Indigenousization Push" unterstreicht. (All-In)
+- China plant, diese Huawei-optimierten Modelle als "AI in a box" weltweit zu einem Bruchteil der Kosten zu exportieren. (All-In)
+- Gavin Baker weist darauf hin, dass Destillation (Harvesting von Reasoning Traces über APIs) immens stattgefunden hat, um nahe an Frontier-Modelle heranzukommen. (All-In)
 
 **🇪🇺 Europa-Relevanz:**
-- EBay's Stagnation und unzufriedene Seller spiegeln Herausforderungen wider, denen sich europäische E-Commerce-Plattformen gegenübersehen, die mit Amazon konkurrieren und gleichzeitig EU-Regularien wie dem Digital Services Act (DSA) unterliegen.
-- Die Kritik an eBay's hohen operativen Kosten ohne Inventar könnte europäische Entscheider dazu anregen, die Effizienz von Marktplatz-Modellen im Kontext hoher EU-Betriebskosten zu prüfen.
-- Die EU-Kapitalmarktunion (CMU) soll das VC-Volumen auf US-Niveau heben, um solche Akquisitionen und Wachstumsstrategien auch in Europa zu ermöglichen, wo das VC-Volumen nur 30% des US-Niveaus beträgt.
+- EU-Handelskommissar Maroš Šefčovič verhandelt bilateral mit den USA über Handelsfragen; Chinas "AI in a box"-Strategie könnte die EU-Märkte mit günstigen, aber zensierten KI-Lösungen überschwemmen und die EU-Souveränität gefährden.
+- EVP Henna Virkkunen betont die Notwendigkeit von Tech-Souveränität; die Abhängigkeit von chinesischen Open-Source-Modellen, die auf Huawei-Chips laufen, könnte die EU-Ziele für eine eigene KI-Infrastruktur (InvestAI, Gigafactories) untergraben.
+- Die EU AI Champions Initiative und InvestAI (Ziel: €200 Mrd. für KI) könnten durch den Wettbewerb mit günstigeren chinesischen Angeboten unter Druck geraten, insbesondere wenn diese die "Majority owners should come from Europe"-Regel umgehen.
 
-## 🚀 eBay-Zukunftsvision: Kostensenkung, Live Commerce & Digitale Collectibles
+## 💾 KI-Infrastruktur & Speicher-Engpässe
 
-Ryan Cohen (CEO, GameStop) skizziert eine dreigliedrige Strategie zur Transformation von eBay. Er plant drastische Kostensenkungen, den Ausbau von Live Commerce und die Schaffung eines Marktplatzes für In-Game-Digital-Items. Er sieht enormes Potenzial in diesen Bereichen, insbesondere da eBay bereits über eine große Nutzerbasis und Marken verfügt, diese aber nicht effektiv nutzt.
+High Bandwidth Memory (HBM) ist der kritischste Engpass in der KI-Infrastruktur, was zu erheblichen Kostensteigerungen für Rechenzentren und Verbraucherprodukte führt und die Notwendigkeit neuer Fertigungskapazitäten unterstreicht. Gavin Baker (All-In) bezeichnet DRAM und HBM-DRAM als den wichtigsten Engpass, da Speicherkapazität und Bandbreite grundlegend für die Leistung jedes KI-Modells sind.
 
 **Konkrete Details aus dem Gespräch:**
-- **1. Sofortige Ergebnisverbesserung:** $2 Milliarden Kosten aus dem Geschäft ziehen.
-- Die operative Basis von eBay umfasst $5.5 Milliarden Ausgaben, davon $2.4 Milliarden für Sales & Marketing ohne Nutzerwachstum.
-- **2. Live Commerce:** Der adressierbare Markt (TAM) wird auf $400 Milliarden geschätzt und wächst schnell in den USA und Asien.
-- eBay hat Nutzer und Marken, aber eine schlechte Plattform und keine Content Creator.
-- GameStop-Stores (1.600 "nodes") könnten als Studios, Fulfillment- und Logistikzentren für Creator genutzt werden.
-- Unterstützung für Seller bei Fotografie, Fulfillment, Logistik und Authentifizierung.
-- **3. Digitale Collectibles:** Aufbau eines Marktplatzes für In-Game-Digital-Items (Skins, Waffen etc.) aus AAA-Titeln, um Liquidität zu schaffen.
-- Dieser Markt könnte "significantly larger" sein als der physische Markt von eBay.
-- Ryan Cohen sieht dies als das, was NFTs "hätten sein können", da In-Game-Items "real utility" haben.
+- Micron, SK Hynix und Samsung sind die einzigen drei HBM-Hersteller; Microns gesamte 2026er-Lieferung ist ausverkauft. (All-In)
+- DRAM wird voraussichtlich 30-40% des gesamten Hyperscaler-CAPEX im nächsten Jahr ausmachen, was Hunderte von Milliarden Dollar entspricht. (All-In)
+- Die Kosten für den Bau eines 1-Gigawatt-Rechenzentrums betragen 35 Mrd. USD für Halbleiter und 25 Mrd. USD für Strom- und Kühlanlagen, was inflationär wirkt. (All-In)
+- Apple hat die Preise für Macs und iPads aufgrund von Speicherknappheit und -kosten erhöht, was als "AIflation" bezeichnet wird. (TBPN, All-In)
+- Der Bau neuer Fabriken ist schwierig, insbesondere in "Deep Blue States" wie New York, wo ein Micron-Werk aufgrund von Umweltauflagen geschlossen wurde. (All-In)
+- Elon Musk fokussiert die TeraFab auf Speicher, da er dies als den wichtigsten Engpass ansieht. (All-In)
 
 **🇪🇺 Europa-Relevanz:**
-- Ryan Cohens Vision für Live Commerce und digitale In-Game-Items könnte europäische Initiativen wie InvestAI und die KI-Gigafactories (z.B. Schwarz Digits in Lübbenau mit €11 Mrd. Investition) unterstreichen, die die notwendige Infrastruktur für solche datenintensiven Anwendungen bereitstellen sollen.
-- Die Nutzung von GameStop-Stores als "nodes" für Fulfillment und Content Creation könnte als Modell für europäische Einzelhändler dienen, die ihre physische Präsenz in das digitale Ökosystem integrieren wollen, um dem "AI Infrastructure Gap" entgegenzuwirken.
-- Die EU AI Act-Regulierung für High-Risk-KI-Systeme (vollständig compliant ab Aug 2026) könnte die Entwicklung von Marktplätzen für digitale In-Game-Items beeinflussen, insbesondere wenn diese mit personalisierten Empfehlungen oder automatisierten Handelssystemen verbunden sind.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt; die HBM-Knappheit verschärft Europas "AI Infrastructure Gap" und die Abhängigkeit von nicht-europäischen Herstellern.
+- Das €11 Mrd. Rechenzentrum Lübbenau (Schwarz Digits) und das Telekom/Nvidia-Projekt München sind Versuche, die Rechenleistung in Deutschland zu erhöhen, stehen aber vor denselben globalen Engpässen und Kostensteigerungen.
+- Kanzler Merz fordert eine F&E-Quote von 3,5% des BIP und will mindestens eine KI-Gigafactory nach Deutschland holen; die hohen HBM-Kosten und die Schwierigkeit des Fab-Baus könnten diese Ziele verzögern oder verteuern.
+
+## ⚖️ KI-Regulierung & Unternehmensstrategie
+
+Die US-Regierung verstärkt die Kontrolle über die Veröffentlichung von KI-Modellen aus nationalen Sicherheitsgründen, was zu Verzögerungen und einer Debatte über die Balance zwischen Sicherheit und breitem Zugang führt. Einige Unternehmen könnten dabei eine "regulatorische Schutzmauer" anstreben.
+
+**Konkrete Details aus dem Gespräch:**
+- OpenAI begrenzt den Zugang zu neuen Modellen (GPT 5.6 Soul) nach Gesprächen mit der Trump-Administration, warnt aber davor, dass dies nicht zum Standard werden sollte. (TBPN)
+- Anthropic musste den Zugang zu seinen Mythos-Modellen vollständig einstellen, nachdem die NSA bei einem Red-Teaming-Exercise Schwachstellen entdeckte. (TBPN)
+- David Sacks kritisiert Dario Amodei (Anthropic) dafür, dass er Beamte auf "Haarspitzen" getrimmt und so eine "regulatorische Schutzmauer" geschaffen habe. (All-In)
+- Die "Distillation" von Modellen (Harvesting von Reasoning Traces über APIs) ermöglicht es, nahe an Frontier-Modelle heranzukommen, was die Kontrolle erschwert. (TBPN, All-In)
+- OpenAI äußerte, dass der aktuelle Genehmigungsprozess eine Übergangsphase darstellt, während Trumps Executive Order umgesetzt wird, und dass dieser Prozess die besten Tools von Nutzern fernhält. (TBPN)
+- Bill Gurley schlug vor, dass Modelle selbst Destillationsangriffe erkennen und Organisationen auf eine "Bannliste" setzen könnten, anstatt den Zugang zu beschränken. (TBPN)
+
+**🇪🇺 Europa-Relevanz:**
+- Der EU AI Act sieht ab Aug 2026 die vollständige Compliance für High-Risk-KI-Systeme vor (Bußgelder bis €35 Mio./7% Umsatz); die US-Diskussion über Sicherheitsbedenken und Zugangsbarrieren könnte die EU-Debatte über die Umsetzbarkeit und die Fristen des AI Act beeinflussen.
+- EVP Henna Virkkunen und der Digital Omnibus (Nov 2025) prüfen eine Verschiebung der High-Risk-Deadline um bis zu 16 Monate (Backstop: Dez 2027/Aug 2028), um der Industrie entgegenzukommen – die US-Erfahrungen könnten Argumente für Flexibilität oder strengere Kontrollen liefern.
+- Die regulatorische Asymmetrie (EU reguliert umfassend, USA setzt auf Selbstregulierung, jetzt aber mit Ad-hoc-Eingriffen) könnte europäische Unternehmen benachteiligen, die sowohl US- als auch EU-Standards erfüllen müssen, oder ihnen einen Wettbewerbsvorteil bei der Entwicklung sicherer KI verschaffen.
+
+## 🚀 Zukunft der KI-Architektur & Investitionen
+
+Die Zukunft der KI-Architektur liegt in "Composable Models" und dezentralen Rechenlösungen, einschließlich orbitaler Rechenzentren und modularer "Megapods", um die steigende Nachfrage und die Kostenprobleme terrestrischer Infrastruktur zu bewältigen. Masayoshi Son (SoftBank) verfolgt eine 50-Jahres-Vision für "Artificial Super Intelligence (ASI)", die er als "Golden Egg Factory" bezeichnet, mit Investitionen in KI-Infrastruktur und Robotik.
+
+**Konkrete Details aus dem Gespräch:**
+- Masayoshi Son (SoftBank) plant Investitionen in KI-Infrastruktur und Robotik, einschließlich 10 GW in Ohio und 5 GW in Frankreich. (TBPN)
+- Gavin Baker prognostiziert "Composable Models", die Frontier-Modelle mit unternehmenseigenen Open-Weight-Modellen kombinieren, wobei 85% der Anfragen an Open-Source-Modelle gehen könnten. (All-In)
+- SpaceX plant "Orbital Compute" mit Starship, um Gigawatt an Rechenleistung im Weltraum zu stationieren, was bei wiederverwendbaren Starships 5 Mrd. USD an Startkosten pro Gigawatt betragen könnte, gegenüber 60 Mrd. USD terrestrisch. (All-In)
+- "Megapods" (modulare Rechenzentren) von Tesla/SpaceX könnten GPU-Einheiten mit Batteriepacks an Supercharger-Stationen integrieren, um eine schnelle Bereitstellung zu ermöglichen. (All-In)
+- Die Disaggregation von Inferenz in "Pre-fill" (Verständnis der Frage) und "Decode" (Generierung des nächsten Tokens) ermöglicht den Einsatz älterer GPUs in Kombination mit spezialisierten Chips (Grok, Cerebrus). (All-In)
+- Travis Kalanick sieht Potenzial in dezentralen Inferenz-Pools, die ungenutzte Rechenleistung (z.B. in Haushalten mit Powerwalls) nutzen könnten. (All-In)
+
+**🇪🇺 Europa-Relevanz:**
+- SoftBank's geplante 5 GW KI-Rechenzentrumsinvestition in Frankreich ist ein konkretes Beispiel für die Mobilisierung von Kapital für europäische KI-Infrastruktur, passend zu den Zielen von InvestAI (€200 Mrd. für KI).
+- Die EU AI Champions Initiative und die deutschen Gigafactory-Bewerbungen (z.B. Schwarz Digits Lübbenau mit €11 Mrd.) könnten von den Konzepten der "Composable Models" und der Disaggregation der Inferenz profitieren, um bestehende Hardware effizienter zu nutzen und die Kosten zu senken.
+- Kanzler Merz' Forderung nach einer F&E-Quote von 3,5% des BIP und die "KI-Offensive" Deutschlands könnten die Entwicklung europäischer "Composable Models" und spezialisierter Chips fördern, um die Abhängigkeit von US-Anbietern zu reduzieren.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-Ryan Cohen kritisierte die mangelnde Kooperationsbereitschaft des eBay-Managements und -Boards, die sein Angebot abgelehnt haben und sich weigern, mit ihm in Kontakt zu treten. Er sieht dies als Versuch, ihre überbezahlten Positionen zu schützen, während er selbst $500 Millionen seines eigenen Geldes in die Transaktion investiert.
+- **Creator Economy:** Der Übergang von unabhängigen Content-Erstellern zu aufwendigeren "Shows" führt zu höheren Produktionskosten und Monetarisierungsherausforderungen. Traditionelle Medienunternehmen passen ihre Strategien für Creator-Plattformen an, was zu einer Neuverhandlung von Talentverträgen führen könnte. (TBPN)
+- **Meta Smart Glasses:** Meta hat über 7 Millionen Einheiten seiner Smart Glasses verkauft, was auf eine wachsende Akzeptanz hindeutet, obwohl der Markt noch klein ist. Es gibt Bedenken hinsichtlich des Datenschutzes, da Nutzer die Aufnahmelichter deaktivieren, um unbemerkt aufzuzeichnen. (TBPN)
+- **Sozialistische Strömungen in den USA:** Der Erfolg sozialistischer Kandidaten in New Yorker Vorwahlen, die radikale Plattformen vertreten (Abschaffung von Senat, Polizei, ICE, Ende der westlichen Zivilisation), wird als "populistische Übernahme" der Demokratischen Partei interpretiert. (All-In)
 
 # 💭 Zum Drüber Nachdenken
 
-**Europas KI-Gigafactories drohen zur leeren Hülle zu werden, wenn die 'Psychopathen' fehlen, die sie nutzen.**
-Kontext: Ryan Cohen betont, dass er "Psychopathen" sucht, die bereit sind, "all in" zu gehen, um Unternehmen zu transformieren. Gleichzeitig investiert die EU €200 Mrd. in InvestAI und plant KI-Gigafactories wie das €11 Mrd. Rechenzentrum von Schwarz Digits in Lübbenau. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt. Die EFI-Kommission empfiehlt "europäisch denken statt nationaler Kleinstaaterei".
-Die Frage dahinter: Reicht Europas Fokus auf Infrastruktur und Regulierung, oder braucht es mehr "All-In"-Mentalität, um die Investitionen in globale Marktführerschaft zu übersetzen?
+**Trumps KI-Zensur und Chinas Open-Source-Flut: Europas AI Act droht zum Papiertiger zu werden.**
+Kontext: Während die Trump-Administration den Zugang zu US-Frontier-KI-Modellen wie GPT 5.6 und Mythos aus Sicherheitsgründen einschränkt, flutet China den Weltmarkt mit leistungsstarken, aber zensierten Open-Source-Modellen wie GLM 5.2, die auf Huawei-Chips laufen. Dies schafft eine regulatorische Asymmetrie, die europäische Unternehmen vor die Wahl stellt: teure, regulierte US-Modelle oder günstige, aber potenziell kompromittierte chinesische Alternativen. EVP Virkkunen ringt mit der Flexibilisierung des AI Act, doch die eigentliche Gefahr ist, dass die EU-Standards irrelevant werden, wenn der Markt von nicht-konformen Angeboten dominiert wird.
+Die Frage dahinter: Kann Europa seine Tech-Souveränität verteidigen, wenn die globalen KI-Märkte zwischen US-Protektionismus und chinesischer Marktdominanz aufgeteilt werden?
 
-**EBay's Stagnation ist Europas Warnsignal: Ohne radikale Kostenkur und Live-Commerce-Offensive droht der digitale Mittelstand im Amazon-Schatten zu verkümmern.**
-Kontext: Ryan Cohen kritisiert eBay's hohe operative Kosten (über 50% des Umsatzes ohne Inventar) und mangelndes Wachstum, während er $2 Mrd. Kostensenkungen und eine $400 Mrd. Live-Commerce-Offensive vorschlägt. In Europa kämpfen Unternehmen mit 2-3x höheren Strompreisen als in den USA, und die Merz-Regierung arbeitet an "entschlossener Vereinfachung" der Finanzregulierung und senkt Netzentgelte.
-Die Frage dahinter: Kann Europa seine E-Commerce-Akteure durch regulatorische Vereinfachung und gezielte Förderung von Wachstumsfeldern wie Live Commerce vor der Stagnation bewahren, die eBay erlebt?
+**Europas €200 Mrd. KI-Gigafactory-Traum kollidiert mit der HBM-Realität: Wer baut die Chips, wenn niemand die Fabs bauen kann?**
+Kontext: Die EU mobilisiert €200 Mrd. für InvestAI und plant KI-Gigafactories mit 100.000 Next-Gen-AI-Chips, während Deutschland sechs eigene Bewerbungen einreicht (z.B. Schwarz Digits Lübbenau mit €11 Mrd.). Gleichzeitig ist High Bandwidth Memory (HBM) der größte Engpass in der KI-Lieferkette, mit nur drei globalen Herstellern (Micron, SK Hynix, Samsung), deren Produktion bis 2026 ausverkauft ist. Die Kosten für DRAM machen 30-40% des Hyperscaler-CAPEX aus, und der Bau neuer Fabs ist extrem schwierig und langwierig. Tim Höttges (Telekom) beklagt, dass Europa nur 5% der KI-Hochleistungschips nutzt.
+Die Frage dahinter: Sind Europas ambitionierte KI-Investitionen zum Scheitern verurteilt, wenn die kritischen Komponenten nicht in ausreichender Menge und zu wettbewerbsfähigen Preisen verfügbar sind?

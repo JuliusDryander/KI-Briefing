@@ -2,94 +2,94 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| KI-Inferenz-Hardware | Etch entwickelt Rack-Scale Inference Hardware, die speziell für Transformer-Modelle optimiert ist, um die Effizienz und Leistung von KI-Inferenz durch Innovationen wie "Low-Voltage Inference" und "Cluster-Scale Memory" zu steigern. | Gavin Uberti (CEO und Co-Gründer von Etch) | TBPN |
-| Rechenzentrums-Kühlung | Omen AI entwickelt Echtzeit-Flüssigkeitsüberwachungssysteme für flüssigkeitsgekühlte Rechenzentren, um kostspielige Ausfallzeiten durch proaktive Wartung von Verunreinigungen und Biowachstum zu verhindern. | Zach Laberge (Gründer und CEO von Omen AI) | TBPN |
-| Verteidigungs-Tech-VC | Harpoon Ventures hat einen $155 Mio. Fonds für Technologie im nationalen Interesse der USA und ihrer Verbündeten aufgelegt, um frühphasige Startups mit visionären Gründern im Verteidigungsbereich zu unterstützen. | Larsen Jensen (Gründer und General Partner von Harpoon Ventures) | TBPN |
-| Deep Tech VC-Strategie | Cantos, ein Venture-Capital-Unternehmen, hat einen neuen $70 Mio. Fonds aufgelegt, um frühphasige Deep-Tech-Startups zu finanzieren, die sich durch schnelle Iteration und die Lösung realer Probleme mit innovativer Technologie auszeichnen. | Ian Rountree (Gründer und General Partner von Cantos), Grant Gregory (Partner bei Cantos) | TBPN |
+| **KI-Infrastruktur** | Meta Platforms plant, überschüssige KI-Rechenleistung und -Modelle über eine "Meta-Compute-Initiative" zu verkaufen, um seine Milliardeninvestitionen in KI-Infrastruktur zu monetarisieren, was den Neocloud-Markt unter Druck setzt. | Host, Amit, Zephyr, Cotrini team, Jew Khan, Serenity | TBPN |
+| **Verteidigungstechnologie** | Dominion Dynamics hat 100 Millionen Dollar erhalten, um ein kanadisches Verteidigungstechnologieunternehmen für autonome Systeme und Arktis-Überwachung aufzubauen, mit dem Ziel, eine globale Präsenz zu entwickeln, indem es Lösungen für extrem raue Umgebungen schafft. | Eliot Pence | TBPN |
+| **Tech-Akquisitionen & KI** | Bending Spoons, eine italienische Digital Business Holding, hat einen erfolgreichen IPO an der Nasdaq mit einer Bewertung von 18,4 Milliarden Dollar abgeschlossen, angetrieben durch eine aggressive Akquisitionsstrategie und den intensiven Einsatz von KI, die über 90% des Codes schreibt. | Luca Ferrari | TBPN |
+| **KI-Ökosystem** | Union Square Ventures (USV) vertritt die "Rebel Alliance" These, die besagt, dass das KI-Ökosystem weit über die großen Modell-Labs hinausgeht und eine massive, expansive Welle darstellt, in der generationenprägende Unternehmen in allen Schichten des "agentic stack" entstehen werden. | Nick Grossman | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🧠 KI-Inferenz-Hardware: Etch optimiert Chips für Transformer-Modelle
+## ☁️ KI-Infrastruktur: Meta plant Verkauf von Rechenleistung
 
-Gavin Uberti (CEO und Co-Gründer von Etch) erläutert, dass Etch Rack-Scale Inference Hardware entwickelt, die speziell für Transformer-Modelle optimiert ist. Das Unternehmen baut das komplette System, von Chips und Boards bis hin zu Racks und Clustern, sowie die Produktionslinien dafür. Ziel ist es, die Effizienz und Leistung von KI-Inferenz durch Innovationen wie "Low-Voltage Inference" und "Cluster-Scale Memory" zu steigern.
-
-**Konkrete Details aus dem Gespräch:**
-- "Low-Voltage Inference" senkt die Chip-Spannung dramatisch, um eine bessere Effizienz und mehr Rechenoperationen (Flops) pro Chip zu ermöglichen, da GPUs sonst bei etwa 50% Leistung schmelzen würden.
-- "Cluster-Scale Memory" reduziert die Kommunikationszeit zwischen Chips erheblich, was zu schnelleren Token pro Sekunde bei niedrigeren Kosten führt.
-- Eine starke Partnerschaft mit TSMC ist entscheidend, um die Fertigungsherausforderungen bei niedrigeren Spannungen zu überwinden.
-- Der Markt für KI-Inferenz wird massiv wachsen, da Frontier-Modelle von wenigen Millionen auf 8 Milliarden Menschen weltweit ausgerollt werden müssen, zusätzlich zu KI-Agenten.
-- Chips sind meritokratisch: Schnellere Chips können hohe Prämien erzielen, und es wird in den nächsten Jahren viel technische Innovation in diesem Bereich geben.
-
-**🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen – Etchs Fokus auf Inferenz-Hardware könnte diese Lücke adressieren.
-- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen für KI-Technologieunternehmen und kritische Infrastruktur, was für Etch als Hardware-Anbieter relevant sein könnte.
-- Die Deutsche Telekom baut bereits mit Nvidia ein KI-Rechenzentrum in München (~€1 Mrd., 10.000 GPUs), was den Bedarf an optimierter Inferenz-Hardware in Europa unterstreicht.
-
-## 💧 Rechenzentrums-Kühlung: Omen AI bekämpft Ausfälle in flüssigkeitsgekühlten Systemen
-
-Zach Laberge (Gründer und CEO von Omen AI) stellt Omen AI vor, ein Unternehmen, das Echtzeit-Flüssigkeitsüberwachungssysteme für flüssigkeitsgekühlte Rechenzentren entwickelt. Diese Systeme sollen kostspielige Ausfallzeiten verhindern, indem sie proaktive Wartung von Verunreinigungen und Biowachstum ermöglichen. Das Unternehmen hat kürzlich eine Series A-Finanzierungsrunde über $31 Mio. abgeschlossen.
+Meta Platforms entwickelt Pläne für ein Cloud-Infrastrukturgeschäft, um Zugang zu KI-Rechenleistung und -Modellen zu verkaufen, was als "Meta-Compute-Initiative" bezeichnet wird. Diese Strategie soll dazu dienen, die Milliardeninvestitionen in KI-Infrastruktur zu rechtfertigen, indem überschüssige Kapazitäten monetarisiert werden. Die Diskussionsteilnehmer sehen dies als einen pragmatischen Schritt zur Amortisierung der "Hunderte von Milliarden Dollar" Investitionen in Rechenzentren und Chips, während einige Kritiker es als Zeichen mangelnder kurzfristiger Produktinnovation innerhalb von Metas eigenen Apps interpretieren.
 
 **Konkrete Details aus dem Gespräch:**
-- Sensoren erkennen Verunreinigungen (z.B. Kupfer, Chrom) und Biowachstum in Flüssigkeitskühlsystemen.
-- Die Kühlflüssigkeiten, oft Wasser mit Ethylen- oder Propylenglykol, degradieren durch Infrastrukturverschleiß (Pumpen, Dichtungen) und Hitze.
-- Kunden sind "Neoclouds", die in den letzten neun Monaten Dutzende bis Hunderte Megawatt flüssigkeitsgekühlte Rechenleistung in Betrieb genommen haben und nun Ausfälle erleben.
-- Die Installation des Systems dauert nur wenige Minuten, da es über OCP-Schnellkupplungen am Rack-Verteiler angeschlossen wird.
-- Echtzeit-Überwachung ermöglicht kleinere chemische Anpassungen (z.B. Bio-Schock, Anpassung des Glykol-Verhältnisses) statt kostspieliger Spülungen, die Millionen von Dollar und 4-5 Stunden Ausfallzeit pro Rack verursachen können.
-- Die Series A-Runde wurde von Nova Ventures angeführt, mit Cheryl Sandberg als Investorin, und dient dem Ausbau des Teams und der Fertigung.
+- Meta erwägt den Verkauf von Zugang zu verschiedenen KI-Modellen und roher Rechenkapazität.
+- Die Initiative soll helfen, die "Hunderte von Milliarden Dollar" Investitionen in Rechenzentren und Chips zu amortisieren.
+- Der Neocloud-Markt reagiert negativ, da Meta nun ein Wettbewerber ist.
+- Einige sehen dies als "wind down" der Superintelligenz-Ambitionen, andere als temporäre Maßnahme.
+- Es wird die These diskutiert, dass Meta nicht "compute constrained" ist, sondern ein "compute allocation problem" hat, da es zu viel Rechenleistung bei Playern ohne internen Bedarf gibt.
 
 **🇪🇺 Europa-Relevanz:**
-- Schwarz Digits investiert €11 Mrd. in das Rechenzentrum Lübbenau (Brandenburg) mit 200 MW und bis zu 100.000 GPUs, was den Bedarf an effizienter Kühlung und Überwachung in Europa verdeutlicht.
-- EU-Strompreise sind 2-3x höher als in den USA, was die Notwendigkeit energieeffizienter Rechenzentren und Kühlungslösungen wie Omen AI in Europa verstärkt.
-- Die EU AI Champions Initiative fördert Investitionen in kritische Infrastruktur wie Rechenzentren, was Finanzierungsmöglichkeiten für Unternehmen wie Omen AI in Europa eröffnen könnte.
+- Tim Höttges (Telekom) warnte, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen. Metas Verkauf von überschüssiger Rechenleistung könnte den Wettbewerbsdruck auf europäische Anbieter erhöhen, die eigene Infrastruktur aufzubauen.
+- Die EU mobilisiert €200 Mrd. (InvestAI) für KI-Infrastruktur, darunter €20 Mrd. für 4-5 KI-Gigafactories. Metas Schritt unterstreicht die Notwendigkeit, diese Kapazitäten schnell zu schaffen, um nicht von US-Anbietern abhängig zu werden.
+- Schwarz Digits investiert €11 Mrd. in das Rechenzentrum Lübbenau (Brandenburg) mit bis zu 100.000 GPUs, um dem "AI Infrastructure Gap" entgegenzuwirken, den Metas Strategie potenziell verschärft.
 
-## 🛡️ Verteidigungs-Tech-VC: Harpoon Ventures investiert in nationale Interessen
+## 🛡️ Verteidigungstechnologie: Dominion Dynamics baut kanadischen "Neo Prime"
 
-Larsen Jensen (Gründer und General Partner von Harpoon Ventures) gibt die Auflegung eines $155 Mio. Fonds bekannt, der in Technologie im nationalen Interesse der USA und ihrer Verbündeten investiert. Jensen, ein ehemaliger Olympionike und Navy SEAL, betont die Unterstützung frühphasiger Startups mit visionären Gründern im Verteidigungsbereich.
+Eliot Pence, Co-Founder von Dominion Dynamics, diskutierte die jüngste Finanzierungsrunde von 100 Millionen Dollar für sein Unternehmen. Dominion Dynamics konzentriert sich auf den Aufbau eines kanadischen Verteidigungstechnologieunternehmens, das autonome Systeme und die Überwachung des arktischen Raums entwickelt. Pence betonte Kanadas reiche Verteidigungstechnologiegeschichte und die aktuelle Chance, eine große Verteidigungsmarke zu etablieren, indem Lösungen für die extrem raue arktische Umgebung entwickelt werden, die erhebliche Wettbewerbsvorteile schaffen.
 
 **Konkrete Details aus dem Gespräch:**
-- Der Fonds konzentriert sich auf Technologie, die den nationalen Interessen der USA und ihrer Verbündeten dient.
-- Larsen Jensen, ein ehemaliger Olympionike und Navy SEAL, kam durch seine Erfahrung mit Palantir zum Tech-Interesse.
-- Der Markt für Verteidigungs-Tech hat sich seit 2018 stark entwickelt, von "Dual-Use"-Technologien (Enterprise-Tech für Regierungszwecke) hin zu stärker verteidigungsfokussierten Unternehmen.
-- Harpoon Ventures hat den "Black Flag Accelerator" gestartet, um noch früher (Pre-Seed, Seed) in Startups zu investieren.
-- Das Unternehmen sucht nach "high octane founders with a huge vision" und ist bereit, in "novel capabilities" zu investieren.
+- Dominion Dynamics hat 100 Millionen Dollar erhalten, um einen "Canadian Neo Prime" für autonome Systeme und "Arctic domain awareness" aufzubauen.
+- Das Unternehmen hat bereits 10 Produkte entwickelt, darunter 5 Hardware-Plattformen, und plant den Bau einer großen Drohne.
+- Der Fokus auf die Arktis als "härtestes Einsatzumfeld der Welt" soll massive "Moats" schaffen, da die Lösungen für den "Mond" gebaut werden.
+- Die Kapitalstruktur des Unternehmens umfasst kanadische Pensionsfonds (BCI und Omer's) sowie globale Investoren (Valor Equity Partners, Atreides, Baccemer).
+- Ein jüngster Durchbruch war eine 5.500 km lange Schneemobil-Operation durch die Nordwestpassage zur Erprobung des Kommunikations-Backends "ORA net".
 
 **🇪🇺 Europa-Relevanz:**
-- Der Deutschlandfonds (KfW-gestützt, €30 Mrd. Garantien) enthält erstmals ein Modul für Verteidigungs-Startups, um die fragmentierte europäische Verteidigungsindustrie zu stärken.
-- Die EU hat das SAFE-Programm für autonome europäische Sicherheit und Verteidigung, was den Bedarf an Investitionen in diesem Sektor unterstreicht.
-- Kanzler Merz betont KI als "Grundlage für Souveränität und Sicherheit" und die Notwendigkeit einer F&E-Quote von 3,5% des BIP, was Harpoons Fokus auf nationale Interessen widerspiegelt.
+- Die EU hat das SAFE-Programm für autonome europäische Sicherheit und Verteidigung, aber es fehlt ein europäisches Äquivalent zu Unternehmen wie Dominion Dynamics, was die fragmentierte Verteidigungsindustrie der EU unterstreicht.
+- Der Deutschlandfonds (€30 Mrd. Garantien) enthält erstmals ein Modul für Verteidigungs-Startups, um die Lücke zu schließen, die Unternehmen wie Dominion Dynamics in Kanada füllen.
+- Der Berlin-Anschlag auf das Stromnetz (Jan 2026) hat die Debatte über kritische Infrastruktur (Kritis-Dachgesetz) und hybride Bedrohungen neu entfacht, was die Relevanz von "Arctic domain awareness" und autonomen Systemen für die EU erhöht.
 
-## 🚀 Deep Tech VC-Strategie: Cantos setzt auf schnelle Iteration und Problemlösung
+## 🇮🇹 Tech-Akquisitionen & KI: Bending Spoons IPO an der Nasdaq
 
-Ian Rountree (Gründer und General Partner von Cantos) und Grant Gregory (Partner bei Cantos) stellen ihren neuen $70 Mio. Fonds vor, der frühphasige Deep-Tech-Startups finanziert. Cantos zeichnet sich durch eine Strategie aus, die auf schnelle Iteration, die Lösung realer Probleme mit innovativer Technologie und eine enge Zusammenarbeit mit Gründern setzt.
+Luca Ferrari, Co-Founder und CEO von Bending Spoons, einer italienischen Digital Business Holding, hat das Unternehmen zu einem erfolgreichen IPO an der Nasdaq geführt, mit einer Bewertung von 18,4 Milliarden Dollar. Ferrari hob die breite Akquisitionsstrategie des Unternehmens hervor, die auf Vorhersagbarkeit und langfristige Verbesserung potenzieller Ziele abzielt. Er betonte die zeitintensive Natur ihres transformativen Integrationsprozesses und die Rolle von KI, die über 90% des Codes des Unternehmens schreibt, als Schlüssel zur Effizienz.
 
 **Konkrete Details aus dem Gespräch:**
-- Der neue Fonds hat ein Volumen von $70 Mio. (zuvor $50 Mio.).
-- Cantos investiert in Startups mit "Missionen, die größer sind als wir selbst", wobei Gründer als "moderne Helden" betrachtet werden.
-- Die Strategie beinhaltet frühphasige Checks (z.B. $1,5 Mio.), um eine "bedeutende Prozentzahl" des Netzwerks der GPs darzustellen.
-- Investitionen umfassen "Deep Tech" in Bereichen wie AgTech (z.B. Shinkay mit Fisch-tötenden Robotern, Laser-Jäter) und Verteidigung (z.B. Neros, Castellian).
-- Das Unternehmen betont die Notwendigkeit schneller Iteration ("build, break, and iterate") und schneller Feldtests, anstatt im Labor zu verharren.
-- Es wird Kritik an PhD-Gründern geäußert, die ihre Doktorarbeit kommerzialisieren wollen, da diese oft zu langsam und zu sehr auf "Caveats" fokussiert sind.
-- Technologie ist nur wertvoll, wenn sie ein Problem löst; die gute Verpackung von Off-the-Shelf-Technologien in einem Geschäftsmodell wird als entscheidender angesehen als reine Neuheit.
-- Cantos weist eine hohe Erfolgsquote bei der Unterstützung von Portfolio-Unternehmen bei der nächsten Finanzierungsrunde auf (>90%).
+- Bending Spoons hat einen erfolgreichen IPO an der Nasdaq unter dem Ticker "BSP" mit einer Bewertung von 18,4 Milliarden Dollar abgeschlossen.
+- Das Unternehmen verdoppelt seinen Umsatz "ziemlich jedes Jahr".
+- Die Plattform ist technologisch fortschrittlich und hochintegriert, wobei KI "an ihre Grenzen" gebracht wird.
+- Über 90% des Codes des Unternehmens werden von KI geschrieben, mit "bescheidenen Ausgaben" durch den Einsatz eigener, zweckgebundener Modelle und intelligenter Orchestrierung.
+- Der Hauptgrund für den Börsengang war die Verbesserung des Zugangs zu Fremdkapital, da Kreditgeber öffentliche Unternehmen bevorzugen.
+- Das Unternehmen hat über 50 Deals abgeschlossen und konzentriert sich auf die Akquisition und Transformation etablierter digitaler Unternehmen (z.B. AOL, Eventbrite, V-Mail), die oft 15-16 Jahre alt sind und eine resiliente Kundenbasis haben.
+- Die Produktivität wird durch "revenue per Spooner" gemessen, die von 1 Million Dollar auf 4 Millionen Dollar gestiegen ist.
 
 **🇪🇺 Europa-Relevanz:**
-- Die EFI-Kommission empfiehlt "Europäisch denken statt nationaler Kleinstaaterei" bei KI-Entwicklung, was Cantos' Fokus auf Problemlösung und schnelle Iteration in verschiedenen Sektoren (AgTech, Verteidigung) unterstützen könnte.
-- Kanzler Merz fordert eine F&E-Quote von 3,5% des BIP und eine "KI-Offensive", um den Transfer von Forschung in die Anwendung zu stärken, was Cantos' Ansatz der schnellen Kommerzialisierung von Deep Tech entgegenkommt.
-- Der Deutschlandfonds und die EU AI Champions Initiative zielen darauf ab, private Investitionen in DeepTech und KI zu mobilisieren, was für Cantos als Investor in diesen Bereichen relevant ist.
+- Bending Spoons' erfolgreicher IPO in den USA zeigt, dass europäische Tech-Unternehmen weiterhin den US-Kapitalmarkt für Wachstum nutzen, während die EU-Kapitalmarktunion (CMU) nur langsam vorankommt (EU VC-Volumen liegt bei ~30% des US-Niveaus).
+- Die intensive Nutzung von KI (90% des Codes durch KI geschrieben) durch Bending Spoons unterstreicht die Notwendigkeit für europäische Unternehmen, KI-Technologien schnell zu adaptieren, um wettbewerbsfähig zu bleiben, auch angesichts des EU AI Act.
+- EVP Henna Virkkunen betont die Notwendigkeit, "doing business in Europe easier" zu machen, während Bending Spoons den US-Markt für Kapitalzugang bevorzugt.
+
+## 🚀 KI-Ökosystem: USV's "Rebel Alliance" These
+
+Nick Grossman, Partner bei Union Square Ventures (USV), stellte die "Rebel Alliance" These vor. Diese besagt, dass das KI-Ökosystem weit über die großen Modell-Labs hinausgeht und eine massive, expansive Welle darstellt, in der generationenprägende Unternehmen in allen Schichten des "agentic stack" entstehen werden. USV sieht dies als eine "Neuprogrammierung des gesamten Internets" mit einem "agentic approach", bei dem "agents as infrastructure" statt "agents as employees" eingesetzt werden.
+
+**Konkrete Details aus dem Gespräch:**
+- Die "Rebel Alliance" These postuliert, dass die KI-Möglichkeit viel größer ist als jedes einzelne Unternehmen.
+- Es entsteht ein riesiges Ökosystem um die "incredible magic core models" herum, mit Schichten, Komponenten und Modulen.
+- USV sieht dies als "Rewriting des gesamten Internets" auf einem "agentic stack".
+- Beispiele wie Suno zeigen, dass auch außerhalb der großen Labs erfolgreiche Produkte entstehen, die von spezifischer Nutzererfahrung und Modellwettbewerb profitieren.
+- Der Fokus liegt auf "agents as infrastructure" statt "agents as employees", wobei Unternehmen programmatisch Hunderte oder Tausende von Agenten für Orchestrierung, Modellwahl, Speicher und andere Systemkomponenten einsetzen.
+- USV sucht nach "capital-light" Unternehmen im Mittelbereich des Stacks (Harnesses, Memory, Identity, Payments), die traditionellere Kapitalprofile aufweisen.
+- Die Bruttomargen in der KI-Ära sind vielfältig (20-90%), im Gegensatz zu den hohen Margen von Web 2.0.
+
+**🇪🇺 Europa-Relevanz:**
+- Die "Rebel Alliance" These von USV, die auf die Entstehung zahlreicher KI-Unternehmen im "agentic stack" setzt, steht im Kontrast zur EU-Strategie, die mit dem AI Act umfassend reguliert, während die USA auf Selbstregulierung setzen.
+- Die EU AI Champions Initiative (€150 Mrd. private Investitionen) zielt darauf ab, ein ähnliches Ökosystem in Europa zu fördern, um nicht nur von den großen US-Labs abhängig zu sein, sondern auch eigene "Rebel Alliance"-Unternehmen zu entwickeln.
+- Die EFI-Kommission empfiehlt "Europäisch denken statt nationaler Kleinstaaterei", um die Entwicklung und Anwendung von KI in Deutschland und Europa zu stärken und so ein fragmentiertes Ökosystem zu vermeiden.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
--   **Rocket Lab erwirbt Iridium:** Rocket Lab hat Iridium für $8 Mrd. erworben, um mit SpaceX im Satelliten-Internet zu konkurrieren und seine vertikale Integration im Raumfahrtsektor zu stärken (TBPN).
--   **Comcast spaltet sich auf:** Comcast plant die Aufspaltung in ein reines Konnektivitätsgeschäft und ein Content-Unternehmen (NBCUniversal), was einen breiteren Trend bei Telekommunikationsunternehmen widerspiegelt, sich von Content-Akquisitionen zu trennen (TBPN).
--   **Monogram startet visuelle KI-App:** Eren Bali (Gründer von Udemy, Carbon Health) hat Monogram gestartet, eine KI-Anwendung mit interaktiven visuellen Interfaces und Spracheingabe für alltägliche Aufgaben, und eine Seed-Runde über $40 Mio. erhalten (TBPN).
--   **Taxwire automatisiert Umsatzsteuer-Compliance:** Andrew Rea (Co-Gründer und CEO von Taxwire) bietet eine KI-gestützte, vollständig verwaltete Lösung für globale Umsatzsteuer-Compliance an und hat $25 Mio. Finanzierung erhalten, da die Durchsetzung von Umsatzsteuern weltweit zunimmt (TBPN).
+- **Wayne Ting (Lime):** Der CEO von Lime betonte nach dem IPO die Bedeutung operativer Effizienz und vertikaler Integration in Hardware und Software, um in der Mikromobilitätsbranche erfolgreich zu sein. Er hob hervor, dass Lime durch Skalenvorteile und Diversifizierung der Lieferketten (z.B. bei Speicherchips und Zöllen) Wettbewerbsvorteile erzielt hat. (TBPN)
+- **Shubh Sinha (Integral):** Integral hat 18 Millionen Dollar in einer Series A-Runde erhalten, um proprietäre Echtdaten (z.B. medizinische Aufzeichnungen, Finanztransaktionen) für KI-Entwickler zu "sanitisieren", wodurch Datenschutz und Compliance gewährleistet und gleichzeitig die Monetarisierung sensibler Informationen ermöglicht wird. (TBPN)
+- **Jeffery Liu (Assort Health):** Assort Health, das 222 Millionen Dollar erhalten hat, bietet eine "agentic platform" für Gesundheitsdienstleister, die den gesamten Patientenpfad automatisiert – von Call Centern über Dokumentenverarbeitung bis hin zu Zahlungsabwicklung – und so den Verwaltungsaufwand reduziert und den Zugang zur Versorgung verbessert. (TBPN)
+- **Mark Pincus (Zynga Founder):** Der Zynga-Gründer Mark Pincus diskutierte sein Buch "Life at the Speed of Play", das die Bedeutung von schnellem Testen und Lernen in der KI-Ära hervorhebt. Er äußerte Skepsis gegenüber dem aktuellen Consumer-VC-Markt und bezeichnete den Börsengang als "falschen Traum" für die meisten Unternehmen. (TBPN)
 
 # 💭 Zum Drüber Nachdenken
 
-**Europas Rechenzentrum-Traum droht im Kühlmittel zu ertrinken, während US-Startups die Lecks stopfen.**
-Kontext: Omen AI (USA) sichert $31 Mio. für Echtzeit-Flüssigkeitsüberwachung in Rechenzentren, da Ausfälle durch Verunreinigungen und Biowachstum zunehmen. Gleichzeitig investiert Schwarz Digits €11 Mrd. in das Lübbenau-Rechenzentrum (Brandenburg) und die EU AI Champions Initiative fördert Rechenzentren, während Europa mit 2-3x höheren Strompreisen als die USA kämpft. Die Notwendigkeit effizienter und ausfallsicherer Kühlung ist in Europa, wo die "AI Infrastructure Gap" droht, noch akuter.
-Die Frage dahinter: Wie kann Europa sicherstellen, dass seine massiven Investitionen in KI-Infrastruktur nicht durch fehlende spezialisierte Lösungen für Betriebssicherheit und Effizienz untergraben werden, die derzeit primär aus den USA kommen?
+**Metas KI-Kapazitäts-Dumping: Ein Weckruf für Europas €200 Mrd. KI-Gigafactory-Träume?**
+Kontext: Meta plant, überschüssige KI-Rechenleistung zu verkaufen, was den Neocloud-Markt unter Druck setzt und Fragen nach der tatsächlichen Auslastung der massiven KI-Investitionen aufwirft. Währenddessen ringt Europa mit einem "AI Infrastructure Gap" und mobilisiert über InvestAI €200 Mrd. für eigene KI-Gigafactories, wie das €11 Mrd. Rechenzentrum Lübbenau von Schwarz Digits. Tim Höttges (Telekom) warnt, dass Europa nur 5% der Hochleistungschips nutzt.
+Die Frage dahinter: Riskiert Europa, Milliarden in Infrastruktur zu investieren, die dann von US-Anbietern mit überschüssiger Kapazität unterboten wird, bevor die eigenen Produkte reif sind?
 
-**Während Brüssel den AI Act verhandelt, schmieden US-Venture-Fonds die Waffen für die nächste KI-Ära – und Europa schaut zu?**
-Kontext: US-Fonds wie Etch (mit TSMC-Partnerschaft) und Cantos ($70 Mio.) investieren aggressiv in KI-Hardware (Inferenz-Chips) und Deep Tech (Verteidigung, AgTech) mit Fokus auf schnelle Iteration und Skalierung. Gavin Uberti (Etch) betont, dass der Inferenz-Markt von wenigen Millionen auf 8 Milliarden Nutzer wachsen muss. Die EU reguliert mit dem AI Act (High-Risk-Deadline Aug 2026, Digital Omnibus verschiebt evtl. bis Dez 2027) und mobilisiert €200 Mrd. für InvestAI, aber EVP Virkkunen betont die Notwendigkeit, "doing business in Europe easier" zu machen.
-Die Frage dahinter: Kann Europa mit seinem regulatorischen Rahmen und seinen Investitionsinitiativen schnell genug die notwendige Hardware- und Deep-Tech-Basis aufbauen, um mit der Geschwindigkeit und dem Umfang der US-Innovationen mitzuhalten, oder droht es, zum reinen Anwender von US-Technologie zu werden?
+**Der EU AI Act: Bremse für Europas "Rebel Alliance" oder Schutzschild gegen US-Wildwuchs?**
+Kontext: USV's "Rebel Alliance" These prognostiziert ein explosionsartiges Wachstum von "capital-light" KI-Unternehmen im "agentic stack" in den USA, angetrieben durch Modellwettbewerb und "agents as infrastructure". In Europa hingegen müssen High-Risk-KI-Systeme ab August 2026 vollständig compliant mit dem EU AI Act sein (Bußgelder bis €35 Mio. / 7% Umsatz), wobei EVP Henna Virkkunen den "Digital Omnibus" zur Vereinfachung verhandelt.
+Die Frage dahinter: Kann Europas regulatorischer Rahmen die Entstehung einer eigenen "Rebel Alliance" von KI-Innovatoren fördern, oder wird die strenge Regulierung den "Brain Drain" in die USA beschleunigen, wo die Selbstregulierung mehr Experimentierfreude erlaubt?

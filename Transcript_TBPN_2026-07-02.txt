@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-07-02 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~158k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - MetaCloud, Bending Spoons IPO with Founder Luca Ferrari, Amble Founder Joins | Mark Pincus, Shubh Sinha, Wayne Ting, Jeffery Liu & Jon Wang, Eliot Pence, Luca Ferrari, Nick Grossman, Julian Hoenig
 Quelle: https://podscripts.co/podcasts/tbpn-live/metacloud-bending-spoons-ipo-with-founder-luca-ferrari-amble-founder-joins-mark-pincus-shubh-sinha-wayne-ting-jeffery-liu-jon-wang-eliot-pence-luca-ferrari-nick-grossman-julian-hoenig

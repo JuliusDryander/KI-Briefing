@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-07-17 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~122k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - TML Inkling, California Forever?, TSMC Capex | David Baszucki, Everett Randle, Eric Glyman, Jordan Black
 Quelle: https://podscripts.co/podcasts/tbpn-live/tml-inkling-california-forever-tsmc-capex-david-baszucki-everett-randle-eric-glyman-jordan-black

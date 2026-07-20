@@ -2,97 +2,111 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| KI-Modell-Wettbewerb & Investitionen | Die Veröffentlichung von Open-Weight-Modellen wie TMLs "Inkling" und die zunehmende Skepsis gegenüber der reinen "Distillation" chinesischer Modelle signalisieren einen Wandel im KI-Modell-Wettbewerb, während Venture-Investoren in einem "disorientierenden" Markt mit "House Money" agieren und sich auf große KI- und Frontier-Tech-IPOs konzentrieren. | Miramirati, Everett Randle (Benchmark), Jack Morris (Engram Labs), Taran Chabra (Anthropic) | TBPN |
-| KI-Ausgabenmanagement | Unternehmen erleben einen explosionsartigen Anstieg der KI-Ausgaben (bis zu 21x in Monaten), was die Notwendigkeit robuster Management-Tools wie Ramps Token-Spend-Management unterstreicht, um Kosten zu kontrollieren und die Effizienz durch dynamisches Routing und den Einsatz spezialisierter kleiner Modelle zu optimieren. | Eric Glyman (Ramp) | TBPN |
-| Industrielle Automatisierung & Verteidigung | Senra Systems hat $65 Mio. in einer Serie B Runde erhalten, um die Präzisionsfertigung von Kabelbäumen für Luft- und Raumfahrt sowie Verteidigung zu modernisieren, indem es vertikale Integration, hohe Qualität und Geschwindigkeit durch Automatisierung und KI-gestützte Prozesse nutzt. | Jordan Black (Senra Systems) | TBPN |
-| Halbleiter-Investitionen | TSMC hat seine Investitionen in den USA um weitere $100 Mrd. erhöht, was seine führende Position in der globalen Halbleiterlieferkette festigt, obwohl der Markt Bedenken hinsichtlich potenzieller Überinvestitionen äußert. | Host | TBPN |
+| KI-Regulierung | Demis Hassabis (DeepMind) schlägt eine US-geführte, branchenfinanzierte und von Experten betriebene Selbstregulierungsorganisation (SRO) für KI vor, um Modelle vor der Veröffentlichung auf katastrophale Risiken zu prüfen und eine staatliche Überregulierung zu vermeiden. | Jason Calacanis, Chamath Palihapitiya, David Sacks, David Friedberg | All-In |
+| Regulierungstaktik | Laut David Sacks verfolgt Anthropic eine Strategie der "Regulatory Capture", indem es auf staatlicher Ebene zunehmend strengere KI-Regulierungen fördert, um einen Flickenteppich von Regeln zu schaffen, der Open-Source- und kleinere Wettbewerber benachteiligt. | David Sacks, Chamath Palihapitiya | All-In |
+| Rechenzentren & Energie | New Yorks Gouverneurin Kathy Hochul hat ein landesweites Moratorium für Hyperscale-Rechenzentren verhängt, basierend auf falschen Anschuldigungen bezüglich Energieverbrauch, Landnutzung und Wasser, was die US-Energieknappheit verschärft und die KI-Entwicklung behindert. | Chamath Palihapitiya, David Sacks, Jason Calacanis | All-In |
+| Geopolitische Einflussnahme | Es gibt Hinweise darauf, dass ausländische Akteure, insbesondere China, Einflusskampagnen betreiben, um die öffentliche Meinung in den USA gegen den Bau von Rechenzentren und die KI-Entwicklung zu manipulieren, um die eigene Position im KI-Wettlauf zu stärken. | David Friedberg, David Sacks, Chamath Palihapitiya | All-In |
+| KI-Kosten & Datenprivatsphäre | Die hohen Kosten für Frontier-KI-Modelle und die inhärente Fragilität der Datenprivatsphäre bei deren Nutzung stellen erhebliche Risiken für Unternehmen dar, während günstigere Open-Source-Alternativen und lokale Hardware-Lösungen den Markt disruptieren könnten. | Chamath Palihapitiya, David Sacks, Jason Calacanis | All-In |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🧠 KI-Modell-Wettbewerb & Investitionen
+## 🤖 KI-Regulierung: US-Branche schlägt Selbstregulierung vor
 
-Miramirati (ehemalige OpenAI Technologiechefin) und Everett Randle (General Partner bei Benchmark) diskutieren die Dynamik im KI-Modell-Markt. Miramirati's Unternehmen Thinking Machines Lab (TML) hat "Inkling" veröffentlicht, ein Open-Weight-Modell, das auf Anpassbarkeit für Fine-Tuning ausgelegt ist und als "bestes Open-Weight-AI-Modell außerhalb Chinas" gilt. Dies geschieht in einem Kontext, in dem Anthropic chinesische Modelle der "Distillation" beschuldigt und Millionen von Accounts schließt. Randle beschreibt das aktuelle Investitionsklima als "disorientierend" und von einem "Gefühl der Unvermeidbarkeit" geprägt, ähnlich dem Jahr 2021, jedoch diesmal durch große IPOs von KI- und Frontier-Tech-Unternehmen wie SpaceX, OpenAI und Anthropic angetrieben.
-
-**Konkrete Details aus dem Gespräch:**
-- TMLs "Inkling" ist ein Open-Weight-Modell mit 975 Milliarden Parametern (41 Milliarden aktiv), das auf Anpassbarkeit für Fine-Tuning ausgelegt ist.
-- "Inkling" schlägt Nemotron 3 Ultra in Benchmarks und wird zwischen Kimi K2.5 und 2.7 eingeordnet.
-- TML nutzte synthetische Daten von Open-Weight-Modellen (Kimi K2.5) für das Post-Training, was als "leichtester Touch" der Distillation beschrieben wird.
-- Anthropic beschuldigt chinesische Modelle (Zipu, Deepseek, Alibaba, Moonshot, Minimax) der Distillation und schließt Millionen von Distillation-Accounts pro Woche.
-- Everett Randle (Benchmark) beschreibt das Investitionsklima als "disorientierend" mit einem "Gefühl der Unvermeidbarkeit" ähnlich 2021, aber diesmal angetrieben durch große IPOs (SpaceX, OpenAI, Anthropic).
-- Firmen mit großen Gewinnen aus wenigen Unternehmen ("Playing with house money") nehmen mehr Risiko, da Anthropic beispielsweise in acht ihrer Fonds enthalten ist.
-- Randle kritisiert das Fehlen guter westlicher Open-Source-Modelle, sieht aber Fortschritte bei Nvidia (Nemotron) und TML (Inkling).
-
-**🇪🇺 Europa-Relevanz:**
-- Ab Aug 2025 müssen GPAI-Anbieter in der EU Transparenzpflichten erfüllen und den Code of Practice unterzeichnen; Metas Verweigerung und Anthropic's Kampf gegen Distillation zeigen die Herausforderungen bei der Durchsetzung dieser Standards.
-- EVP Henna Virkkunen treibt die "Tech-Souveränität" voran; die US-Diskussion über ein "trusted telecom"-Modell für KI könnte die EU unter Druck setzen, sich zwischen chinesischen und westlichen Open-Source-Modellen zu entscheiden.
-- Der Digital Omnibus (Nov 2025) könnte die High-Risk-Deadline des AI Act bis Dez 2027 verschieben, um der Industrie mehr Zeit für die Anpassung an Standards zu geben, was im Kontrast zur schnellen Entwicklung von Open-Weight-Modellen steht.
-
-## 💰 Managing AI Spend & Efficiency
-
-Eric Glyman (Co-CEO von Ramp) beleuchtet die explosionsartigen Kosten für KI-Modelle und die Notwendigkeit, diese Ausgaben zu managen. Ramp hat ein neues Produkt namens Token-Spend.fm eingeführt, um Unternehmen dabei zu helfen, ihre KI-Ausgaben zu überwachen und zu optimieren. Die Ausgaben für Token sind bei Ramp-Kunden in den letzten Monaten um das 21-fache gestiegen, und Ramps eigene KI-Ausgaben erreichten in einer Woche $1,5 Mio. Glyman betont, dass Unternehmen Strategien wie Caching, dynamisches Routing und den Einsatz kleiner, spezialisierter Modelle nutzen müssen, um die Effizienz zu steigern und die Kosten zu kontrollieren.
+Demis Hassabis (DeepMind) hat einen Vorschlag für eine US-geführte, internationale KI-Standardisierungsorganisation (SRO) vorgelegt. Diese soll nach dem Vorbild der Finanzindustrie (FINRA) branchenfinanziert und von unabhängigen Experten betrieben werden, um KI-Modelle 30 Tage vor der Veröffentlichung auf Risiken wie Cybersicherheit, nationale Sicherheit und biologische Bedrohungen zu prüfen. Die Befürworter, darunter Elon Musk, Sam Altman (OpenAI) und Sundar Pichai, sehen darin eine schnellere und flexiblere Alternative zu einer staatlichen Regulierungsbehörde, die die Innovation verlangsamen könnte. David Sacks (All-In) betonte, dass eine solche SRO breit aufgestellt sein, sich auf katastrophale Risiken beschränken und zunächst freiwillig sein müsse, um nicht zu einem "DMV für KI" zu werden.
 
 **Konkrete Details aus dem Gespräch:**
-- Ramp-Kunden verzeichneten in den letzten Monaten einen 21-fachen Anstieg der Token-Ausgaben.
-- Ramps eigene KI-Ausgaben erreichten $1,5 Mio. in einer einzigen Woche, was fast 10% der Gehaltsausgaben entspricht.
-- Das neue Produkt Token-Spend.fm ermöglicht Unternehmen, API-Keys zu verknüpfen, Ausgaben zu überwachen, ungewöhnliche Spitzen zu erkennen und Kosten zu senken.
-- Optimierungsstrategien umfassen Caching, Vermeidung von "Fast Mode" und dynamisches Routing von Aufgaben zu kleineren, spezialisierten Modellen.
-- 59% der Token-Ausgaben durchschnittlicher Unternehmen entfallen auf Frontier-Modelle.
-- Frontier-Modelle können für komplexe Aufgaben effizienter sein (z.B. "Scott Wu" pro Sekunde kann günstiger sein als ein "Team von Drittklässlern").
-- Generative Interfaces können B2B-SaaS-Produkte intuitiver und relevanter machen, indem sie nutzerspezifische Ansichten bieten.
-- Die Ramp Econ Lab-Forschung hilft, die wirtschaftlichen Auswirkungen von KI besser zu verstehen, da Ramp etwa 1% der gesamten Unternehmensausgaben in den USA verfolgt.
+- Der Vorschlag sieht eine US-geführte, internationale KI-Standardisierungsorganisation vor, die nach dem Vorbild von FINRA (Financial Industry Regulatory Authority) als Selbstregulierungsorganisation (SRO) agieren soll.
+- Frontier Labs sollen ihre Modelle 30 Tage vor der Veröffentlichung zur Bewertung einreichen.
+- Die Modelle sollen auf Risiken in den Bereichen Cybersicherheit, nationale Sicherheit und biologische Bedrohungen geprüft werden.
+- Benchmarks sollen vierteljährlich aktualisiert werden, und die Organisation soll die Möglichkeit haben, die Entwicklung bei Bedarf zu verlangsamen.
+- David Sacks nannte fünf Bedingungen für die Unterstützung einer SRO: breite Branchenrepräsentation (inkl. Startups und Open Source), Fokus nur auf Frontier-Modelle und katastrophale Risiken (Cyber, CBRN), zunächst freiwillig, und als Ersatz für, nicht zusätzlich zu, neuen Regulierungsbehörden.
+- Die Gefahr einer "FAA für KI" (Federal Aviation Administration) wird diskutiert, da dies die Zertifizierung neuer Modelle um fünf bis neun Jahre verzögern könnte.
 
 **🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) betont, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA, was die Notwendigkeit von Kostenoptimierung und effizienter Modellnutzung in der EU verstärkt.
-- Die EU mobilisiert €200 Mrd. über InvestAI, um 4-5 KI-Gigafactories mit je ~100.000 Next-Gen-AI-Chips zu finanzieren, was die Infrastruktur für effizientere KI-Nutzung schaffen soll.
-- Schwarz Digits investiert €11 Mrd. in ein Rechenzentrum in Lübbenau (Brandenburg) mit bis zu 100.000 GPUs, um die Rechenkapazität zu erhöhen und die Kosten für KI-Anwendungen zu senken.
+- Der EU AI Act, der ab August 2026 die vollständige Compliance für High-Risk-KI-Systeme vorschreibt (mit Bußgeldern bis €35 Mio. oder 7% des Umsatzes), steht im direkten Gegensatz zum US-Ansatz der Selbstregulierung.
+- EVP Henna Virkkunen treibt mit dem Digital Omnibus eine mögliche Verschiebung der High-Risk-Deadline auf Dez 2027/Aug 2028 voran, um der Industrie entgegenzukommen, während die US-Debatte noch bei der Grundsatzfrage der Regulierung verharrt.
+- Die US-Kritik an Europas Ansatz als "authoritarian censorship" (JD Vance) unterstreicht die regulatorische Asymmetrie, die europäische Unternehmen vor die Herausforderung stellt, sowohl den strengen EU-Vorgaben als auch einem potenziell fragmentierten US-Regulierungsraum gerecht zu werden.
 
-## ⚙️ Industrielle Automatisierung & Verteidigung
+## 📈 Regulierungstaktik: Anthropics "Regulatory Capture" Strategie
 
-Jordan Black (CEO und Mitgründer von Senra Systems) berichtet über die erfolgreiche Serie B Finanzierungsrunde von $65 Mio. für sein Unternehmen. Senra Systems konzentriert sich auf die Modernisierung der Präzisionsfertigung von Kabelbäumen für die Luft- und Raumfahrt sowie die Verteidigungsindustrie in den USA. Das Unternehmen setzt auf vertikale Integration, um die Qualität und Geschwindigkeit der Produktion zu verbessern, da Kabelbäume traditionell manuell und mit veralteten Methoden entworfen und gefertigt werden. Senra agiert als Engineering-Partner von der Prototypenentwicklung bis zur Serienproduktion und identifiziert Wachstumsmärkte wie Rechenzentren und neue Energie (z.B. Mikroreaktoren).
+Laut David Sacks verfolgt Anthropic eine Strategie der "Regulatory Capture", indem es auf staatlicher Ebene zunehmend strengere KI-Regulierungen fördert. Ein Politico-Artikel beschreibt, wie Anthropic einen "Flickenteppich" von Regeln schafft, anstatt einen einheitlichen nationalen Rahmen anzustreben. Diese Taktik, die Sacks bereits im Oktober des Vorjahres als "sophisticated regulatory capture strategy based on fear mongering" bezeichnete, zielt darauf ab, Open-Source- und kleinere Wettbewerber zu benachteiligen. Anthropic, das als führendes KI-Unternehmen mit Billionen-Dollar-Bewertung und enormen Ressourcen beschrieben wird, finanziert zudem Gruppen, die den Bau von Rechenzentren und die KI-Entwicklung verlangsamen wollen. Die Sprecher warnen, dass Regierungen dazu neigen, mehr Macht anzunehmen, was zu einer Eskalation der Regulierung führen kann, wenn die Industrie nicht eine klare Grenze zieht.
 
 **Konkrete Details aus dem Gespräch:**
-- Senra Systems hat $65 Mio. in einer Serie B Runde erhalten, mit Founders Fund als Investor.
-- Das Unternehmen löst das $165 Mrd. Problem der Kabelbaumfertigung in den USA für Luft- und Raumfahrt und Verteidigung.
-- Kabelbäume werden traditionell in Excel-Tabellen und PowerPoint-Folien entworfen und von Hand gefertigt, was zu Komplexität und Qualitätsmängeln führt.
-- Senra bietet vertikale Integration, da Kunden das physische Produkt schnell und in hoher Qualität wünschen.
-- Qualität ist der wichtigste Faktor: Senra erreicht über 99% "first-pass yield".
-- Geschwindigkeit: Reduzierung der Lieferzeiten von Monaten auf Wochen.
-- Forward-deployed engineering: Partnerschaft mit Kunden von Prototyp bis Produktion, um Design und Fertigung zu optimieren.
-- Wachstumsmärkte: Rechenzentren (inkl. umgebende Infrastruktur wie Generatoren, HVAC), kommerzielle Luft- und Raumfahrt (Satelliten), neue Energie (Mikroreaktoren, Kernkraft).
-- Automatisierungspfad: Von manueller Fertigung zu geschulten Arbeitskräften (90% der Belegschaft in 4 Wochen geschult) hin zu Semi-Automatisierung und zukünftiger Integration von KI und Robotik.
-- Eigene KI-Software zur Optimierung der Materialkosten (Bill of Material, BOM) und zur Vorschlag von kosteneffizienten Komponenten.
+- Ein Politico-Artikel mit dem Titel "Inside Anthropic's State-by-State Plan to ratchet up AI rules" wird zitiert, der Anthropics Strategie beschreibt.
+- Anthropic fördert demnach in jedem neuen US-Bundesstaat strengere und umfassendere KI-Regulierungen, anstatt auf einen einheitlichen nationalen Rahmen hinzuarbeiten.
+- David Sacks hatte bereits im Oktober des Vorjahres getwittert, dass Anthropic eine "sophisticated regulatory capture strategy based on fear mongering" betreibt.
+- Anthropic wird als eines der größten Big-Tech-Unternehmen mit einer Billionen-Dollar-Bewertung und enormen Ressourcen beschrieben, das diese Ressourcen für die "Regulatory Capture" einsetzt.
+- Es wird erwähnt, dass Anthropic Gruppen finanziert, die den Bau von Rechenzentren und die KI-Entwicklung verlangsamen wollen, darunter eine siebenstellige Spende an "Public First".
 
 **🇪🇺 Europa-Relevanz:**
-- Kanzler Merz betont die Notwendigkeit einer F&E-Quote von 3,5% des BIP und sieht KI als "Grundlage für Souveränität und Sicherheit", was die Investitionen in Unternehmen wie Senra Systems unterstützt.
-- Der Deutschlandfonds (Dez 2025) mit €30 Mrd. Garantien und €3,2 Mrd. Eigenmitteln zielt darauf ab, bis zu €130 Mrd. private Investitionen in DeepTech, KI und Verteidigung zu mobilisieren, was Senras Finanzierungsumfeld stärkt.
-- Die Mainzer Erklärung (Jan 2026) der Merz-Regierung fordert eine Senkung der Körperschaftsteuer und verbesserte Abschreibungen, um die Industrieproduktion und Investitionen in Deutschland zu fördern.
+- Anthropic ist Unterzeichner des GPAI Code of Practice, der ab August 2025 Transparenzpflichten für große KI-Anbieter in der EU festlegt, während Meta die Unterzeichnung verweigert hat.
+- Die von Anthropic in den USA verfolgte Strategie, einen Flickenteppich von sich verschärfenden staatlichen Regeln zu schaffen, könnte die Bemühungen der EU untergraben, mit dem AI Act einen einheitlichen und berechenbaren Rechtsrahmen für KI zu etablieren.
+- EVP Henna Virkkunen betont die Notwendigkeit, "doing business in Europe easier without compromising our high standards", was im Widerspruch zu einer Strategie steht, die bewusst regulatorische Komplexität schafft.
 
-## 📈 Halbleiter-Investitionen
+## ⚡ Rechenzentren & Energie: Moratorien und drohende Knappheit
 
-TSMC hat seine Investitionspläne deutlich erhöht und plant, weitere $100 Mrd. in Fabs in den USA zu investieren. Dies unterstreicht die führende Rolle des Unternehmens in der globalen Halbleiterlieferkette. Trotz starker Geschäftsergebnisse reagierte der NASDAQ mit einem Rückgang von 1% auf die erhöhten CAPEX-Pläne, was auf Bedenken des Marktes hinsichtlich potenzieller Überinvestitionen hindeutet.
+New Yorks Gouverneurin Kathy Hochul hat ein landesweites Moratorium für Hyperscale-Rechenzentren verhängt, basierend auf Anschuldigungen bezüglich Energieverbrauch, Landnutzung, Wasserverbrauch und Lärmbelästigung. Die Sprecher des Podcasts kritisieren diese Begründungen als "falsche Anschuldigungen" und betonen, dass Rechenzentren Modelle der Landnutzungseffizienz sind, wenig Wasser verbrauchen (moderne Zentren recyceln Wasser) und Erdgas eine saubere Energiequelle darstellt. Die USA steuern bis 2050 auf ein massives Energie-Defizit zu (2,5x den Bedarf Kaliforniens), was durch solche Moratorien verschärft wird. "Behind the meter"-Lösungen (eigene Stromerzeugung) werden durch komplexe Genehmigungsverfahren behindert. Moratorien sind keine kurze Pause, sondern verzögern Projekte um mindestens fünf Jahre, was die Verfügbarkeit von Rechenleistung für KI-Anwendungen massiv einschränkt.
 
 **Konkrete Details aus dem Gespräch:**
-- TSMC übertraf die Gewinnerwartungen und erhöhte seine Investitionsausgaben (CAPEX).
-- Das Unternehmen plant, weitere $100 Mrd. in Fabs in Arizona zu investieren.
-- Diese Investitionen festigen TSMCs Position an der Spitze der globalen Halbleiterlieferkette.
-- Der NASDAQ fiel um 1% aufgrund der TSMC-Ausgabenpläne, was auf Skepsis des Marktes gegenüber Überinvestitionen hindeutet.
+- Gouverneurin Kathy Hochul verhängte ein landesweites Moratorium für Hyperscale-Rechenzentren in New York.
+- Sie begründete dies mit angeblich erhöhtem CO2-Fußabdruck, Landverbrauch, höheren Stromrechnungen, Wasserknappheit und Lärmbelästigung.
+- Die Sprecher widersprachen diesen Punkten: Rechenzentren seien landnutzungseffizient, moderne Zentren recyceln Wasser (Vergleich: 2,5 In-N-Out Burger), Lärm sei handhabbar, und Erdgas sei eine der saubersten Energiequellen.
+- Die USA werden bis 2050 voraussichtlich ein Energie-Defizit von 2,5x dem gesamten Energieverbrauch Kaliforniens aufweisen.
+- Eine PJM-Auktion (13 Staaten) benötigte 7-8 Gigawatt, erhielt aber nur 156 Megawatt an Angeboten.
+- Moratorien verzögern den Bau von Rechenzentren nicht nur um Monate, sondern um mindestens fünf Jahre, bis ein neues Rechenzentrum in Betrieb genommen werden kann.
 
 **🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen; TSMCs US-Investitionen verschärfen diese Asymmetrie.
-- Die EU mobilisiert €200 Mrd. über InvestAI, um 4-5 KI-Gigafactories mit je ~100.000 Next-Gen-AI-Chips zu finanzieren, um die Abhängigkeit von außereuropäischen Halbleiterinvestitionen zu reduzieren.
-- EVP Henna Virkkunen betont, dass die Mehrheit der Eigentümer von EU-finanzierten Gigafactories aus Europa kommen sollte, um die Tech-Souveränität zu gewährleisten, was im Kontrast zu TSMCs US-Fokus steht.
+- Die EU sieht sich ähnlichen Herausforderungen gegenüber: Frankfurt, Irland und Amsterdam haben bereits Moratorien oder Genehmigungsstopps für Rechenzentren verhängt.
+- Die EU-Strompreise sind 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa, was die Rentabilität von Rechenzentren zusätzlich erschwert.
+- Kanzler Merz und Wirtschaftsministerin Katherina Reiche arbeiten an der Überarbeitung von Netzanschluss-Regeln und der Senkung von Netzentgelten, um die Attraktivität Deutschlands als Standort zu erhöhen.
+- Die €11 Mrd. Investition von Schwarz Digits in das Rechenzentrum Lübbenau (200 MW, bis zu 100.000 GPUs) ist ein konkreter Versuch, die von Tim Höttges (Telekom) beklagte Lücke zu schließen, dass Europa nur 5% der KI-Hochleistungschips nutzt.
+
+## 🇨🇳 Geopolitische Einflussnahme: Ausländische Akteure im KI-Wettlauf
+
+Es gibt zunehmend Hinweise darauf, dass ausländische Akteure, insbesondere China, Einflusskampagnen betreiben, um die öffentliche Meinung in den USA gegen den Bau von Rechenzentren und die KI-Entwicklung zu manipulieren. David Friedberg (All-In) zog Parallelen zu Anti-GMO-Kampagnen, die von russischen Medien beeinflusst wurden, und Chris Wright (Liberty Energy) verwies auf gemeinsame Finanzierungsmuster bei Anti-Fracking- und Anti-Rechenzentrums-Protesten. Ein Blogpost von OpenAI bestätigte "PRC-linked influence operations" gegen KI-Debatten in den USA. Ziel dieser Kampagnen ist es, die notwendige Infrastruktur in den USA zu stoppen, den Markt zu konsolidieren, Open Source zu behindern und die Nachfrage nach günstigeren Modellen einzuschränken. Dies führt zu einer Kostenasymmetrie, bei der US-Modelle 50-100x teurer sind als chinesische, was die Wettbewerbsfähigkeit der USA im KI-Rennen gefährdet.
+
+**Konkrete Details aus dem Gespräch:**
+- Chris Wright (Liberty Energy) wies auf gemeinsame Finanzierungsmuster bei Protesten gegen Rechenzentren und frühere Anti-Fracking-Proteste hin, die von "professionell bezahlten Demonstranten" durchgeführt werden.
+- David Friedberg zog eine Parallele zum Anti-GMO-Sentiment in den USA, das nach dem Start von Russia Today (RT) in den USA im Jahr 2010 stark zunahm und auf russische Einflusskampagnen zurückgeführt werden kann.
+- OpenAI veröffentlichte einen Blogpost mit dem Titel "PRC linked influence operations are targeting AI debates in the U.S.", der von Politico und anderen Medien aufgegriffen wurde.
+- Es wird argumentiert, dass China ein starkes Interesse daran hat, die US-Infrastruktur zu stoppen, den Markt zu konsolidieren, Open Source zu behindern und die Nachfrage nach günstigeren Modellen einzuschränken.
+- Die Kosten für US-Frontier-KI-Modelle sind 50-100x höher als die chinesischer Modelle (z.B. $56 vs. $0.50 pro Million Tokens), was die Wettbewerbsfähigkeit der USA untergräbt.
+
+**🇪🇺 Europa-Relevanz:**
+- Die EU AI Champions Initiative und das InvestAI-Programm mobilisieren €200 Mrd. für KI in der EU, wobei EVP Henna Virkkunen betont, dass "Majority owners should come from Europe" bei EU-finanzierten Projekten, um ausländischer Einflussnahme entgegenzuwirken.
+- Die von OpenAI identifizierten "PRC-linked influence operations" könnten auch die europäische Debatte über KI-Infrastruktur und -Regulierung beeinflussen und die Ziele der EU zur Stärkung der technologischen Souveränität untergraben.
+- Angesichts der Drohungen Trumps mit einem NATO-Rückzug und der geopolitischen Spannungen ist die Stärkung der eigenen Verteidigungs- und Technologiebasis in der EU entscheidend, um solchen externen Einflusskampagnen standzuhalten.
+
+## 💰 KI-Kosten & Datenprivatsphäre: Die Achillesferse der Frontier-Modelle
+
+Die Diskussion beleuchtet die Achillesferse der aktuellen KI-Landschaft: die hohen Kosten für Frontier-KI-Modelle und die inhärente Fragilität der Datenprivatsphäre bei deren Nutzung. Ein Vorfall bei SpaceX Grok Build, bei dem trotz "Zero Data Retention"-Versprechen ganze Codebases an Server gesendet wurden, unterstreicht die "sehr fragile und brüchige" Natur der KI-Privatsphäre. Unternehmen zahlen nicht nur mit hohen Gebühren (z.B. Fable $56/Mio. Tokens vs. chinesische Modelle $0.50), sondern auch mit proprietärem Wissen ("Alpha"). CFOs sind zunehmend überrascht von explodierenden Token-Ausgaben (21-facher Anstieg bei Ramp-Kunden). Gleichzeitig könnten technologische Fortschritte wie Apples M7 Ultra Chip, der 1.5 TB RAM unterstützen soll, das lokale Ausführen von Frontier-Modellen auf Endgeräten ermöglichen und so die Abhängigkeit von teuren Cloud-Diensten und die damit verbundenen Datenschutzrisiken reduzieren.
+
+**Konkrete Details aus dem Gespräch:**
+- SpaceX Grok Build sendete versehentlich gesamte Codebases an Cloud-Server, obwohl "Zero Data Retention" versprochen wurde, was die Fragilität der KI-Privatsphäre unterstreicht.
+- Chamath Palihapitiya betonte, dass "Privacy in AI is very fragile and it's very brittle" und es "non-obvious data leak vectors" gibt.
+- David Sacks wies darauf hin, dass Unternehmen nicht nur mit Geld, sondern auch mit proprietärem Wissen ("Alpha") für die Nutzung von Frontier-Modellen bezahlen.
+- Die Kosten für KI-Modelle variieren stark: Fable kostet $56 pro Million Tokens, während Grok $1.50 und chinesische Modelle $0.50 kosten.
+- Eric Gleman (CEO Ramp) berichtete, dass die Token-Ausgaben bei Ramp-Kunden um das 21-fache gestiegen sind, was CFOs vor unerwartete Kosten stellt.
+- Apples kommender M7 Ultra Chip soll bis zu 1.5 Terabyte RAM unterstützen, was das lokale Ausführen von Frontier-Modellen auf Macs ermöglichen könnte.
+- Es gibt eine Tendenz zur Dezentralisierung von Rechenleistung, mit Unternehmen wie Sun Run und Span (in Partnerschaft mit Nvidia), die "distributed data center blocks" für Privathaushalte anbieten.
+
+**🇪🇺 Europa-Relevanz:**
+- Der EU AI Act, der ab August 2026 für High-Risk-KI-Systeme gilt, wird strenge Anforderungen an Daten-Governance, -Qualität und Cybersicherheit stellen, was die "Zero Data Retention"-Versprechen und die damit verbundenen Risiken für europäische Unternehmen noch kritischer macht (Bußgelder bis €35 Mio.).
+- Das 1.000-Köpfe-Plus-Programm und die €200 Mrd. InvestAI-Initiative sollen dem "Brain Drain" von KI-Talenten in die USA entgegenwirken und europäische Alternativen zu teuren US-Modellen fördern, um die Abhängigkeit zu reduzieren.
+- Die Förderung von Regulatorischen Sandboxes im Rahmen des Digital Omnibus zeigt, dass die EU Wege sucht, Innovation zu ermöglichen, während gleichzeitig strenge Datenschutz- und Sicherheitsstandards eingehalten werden, um die Risiken von Datenlecks zu minimieren.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-- **California Forever:** Das Projekt verlor einen $3.2 Mrd. schweren Schiffbauauftrag von Defense Startup Seronic an den Hafen von Brownsville, Texas. Der Verlust wird auf Kaliforniens langwierige Genehmigungsprozesse zurückgeführt, was ein "mächtiges Signal" über die Wettbewerbsfähigkeit des Staates für große Industrieinvestitionen aussendet. (TBPN)
-- **Roblox Build & AI-Infrastruktur:** Roblox kündigt "Build" an, eine KI-gestützte Plattform zur Spieleerstellung, die auf der eigenen Infrastruktur läuft, um Kosten zu senken und die Performance zu steigern. Das Unternehmen setzt auf KI für fotorealistisches Multiplayer-Gaming (AI upreszing), NPCs und dynamische Welterstellung, sowie für Sicherheit und IP-Management. (TBPN)
+**Stripe/Block/Advent Bid for PayPal:** Ein Konsortium aus Stripe, Block und Advent bietet 53 Mrd. USD für PayPal. Ziel ist es, einen direkten Konkurrenten zu Visa und MasterCard zu schaffen, indem die riesigen Merchant- und Consumer-Netzwerke sowie Stablecoin-Infrastrukturen kombiniert werden. Die Sprecher sehen darin den Beginn einer Welle von "AI-ifizierten" Mega-Deals, bei denen ältere digitale Unternehmen durch den Einsatz von KI und operativem Know-how wiederbelebt werden.
+
+**Apple vs. OpenAI Lawsuit:** Apple hat OpenAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen im Zusammenhang mit einem neuen Hardware-Gerät verklagt. Die Klage bezieht sich auf die Abwerbung von über 400 Apple-Mitarbeitern und den angeblichen Transfer von "tatsächlichen Teilen" und Netzwerkzugangsdaten. Die Diskussion betont die Wichtigkeit, beim Wechsel des Arbeitgebers keine physischen oder digitalen Daten mitzunehmen, sondern nur das eigene Wissen.
 
 # 💭 Zum Drüber Nachdenken
 
-**Trumps "Trusted Telecom"-Strategie für KI entlarvt Europas Souveränitäts-Illusion**
-Kontext: US-Firmen wie TML und Nvidia versuchen, eine westliche Open-Source-KI-Alternative zu chinesischen Modellen zu etablieren, während Anthropic Millionen von "Distillation"-Accounts schließt. Die EU hat mit dem AI Act strenge Transparenzpflichten für GPAI-Anbieter ab Aug 2025 und fordert von EVP Virkkunen "Tech-Souveränität". Wenn die USA ihre "trusted telecom"-Strategie auf KI ausweiten, könnte dies die EU vor die Wahl stellen, ob sie chinesische Modelle (die oft auf US-Closed-Source basieren) oder die noch jungen westlichen Open-Source-Alternativen bevorzugt.
-Die Frage dahinter: Wie kann Europa seine eigene KI-Souveränität sichern, wenn die globalen Open-Source-Modelle entweder aus China stammen oder auf US-Technologie basieren, und gleichzeitig die Gefahr der "Distillation" die Entwicklung bremst?
+**Europas "Goldstandard" des AI Act: Ein Wettbewerbsnachteil oder die Blaupause für die Welt?**
+Kontext: Während die USA über eine branchengeführte Selbstregulierung (SRO) für KI diskutieren und Anthropic aktiv einen Flickenteppich von staatlichen Regeln schafft, hat die EU mit dem AI Act einen umfassenden Rechtsrahmen geschaffen, der ab August 2026 für High-Risk-KI-Systeme gilt. EVP Henna Virkkunen versucht mit dem Digital Omnibus, die Umsetzung zu erleichtern, doch die regulatorische Asymmetrie bleibt bestehen. US-Vizepräsident JD Vance kritisiert den EU-Ansatz als "authoritarian censorship", was die unterschiedlichen Philosophien verdeutlicht.
+Die Frage dahinter: Wird Europas strenger AI Act zum globalen Wettbewerbsnachteil, wenn die USA im regulatorischen Wildwuchs schneller innovieren – oder zur Blaupause, die US-Firmen letztlich doch übernehmen müssen, um den europäischen Markt zu bedienen?
 
-**Europas KI-Gigafactory-Träume kollidieren mit der Kostenrealität**
-Kontext: Die "3-Dollar-Uber-Ära" der KI ist vorbei; Unternehmen wie Ramp sehen 21-fache Kostensteigerungen und müssen KI-Ausgaben aktiv managen, während die Investitionen in Rechenzentren und Halbleiter explodieren. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt. Die EU mobilisiert €200 Mrd. über InvestAI, inklusive €20 Mrd. für 4-5 KI-Gigafactories, und Schwarz Digits investiert €11 Mrd. in ein Rechenzentrum in Lübbenau. Gleichzeitig sind EU-Strompreise 2-3x höher als in den USA, und es gibt Moratorien für Rechenzentren in Städten wie Frankfurt.
-Die Frage dahinter: Kann Europa seine ambitionierten KI-Infrastrukturziele erreichen und gleichzeitig die explodierenden Betriebskosten für KI-Modelle in den Griff bekommen, wenn es mit deutlich höheren Energiepreisen und Genehmigungshürden als die USA zu kämpfen hat?
+**Rechenzentrums-Blockade: Chinas geopolitische Waffe gegen Europas KI-Ambitionen?**
+Kontext: In den USA wird über ausländische Einflussnahme auf Anti-Rechenzentrums-Proteste diskutiert, während Europa mit eigenen Moratorien (Frankfurt, Irland) und den höchsten Industriestrompreisen (Deutschland 2-3x US-Niveau) kämpft. Kanzler Merz und Rolf Schumann (Schwarz Digits) treiben mit €11 Mrd. Investitionen in Lübbenau den Aufbau von KI-Infrastruktur voran, um Europas geringen Anteil von 5% an Hochleistungschips zu erhöhen. Die von OpenAI identifizierten "PRC-linked influence operations" könnten auch in Europa wirken und die €200 Mrd. InvestAI-Ziele untergraben, indem sie die notwendige Infrastruktur blockieren.
+Die Frage dahinter: Ist die europäische Rechenzentrums-Blockade nur ein lokales Problem, oder ein geopolitisches Schachspiel, das Europas €200 Mrd. KI-Ambitionen im Keim ersticken soll, indem es die notwendige Infrastruktur verhindert?

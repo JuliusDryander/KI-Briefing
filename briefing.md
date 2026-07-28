@@ -2,77 +2,97 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| KI-Geopolitik & Kommodifizierung | Das chinesische Open-Source-KI-Modell Kimmy K3 erreicht Leistungs-Parität mit führenden US-Modellen, ist aber 50% billiger, was eine Panik in den USA auslöst und zu Diskussionen über ein Verbot chinesischer Open-Source-Modelle führt. | Jason, Sacks, Chamath, Friedberg | All-In |
-| KI-Copyright & "Fair Use" | Anthropic hat einen $1.5 Mrd. Copyright-Vergleich für das Training auf piratierten Büchern gezahlt, was die Debatte um "Fair Use" und die Heuchelei von KI-Firmen anheizt, die selbst auf fremden Inhalten trainieren, aber Destillation ihrer eigenen Outputs als "IP-Diebstahl" bezeichnen. | Jason, Sacks, Friedberg, Chamath | All-In |
-| KI-Infrastruktur-Investitionen | Google und Tesla tätigen massive Investitionen in die KI-Infrastruktur (CapEx), was kurzfristig zu negativem Free Cash Flow führt und den Markt enttäuscht, aber als strategisch notwendig für die Zukunft der KI-Wirtschaft angesehen wird. | Chamath, Jason, Friedberg, Sacks | All-In |
+| KI-Modelle: Open Source vs. Closed Source | Eine von Nvidia geführte Koalition von Tech-Unternehmen argumentiert, dass Open-Source-KI-Modelle als Cybersicherheits-Asset und nicht als Bedrohung angesehen werden sollten, um defensive Fähigkeiten zu demokratisieren, während Kritiker wie Anthropic und OpenAI Bedenken hinsichtlich nationaler Sicherheit und IP-Diebstahl äußern, insbesondere im Zusammenhang mit chinesischen Modellen. | Host, Dean Meyer (Sequoia Capital), Flo Crivella, Justin Boitano (Nvidia VP Enterprise AI) | TBPN |
+| KI-Robotik | Nygmata ist mit einer Seed-Runde von 71 Millionen Dollar aus dem Stealth-Modus gekommen und entwickelt KI-gesteuerte Robotererlebnisse mit einem Software-First-Ansatz und hardware-agnostischen Fundamentmodellen, um die Interaktion mit Robotern zu revolutionieren und frühe kommerzielle Anwendungen in Logistik, Unterhaltung und Gesundheitswesen zu erschließen. | Jonathan Jacobi (Nygmata) | TBPN |
+| Verteidigungstechnologie (Unterwasserüberwachung) | Andrenum hat eine Series A-Finanzierungsrunde von 18 Millionen Dollar abgeschlossen und entwickelt skalierbare Sonar-Hardware und -Software für die Unterwasserüberwachung, um U-Boote und unbemannte Unterwasserfahrzeuge zu erkennen, wobei der Fokus auf schneller Produktentwicklung und der Integration von kostengünstigen Bojen, maschinellem Lernen und Command-and-Control-Systemen liegt. | Matej Cernosek (Andrenum) | TBPN |
+| Europäisches Tech-Mediennetzwerk | Luke Knight und Ronan Chambers haben $1.6 Millionen bei einer Post-Money-Bewertung von $9 Millionen für ihr European Technology Network (ETN) eingesammelt, das als Live-Show begann und nun in Events, Rekrutierung, Investment und andere Medienbereiche expandieren will, um das europäische Ökosystem zu entwickeln. | Luke Knight, Ronan Chambers (ETN) | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🇨🇳 KI-Geopolitik & Kommodifizierung: Chinas Open-Source-Offensive fordert US-Dominanz heraus
+## 🤖 KI-Modelle: Open Source vs. Closed Source
 
-Die Diskussionsteilnehmer erörtern die Auswirkungen des chinesischen Open-Source-KI-Modells Kimmy K3 von Moonshot AI, das Leistungs-Parität mit führenden US-Modellen wie Opus 4.8 und GPT 5.6 erreicht hat, aber 50% billiger ist. Dies hat in den USA eine "Panik" ausgelöst und zu Diskussionen innerhalb der Trump-Administration über ein mögliches Verbot chinesischer Open-Source-Modelle geführt. Während Michael Cratios von der Destillation von Anthropics Fable spricht, lehnt Howard Lutnik vom Handelsministerium ein Verbot ab. Anthropic wird vorgeworfen, "Regulatory Capture" zu betreiben, indem es ein Verbot fordert, anstatt die Destillation seiner Modelle selbst zu unterbinden.
-
-**Konkrete Details aus dem Gespräch:**
-- Kimmy K3 von Moonshot AI ist auf Parität mit Opus 4.8 und GPT 5.6, aber 50% billiger.
-- Die Trump-Administration diskutiert ein Verbot chinesischer Open-Source-Modelle, ist aber intern uneins.
-- Anthropic wird beschuldigt, "Regulatory Capture" zu betreiben, indem es ein Verbot fordert, anstatt Destillation selbst zu stoppen.
-- Destillation (Lernen aus Modell-Outputs) ist eine gängige Praxis; Anthropic/OpenAI destillieren selbst.
-- KI-Modelle werden schnell zur Ware; der Wert verschiebt sich zur Anwendungsebene und Infrastruktur.
-- Ein US-Verbot von Open Source würde US-Unternehmen benachteiligen und den Aktienmarkt "tanken".
-
-**🇪🇺 Europa-Relevanz:**
-- Die EU mobilisiert mit InvestAI €200 Mrd. für KI, darunter €20 Mrd. für 4-5 KI-Gigafactories, die auf offene, kooperative Entwicklung setzen – ein US-Verbot von Open Source könnte den Wettbewerbsvorteil für europäische Open-Source-Anbieter erhöhen.
-- Rolf Schumann (Co-CEO Schwarz Digits) treibt die €11 Mrd. Investition in das Rechenzentrum Lübbenau voran, das bis zu 100.000 GPUs beherbergen soll, um Europas "AI Infrastructure Gap" zu schließen und souveräne KI-Lösungen zu ermöglichen.
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% verwenden – die Kommodifizierung von KI-Modellen und der Fokus auf Infrastruktur könnten Europas Position stärken, wenn es die nötigen Kapazitäten aufbaut.
-- EVP Henna Virkkunen betont, dass die Mehrheit der Eigentümer von EU-finanzierten Gigafactories aus Europa kommen sollte, um Tech-Souveränität zu gewährleisten und die Beteiligung von "High-Risk-Anbietern" auszuschließen.
-
-## ⚖️ KI-Copyright & "Fair Use"-Debatte: Anthropics $1.5 Mrd. Vergleich als Präzedenzfall
-
-Anthropic hat einen $1.5 Mrd. Copyright-Vergleich für das Training seines Modells Claude auf 7 Millionen piratierten Büchern gezahlt. Dies ist der größte Copyright-Vergleich in der US-Geschichte und der erste große AI-Trainings-Rechtsstreit. Die Diskussionsteilnehmer betonen die Heuchelei von KI-Firmen wie Anthropic und OpenAI, die selbst auf fremden Inhalten trainieren (z.B. New York Times), aber Destillation ihrer eigenen Modell-Outputs als "industrielle Destillationsangriffe" und "IP-Diebstahl" bezeichnen. Sie heben die entscheidende Unterscheidung zwischen dem Stehlen von Modellgewichten (Software) und dem Lernen aus Modell-Outputs (Benchmarking) hervor, die in der Politik oft nicht verstanden wird.
+Die Diskussion dreht sich um die Rolle von Open-Source-KI-Modellen im Kontext von Cybersicherheit und nationaler Sicherheit. Eine von Nvidia angeführte Koalition, die "Open Secure AI Alliance", argumentiert, dass Open Source AI ein Cybersicherheits-Asset sei, das defensive Fähigkeiten demokratisiert. Kritiker, darunter Führungskräfte von OpenAI und Anthropic, äußern Bedenken hinsichtlich potenzieller Risiken für die nationale Sicherheit und des IP-Diebstahls durch "Distillation", insbesondere bei chinesischen Modellen.
 
 **Konkrete Details aus dem Gespräch:**
-- Anthropic zahlte $1.5 Mrd. für das Training von Claude auf 7 Millionen piratierten Büchern.
-- Dies ist der größte Copyright-Vergleich in der US-Geschichte und der erste große AI-Trainings-Rechtsstreit.
-- Anthropic und OpenAI vertreten die Position, dass sie auf allen Inhalten der Welt trainieren dürfen, solange sie eine Kopie besitzen ("Fair Use").
-- Sie bezeichnen jedoch das Lernen aus ihren eigenen Modell-Outputs als "industrielle Destillationsangriffe" und "IP-Diebstahl", obwohl sie dies selbst tun.
-- Die Unterscheidung zwischen dem Stehlen von Modellgewichten (Software) und dem Lernen aus Modell-Outputs (Benchmarking) ist entscheidend.
-- In der Politik wird diese Unterscheidung oft nicht verstanden, was zu falschen Schlussfolgerungen führen kann.
+- Nvidia führt die "Open Secure AI Alliance" an, die Open Source AI als Cybersicherheits-Asset sieht.
+- Die Allianz umfasst SpaceX, Microsoft, Palantir und Dutzende weiterer Unternehmen.
+- Kritiker (OpenAI, Anthropic) argumentieren, dass Open Models, oft aus China, nationale Sicherheitsrisiken bergen und durch "Distillation" US-Modelle kopieren.
+- Die Trump-Administration erwog ein Verbot chinesischer Open Models.
+- Hugging Face nutzte ein chinesisches Open-Weight-Modell zur Abwehr eines OpenAI-Modell-Hacks, nachdem Anthropic-Modelle die Analyse aufgrund von Guardrails verweigerten.
+- Flo Crivella (Lindy) unterstützt ein Verbot chinesischer Open-Source-Modelle aus geopolitischen Gründen und wegen IP-Diebstahls, obwohl sein Unternehmen davon abhängt.
 
 **🇪🇺 Europa-Relevanz:**
-- Der EU AI Act sieht ab August 2025 Transparenzpflichten für GPAI-Modelle vor und ab August 2026 müssen High-Risk-Systeme vollständig compliant sein – die ungelöste "Fair Use"-Debatte könnte die Einhaltung dieser Fristen erschweren.
-- Das EU AI Office, das ab August 2025 operativ ist, muss den GPAI Code of Practice überwachen und durchsetzen; Anthropics Vergleich könnte den Druck erhöhen, klare Leitlinien für urheberrechtlich geschützte Inhalte zu entwickeln.
-- EVP Henna Virkkunen prüft mit dem Digital Fitness Check (Konsultation bis 11. März 2026) die Wechselwirkung aller EU-Digitalgesetze, um die Umsetzung zu vereinfachen, was auch die Klärung von Urheberrechtsfragen im KI-Kontext umfassen könnte.
-- Die EU hat mit MiCA bereits die weltweit strengste Stablecoin-Regulierung eingeführt und arbeitet an einer "entschlossenen Vereinfachung" der Finanzregulierung, was einen Präzedenzfall für eine proaktive KI-Urheberrechtsregulierung schaffen könnte.
+- Der EU AI Act sieht ab Aug 2025 Transparenzpflichten für GPAI-Anbieter vor, wobei Meta die Unterzeichnung des Code of Practice verweigert hat – die Debatte um chinesische Open-Source-Modelle und deren angebliche Distillation könnte die Spannungen um die Einhaltung europäischer Standards erhöhen.
+- EVP Henna Virkkunen betont die Notwendigkeit, das Geschäft in Europa zu vereinfachen, ohne hohe Standards zu kompromittieren; ein Verbot chinesischer Open-Source-Modelle in den USA könnte die EU unter Druck setzen, eine ähnliche Haltung einzunehmen, um die eigene KI-Industrie zu schützen und Abhängigkeiten zu vermeiden.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen; die Debatte um Open Source und die Kosten von KI-Modellen ist für Europa entscheidend, um die "AI Infrastructure Gap" zu schließen und nicht von US- oder chinesischen Modellen abhängig zu werden.
 
-## 🚀 Massive CapEx-Investitionen in KI-Infrastruktur: Der Wert verschiebt sich zur Cloud
+## 🤖 KI-Robotik: Nygmata kommt aus dem Stealth-Modus
 
-Google und Tesla tätigen massive Investitionen in die KI-Infrastruktur (CapEx), was kurzfristig zu negativem Free Cash Flow führt und den Markt enttäuscht. Google Cloud wächst 82% im Jahresvergleich und ist auf einem $100 Mrd. Run Rate, während Googles CapEx-Prognose für dieses Jahr bei $195-205 Mrd. liegt und Tesla $25 Mrd. erwartet. Die Podcaster sehen diese Investitionen als strategisch klug an, da der Wert in der KI-Wirtschaft sich von den Modellen selbst (die kommodifiziert werden) hin zur Infrastruktur (Cloud, Chips) verschiebt. Google wird als ein Unternehmen positioniert, das von der Proliferation vieler KI-Modelle profitieren wird, da es die zugrunde liegende Infrastruktur bereitstellt.
+Jonathan Jacobi von Nygmata kündigte an, dass sein KI-Robotik-Startup mit einer Seed-Runde von 71 Millionen Dollar aus dem Stealth-Modus gekommen ist. Das Unternehmen konzentriert sich auf die Entwicklung von KI-gesteuerten Robotererlebnissen mit einem Software-First-Ansatz und hardware-agnostischen Fundamentmodellen. Ziel ist es, die Interaktion mit Robotern zu revolutionieren und frühe kommerzielle Anwendungen in Bereichen wie Logistik, Unterhaltung und Gesundheitswesen zu erschließen.
 
 **Konkrete Details aus dem Gespräch:**
-- Google Cloud wächst 82% YoY und ist auf einem $100 Mrd. Run Rate.
-- Googles CapEx-Prognose liegt bei $195-205 Mrd. für dieses Jahr, Tesla bei $25 Mrd.
-- Beide Unternehmen meldeten negativen Free Cash Flow, bei Google zum ersten Mal überhaupt.
-- Chamath sieht dies als "Buy Signal" und als Investition in die Zukunft, da Google eine "Maschine" ist, die Kapital mit 32% über 20 Jahre verzinst.
-- Der Wert verschiebt sich zur Infrastruktur (Cloud, Chips), da Modelle kommodifiziert werden.
-- Google ist gut positioniert, um von der Proliferation vieler Modelle zu profitieren, da sie die Infrastruktur dafür bereitstellen.
-- Die Investitionen in "Five Nines" (99.999% Verfügbarkeit) für Cloud-Dienste sind extrem teuer und erfordern Milliarden.
+- Nygmata hat eine Seed-Runde von $71 Millionen abgeschlossen.
+- Das Team besteht aus 26 Personen.
+- Eine Online-Plattform (robots.online) wurde gestartet, auf der Nutzer mit KI-gesteuerten Robotern interagieren können.
+- Beispiele für Interaktionen sind ein Roboter, der malt, und ein Roboter, der Schwertkämpfe simuliert.
+- Der Fokus liegt auf robotergestützten Fundamentmodellen und neuartigen Benutzeroberflächen.
+- Das Unternehmen ist software-first und strebt Hardware-Agnostik an, um schnell neue Robotertypen zu unterstützen.
+- Kommerzielle Anwendungen werden in Logistik, Unterhaltung und Gesundheitswesen gesehen.
 
 **🇪🇺 Europa-Relevanz:**
-- Die deutsche Bundesregierung plant im Bundeshaushalt 2026 €17,1 Mrd. für Forschung und Entwicklung, mit einer expliziten "KI-Offensive", um die KI-Forschung und den Transfer in die Anwendung zu stärken.
-- Kanzler Merz fordert eine F&E-Quote von 3,5% des BIP und will mindestens eine KI-Gigafactory nach Deutschland holen, um die Rechenpower zu erhöhen und die Souveränität zu sichern.
-- Die Deutsche Telekom baut bereits mit Nvidia ein KI-Rechenzentrum in München (~€1 Mrd., 10.000 GPUs) und bewirbt sich mit Schwarz Digits für eine EU-Gigafactory, um Europas Rückstand bei KI-Chips (5% Anteil vs. 70% in den USA) zu verringern.
-- Die Merz-Regierung arbeitet an der Senkung von Netzentgelten und Stromsteuer für das produzierende Gewerbe, um die hohen EU-Strompreise (2-3x höher als in den USA) zu adressieren, die eine Hürde für den Ausbau energieintensiver Rechenzentren darstellen.
+- Der EU AI Act reguliert ab Aug 2026 "High-Risk AI-Systeme", wozu auch KI-Roboter in kritischer Infrastruktur, Gesundheitswesen oder Logistik gehören könnten – Nygmatas frühe kommerzielle Anwendungen in diesen Sektoren würden unter die strengen Compliance-Anforderungen fallen.
+- Die EU AI Champions Initiative mobilisiert €200 Mrd. für KI, darunter €20 Mrd. für KI-Gigafactories, die auch die Rechenleistung für fortschrittliche Robotik-Modelle bereitstellen sollen – Nygmatas hardware-agnostischer Ansatz könnte von dieser Infrastruktur profitieren, wenn europäische Anbieter die "Gehirne" für Roboter entwickeln.
+- Kanzler Merz fordert eine F&E-Quote von 3,5% des BIP und sieht KI als Grundlage für Souveränität; die Förderung von DeepTech-Startups wie Nygmata durch den Deutschlandfonds (€130 Mrd. mobilisiert) könnte entscheidend sein, um Europas Position in der Robotik zu stärken und Brain Drain zu verhindern.
+
+## ⚓ Verteidigungstechnologie: Andrenum sichert die Unterwasserwelt
+
+Matej Cernosek von Andrenum gab bekannt, dass sein Unternehmen eine Series A-Finanzierungsrunde von 18 Millionen Dollar abgeschlossen hat. Andrenum entwickelt skalierbare Sonar-Hardware und -Software für die Unterwasserüberwachung, um U-Boote und unbemannte Unterwasserfahrzeuge zu erkennen. Das Unternehmen legt Wert auf schnelle Produktentwicklung und die Integration von kostengünstigen Bojen, maschinellem Lernen und Command-and-Control-Systemen, um die zunehmend umkämpfte maritime Domäne zu sichern.
+
+**Konkrete Details aus dem Gespräch:**
+- Andrenum hat $18 Millionen in einer Series A-Runde erhalten.
+- Das Unternehmen baut skalierbare Sensorinfrastruktur für die Unterwasser-Domänenüberwachung.
+- Ziel ist die Erkennung von U-Booten, unbemannten Unterwasserfahrzeugen und Semisubmersibles.
+- Drei Hardware-Generationen wurden seit dem letzten Gespräch entwickelt.
+- Erfolgreiche dreieinhalbwöchige Erprobung mit einer UUV-Gruppe in Keyport, Washington, ohne missionsbeendende Ausfälle.
+- Entwicklung von "Whirl" (passive Sonarboje) und "Obsidian" (C2-Plattform mit ML zur Datenverarbeitung).
+- Sonar-Daten sind hochklassifiziert und schwer zugänglich, daher der Fokus auf eigener Datenerfassung.
+- Die Bojen sind kostengünstig und können einfach von der Bootsseite aus eingesetzt werden.
+
+**🇪🇺 Europa-Relevanz:**
+- Das EU SAFE-Programm zielt auf autonome europäische Sicherheit und Verteidigung ab; Andrenums Technologie zur Unterwasserüberwachung könnte eine Schlüsselrolle spielen, um die fragmentierte europäische Verteidigungsindustrie zu stärken und die Abhängigkeit von US-Technologien zu reduzieren.
+- Der Deutschlandfonds enthält erstmals ein Modul für Verteidigungs-Startups, um bis zu €130 Mrd. private Investitionen zu mobilisieren – dies könnte eine Finanzierungsquelle für europäische Unternehmen wie Andrenum sein, die kritische Verteidigungstechnologien entwickeln.
+- Der Berlin-Anschlag auf das Stromnetz im Jan 2026 hat die Debatte über kritische Infrastruktur und hybride Bedrohungen neu entfacht; Unterwasserüberwachung ist entscheidend für den Schutz kritischer Seekabel und Energieinfrastruktur, was die Relevanz von Andrenums Lösung für die EU erhöht.
+
+## 🇪🇺 Europäisches Tech-Mediennetzwerk: ETN sammelt Kapital ein
+
+Luke Knight und Ronan Chambers vom European Technology Network (ETN) haben $1.6 Millionen bei einer Post-Money-Bewertung von $9 Millionen eingesammelt. Ihr Ziel ist es, ein umfassendes europäisches Tech-Ökosystem aufzubauen, das über ihre ursprüngliche Live-Show hinausgeht und Events, Rekrutierung, Investment sowie weitere Medienbereiche umfasst. Sie sehen ein großes Potenzial in Europa, das jedoch noch Herausforderungen wie den Mangel an Klimaanlagen und eine "Urlaubsmentalität" im Juli überwinden muss.
+
+**Konkrete Details aus dem Gespräch:**
+- ETN hat $1.6 Millionen bei einer Post-Money-Bewertung von $9 Millionen eingesammelt.
+- Sie haben ein neues Studio in Betrieb genommen.
+- Das Geschäftsmodell basiert auf einer Live-Show, die als "Wedge in the door" dient.
+- Geplante Expansion in Summit-Geschäft, Rekrutierungsmodell und einen Fonds.
+- Sie sehen ein großes Potenzial im europäischen Ökosystem, das noch nicht so entwickelt ist wie das US-Ökosystem.
+- Herausforderungen in Europa sind der Mangel an Klimaanlagen und die "Urlaubsmentalität" im Juli.
+- Sie erhielten 360 Bewerbungen für zwei Praktikumsstellen, darunter von ehemaligen Tesla/SpaceX-Praktikanten, die nach Europa ziehen wollten.
+
+**🇪🇺 Europa-Relevanz:**
+- EVP Henna Virkkunen hat den Digital Fitness Check gestartet, um die Wechselwirkung aller EU-Digitalgesetze zu prüfen und das Geschäft in Europa zu vereinfachen – ETN's Fokus auf den Aufbau eines europäischen Tech-Ökosystems durch Medien, Events und Investment könnte diese Bemühungen unterstützen, indem es Transparenz schafft und Akteure vernetzt.
+- Die Kritik am Mangel an Klimaanlagen in Europa und die "Urlaubsmentalität" im Juli unterstreichen die Notwendigkeit von Infrastrukturinvestitionen und einer Kulturveränderung, die auch von Initiativen wie "Made for Germany" (Christian Sewing, Roland Busch) gefordert wird, um Europa als attraktiven Standort für Tech-Talente zu positionieren.
+- Die hohe Zahl von 360 Bewerbungen für Praktika bei ETN, darunter von ehemaligen Tesla/SpaceX-Praktikanten, die nach Europa ziehen wollen, deutet auf ein Potenzial für "Brain Gain" hin, das durch gezielte EU-Programme wie das 1.000-Köpfe-Plus-Programm (Bär) weiter gefördert werden könnte, um KI-Talente anzuziehen.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-- **Sozialismus & Privateigentum in NYC:** Eine Diskussion über Mietkontrollen in New York City, die das Verbot von Bonitätsprüfungen und das Einfrieren von Mieten umfassen, wird scharf kritisiert. Die Aussage, dass "Räumungen Gewalt sind", wird als Untergrabung von Privateigentumsrechten und als Weg zur Anarchie und Tyrannei verurteilt, mit negativen Folgen für die Wohnungsqualität und die Mieter selbst.
+**Mega-Startup School:** Y Combinator veranstaltete seine Startup School in einem Stadion, was zu einer Debatte über die Authentizität des YC-Brands führte, der ursprünglich für seine "Garage-Mentalität" bekannt war. Trotz Kritik verteidigten die Gastgeber das Event als unterhaltsam und lehrreich für neue Gründer.
+
+**Creator Economy & Collectibles:** Gary Vaynerchuk betonte seine Fähigkeit, Konsumententrends vorherzusehen, und seine Überzeugung, dass die Creator Economy und alternative Sportligen (wie Pickleball, Slam Ball) enorme Chancen bieten. Er sieht Collectibles als das nächste große Lifestyle-Genre, das die Popkultur durchdringt und traditionelle Anlageformen ersetzt.
 
 # 💭 Zum Drüber Nachdenken
 
-**Trumps "Token-Steuer" auf US-KI-Modelle: Ein Geschenk an Europas KI-Gigafactories?**
-Kontext: Die US-Diskussion über ein Verbot chinesischer Open-Source-KI-Modelle oder eine "Token-Steuer" auf proprietäre US-Modelle könnte amerikanische Unternehmen zwingen, teurere Closed-Source-Lösungen zu nutzen. Dies steht im Gegensatz zu Europas InvestAI-Initiative, die €200 Mrd. mobilisiert, um bis zu 60 KI-Gigafactories zu fördern, die auf offene, souveräne KI-Entwicklung setzen. Rolf Schumann (Schwarz Digits) und Tim Höttges (Telekom) betonen die Notwendigkeit von Rechenpower und souveränen Lösungen in Europa, wo der Anteil an Hochleistungs-KI-Chips nur 5% beträgt. Ein US-Verbot könnte den Wettbewerbsvorteil für europäische Open-Source-Anbieter erhöhen.
-Die Frage dahinter: Sollte Europa die US-Regulierungsasymmetrie nutzen, um seine "CERN für KI"-Vision aggressiver voranzutreiben und die Abhängigkeit von US-Modellen zu reduzieren?
+**Europas KI-Souveränität: Ein Kampf gegen US-Tech-Giganten und chinesische Schattenmodelle?**
+Kontext: Während Nvidia eine $18-Billionen-Allianz für Open-Source-KI schmiedet und Anthropic chinesische Distillation anprangert, steht Europa zwischen den Fronten. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt. Die EU AI Champions Initiative will €200 Mrd. mobilisieren, aber die Gefahr, von US- oder chinesischen Modellen abhängig zu werden, bleibt.
+Die Frage dahinter: Kann Europa eine eigene, souveräne KI-Infrastruktur und -Modelllandschaft aufbauen, ohne in den geopolitischen Konflikt um Open Source und IP-Diebstahl hineingezogen zu werden?
 
-**Anthropic's $1.5 Mrd. Copyright-Flop: Ein Weckruf für den EU AI Act?**
-Kontext: Anthropics $1.5 Mrd. Vergleich für das Training auf piratierten Büchern und die Heuchelei-Vorwürfe bezüglich "IP-Diebstahl" zeigen die ungelösten Fragen der KI-Regulierung. Während der EU AI Act ab August 2025 Transparenzpflichten für GPAI-Modelle vorsieht und ab August 2026 High-Risk-Systeme vollständig compliant sein müssen, bleibt die Frage des Urheberrechts im Training von KI-Modellen eine Grauzone. Die EVP für Tech-Souveränität, Henna Virkkunen, betont die Notwendigkeit, "doing business in Europe easier" zu machen, ohne Standards zu kompromittieren. Die US-Debatte könnte den Druck auf das EU AI Office erhöhen, klare Leitlinien für die Nutzung urheberrechtlich geschützter Inhalte zu entwickeln, um Rechtssicherheit für europäische KI-Entwickler zu schaffen und gleichzeitig Kreative zu schützen.
-Die Frage dahinter: Wie kann das EU AI Office die "Fair Use"-Debatte proaktiv adressieren, um europäische KI-Innovation zu fördern, ohne die Rechte von Content-Erstellern zu untergraben, insbesondere angesichts der US-Asymmetrie?
+**Der europäische Traum vom Tech-Hub: Scheitert er an fehlender Klimaanlage und zu viel Ibiza?**
+Kontext: Das European Technology Network (ETN) sammelt $1.6 Mio. ein, um ein europäisches Tech-Ökosystem aufzubauen, stößt aber auf "notorisch langsame" Juli-Monate und den Mangel an Klimaanlagen in Frankreich. Gleichzeitig lockt Europa Top-Talente (360 Praktikumsbewerbungen, inkl. Ex-Tesla/SpaceX). Kanzler Merz und EVP Virkkunen betonen die Notwendigkeit, Europa als attraktiven Standort zu stärken und Bürokratie abzubauen.
+Die Frage dahinter: Reichen europäische Ambitionen und Talentattraktivität aus, um die grundlegenden Infrastruktur- und Mentalitätslücken zu schließen, die den Aufbau eines dynamischen Tech-Ökosystems behindern?

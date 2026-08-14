@@ -2,97 +2,93 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| Geopolitische Rivalität & Innere Dysfunktion | Die beiden Supermächte, USA und China, exportieren jeweils ihre innere Dysfunktion, was zu globaler Instabilität führt. | Rom Emanuel | Audio |
-| US-Wirtschafts- & Technologiepolitik | Die USA haben ihre technologische und wirtschaftliche Führungsposition durch Vernachlässigung der Fertigungsindustrie und unzureichende Forschungsinvestitionen geschwächt, während China massiv investiert. | Rom Emanuel | Audio |
-| Europa & Immigration | Europa erlebt eine Reaktion auf Einwanderung und wirtschaftliche Stagnation, wobei frühere Energie- und Migrationspolitik als Fehlentscheidungen kritisiert werden. | Rom Emanuel, David | Audio |
-| US-Innenpolitik: Reformbedarf | Die USA benötigen dringende Reformen in den Bereichen Einwanderung, Bildung und Fiskalpolitik, um Wettbewerbsfähigkeit und langfristige Stabilität zu sichern. | Rom Emanuel | Audio |
+| SaaS-Markt & AI | Der befürchtete "SaaSpocalypse" hat sich nicht im erwarteten Maße bewahrheitet, da viele SaaS-Unternehmen durch Netzwerkeffekte und starke Go-to-Market-Organisationen widerstandsfähig gegenüber der AI-Disruption sind, während einige Nischenanbieter obsolet werden. | Hosts | TBPN |
+| Personalisierte AI | Igor Babuschkin gründet River AI mit einer Milliarde Dollar, um AI zu dezentralisieren und Nutzern die Möglichkeit zu geben, eigene, personalisierte AI-Systeme zu besitzen und zu formen, anstatt sich auf wenige große Modelle zu verlassen. | Igor Babuschkin (River AI) | TBPN |
+| AI-Infrastruktur | CoreWeave verzeichnete ein phänomenales Q2-Ergebnis, wobei die Lieferkette und die Finanzierung der Compute-Infrastruktur die größten Herausforderungen darstellen, während die Nachfrage nach AI-Compute weiterhin extrem stark ist und die Langlebigkeit älterer GPU-Generationen beweist. | Brannin McBee (CoreWeave) | TBPN |
+| Demokratisierung der AI | Der AI-Markt erlebt ein beispielloses Wachstum, das über die Top-Labs hinausgeht und sich durch die Demokratisierung der Intelligenzproduktion auszeichnet, wobei Anwendungsunternehmen zunehmend eigene AI-Fähigkeiten aufbauen und "Open-Weight"-Modelle für strategische Vorteile nutzen. | Sonya Huang (Sequoia Capital) | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🌍 Geopolitische Rivalität & Innere Dysfunktion: Supermächte als Geiseln ihrer Probleme
-Die Diskussion beleuchtet, wie die beiden globalen Supermächte, USA und China, ihre internen Probleme auf die internationale Bühne tragen und damit die Welt destabilisieren. China nutzt seine wirtschaftliche Dominanz, um andere Länder abhängig zu machen und deren Produktionsgrundlagen zu untergraben, während die USA unter der Trump-Administration politische und kulturelle Spaltung exportieren. Diese gegenseitige Projektion innerer Dysfunktionen führt zu einer Situation, in der beide Mächte die Welt durch ihre jeweiligen Schwächen als Geiseln halten.
+## ☁️ SaaS-Markt & AI-Disruption: Die "SaaSpocalypse" abgesagt
+
+Die Hosts diskutieren, dass die befürchtete "SaaSpocalypse", ein massiver Ausverkauf von Software-as-a-Service-Unternehmen aufgrund von AI-Disruption, nicht in dem erwarteten Ausmaß eingetreten ist. Viele SaaS-Firmen haben sich als widerstandsfähig erwiesen, während einige Nischenanbieter jedoch obsolet wurden.
 
 **Konkrete Details aus dem Gespräch:**
-- Chinas größter Export ist die heimische Wirtschaftsfunktionsstörung (5:51).
-- China zerschlägt die Fertigungsbasis anderer Länder, z.B. in Chile, Indonesien und Brasilien (5:54).
-- China verfolgt eine Strategie, die andere von China abhängig machen soll, während China selbst unabhängig bleibt (1:00:00).
-- Die USA exportieren politische und kulturelle Dysfunktion (6:10).
-- Die Trump-Administration traf sich mit der Neonazi-Partei AfD und verschärfte Rassenkonflikte in Großbritannien (6:45).
-- Die USA verfügen über vier nationale Sicherheitstools: Militärmacht, politische Überzeugungskraft, wirtschaftliche Staatskunst und kulturelle Anziehungskraft (8:18).
-- Die Trump-Administration hat die "amerikanische Marke" (kulturelle Anziehungskraft) sowie die politische, wirtschaftliche und militärische Macht der USA geschädigt (8:48).
-
-**Einschränkungen/Offene Fragen:**
-- Es wird nicht behauptet, dass die USA absichtlich Dysfunktion exportieren, sondern dass dies eine Folge der aktuellen Politik ist.
+- Zwei Billionen Dollar Marktkapitalverlust im SaaS-Sektor wurden verzeichnet.
+- Der I-Shares ETF für Tech und Software ist in den letzten sechs Monaten um 30% gestiegen.
+- Shopify wird als Beispiel für Resilienz genannt: AI ist ein "Opfer" von Shopify, nicht umgekehrt, da die Kosten für Shopify bei einem Unternehmen mit $100 Mio. Umsatz nur etwa 0,1% betragen.
+- Cybersecurity-Firmen wie Palo Alto Networks (plus 121% in 12 Monaten, $320 Mrd. Wert) und CrowdStrike (plus 107% in 12 Monaten, $230 Mrd. Wert) gelten als AI-Gewinner.
+- Chegg (99% Verlust in fünf Jahren) und Canva (rutscht in eine ähnliche Situation) werden als Beispiele für AI-Opfer genannt, da ihre Kernprodukte durch LLM-Fähigkeiten ersetzt werden können.
+- Twilio ist als "agentic infrastructure" um 150% im letzten Jahr gestiegen und wird als widerstandsfähig gegenüber AI-Disruption angesehen.
 
 **🇪🇺 Europa-Relevanz:**
-Die AfD wird als Beispiel für den Export politischer Dysfunktion genannt, was eine direkte Verbindung zu Europa herstellt und die Auswirkungen der US-Politik auf europäische politische Landschaften aufzeigt.
+- Der Fokus auf Netzwerkeffekte und geringe Umsatzbeteiligung bei SaaS-Unternehmen ist auch für europäische Tech-Firmen relevant, um sich gegen die AI-Disruption zu wappnen, insbesondere angesichts des InvestAI-Ziels von €150 Mrd. privaten KI-Investitionen.
+- Die Stärke von Cybersecurity-Firmen wie Palo Alto Networks und CrowdStrike unterstreicht die Notwendigkeit robuster digitaler Sicherheit, ein Kernanliegen des EU SAFE-Programms für autonome europäische Sicherheit und Verteidigung.
 
-## 💡 US-Wirtschafts- & Technologiepolitik im globalen Wettbewerb: Ein Weckruf
-Die Analyse zeigt auf, dass die USA ihre technologische und wirtschaftliche Führungsposition durch eine einseitige Fokussierung auf Software und Dienstleistungen sowie unzureichende Investitionen in grundlegende Forschung geschwächt haben. Während China massiv in Schlüsselbereiche wie Biowissenschaften investiert, untergraben US-Kürzungen in Forschungseinrichtungen die eigene Innovationskraft. Um im globalen Wettbewerb zu bestehen, müssen die USA ihre Produktionskapazitäten wieder aufbauen und ihre Forschungsinfrastruktur stärken, anstatt sich auf eine einseitige technologische Spezialisierung zu verlassen.
+## 🧠 Personalisierte AI & Compute-Herausforderungen: River AI's Vision
+
+Igor Babuschkin, Mitgründer von xAI, hat River AI gegründet und eine Milliarde Dollar eingesammelt. Seine Vision ist es, AI zu dezentralisieren und Nutzern die Möglichkeit zu geben, eigene, personalisierte AI-Systeme zu besitzen und zu formen, anstatt sich auf wenige große Modelle zu verlassen.
 
 **Konkrete Details aus dem Gespräch:**
-- China investiert massiv in Biowissenschaften und holt die USA in fünf Jahren auf (1:47:00).
-- Die Trump-Administration schlug 40% Kürzungen für das NIH vor (1:07:00).
-- NIH, NSF, DARPA und National Labs werden als "Kronjuwelen" der USA bezeichnet (1:29:00).
-- Die USA haben die Kommerzialisierung der nationalen Sicherheit zugelassen und die Fertigung ausgelagert (1:59:00).
-- Die USA sind in Software dominant, aber es wird betont, dass sowohl Software als auch Fertigung wichtig sind (1:51:00).
-- China benötigte im COVID-19-Impfstoffbereich 18-19 Monate für einen Impfstoff mit 60% Wirksamkeit, während die USA in 12-14 Monaten einen mit 90%+ Wirksamkeit entwickelten (1:10:00).
-
-**Einschränkungen/Offene Fragen:**
-- Es wird nicht detailliert, wie die USA die Fertigung konkret wieder aufbauen sollen, außer durch die Stärkung von Forschung und Entwicklung.
+- River AI hat eine Milliarde Dollar in einer Finanzierungsrunde erhalten.
+- Babuschkin war zuvor bei DeepMind (arbeitete an WaveNet und einem Starcraft-Agenten) und OpenAI (fokussierte auf Reasoning und Coding mit LLMs).
+- River AI bietet eine API an, die es Unternehmen ermöglicht, Modelle basierend auf Open Weights zu trainieren und zu optimieren.
+- Das Unternehmen entwickelt personalisierte AI-Agenten, die den Nutzer besser verstehen und sich anpassen.
+- Video Games dienen als wichtiger Benchmark, um die Generalisierungsfähigkeit und Problemlösungskompetenz von AI-Modellen zu testen.
+- Ein Schwerpunkt liegt auf Online-Training, bei dem Modelle direkt mit Nutzern interagieren und ihre Gewichte kontinuierlich aktualisiert werden.
+- GPU-Knappheit und steigende Preise sind eine große Herausforderung; Investoren kooperieren zunehmend mit ihren Portfoliounternehmen, um Compute-Kapazitäten zu sichern.
+- Es besteht Potenzial für Custom Silicon, speziell für die Inference von personalisierten AI-Agenten, um die Energieeffizienz zu steigern.
 
 **🇪🇺 Europa-Relevanz:**
-Die EU ist Teil des vorgeschlagenen Wirtschaftsblocks gegen China, was eine indirekte Relevanz für die Technologie- und Wirtschaftspolitik darstellt, da eine gemeinsame Strategie zur Stärkung der westlichen Wettbewerbsfähigkeit angestrebt wird.
+- River AI's Vision von personalisierten, nutzer-eigenen AI-Modellen könnte die GPAI-Transparenzpflichten des EU AI Act (ab Aug 2025) und die Anforderungen an High-Risk-Systeme (ab Aug 2026) beeinflussen, indem sie eine dezentralere und potenziell transparentere AI-Entwicklung fördert.
+- Die Herausforderungen bei GPU-Zugang und die Notwendigkeit von Custom Silicon für Inference spiegeln Europas "AI Infrastructure Gap" wider, wo die EU nur 5% der Hochleistungschips nutzt und Initiativen wie die €20 Mrd. für KI-Gigafactories gegensteuern sollen (z.B. Schwarz Digits Lübbenau).
 
-## 🇪🇺 Europa: Immigration, Energiepolitik und die Rolle der USA
-Europa erlebt eine politische Reaktion auf Einwanderung und wirtschaftliche Stagnation, die sich in politischen Verschiebungen äußert. Die Energiepolitik, insbesondere Deutschlands Entscheidung zum Atomausstieg und die daraus resultierende Abhängigkeit von russischer Energie, wird als Fehlentscheidung kritisiert. Die USA sollten Europa in diesen Herausforderungen unterstützen, anstatt Spannungen zu verschärfen, um eine geeinte Front gegen globale Rivalen zu bilden.
+## ⚡ AI-Infrastruktur & Finanzierung: CoreWeave's Wachstum und Herausforderungen
 
-**Konkrete Details aus dem Gespräch:**
-- Die deutsche Intelligenz hat die AfD unter Beobachtung (29:35).
-- Angela Merkel (CDU) öffnete die Grenzen und schloss Atomkraftwerke, was Deutschland abhängiger von russischer Energie machte (33:50).
-- Brüssel hat Innovation durch Regulierung erstickt, versucht dies aber nun zu korrigieren (35:52).
-- Deutschland verliert monatlich 5.000 bis 10.000 Arbeitsplätze im verarbeitenden Gewerbe an China (36:19).
-- Die USA sollten Europas Spannungen nicht verschärfen, sondern zusammenarbeiten (36:04).
-
-**Einschränkungen/Offene Fragen:**
-- Die genauen Auswirkungen der Einwanderung auf die europäische Wirtschaft werden nicht quantifiziert, sondern als Faktor für politische Reaktionen genannt.
-
-## 🇺🇸 US-Innenpolitik: Reformbedarf in Immigration, Bildung und Fiskalpolitik
-Die USA stehen vor dringenden innenpolitischen Reformen in den Bereichen Einwanderung, Bildung und Fiskalpolitik. Eine umfassende Einwanderungsreform, die sowohl Gesetze als auch die Bedürfnisse von Einwanderern berücksichtigt, ist unerlässlich. Das Bildungssystem muss von der frühkindlichen Bildung bis zur Hochschulbildung grundlegend überarbeitet werden, um die Wettbewerbsfähigkeit zu sichern und die Kosten zu kontrollieren. Gleichzeitig ist eine fiskalische Konsolidierung durch Ausgabenkürzungen und eine gerechtere Steuerpolitik notwendig, um die langfristige Stabilität zu gewährleisten.
+Brannin McBee, Co-Founder von CoreWeave, berichtet von einem phänomenalen Q2-Ergebnis. Die größten Herausforderungen für das AI-Infrastrukturunternehmen sind die Lieferkette und die Finanzierung der Compute-Infrastruktur, während die Nachfrage nach AI-Compute weiterhin extrem stark ist und die Langlebigkeit älterer GPU-Generationen beweist.
 
 **Konkrete Details aus dem Gespräch:**
-- Die USA sind eine Nation von Gesetzen und Einwanderern (39:57).
-- Rom Emanuel befürwortet den "Dignity Act" als Einwanderungsreform (40:27).
-- Die USA haben "die Besten und Klügsten" (z.B. chinesische Biowissenschaftler) aus dem Land geworfen (41:32).
-- Der Bildungsplan umfasst Vollzeit-Kindergarten und Vorschule, universelle Rechenschaftspflicht, Überarbeitung der Lehrerausbildung und Verknüpfung von Ressourcen (53:58).
-- Ziel ist, dass 100% der High-School-Absolventen mit College-Credits abschließen (55:33).
-- Kein High-School-Abschluss ohne einen Plan für den nächsten Schritt (55:46).
-- Das Community-College-System soll modernisiert werden (56:23).
-- 20% ausländische Studenten an Universitäten, die volle Studiengebühren zahlen, werden vorgeschlagen (44:20).
-- Ein 3-jähriger Bachelor für Studenten mit 20 College-Credits aus der High School wird angestrebt (56:58).
-- Kostenloses College für Einkommen unter 200.000 Dollar wird vorgeschlagen (57:11).
-- Studiengebühren für Einkommen über 200.000 Dollar sollen die Inflation nicht übersteigen (57:20).
-- Der GI Bill war eine staatliche Initiative, die den Wohneigentum förderte (49:31).
-- Landesweite restriktive Bebauungsgesetze treiben die Wohnkosten in die Höhe (51:22).
-- Das größte Problem im Wohnungsbau ist der Ersterwerb von Wohneigentum (52:03).
-- Das Steuersystem belohnt Vermögenserhalt statt Vermögensbildung (64:37).
-- Eine 10%ige Abgabe auf alle vorhersehbaren Märkte und Online-Sportwetten zur Finanzierung von NIH, NSF und DARPA wird vorgeschlagen (64:24).
-- Eine Erhöhung des Mindestlohns in Verbindung mit einem großzügigen Earned Income Tax Credit wird befürwortet (69:00).
+- CoreWeave verzeichnete ein "phenomenal beat" im zweiten Quartal.
+- Der größte Engpass bleibt die Lieferkette; CoreWeave betreibt 51 Rechenzentren.
+- Eine neue Finanzierungsfazilität (DDTL5) ermöglicht kürzere Vertragslaufzeiten für Enterprise-Kunden, was die Finanzierbarkeit dieser Verträge beweist.
+- A100 GPUs (eine 2020er SKU) sind weiterhin stark nachgefragt und werden in Verträgen bis 2029 genutzt, was eine nützliche Lebensdauer von neun Jahren impliziert.
+- Die Preise für A100s sind seit Anfang 2025 stabil geblieben.
+- Der Engpass bei der Stromversorgung liegt weniger an den Elektronen selbst, sondern an der "powered shell" (fertige Rechenzentrumskapazität) und dem Mangel an qualifizierten Elektrikern.
+- CoreWeave expandiert global, unter anderem nach Kanada, Europa und in die APAC-Region.
 
-**Einschränkungen/Offene Fragen:**
-- Die genaue Umsetzung der Steuerreform und die politischen Hürden für die Bildungsreform werden nicht detailliert.
+**🇪🇺 Europa-Relevanz:**
+- CoreWeave's globale Expansion nach Europa unterstreicht den Bedarf an AI-Infrastruktur, der in der EU durch Initiativen wie InvestAI (€200 Mrd. für KI) und spezifische Projekte wie das €11 Mrd. Rechenzentrum Lübbenau (Schwarz Digits) adressiert wird.
+- Der Engpass bei qualifizierten Elektrikern und der "powered shell" für Rechenzentren ist in Europa, insbesondere in Deutschland mit den höchsten Industriestrompreisen, noch akuter. Kanzler Merz' Regierung arbeitet an der Überarbeitung der Netzanschluss-Regeln und der Senkung der Netzentgelte.
+- Die Langlebigkeit von A100 GPUs bis 2029 ist ein wichtiger Faktor für die Amortisation von Investitionen in Rechenzentren, was die Finanzierungsmodelle für europäische KI-Gigafactories (z.B. die 76 Bewerbungen für InvestAI) beeinflusst.
+
+## 🚀 Demokratisierung der AI-Intelligenz: "Own Your Intelligence"
+
+Sonya Huang, General Partner bei Sequoia Capital, beschreibt ein beispielloses Wachstum im AI-Markt, das über die Top-Labs hinausgeht. Sie betont die Demokratisierung der Intelligenzproduktion, wobei Anwendungsunternehmen zunehmend eigene AI-Fähigkeiten aufbauen und "Open-Weight"-Modelle für strategische Vorteile nutzen.
+
+**Konkrete Details aus dem Gespräch:**
+- Der AI-Markt zeigt ein ungekanntes Wachstum, nicht nur bei den Top-Labs wie Anthropic und OpenAI, sondern auch bei einer breiteren Kohorte von Unternehmen.
+- Anwendungsunternehmen entwickeln zunehmend eigene Forschungskapazitäten und interne Labs.
+- Die These "Own your intelligence" wird als strategisches Gebot hervorgehoben, mit dem Meme "not your weights, not your product".
+- Reife Post-Training-Tools und spezialisierte Partner ermöglichen es kleinen internen Teams (z.B. Harvey mit sieben Forschern), wettbewerbsfähige Modelle zu entwickeln.
+- Der Preiswettbewerb bei AI führt zu günstigerer AI-Nutzung, was die Bruttomargen der Anwendungsunternehmen erhöht.
+- Offene Modelle werden zunehmend für spezifische Anwendungsfälle genutzt, da sie eine strategische Eigenständigkeit ermöglichen.
+
+**🇪🇺 Europa-Relevanz:**
+- Die "Own your intelligence"-These von Sequoia Capital ist für europäische Unternehmen besonders relevant, um Tech-Souveränität zu gewährleisten und die Abhängigkeit von US-Modellanbietern zu reduzieren, ein Ziel, das EVP Henna Virkkunen mit der "AI Continent"-Vision verfolgt.
+- Die Förderung von Regulatorischen Sandboxes im Digital Omnibus könnte europäischen Startups helfen, eigene AI-Fähigkeiten zu entwickeln und Post-Training-Tools zu nutzen, um wettbewerbsfähige Modelle zu bauen, ohne die hohen Bußgelder des AI Act (bis €35 Mio. / 7% Umsatz) zu riskieren.
 
 ## 📌 Weitere bemerkenswerte Segmente
-- **Taiwan-Strategien:** China verfolgt drei potenzielle Strategien für Taiwan: Quarantäne, Invasion (96 Stunden) oder die Einnahme kleiner Inseln vor der Küste. Die USA müssen auf alle drei vorbereitet sein und ihre Abschreckung stärken. (25:01)
-- **Naher Osten:** Die US-Strategie im Nahen Osten zielt darauf ab, den Iran zu isolieren, indem ein 23-Staaten-Bündnis gefördert wird. Die "Oktopus"-Strategie des Iran mit Proxys scheint zu scheitern, und sogar Syrien erwägt ein Sicherheitsabkommen mit Israel. (18:10)
-- **Japan als Schlüsselpartner:** Japan ist der "lange Pol" der US-Indo-Pazifik-Politik und ein entscheidender Verbündeter, sowohl militärisch als auch wirtschaftlich. Die USA müssen Japans Position gegen Chinas Aggressionen stärken. (26:54)
+
+-   **Nordkoreanische IT-Arbeiter in US-Jobs:** Ein Wall Street Journal-Bericht enthüllt, dass Nordkorea eine geheime Belegschaft in US-Unternehmen aufgebaut hat, die gestohlene Identitäten und AI nutzen, um sich in Remote-Jobs einzuschleichen und Hunderte Millionen Dollar an das Regime von Kim Jong-un zu leiten; das FBI schätzt Tausende solcher Fälle, die 2024 fast $800 Mio. generierten.
+-   **Flock Safety's Datenschutz-Maßnahmen:** Garrett Langley, CEO von Flock Safety, kündigt neue Datenschutz- und Rechenschaftsmaßnahmen an, darunter obligatorische Audit-Log-Reviews und kürzere Datenspeicherfristen (von 30 auf 7 Tage), um Missbrauch durch die Polizei zu bekämpfen, während Vandalismus und die Diskrepanz zwischen Social-Media-Kritik und lokaler Politik weiterhin Herausforderungen darstellen.
+-   **Parasma's biologisches Computing:** Sean Cole, Gründer von Parasma, arbeitet daran, im Labor gezüchtete menschliche Neuronen für Computing-Aufgaben wie Token-Prädiktion zu trainieren, wobei er Vorteile in Energieeffizienz, schnellem Lernen und kontinuierlicher Anpassung sieht und plant, das Labor zu automatisieren und kurzfristig Einnahmen durch Anwendungen wie Medikamententests zu generieren.
 
 # 💭 Zum Drüber Nachdenken
 
-**Impuls 1:** Europas Weg zur technologischen Souveränität
-- Kontext: Die Diskussion zeigt, dass Europa mit ähnlichen Herausforderungen wie die USA konfrontiert ist, insbesondere im Wettbewerb mit China und bei der Stärkung der eigenen Innovationskraft. Die Kritik an Merkels Energie- und Migrationspolitik sowie die Regulierung in Brüssel deuten auf eine interne Debatte über den richtigen Weg hin.
-- Die Frage dahinter: Wie kann Europa eine kohärente Strategie entwickeln, die sowohl wirtschaftliche Stagnation als auch technologische Rückstände adressiert, ohne dabei in protektionistische oder innovationshemmende Maßnahmen zu verfallen, und gleichzeitig seine Werte bewahrt?
+**Europas SaaS-Verteidigung: Zwischen AI-Angriff und regulatorischer Umarmung**
+Kontext: Während US-SaaS-Giganten wie Shopify ihre Resilienz durch Netzwerkeffekte und geringe Umsatzbeteiligung demonstrieren, stehen europäische Unternehmen vor der doppelten Herausforderung, AI-Disruption abzuwehren und gleichzeitig die strengen Anforderungen des EU AI Act zu erfüllen. Die InvestAI-Initiative mit €200 Mrd. soll zwar die KI-Fähigkeiten stärken, doch die Frage bleibt, ob Europas SaaS-Sektor schnell genug eigene "AI-Opfer" schaffen kann, bevor er selbst zum Opfer wird.
+Die Frage dahinter: Kann Europa seine "AI Champions" aufbauen, ohne die Innovationsgeschwindigkeit durch übermäßige Regulierung zu drosseln?
 
-**Impuls 2:** Die Rolle der USA als globaler Partner und die Auswirkungen interner Spaltung
-- Kontext: Rom Emanuel betont, dass die USA ihre internen politischen und kulturellen Dysfunktionen exportieren, was ihre globale Führungsrolle schwächt. Gleichzeitig wird die Notwendigkeit eines starken Wirtschaftsblocks gegen China hervorgehoben, in dem Europa eine wichtige Rolle spielen soll.
-- Die Frage dahinter: Inwieweit kann die EU eine effektive Partnerschaft mit den USA aufbauen und aufrechterhalten, wenn die USA selbst mit tiefgreifenden internen Spaltungen und einer unberechenbaren Außenpolitik zu kämpfen haben, und welche Strategien sollte Europa verfolgen, um seine eigenen Interessen zu schützen und gleichzeitig globale Stabilität zu fördern?
+**Europas Rechenzentrum-Traum: Scheitert er am Elektriker-Mangel und der Bürokratie?**
+Kontext: CoreWeave expandiert nach Europa, doch der Engpass bei qualifizierten Elektrikern und der "powered shell" für Rechenzentren ist global. In der EU, wo Strompreise 2-3x höher sind als in den USA und Genehmigungsverfahren komplexer, droht eine "AI Infrastructure Gap". Während Kanzler Merz eine KI-Gigafactory nach Deutschland holen will und Rolf Schumann (Schwarz Digits) €11 Mrd. in Lübbenau investiert, bleibt die Frage, ob die EU die nötige Infrastruktur schnell genug bereitstellen kann, um mit der US-"Stargate"-Initiative ($500 Mrd.) mitzuhalten.
+Die Frage dahinter: Reichen €200 Mrd. und politische Willensbekundungen, wenn die grundlegende Infrastruktur und das Fachpersonal fehlen?

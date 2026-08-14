@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-08-14 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~131k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - SaaSpocalypse Revisited, Singer x Louis Vuitton, Aman vs Ryan Walker | Igor Babuschkin, Brannin McBee, Garret Langley, Sonya Huang, Sean Cole
 Quelle: https://podscripts.co/podcasts/tbpn-live/saaspocalypse-revisited-singer-x-louis-vuitton-aman-vs-ryan-walker-igor-babuschkin-brannin-mcbee-garret-langley-sonya-huang-sean-cole

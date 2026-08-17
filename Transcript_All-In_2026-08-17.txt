@@ -1,0 +1,3288 @@
+=== PODCAST-TRANSKRIPT: All-In ===
+Titel: All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback
+Quelle: https://podscripts.co/podcasts/all-in-with-chamath-jason-sacks-friedberg/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback
+Datum: 2026-08-17
+Länge: ~97k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+welcome back to the All In Podcast, the number one podcast in the world.
+
+David Sachs and Gavin Baker are with us this week.
+
+We got a short crew, but a long docket, and we are going to rock it.
+
+How are you doing, Gavin? Nice to see you.
+
+Fantastic.
+
+You're still in that SpaceX afterglow?
+
+This is the biggest win of your career, correct?
+
+You know, SpaceX was a magical moment.
+
+There's only one SpaceX, but to question.
+
+quote, Bill Belichick, you know, it's on to Cincinnati.
+
+Got it.
+
+And there's a lot, I think, I had for SpaceX, so the SpaceX story isn't over.
+
+Yeah.
+
+And you're only as good as your last investment in our business, I guess.
+
+Everybody's like, what now?
+
+Sacks, you're back.
+
+How are you doing?
+
+Brother, how's the summer wrapping up for you?
+
+Good.
+
+I'm looking forward to talking to Gavin.
+
+Oh, fantastic.
+
+Well, I'll try to stay half the way and not step on you.
+
+You missed a really great discussion we had on the All-in- Interview show
+
+with your guy, Rahm Emanuel.
+
+Oh, how'd that go?
+
+I heard actually it got kind of spicy, you know?
+
+It got super spicy.
+
+Rom came in like full guns blazing,
+
+but it's a really great interview,
+
+and we'll take anybody who wants to do the interview show
+
+who's running in 2028.
+
+Did you catch it, Gavin, by chance?
+
+Did you catch it?
+
+I haven't watched it yet.
+
+Okay, got it in the queue.
+
+Beautiful.
+
+Of course.
+
+And based of the verdict on Rom is that
+
+he's kind of a throwback
+
+to the Clinton-Obama DNC.
+
+I think if you,
+
+We're thinking of a Clinton moderate.
+
+Which means he has no chance whatsoever in the Mundani DSA Democrat Party.
+
+This is the great irony.
+
+And it's a very similar moment, I think, to what happened in your Republican Party,
+
+where you had this sort of civil war internally.
+
+And I'm hoping the mods, the moderates, have a chance here.
+
+But, you know, who knows what's going to happen with these lunatic democratic socialists.
+
+We don't have too much of that.
+
+Did he have a take on that, that they're taking over the Democrat Party?
+
+I'd say his, first of all, he's got incredible amount of experience having worked for Obama, Clinton, bin mayor of Chicago, and ambassador to Japan.
+
+So he was awesome on foreign relations, et cetera.
+
+Yeah, and to your point, he thinks hard no on democratic socialists and the socialist policies are a road to nowhere.
+
+So he just went totally hard at it, as hard as you would, Sachs, in fact.
+
+I hope he has nothing would be greater than to have a moderate or more moderate candidates.
+
+I think we can all agree on that.
+
+So we'll see.
+
+We'll see.
+
+It's worth checking out.
+
+All right.
+
+Let's get to the docket breaking news at the time of this recording.
+
+For those of you don't know, we record on Thursdays, published on Fridays, Anthropic,
+
+targeting a $2 trillion IPO, according to the Financial Times.
+
+This would obviously break the record setting $1.75 trillion.
+
+IPO by SpaceX.
+
+FT reported Wednesday night that investors expect the company to go public in October,
+
+which is like six to eight weeks away.
+
+This lines up with the polymarket.
+
+The shop sharps at polymarket saying 80% chance of anthropic IPO this year.
+
+And Brad Gersoner, a fifth bestie, he also was signaling that this would happen sooner rather than later.
+
+annualized run rate. We talked about this Saks a bunch. We'll end the year between $100 and $120 billion.
+
+This is an extraordinary ramp up of revenue that we have never seen in Silicon Valley.
+
+At a $2 trillion valuation, obviously you all can do the math, but it's 16 to 20 times sales, which is a fraction of what SpaceX and Palantir and some of these highly valued stocks went out at.
+
+So pretty interesting revenue growth over the last year, 10x.
+
+Topic still has AI's top model, but GROC, and we're going to get into it today, is catching up quickly and open AI not too shabby as well.
+
+Polymarket says 67% chance.
+
+That at the end of the year, Anthropic will have the top model breaking on Thursday.
+
+Anthropics and talks to buy an AI startup called Descartes for six Billy.
+
+Their software lowers the cost of AI training and inference by making chips more efficient.
+
+And I'll stop here, Gavin, if you could comment, and I don't know if you're a shareholder,
+
+Anthropic or not, so it'd be great to get that out of the way.
+
+But what's your take on just straight up the revenue ramp we're seeing here,
+
+and then what to expect from an IPO?
+
+So a few things.
+
+I'm not currently an Anthropic shareholder.
+
+I'd say the Anthropic SpaceX-Datante probably came a little too late.
+
+I don't generally invest in Elon's competitors.
+
+I don't think it's a wise course of action.
+
+That tracks.
+
+And the detent was obviously Elon decided when he had so much extra compute with Colossus
+
+that he would rent it to Dario and a drop.
+
+Absolutely.
+
+And I think he almost probably more importantly got comfortable with Dario's morals and that Dario is a good person.
+
+like all humans, you know, to be humanist to err.
+
+So maybe he's made some mistakes and the way he's handled government relations.
+
+But he got comfortable that his morals were in the good place.
+
+As Elon said, they don't set off my evil detector.
+
+And he has a pretty good evil detector.
+
+You know, he famously cut his conversation with the SBF short.
+
+So a couple of things on Anthropic.
+
+You know, the rumor numbers are exceptional.
+
+We've really never seen anything like this.
+
+you know, I still think those moments in April and May were some of the most extraordinary moments in the history of capitalism.
+
+And what's wild to me is that probably on the margin, Anthropic is losing share to open AI, to open source, and to GROC.
+
+And they're still growing so fast. The numbers are still exceptional. So I think, you know, that speaks to the strength.
+
+And why is that? This is like an important thing for people to understand.
+
+the pie is getting ginormous.
+
+So even if on a percentage basis,
+
+Anthropic is losing on a percentage basis,
+
+the real number, and we talked about open source
+
+being dark tokens that aren't tracked anywhere,
+
+you know, this is a major, major pie growing moment.
+
+That's what you mean there, Gavin?
+
+That's the point.
+
+I think AI broadly accelerated in the month of July,
+
+which was kind of crazy to contrast with the public stock market action.
+
+Now we have a higher resolution view of what was happening.
+
+But a few things on the Anthropic IPO.
+
+Listen, it's an exceptional business.
+
+They've executed really well.
+
+And they haven't just executed on the model.
+
+Their products are amazing.
+
+I always think about Eric Fisheria.
+
+I don't think you've ever had on the pod.
+
+But I think he'd be a great guest.
+
+He's a good friend.
+
+He said, has a thought experiment nearly two years ago,
+
+that he thought Open AI would still,
+
+an Anthropic would still have a lot of value,
+
+even if they lost at the model layer.
+
+because the product, the harness, the user familiarity,
+
+it's all so important.
+
+And I think there's an element of truth to that.
+
+But as far as the IPO, listen,
+
+the first thing I would just say is the $2 trillion.
+
+I'm a little skeptical.
+
+We saw this with SpaceX.
+
+Everybody's jockeying to be lead-left
+
+pharanthropic.
+
+And if you lose that,
+
+first thing you want to do is make whoever's lead-left look bad.
+
+So you leave to the press and you say,
+
+hey, hey, we're in the room.
+
+You know, the bar is a $2 trillion IPO.
+
+You said on a previous episode,
+
+three to four trillion.
+
+Absolutely, but I think that's probably where it might trade.
+
+So they're sandbagging now.
+
+Yeah, we haven't seen the S-1.
+
+You know, I do think, like, if you're bringing a company out responsibly,
+
+like you do, you want to price it in such a way that you can absorb the lockup
+
+because you don't want to price it really high, create a lot of volatility.
+
+that's very disconcerting for employees.
+
+You do not want anyone distracted at this moment.
+
+So I think that they will price it smartly.
+
+Maybe that is $2 trillion.
+
+Maybe it is $2 and it trades to three.
+
+But you just got to remember these leaks are always coming from the bankers
+
+who probably lost lead left and they want to make lead left look bad.
+
+So if it comes out of $2 trillion,
+
+it probably means that testing the waters and the road show just went to incredibly well.
+
+And people, they do want to own this.
+
+we've never you know these these numbers are unprecedented so are you saying the road show probably
+
+occurred already um or quietly occurred no no definitely not i'm saying if they price it too it means like
+
+the testing the waters went well the road show went well and they've got a lot of confidence about where
+
+it's going to trade sacks in the history of silicon valley you pointed out multiple times here
+
+during this uh podcast in 2026 that we've never seen a revenue ramp like this can it continue and if it
+
+does continue, what would that say about the value of AI to corporations and enterprises where
+
+Claude is the definitive leader? Well, I think it can continue, although it is a legitimate
+
+question, because if you're ending the year at, let's say, $100 billion run rate up 10x plus
+
+year over year. And by the way, they've grown 10x year over year for the last three years.
+
+So it's growing exponentially. If that rate of growth were to continue, that hit a
+
+trillion dollars of ARR by the end of next year. And then the question you have to ask is,
+
+well, is the TAM big enough for that, but also is there enough compute? Is there enough energy?
+
+I think you start to get into physical constraints. I do think the TAM is big enough. I think
+
+the demand is going to be there. There's so many new applications of AI. Agents are just taking off
+
+now. You saw that with the launch of Grockbot. All these other companies are going to keep
+
+extending the uses of AI into more and more context. So the demand for tokens is going to keep
+
+growing exponentially. I think the question is whether they can physically meet that demand,
+
+and then also Gavin's point about market share. Other companies are seeing what they're doing
+
+and they're competing more effectively to take share. Remember, Anthropic made this huge bet on
+
+coding. And that ended up being a very prescient bet. I don't know if it was because of ideology.
+
+They thought that was the way to get to recursive self-improvement first. I don't know if it was
+
+because they saw cursor. That's the reason. Building on top of them. Yeah, they watch cursor.
+
+utilization and they said, we're going to take that business. And that's such an important note
+
+for you to make sense. So they move vertically. Yeah. So they've started moving into verticals where
+
+they see their own users building successfully on top of their platform. So that was, you know,
+
+I think that definitely was a signal to them to get into coding. Nonetheless, they got into it
+
+first. They got into it very successfully. That led to a boom. We hear that Open AI now,
+
+they've basically pivoted it to coding.
+
+They're doing a better job with that now with GPT 5.6.
+
+We've heard their growth rate is accelerating.
+
+They used to be growing at 3 to 4x a year.
+
+I've heard that over the past two months,
+
+that growth rate is now over 20% month of a month,
+
+which if you extrapolated out over 12 months
+
+would be a 10x growth rate.
+
+So you're now seeing OpenAI,
+
+growing as fast as Anthropic, having made that pivot.
+
+We can talk about whether, you know,
+
+we think SpaceX AI may be able to get the results.
+
+well. But in any event, look, I think that regardless of whether Anthropic is able to grow 10x next year,
+
+I think they're going to grow very fast. And then the question is just, what does the market share look
+
+like relative to their competitors? And I guess, Gavin, it would be worth double-clicking on two
+
+points there. The first point, is there going to be a market for these tokens and can the growth
+
+keep up? In other words, is there a demand? I think all three of us agree. Yeah, sure. Of course.
+
+there's demand. But the next two pieces, which Sachs mentioned, were energy data centers. And that
+
+is a question I want you to answer. Can they get to one trillion in revenue? Let's slow down here
+
+and actually try to do some back of the envelope math. And this is your wheelhouse. What would it take
+
+in terms of infrastructure for them to go from $100 billion a year in revenue and 10 exit? And
+
+is that humanly possible in the next year?
+
+So a few thoughts.
+
+I think it's the right questions.
+
+First, internally Anthropic is very confident.
+
+I have been told by multiple people I trust that Dario has said that Anthropic might be the only private company in the world at some point.
+
+Think about that.
+
+And, you know, in this vision, an anthropic maximalist vision, there's Anthropic and then there are governments.
+
+And that's it.
+
+So there's a lot of confidence.
+
+I'm sure they have more advanced checkpoints than Fable up their sleeve.
+
+They've executed really, really well.
+
+I would probably take the under on them being the only private company of the world.
+
+I think it's going to be a long time before they lay into rocket or they're, you know,
+
+and deliver your lunch.
+
+I don't know.
+
+There might be other businesses in the world.
+
+Zipline might want to bring you a burrito.
+
+Uber might want to take you somewhere,
+
+Waymo, I want to drive you home.
+
+But sure, Dario.
+
+I might interpret that as a negative signal because it's so hubristic, you know.
+
+Yeah.
+
+This is getting into SBF land a little bit.
+
+Yes.
+
+I would certainly discourage Dario from saying that ever again to anyone.
+
+So you don't.
+
+So AI Jesus should not claim that he is AI Jesus.
+
+Okay.
+
+Pride cometh before the fall.
+
+Yes.
+
+And that will be a long fall.
+
+If they, I mean.
+
+But no, but look, I have heard from.
+
+other people at the company, I heard that when they were at about 60 billion of ARR, that they thought
+
+they could get to 600 billion in one year. So meaning they thought they were on that 10x ramp from
+
+the middle of this year. Now they're at over 80. Doesn't seem to be slowing down. So I think,
+
+look, I think this is the big question is, you know, how fast can they grow next year? Does it go
+
+all the way from $100 or $120 to $1.20 to $1 trillion? Look, if they merely got to $4 to $500 billion, that would
+
+make them the biggest software company.
+
+If they get to 200 billion, that's an amazing outcome.
+
+Where does that put them versus Microsoft's office franchise, or Google's search franchise,
+
+like we're starting to become a peer to those two companies?
+
+Absolutely.
+
+And so just to break the question out, and it's a good question, and to demand and supply.
+
+So demand, you know, depending on how you count it, there's, you know, 25 to, you know,
+
+65 trillion in knowledge work.
+
+25 is kind of a number I've used.
+
+I was told by the head of the AI Institute
+
+at one of the three largest investment banks
+
+that it was way low.
+
+So this is the TAM that they're growing after today
+
+before we have robotics.
+
+And then it's a question of,
+
+is it labor substitution or accelerating growth?
+
+Thus far, it really does look like it's accelerating growth.
+
+There are more, you know,
+
+there are more job openings for software coders today than there were a year ago.
+
+There's more demand for coders, and that is kind of in the epicenter of the blast zone.
+
+There is some evidence that for very young people coming, you know, right out of college,
+
+yeah, that maybe there's been a negative impact.
+
+But broadly speaking, it has to come from one of those two.
+
+And I just think it's, you know, we, it's better for everyone if it comes from accelerating,
+
+growth and these companies are now at a scale where it's going to, if it's going to come from
+
+accelerating growth, we will start to see that in the national accounts over the next 18 months.
+
+I am going to, okay, you want to go to the energy.
+
+Supply.
+
+Yeah, and listen, this is, this is, you know, where kind of the rubber beats the proverbial road.
+
+Like, I, you know, the people who build these data centers, you know, like the best way to
+
+understand it is go watch that series Landman.
+
+And it's like you need like Billy Bob Thornton's out there.
+
+Permian Basin time.
+
+The Permian Basin.
+
+You're in the patch.
+
+You know, you're actually worried about Narcos.
+
+You know, it is, it's the tip of the spear.
+
+It's like 110 degree heat.
+
+You have to orchestrate thousands of people in these remote locations.
+
+It's Adams.
+
+It's Adams, not bits.
+
+It's Adams, not bits.
+
+and it's really, really hard.
+
+Now, America, we're actually really good
+
+once we gear up for something like that,
+
+America and capitalism,
+
+we're very good at solving those problems.
+
+Everybody talks about the ultimate constraint
+
+are these turbine blades.
+
+And, you know, they're only made in like two facilities
+
+in America and Europe, and like each facility is like,
+
+you know, a giant building
+
+and there's some 40-ton press.
+
+but you know what now they're running
+
+you know 24 hour shifts
+
+they're getting you know
+
+necessity is in fact the mother of innovation
+
+and nothing like capitalism will make that happen
+
+in fact boom
+
+supersonic making a new jet
+
+for you know supersonic
+
+and his has one on deposit
+
+those jets he's like you know what
+
+we're going to build a turbine business first
+
+because we have so much demand and then
+
+Elon I understand there was a news report that he bought a turbine
+
+company and he did it personally because that
+
+speaks to me that he just wanted to go fast, right? And on top of that, you know,
+
+residuals for private jets are like extremely strong these days. And a big part of the reason
+
+is people are taking jet engines off old planes and repurposing them has turbines to power
+
+data centers, 100%. That's insane. It's crazy. This is like a big business and growing really,
+
+really fast. And then, you know, you have Caterpillar, you have Commons, you have G.E.
+
+Fernova, you have Siemens Energy. They are all expanding capacity fast. So I think the supply question,
+
+you know, the Billy Bob Thorntons here in America, you know, we're going to work with,
+
+with those companies and get these turbines on the ground. It's politics and its regulation.
+
+And the fact that Texas, you know, has kind of announced, you know, what I think is probably
+
+like an energy audit is what you're referring to. Governor Abbott announced this week.
+
+going to do an energy audit, not that he's going to slow things down, not that there's a moratorium,
+
+but that everybody has to go through an energy audit. If you BIOE, you're going to be fine.
+
+But if you don't have a solution for that and you want to tap the Texas, the great state of Texas's
+
+grid, you're going to need to maybe pass some audit because we don't want the whole grid
+
+going down here, which it does every January when things freeze over.
+
+Yeah. And it's like right now the narrative on AI is not good.
+
+It's that a data center takes all the water because someone made a mistake in a book three years ago,
+
+and they're off by, I think, a factor of 100,000 of the amount of water a data center uses.
+
+So it's just wrong.
+
+They raise your cost of electricity, which is just wrong.
+
+They lower your cost of electricity.
+
+The Wall Street Journal just read a story about a town called Ellen Dale where, like, it was a dying town, a data center got built, it's revitalized the town.
+
+Tax revenue is 10xed.
+
+It's been the best thing that's ever happened.
+
+But nobody is telling those stories.
+
+people need to. And I think, you know, we've discussed on the show many times, the Chinese Communist
+
+Party, they do have a very active anti-AI, anti-Data Center campaign because that's what's good
+
+for them and bad for America. And someone needs to tell the truth about AI. One of the best phrases
+
+in the Bible is the truth shall set you free. Yes. Can't set you free if nobody tells the truth.
+
+Yes. Yeah. Yeah. I mean, the data center panic is a testament to the power of the media to create
+
+hoaxes and hysteria over literally nothing.
+
+Every single aspect of the data center story is wrong.
+
+It's a lie.
+
+Like you said, they don't use up a community's water.
+
+The water use is quite manageable, less than a golf course.
+
+The water recirculates.
+
+It brings down electricity costs, assuming that you have the data center stand up its own
+
+power generation because they will sell the excess back to the grid,
+
+and they pay for grid-upgrade costs.
+
+The real reason why electricity prices are rising in blue states is because of decarbonization
+
+and all the other, you know, green-type regulations they have that make power generation
+
+more difficult.
+
+What are the other accusations?
+
+Well, noise pollution.
+
+Yeah.
+
+Noise pollution is legit.
+
+So there's nobody in their right mind.
+
+They don't actually put it at anyone's backyard.
+
+Yeah, nobody in their mind is doing that today.
+
+We have a lot of land in this country.
+
+Yeah.
+
+People did do that for a bit.
+
+If we just use common sense, yes, common sense, exactly.
+
+You just use common sense and there's no problem.
+
+The idea that you have to have a complete ban on data center construction is just silly.
+
+And the communities that are embracing them are seeing they have better schools,
+
+they have better services because they're making a lot of revenue.
+
+Well, and then to your point, Sacks, when, you know, entrepreneurs get on something,
+
+we're all of a sudden seeing solar, batteries, nuclear, and more clean energy being tapped
+
+to power these, and that demand will lower the prices of those services over time.
+
+Solar panels will get cheaper, batteries will get cheaper because they're going to be scaled
+
+much faster, which is good for humanity.
+
+This is basic, folks. It's very basic.
+
+The green stuff can't scale in the short term.
+
+It's all gas powered for the new data centers.
+
+That's the only way to kind of get the amount of scale that you need in the next year or two.
+
+But in any event, look.
+
+You agree with that, Gavin?
+
+I think it's more like, you know, it'll be viable, but, you know, it's obviously.
+
+obviously not as fast as popping up Nat gas.
+
+Yeah, I largely agree.
+
+I will say, you know, Elon's building a $10 billion new solar manufacturing plant in Texas.
+
+For our reason.
+
+My home state.
+
+And, you know, I think solar the world will eventually run on sunlight.
+
+But we're going to run on natural gas for a while.
+
+We have a lot of natural gas in America.
+
+It's a clean fuel.
+
+It's the greenest carbon fuel.
+
+And just this media hysteria about data centers, it is doing such a disservice to low-income
+
+Americans to small town Americans, often to minority Americans. It's just, it is, it's so good in every way
+
+and the media is doing such a disservice, but no one's taking the other side. And someone needs
+
+to take the other side and tell the truth. Yeah. Well, it's, I don't know who's relying on the media
+
+for their facts now, but I think there's a reason why we were number four in the world last week is
+
+because, hey, listen, we actually are part of this buildout.
+
+We know about it, and we can explain it to you a little bit more succinctly.
+
+Noise pollution, that's an issue.
+
+Pollution of the air, that is an issue from NACS.
+
+Keep these things far away from people, as Sachs just said, and you don't have as much of an issue.
+
+There is a minor issue.
+
+If you put these at scale in a certain location, you can raise the temperature of that valley
+
+or wherever you put it, a couple of degrees.
+
+that's something worth monitoring.
+
+These are all absolutely manageable issues.
+
+And if you really want to get obsessed about water,
+
+please, for the love of God, stop eating almonds.
+
+And maybe like, you know, the golf course doesn't have to use
+
+a billion gallons of water every year.
+
+I will say on the demand side and on the pricing side,
+
+if you pull up this quick note I have here,
+
+I think Anthropics growth rate is going to slow considerably next year.
+
+and it's been obviously on a terror.
+
+There's no way they get to a trillion in revenue next year.
+
+I think maybe they could, you know, triple, get to $3 or $400 million.
+
+And the reason is watching startups and then also watching some of the large companies now embrace GLM-5-2 and Zuckerberg, which we'll get to in a moment, releasing really great open-source models.
+
+You just look at the pricing here of GLM2 versus Claude Opus.
+
+And, you know, it is 90% cheaper to use these products.
+
+I'm using them. The founders I invest in are using them. And increasingly, corporate America is going to
+
+embrace these solutions. It's just a little bit harder to set them up. And it's coming, folks.
+
+And if you think it's not that corporate America is not going to embrace open source,
+
+you have not been paying attention to the last 20 years when they did exactly that. And 20 years
+
+ago, there was a big argument, oh my God, corporate America will never trust open source. And
+
+Corporate America said, we don't want to get rug pulled or have some large tech corporation
+
+hold us hostage for their technology, which they're experts at doing.
+
+So open source is the safer bet for us.
+
+And that's what's happening in corporate America today and inside of startups.
+
+This is going to be very real.
+
+Gavin, you're jumping out of your seat.
+
+Yeah, no, no, this is a larger point.
+
+Like, for sure it's good for corporate America.
+
+For sure, open source is good for the world.
+
+For sure, it's good for America.
+
+But, you know, Dworkesh posted something,
+
+Dorcas, who's a podcaster, a thoughtful guy close to the AI scene,
+
+he posted something that really resonated with me.
+
+He said at the end of the day, Anthropics AI in their constitution,
+
+it is wired to do what Anthropics thinks is best for humanity.
+
+And let's take Elon's judgment as gold-plated, and he's right,
+
+his don't be evil detector, did not go off.
+
+And they're genuinely good people, which I actually believe them to be who are doing what they think is good for humanity.
+
+I actually believe that.
+
+The problem is, like, you know, there are always unintended consequences, and the world is chaotic and unpredictable.
+
+And I just think what's great about open source is it means that we're going to have a rich variety of AIs.
+
+We're going to have diversity of AIs.
+
+And that is a good world for humans in America.
+
+We do not want one, two or three dominant models.
+
+And that's why, by the way, you know, not to, you know, don't want to always talk about GROC, but it's great.
+
+I think it's Elon will, history will judge Elon kindly for having Rock dedicated towards the pursuit of objective truth.
+
+Objective truth.
+
+Yeah, talk that book.
+
+You made a, the whole point, Gavin, is if you made the bet, that means you used your intelligence and you're savvy to pick what you think the winner is that actually is, I think,
+
+super accurate. And I think Elon explicitly believes in open source and he believes that this
+
+is a technology that should be shared for the good of it. And in fact, that was his first foray
+
+into this, which was backing Open AI. And Open AI's manifesto was rewritten this week,
+
+topic two, by Mark Zuckerberg. Quite paradoxically or ironically, in a 6,500 word essay. It's titled,
+
+The Future is for Everyone, the Path to a Positive AI Future.
+
+he laid out an extremely optimistic AI worldview where he would, as now OpenAI 2.0, Facebook,
+
+he would release open source models. He would create an agent for everybody. He would make it free.
+
+He would provide everybody in the world with their own tutor and unlimited abundance. He has picked up the
+
+abundance crown, which Sam Waltman dropped when he went for the private company.
+
+And he says superintelligence is invention, not automation, and that AI safety should be based on the balance of power.
+
+No singular centralized intelligence.
+
+I'm assuming facts you read or scanned or got the coverage of Zuckerberg's manifesto, and do you have any thoughts on his positioning?
+
+Yeah, I mean, I read it and I found myself nodding in agreement with much of it.
+
+I really like the point he made pretty early on where he pointed out that a lot of the
+
+doomers, and I think he was kind of taking a shot at the effect of altruous and anthropic,
+
+he said, Dario, he said, look, why are you guys rushing to create a future that you don't believe
+
+in, that is so dystopian? You know, if you think this is such a bad future where everyone's out
+
+of work and AI goes rogue and creates all these safety issues, why are you so excited about
+
+creating it? So I think he does point out a fundamental contradiction.
+
+Now, there is an answer to that question, which is, actually there's two answers.
+
+One is they could be trying to create a future they don't believe in for, let's call it,
+
+mercenary reasons.
+
+It could be lucrative.
+
+Although I don't think that's the real reason.
+
+I think most of those guys are missionaries.
+
+And what they believe is that that future is dangerous and only under their enlightened control
+
+can humanity be protected.
+
+It's right out of the vision of the anointed, which was a book Thomas Soul wrote 30 years ago,
+
+where intellectuals throughout history have thought that if they're maximally empowered, then they can
+
+engineer society in a more benevolent direction. And this is always backfired. It's always led to
+
+not just empty or broken promises, but also it becomes an excuse for totalitarian schemes and
+
+state power. And actually, Zuckerberg goes on to say something that I think gets at this. So right after
+
+he kind of made the point about, you know, why are you rushing to build a building?
+
+the future that you don't believe in, you don't want.
+
+He says, the notion that AI is so dangerous that the only safe path is an extreme
+
+concentration of power seems inherently problematic.
+
+Historically, hoping that an absolute power will benevolently provide for humanity,
+
+if sufficiently enlightened, has not led to safe or positive outcomes.
+
+So I think the point he's getting out here is that a major frame on the whole AI debate,
+
+It's not just about open or close.
+
+It's also about centralized versus decentralized.
+
+And whether you think a centralized outcome is the right outcome or a decentralized outcome,
+
+I'm on the side of decentralized.
+
+I mean, how could you not be on the side of decentralized?
+
+I mean, it's like the most obvious argument ever.
+
+The EA types are not.
+
+And by the way, I experienced this when I got to Washington.
+
+And, you know, all the former Biden people had just moved over to anthropist government affairs.
+
+I also dealt with think tank people who are part of this like Click.
+
+And their frame on AI was that it was inherently dangerous and that we had to centralize
+
+control over it.
+
+In the government, there should be just two or three companies and they should essentially
+
+work together.
+
+It should be made into a cartel.
+
+Remember, you know, Mark Andreessen had a meeting with those Biden officials where he came
+
+up.
+
+Don't bother competing.
+
+They dispute that characterization.
+
+Maybe they didn't use those words exactly.
+
+but I do believe that Mark was correct in his interpretation of what he heard because I heard similar things.
+
+And they really believe that the way to control what they essentially thought as of being maligned or at least very dangerous was,
+
+first, you limit it all to the United States.
+
+So you don't export the chips.
+
+You don't export the models.
+
+It's basically you retain total control over it in the U.S., which frankly is a pipe dream because the rest of the world is going to get AI.
+
+The idea that you could.
+
+But that was sort of part number one.
+
+And then part number two was you form like an atomic energy commission or something like that to cartelize the industry.
+
+And then you have it deeply embedded with the government.
+
+You effectively have a merger of sort of corporate and state power.
+
+So it was this extremely centralized vision of the future.
+
+I think they still believe in that to some degree.
+
+Clearly Zuckerberg listens to the All-In podcast.
+
+And clearly, I think we have a seat open next week.
+
+Mark Zuckerberg, I think somebody reach out to it.
+
+them come on the pod next week. Thursdays, we'll tape at about 10, 11 a.m. Your time, whether you're
+
+in Hawaii or in Tahoe, we will get a starling to you, and you can do it from your efoil,
+
+guaranteed. But it would be great to have Monmouth. Let me get Gavin involved.
+
+Well, let me just, just to wrap up, though, I think where Zuckerberg goes with this, that I agree,
+
+is we want maximum empowerment of the individual. That's the way to solve this problem. We want
+
+decentralized outcomes, we want open models. Like you're saying, JCal, we want data sovereignty.
+
+Look, there can also be these proprietary frontier models from Anthropic and Open AI.
+
+But we want to create a decentralized empowering outcome for individuals. And I think that's the
+
+side that Zuck is on. And I very much agree with that. Gavin, I assume you read it.
+
+Yeah? Or did you just get the hot? You didn't read that. You didn't have time for 6,500 words.
+
+No, of course. By the way, if he writes nine more, he's got the average nonfiction book, which is right around
+
+60,000, 70,000 words.
+
+So Harper Business, Hollis, go call Zuckerberg and get the other eight parts of this manifesto going.
+
+I read it.
+
+I agreed with it.
+
+And I would just super agree with everything David said.
+
+And I would boil it down to, I think Anthropic and people in the effect of altruism movement
+
+believe that this technology is too dangerous to distribute.
+
+And what Mark Zuckerberg and I think Elon and Jensen believe is that this technology is too dangerous
+
+to centralize.
+
+And history is spoken.
+
+And when given the choice,
+
+it is always better to distribute and decentralize.
+
+There's really no counter example that I can think of.
+
+And just forget as an American, but as a human,
+
+I want an AI that looks out for me.
+
+Looks out for me.
+
+The individual.
+
+Be the individual.
+
+The sovereign individual was a key point.
+
+Yes.
+
+Yeah, my conception of what's good for America,
+
+I do not want Dario Amadei or anthropic
+
+deciding what's in my best interests.
+
+I just fundamentally don't want that.
+
+You don't trust AI Jesus.
+
+I mean, AI Jesus seems like he seems like a great guy.
+
+You know, although it is funny, somebody said,
+
+he was cursed with resting, smiling face.
+
+And it is a little weird to listen to him,
+
+talk about this terrible vision for humanity.
+
+while he's smiling happily.
+
+It's hilarious.
+
+He's literally got that grin on while he explains you the Terminator scenario and that only
+
+he can save us.
+
+And that even he doesn't know that there's a 20% chance that he might not be able to save
+
+us all.
+
+Gavin, I love that framing about it being too dangerous to centralize.
+
+And I think one other closely analogous point is what you think about competition.
+
+So I think that the EAs think that competition will create a race to the bottom and
+
+will create a lack of safety, whereas what I believe is that competition brings out the best.
+
+And so they think it brings out the worst. Now, look, there are examples of probably both,
+
+but fundamentally, they want to centralize control and have less competition. We want to decentralize
+
+and have more competition. I think in the Constitution, I have the right to bear arms.
+
+And I think that's important. I grew up in Texas. I think it is kind of like a lot of side of defense
+
+against tyranny. I love Texas. Gavin, when you're coming home.
+
+I'll be back soon, I promise.
+
+Okay.
+
+But I want the right to have my own AI.
+
+I want the right to my own AI where I, you know, its values are aligned with me, not, not someone as good a person as they might be.
+
+The right to bear arms is a good analogy because we do allow you to have a gun, even though you might misuse it.
+
+Guns are used to like kill things, right?
+
+Whereas AI has a much more creative use and much more salutary uses.
+
+it's beneficial. Fundamentally, it's a consumer technology that everyone's going to want to use.
+
+So, you know, if we allow you to have guns, I agree. You should be allowed to have AI.
+
+Let me correct you there, Sacks, now that you're in the great state of Texas with me,
+
+guns also help you feed your family and defend you against evil forces in the world.
+
+So those are virtuous uses of a gun. Yeah, I get it. They are. That's self-defense,
+
+but I'm saying you'd still use the gun to kill or hurt the person in self-defense.
+
+I get it. I'm not against guns. I think this is the delusion of Dario. If we think about it with these, you know, effective altruists, you can look it up folks, but they think that basically they're going to make all the money in the world, create the one company, the money printing machine, and then they're going to save all of us. It's massive delusions of grandeur that, you know, is. The technology is going to diffuse anyway. This idea that you can keep the genie in the bottle is absurd. But by the way, I think, Sacks, the way they view it is, they view this literally as super,
+
+intelligence and the nuclear bomb.
+
+And if you convince yourself that you're building the nuclear bomb and you're building the
+
+terminator that you yourself cannot control and it's superintelligence that will make a billion
+
+terminators and a billion bombs, they literally have diluted themselves while taking
+
+P-O-Day or LSD at Burning Man that this is the reality.
+
+It's not the reality.
+
+You could unplug it at any time.
+
+They're suffering from delusions of grandkids.
+
+period, full stop. This is not the nuclear bomb.
+
+Well, you're right about that. When I first came into Washington, that was the dominant
+
+analogy that they and their sort of related think tanks, people in their group had promoted
+
+this idea that AI was like a nuclear weapon and we needed an atomic energy commission,
+
+a global one to regulate this. Total pipe dream never going to happen, but you're right,
+
+that they were using that analogy. And I think the reason why they're using that analogy is because
+
+you do not have a right to basically have a nuclear weapon.
+
+to build your nuclear weapon. You have the right to gun, but not a nuclear weapon. So they wanted to put
+
+AI in that bucket. But as Jensen said, no individual, no consumer needs a nuclear weapon. Every consumer,
+
+every business needs AI. It's fundamentally different. This is a consumer technology. It's a consumer
+
+technology before it's a military technology. And this idea of that it's like primarily like a nuclear
+
+bomb is just kind of absurd. I mean, in fairness, in fairness, Gavin, Cyberdine industry.
+
+they also thought they were building good technology.
+
+So science fiction has literally polluted people's brains.
+
+If we're going to have a terminator thing, I want my own terminators who like me.
+
+Yeah, open source to terminate.
+
+Yeah, but like just very simply, just bullying everything else.
+
+Like I'm an American, I'm a patriot.
+
+If we ban open source, if we let this control be centralized, we will lose AI, we'll lose geopolitics, we'll lose everything to China.
+
+It's just that simple.
+
+So if you're an American patriot, you should be for the distribution, democratization,
+
+decentralization, individualization of this technology.
+
+Hey, J-Calman, what are your thoughts?
+
+What are your thoughts on the essay?
+
+Well, like you, Sacks, I found myself, I found myself nodding the whole way because I think
+
+he took, he kind of like ran in front of the parade and grabbed the baton and was like,
+
+I agree with the best takes here.
+
+And the best take is open source, empowering the individual.
+
+individual, and this isn't nuclear technology. I just want to point out two other points that I think
+
+got buried because he did try to cover a lot of ground. The first is I want to give him credit
+
+for his view of specifically job displacement, because he says, hey, listen, you know, that is
+
+possible job displacement, but he says people fear that automation will outpace individuals,
+
+capability growth, leading to job displacement, followed by a difficult period as people learn new
+
+jobs. I think we can all agree that that is a concern. But there is no rule that AI must increase
+
+automation faster than it increases individuals' capabilities or demand for new skills. Recent statistics
+
+suggest it may be more likely that individual's capability growth could match or outpace automation.
+
+I thought this is like a really good framing and is just another way of saying what Jensen said,
+
+hey, you're not going to lose your job to AI. You're going to lose it to somebody with AI. And that's the game on
+
+the field right now. You know, I,
+
+Every time I use this technology, three new business opportunities open up, and I create two more job wrecks.
+
+And people are doing five or ten times as much work if they embrace the technology.
+
+And that's a big if there and if people will do it.
+
+The second thing I thought was pretty interesting was he makes a play on having the right to index anybody's content and learn from it.
+
+The quote he says here is, all AI models are derived from human knowledge.
+
+Okay, fair enough.
+
+It's pretty plain vanilla there.
+
+Some have tried to frame distillation as harmful, but I think it's important to protect the principle that you can learn from anything you can observe.
+
+In other words, he's preemptively saying, I want to scan the world's data.
+
+Well, I have a message for him, which is Zuckerberg, please explain how this concept is compatible with the fact that you have sued every startup, many of which I've invested in, that has ever tried to index or use the social graph at Instagram or Facebook.
+
+They have hundreds of lawsuits where they have sued people for trying to distill, you know,
+
+who are the top influences on Instagram, who are, who's in my social graph, and they lock that
+
+whole thing down.
+
+So there's a bit of hypocrisy here that reminded me sacks of our discussion on previous episodes
+
+with Claude ripping apart old books and distilling them.
+
+Yeah, we've had the distillation debate many times.
+
+Yeah.
+
+Let me just go back to this point about there's a huge irony in the fact that.
+
+that Dario did not get his way in Washington for the most part during this administration.
+
+Because I think if he had gotten his way, if he had realized his dream of this highly regulated
+
+AI apparatus, I don't think that company would be set up for a hugely successful IPO.
+
+Why? Because their whole right to charge this massive premium for tokens, which,
+
+J-Cal, that's the point you were making before, is you're wondering how sustainable that is
+
+because of all these open models that are coming up and are offering tokens from.
+
+much less. Their whole pricing power, that premium they're able to charge is because they're six
+
+months ahead of those open models. And that six months to be eaten up in the blink of an eye if they
+
+were subject to regulatory approval. Darry himself keeps writing these blog posts where he says,
+
+we did an FAA for AI. You know how long it takes the FAA to certify and approve a new model,
+
+in this case for airframes? Minimum of five years. I mean, if you want to change a table in your
+
+plane, it takes eight years. You know how long it takes the FDA to approve a new medicine?
+
+Years, okay? You're going to apply that regulatory framework to AI model releases.
+
+Game over. Forget about it. Your six months will be gone like that. Your model will be commoditized,
+
+to Gavin's point, the Chinese competitors will catch up. And that's bad for the United States.
+
+It's bad for our competitiveness. It's bad for the AI race. I mean, obviously, we don't want China beating us.
+
+But aside from just the geopolitical dimension, it'd be horrible for Anthropic as a company
+
+because, again, all their pricing power depends on them remaining in the lead by six months.
+
+If they ever slip up, hold on, if they ever slip up and lose that six months, they're to toast.
+
+What does that do to revenue?
+
+Exactly.
+
+So now, look, I actually think that their pricing power may be quite sustainable because I think people are willing to pay.
+
+Not the whole market, not the whole market, but a decent.
+
+subset of the market is willing to pay a premium for true frontier intelligence. So as long as
+
+if the top 20% sacks, if the top 20% is willing to pay 10x, they're golden, right? Like just
+
+like I said before, it's Apple versus Android, right? Most of the market is willing to go with.
+
+Android is cheaper, but there's a significant subset of the market that's willing to pay a huge
+
+premium for Apple because it's a better experience. Same thing. If you're a company that's in a competitive
+
+market and you want the absolute best for competitive or other reasons, you're going to pay
+
+a premium for true frontier intelligence. But Anthropic and Open AI are on that hamster wheel.
+
+They have to stay in the lead in order to justify that premium. And by the way, I think they can.
+
+And they think, in fact, their lead is growing because they're on the way to recursive self
+
+improvement. I just want to make another point about the going direct movement.
+
+Zuck has had his Twitter account since the beginning when he tried to buy the company at FinkD,
+
+F-I-N-K-D, which was his handle in college, I believe.
+
+And in the last 30 or 60 days,
+
+Nikesh from Palo Alto Network's friend of the pod,
+
+he started tweeting and doing long form.
+
+Jensen opened an X account.
+
+He started going long form.
+
+Thanks for the follow, Jensen.
+
+And then Zuckerberg has activated his account,
+
+and he's going direct.
+
+And I want to just point out that Zuckerberg previously,
+
+I think,
+
+was letting other people craft his message and send it to the market.
+
+And I think he has matured and decided,
+
+I am going to write my own missive.
+
+This missive, I believe, was written by him,
+
+probably with some help,
+
+but I ran it through an AI detector.
+
+It's 100% human crafted, bespoke human words.
+
+I think it's fantastic that he's now getting ahead
+
+and saying these are the potential problems in the future.
+
+And it would have been so great if he had done that with teenage girls
+
+and the impact of social media on kids
+
+and addiction with Instagram and Facebook earlier on,
+
+I give him a lot of credit for deciding
+
+I will go direct, I will write my essay,
+
+I will speak my truth,
+
+and man, X is getting exceptional
+
+at these dialogues and these missives now.
+
+It's fantastic.
+
+Yeah, so I probably agree everything you said,
+
+and I want to come back to a couple of things
+
+that SAC said about the computer,
+
+about how open source actually makes Anthropic more valuable
+
+and computational efficiency of humans
+
+is the bull case for humans.
+
+But I think what you said is really important.
+
+If you are a public figure,
+
+if you were the CEO of a company,
+
+and you do not have your own voice on X,
+
+you are at risk.
+
+It's just that simple.
+
+Risk of you unpacking.
+
+You ultimately, in the same department,
+
+as the truth shall set you free,
+
+the only person who can tell someone's own individual truth
+
+is themselves in their own authentic words.
+
+And, you know, obviously Mark Zuckerberg has super voting stock.
+
+He's never going to be, you know, thrown out of meta.
+
+But there's many CEOs who think, oh, you know, my corporate PR department's keeping
+
+me safe.
+
+They're my voice.
+
+Well, guess what?
+
+You know, maybe you retire.
+
+Maybe the next CEO doesn't like you.
+
+And you get called in front of Congress.
+
+And I do think, you know, at some point, you know, the Democrats, you know, they're going to
+
+have an accountability agenda and they're going to go after everyone. And I mean, I'm not sure
+
+that's like a good message for the Democrats. But be that as it may, if you do not have your
+
+own voice and your own brand on X, you're at risk. And having your, having your own voice,
+
+it is protection. It's power. It's a farmer. And I think it's a sigil. Yeah, it is a superpower.
+
+And I don't know about you, Sacks, but I am loving Zuckerberg's Jeremy Strong era,
+
+much better than the Jesse Eisenberg.
+
+Are you sitting doing this MMA stuff?
+
+There's a video of him on like a barge or something?
+
+On a floating.
+
+A floating platoon.
+
+What is that?
+
+Barge in Lake Tahoe?
+
+Yeah.
+
+I would be careful.
+
+I'd be careful about saying bad things about him, Jake Al.
+
+No, no, no.
+
+I am, listen, I have two have turned over a new leaf.
+
+I am, I'm into Zuck 2.9.
+
+I hope he likes JCal 3.0.
+
+Come on the pod, Zuck.
+
+I want him on the efoil with the American flag every 4th of July.
+
+And I want it like live streamed.
+
+And if he falls, that would be aura maxing for him.
+
+If he gets back up and records again, it does it live.
+
+Yo, he's got to do that in Kauai with the Bullsharks.
+
+Let me see some fins chasing him.
+
+He is aura farming times a thousand.
+
+Way to go Zuck.
+
+And like we need more of this like authenticity.
+
+Face CEO.
+
+Go direct.
+
+100%.
+
+Man.
+
+Go direct.
+
+Protect yourself.
+
+All right.
+
+Yeah.
+
+And be yourself, man.
+
+And like, he's being himself.
+
+Like he's a good guy.
+
+It's all good folks.
+
+There's two points that I think really important.
+
+Open source makes frontier tokens more valuable.
+
+So like, let's just say, let's, let's use an example.
+
+Let's say that, you know, Anthropic, Open AI and GROC, they're at like a 250 IQ or 200 IQ.
+
+Well, if you have a 200 or a 250 IQ intellect that can orchestrate these open source 150 IQ intellects,
+
+like that that's actually more that makes the 250 IQ intellect more valuable is because it can farm out past
+
+and just in the same way you know if we use the Manhattan Project analogy you know everybody you know talks you know talks about
+
+Richard Feynman and you know who's the guy who ran it all and you know there's these 10 really smart
+
+physicists who's the guy who ran it um you know who said i and become death um who's the guy who ran the
+
+Manhattan Project. Come on.
+
+Oppenheim.
+
+Oppenheim.
+
+So you had Oppenheimer and you had 10, you know, effectively Nobel laureates, maybe 30 of them.
+
+But they needed like the 2000, you know, merely, you know, top 10,000 in the world, physicists.
+
+So having more, having more affordable intelligence, it actually makes the frontier even more valuable
+
+And I think a very plausible outcome is one at which frontier tokens are 65 to 85% of the economic value.
+
+Open source tokens are like 80% of the volume.
+
+And that's good for everyone.
+
+And everyone wins.
+
+Tell me the revenue, Gavin Baker, of Anthropic by the end of 2027, what is their 2027 revenue if 2026 ends at exactly 100 billion?
+
+What is their 2027 revenue, Gavin Baker?
+
+I will take the over.
+
+over what?
+
+A lot of estimates.
+
+I'm not going to take the over on a trillion.
+
+Okay.
+
+I'm going to put $500 billion over or under Gavin Baker.
+
+How about this?
+
+I'm going to take the over.
+
+$500 billion.
+
+No, I'm going to take the over.
+
+Whatever the Wall Street consensus is for $27,
+
+which I don't know,
+
+I'll take a 25 to 30% over on that,
+
+assuming that this regulation campaign doesn't succeed.
+
+So you're basically going out of the lim here saying
+
+that the underwriters are going to sandbag revenue.
+
+Okay, congratulations, Ben Gavin.
+
+Give me my answer.
+
+No, no, no.
+
+Over 500 or under?
+
+I think what is your cut to?
+
+I think four to five, I think four to five billion.
+
+You're under.
+
+You're under buying.
+
+Is within the zone.
+
+Okay.
+
+Of like realistic and achievable.
+
+Can I just say one other thing?
+
+Hold on, Sachs.
+
+Over under 500 billion, Sachs.
+
+I actually was going to say four to five hundred billion does exit ARR for next year.
+
+Seems very comfortable.
+
+So right under.
+
+Okay.
+
+Great.
+
+Two unders.
+
+Yeah.
+
+And the only reason.
+
+you know, it's not higher is because I just, I, I do think that somehow you get into physical
+
+limitations at that point. Yes. But maybe not, you know, maybe there'll be enough compute.
+
+I mean, also that, you know, that we all believe that they're going to hit 400 billion next year.
+
+And they're going to 4x, 4x, 100 billion. Like, just let it sink in.
+
+They'll be at 120. So I guess that, you know, implies, you know, 4x would be more like 500.
+
+Yeah. 4x. Yeah.
+
+That's kind of what we're coming out.
+
+You know, I think the over under really is $500 billion exit ARR for next year.
+
+And I think they think they'll do the over.
+
+We were talking about them at $10 billion, 10 months ago.
+
+$10 billion to $400 billion is $40,000, gentlemen.
+
+Are they going to thank me for preventing Dario from shooting himself from the foot?
+
+I think they should.
+
+He literally was like, he put two guns on two ankles, and he just emptied both clips,
+
+and you had taken the bullets out.
+
+they should give you 1%.
+
+I actually don't think the bullets were taken out.
+
+I think he had the pointed in his temples.
+
+Oh, he's saying did he now?
+
+He did your hunter?
+
+And sacks pulled him down and like he just shot himself in the foot.
+
+This is where their hostility to open models comes from, I think, is that if they're
+
+going to slow down, they have to slow down the open models as well.
+
+Otherwise, they do get commoditized and their business goes away.
+
+However, the United States does not have jurisdiction over what happens in China.
+
+China, and China was not going to slow down.
+
+That was always, I think, a huge flaw in this whole conception.
+
+These EA types thought they're going to institute global compute governance.
+
+Somehow they're going to get some global agreement with China.
+
+Total pipe dream, never going to happen.
+
+If we slow down, China is just going to race ahead.
+
+It was always a naive vision.
+
+A naive vision.
+
+And that didn't work.
+
+So slow your role, kid.
+
+Can I just say one thing that I think is also important about open source and just like why
+
+I think AI is going to be good for humans?
+
+It's going to be good for Americans.
+
+It's that like if we are short compute,
+
+we are talking about compute slowing down
+
+anthropics growth because literally we're just,
+
+you know, we're running out of energy.
+
+We can't bring on.
+
+Physics.
+
+Yeah, we're running into physics and like, you know,
+
+planetary scale limitations.
+
+And I think this is like, this is a reality.
+
+Just think about how energy efficient we are.
+
+All of our brains, to approximate our brains,
+
+you need to have a data center that consumes the power,
+
+of a million American homes running for probably six to nine months.
+
+And then you get our brains.
+
+And then every time you want to answer a question,
+
+you need the power of like a thousand American homes, okay,
+
+to operate at the level of our minds.
+
+You know, we're smart, but like,
+
+and all those figures are going to get better.
+
+But we're so energy efficient.
+
+capitalism, there's going to be a use for the most computationally efficient intelligences
+
+on planet Earth, and those are human intelligences. It's so well said, because if you look at
+
+what Cerebrus and Grogh and Invidia are up to, they're making inference 10 times, five times
+
+every year, and you're the chipmaster here, Gavin, but they'll be five to 10 times more efficient
+
+every 12 to 18 months. Then you look at the models, and by the way, congratulations, you got Zuckerberg
+
+on your ass. Go ask
+
+MySpace, go ask Snapchat
+
+what it's like to have Zuckerberg in the
+
+Review Mirror. That's literally the
+
+T-Rex coming at the
+
+frontier models. He is a beast
+
+at copying, mimicking,
+
+and competing. He's going to be
+
+the open source hero from America.
+
+He is going to have the best open source
+
+model in the next year. I
+
+guarantee it here on the
+
+audience. I might take
+
+the under.
+
+There's another American hero.
+
+Jetson Wang.
+
+Okay, Nemotron.
+
+You might see, you might see Nvidia at the open source frontier.
+
+He doesn't like us talking about that.
+
+I got the back channel.
+
+He's like, we're not in the open source business.
+
+We do have Nemotrod and we can't give you a full stack.
+
+But one of the hypers, by the way, that we know, Gavin,
+
+one of the hyperscalers tell me they just did a nine figure double Lindy reverse,
+
+where they went from doing a frontier model on 100.
+
+billion dollars in infrastructure, and they're like, bing, it's going to be open source, not frontier.
+
+So people are looking at this saying it's time to think, maybe move over to some open source models.
+
+All InSummit is coming, September 13th, 15th, and at Los Angeles.
+
+We told you about the Giants last week, Jensen, Satya, Jared, Gwen.
+
+I mean, this is the all first name club.
+
+But here we go.
+
+Steve Hilton running for governor of California.
+
+It's going to come.
+
+Spencer Pratt.
+
+I'll talk about his failed L.A. run, but successful in terms of capturing people's imagination.
+
+Abigail Shrier, author of Bad Therapy, a fantastic book, is going to be with us with a very special surprise guest.
+
+And, hey, Bestie Gavin, our guy, Bestie Gavin might even make an appearance.
+
+and my guy, Blake Scholl, CEO of Boom Supersonic,
+
+where I mentioned earlier in the program.
+
+And this year, we're going to turn the outside of the shrine
+
+into a festival-like experience from you, for you,
+
+a frontier tech hub featuring AI and robotics demos
+
+and a gifting suite.
+
+The gifting suite, like you're a celebrity.
+
+Merch.com has made an incredible all-in-swag suite
+
+for you, Wellness Suite.
+
+With red light therapy facials and IVs, if you, hey, you stay out a little too late,
+
+Saxy Pooh, that sometimes happens.
+
+Don't miss these important conversations.
+
+And by the way, we're going to announce all the DJs and parties, which is the reason
+
+Freiburg does this.
+
+It's going to blow your mind, the allensummit.com to apply today.
+
+Go ahead and apply.
+
+Hey, speaking of our guy, Jensen, sixth bestie here on the pod, in video.
+
+is partnering with Goldman BlackRock and others to raise $500 billion in AI compute.
+
+Jensen laid out his vision in an X article, as we mentioned, Jensen is now on X, titled,
+
+Invidia AI Factory Compute is becoming an investable asset class.
+
+The firms will establish independent financing platforms raising third-party capital.
+
+The idea is to treat GPUs like a financeable income-producing asset,
+
+like I may be mortgage-backed securities, or hopefully not, with the same outcome.
+
+Here's how it works at a basic level.
+
+Instead of a company paying billions to buy chips up front, they borrow money.
+
+They buy Nvidia-based systems and use them to start generating revenue, i.e. renting compute.
+
+And then they can use the cash flows to pay back the loan.
+
+Invidia's role is matchmaker connecting customers who need compute with lenders.
+
+Obviously, GM, Ford, have their own finance divisions.
+
+Gavin.
+
+what do you think of this announcement vis-a-vis round-tripping and the hand-wringing concerns we talked about on this very podcast a year or two ago?
+
+Well, I do think what's important here is what's essentially happened is like Blackstone, KKR, these firms, Goldman Sachs, they would not have done this.
+
+They would have not have done that CNBC episode with Jensen.
+
+if they did not believe that Invidia GPU compute was a financialable asset.
+
+And so what's really smart here is you're getting some of the smartest asset managers in the world,
+
+who charge 2 and 20 for many products,
+
+to essentially validate this market.
+
+And Nvidia is being a matchmaker,
+
+and what they're basically saying is, hey, our compute,
+
+because it's so flexible, is going to have a long enough life
+
+that you can finance it at lower rates than other kinds of computers.
+
+And I think that's smart, that's good for everyone.
+
+And it is interesting.
+
+If you look at the underlying architectures of the three what I call big Chinese open source models,
+
+maybe even through a few or four, you know, if we have Quinn, if we have Kimmy, if we have Deepseek,
+
+and then we have GLM, they're actually evolving in very different ways.
+
+And that architectural variation works in Nvidia's favor and in GPU's favor.
+
+because it means that you do need this more flexible compute
+
+to be able to finance it,
+
+to be able to think that you can have a long life.
+
+But what Nvidia is doing that I think is really smart
+
+is they're saying, hey, we are going to help create this market,
+
+grow this market.
+
+But they're going to provide two very important functions.
+
+They're going to say, hey, Blackstone, Goldman Sachs,
+
+KKR, Apollo, Black Rock,
+
+I'm leaving someone out and I'm so sorry.
+
+There are six of them.
+
+Come to us.
+
+If you have a deal, you can bring it to us and we will give a residual value guarantee.
+
+And I think the way that that residual, which will further lower the cost of financing these,
+
+and that residual value guarantee can then be incorporated into those companies underwriting.
+
+and what that basically means is they're saying that after three years, four years,
+
+we guarantee that these GPUs can be rented at a certain rate.
+
+And then the risk that they are bearing is the risk between that value and wherever the market
+
+rate is.
+
+And right now everything's going straight up.
+
+Nvidia has better telemetry than almost anyone
+
+into the supply and demand of compute.
+
+So they can put that at a very, very smart place,
+
+further make it financiable.
+
+You're risking, you know,
+
+they're only bearing 25% of the risk,
+
+some of the world's smartest underwriters,
+
+you know, in terms of reputation.
+
+What could go wrong, Gavin?
+
+I mentioned mortgage-backed securities, et cetera.
+
+and obviously the lifespan is the key issue here.
+
+The different hyper-scaleers were saying,
+
+hey, four, five, six years, Amazon,
+
+and the big debate happened.
+
+But what we've seen is, to your point,
+
+with the open-source models is they can be tweaked
+
+to run on the oldest hardware,
+
+so maybe we get year six, seven, eight out of these.
+
+That's the two to this?
+
+No, no, we've said that they are renting ampiers
+
+at economically profitable rates
+
+today for
+
+2009.
+
+So an Ampeer that came out in 2020
+
+is going to have a nine-year life.
+
+And I think that's what Nvidia sees.
+
+You know, it's like old American cars,
+
+they get sent overseas.
+
+Like, just the idea that these...
+
+Where could it go wrong?
+
+Here, I'll tell you where it could go wrong in theory.
+
+In theory, just so we're steel manning.
+
+The biggest risk is, to me, is not on the demand side.
+
+The biggest risk is that you get a glut of
+
+compute and you get an overbuild.
+
+And the same way that we had dark fiber after the dot com crash, if you had dark
+
+GPUs, that'd be a disaster for everyone, especially if you built out your compute infrastructure
+
+expecting a spot price of $30 to $50 a lot, as Elon said that they were expecting, right?
+
+So if all of a sudden there are too many people racing to provide this compute and now there's
+
+an oversupply and the market crashes, that would be the risk factor. In a weird way,
+
+all the political headwinds, I think, insure against that outcome. Because it is so hard to build
+
+data centers for all the reason we said, there's a whole moral panic slash hysteria slash hoax
+
+going on that actually it's those political headwinds, I think, will almost guarantee that there's
+
+not an oversupply relative to the exponentially growing demand. So in a weird way, you're protected against
+
+that. But Jake, how could I shift gears for a second?
+
+Absolutely. Tell you what's so brilliant about what Jensen did here.
+
+There's one other part. In return for that, they get a revenue share above that floor.
+
+Who gets the revenue share above the floor?
+
+Yeah.
+
+So they, I think the way I think the deals will work is say we're willing to guarantee offtake
+
+at, you know, nowhere near a $30 or $50 a watt. We're willing to guarantee offtake at a very
+
+low-risk level that with our really high-resolution view of productive capacity and future
+
+model trends, we're comfortable with. And in return, we get some revenue share above probably
+
+a higher level. And Morgan Stanley wrote a great note, I think, two days ago,
+
+Nvidia could become, and these are effectively royalties, these revenue shares,
+
+they could very quickly become a very large cloud with a capital-light business.
+
+Let me tell you why I think what Jensen did was so brilliant.
+
+It's because the numbers are getting so big that the Tam is getting constrained by the ability
+
+to finance this build out.
+
+And what he's doing is alleviating that finance constraint so that he can grow as big as the
+
+the Tam actually is, right?
+
+It's removing that constraint.
+
+So just to take one example, Elon wants to add somewhere around 6 to 8 gigawatts next year.
+
+We know that that would cost three to 400 billion.
+
+dollars of CapEx.
+
+The company just raised $100 billion in its equity and debt offering.
+
+So obviously, they would have to go out and finance that somehow.
+
+And as we talked about on our previous episode, the simplest way to finance it would be
+
+to get seller financing from Nvidia, especially given that the payback period could be
+
+as quick as one year.
+
+So now Jensen is creating the, you could say the line of credit using these big banks,
+
+using these big private equity shops, and he's making that available.
+
+and that's going to now benefit all of these downstream purchasers.
+
+I don't think it's circular.
+
+This is not a circular situation like Gurley's worried about.
+
+This is, I think, Wall Street banks and private equity firms providing financing
+
+based on the expected cash flows that will be delivered from these GPUs.
+
+In some ways, Nvidia is kind of becoming the central bank of AI, the Federal Reserve of AI.
+
+that is like a way to kind of conceptualize what they are doing.
+
+And in the same way, the Federal Reserve, like a lot of monetary policy, it works through private banks.
+
+Here you're going to have, and probably more banks will opt into this, you have private markets who are charging fees, underwriting these deals, and Nvidia is helping to facilitate that.
+
+So I don't think it's really circular financing.
+
+Yeah, I watched that CNBC special as well.
+
+One point that really stuck with me was when the private equity guys said that this was a little bit like what they do for plane financing, where when an airline buys airplanes, they're able to finance it not just based on the credit worthiness of the airline, but rather because the airplanes themselves have value.
+
+And that makes it much easier to finance because you know that even if the airline gets in trouble, you're protected, right?
+
+You have asset back financing.
+
+And that's what they're basically doing here with GPUs.
+
+Now, in order for that to happen,
+
+Nvidia has to standardize.
+
+They have to create essentially reference designs and so forth and so on
+
+so that it can all be standardized enough for these Wall Street guys,
+
+now package it up and securitize it, turn into securities.
+
+And that's basically what they're doing like they do with mortgages.
+
+Yeah.
+
+I'll say there's a reason why I'm not worried about this buildout.
+
+There's two, there's a governor.
+
+like a throttle, Gavin, if you will.
+
+There's a governor on this, which is the physics of the real world that we talked about
+
+in building data centers.
+
+There's also a dead man switch on this, which is, you know, the switch that you have to
+
+hold down to run the train.
+
+But if you have a heart attack, your hand comes off the switch, which is anthropic and
+
+Open AI.
+
+These are the two biggest customers.
+
+One of them has scale back, OpenAI, their ambitions in this regard of their buildout
+
+from like $1.4 trillion to like but $600 billion.
+
+and then there's Anthropic, which we just said,
+
+okay, they're going to go to $400 billion in revenue next year,
+
+something like that, or they'll end the year at that run rate.
+
+If they don't need the compute or compute gets so efficient
+
+or open source models, create a headwind, whatever it is,
+
+they're going to take their hand off the buy button.
+
+And that dead man switch will then slow everything down
+
+so we don't get a mortgage-back security.
+
+Well, that could lead to a car crash.
+
+But actually, this is why I think the Anthropic IPO is really,
+
+important for the market is getting those quarterly earnings and be able to see their numbers
+
+every quarter, I think it'll become probably the most important signal that the entire industry
+
+has. Why? Because you've got all these people out there saying that AI is a bubble, this CAPEX is not
+
+justified, there won't be an R-O-Y, and everyone's going to be looking to Anthropics quarterly earnings
+
+as the PACE car, not just them, it'll be them and Open AI and SpaceX, but you'd have to say that
+
+Anthropic right now is the PACE car. And they're going to be looking to them to
+
+see if the demand signal is there. And if there's a hiccup or a wobble, you know, it'll show up there
+
+first. Yes. If Anthropic slams on the brakes, there'll be a pile up of companies behind it.
+
+Because Anthropic, they're making $100 billion per gigawatt, okay, if compute. That's why they're
+
+able to pay SpaceX, say, $50 billion a gigawatt, you know, spot price for compute. That's why
+
+SpaceX is then able to pay $30 billion to
+
+Nvidia for chips for the buildout.
+
+That's why Nvidia is able to pay TSMC and Micron and SK.
+
+Heinex and all the way down.
+
+It's the entire food chain.
+
+So if there is like a wobble.
+
+If somebody slams on the brakes.
+
+If the pace car slows down, the hole is going to feel it.
+
+But it's still better for those numbers to come out on a quarterly basis.
+
+It's such in a vetted gap compliant way.
+
+So Gavin, as we're sort of.
+
+saying here, there's a kill switch, there's a brake, whatever you want to call it. Is there enough
+
+space? Is there enough distance between the cars to not have a pile up? In other words, if Dario does
+
+slam on the brakes, if there are headwinds, does everybody go slamming into them? Or is there enough
+
+for the entire industry to say, okay, yeah, we're going to go 20% slower. We're going to go 30%
+
+slower. It's very simple. If he's slimming on the brakes because there's not demand, there will be a
+
+pile up. Okay, there's, but there will be a pop. There's, there's, there's, there's,
+
+not enough room between the cars.
+
+Yeah, if it's because of demand.
+
+Now, if Dario's getting passed by SpaceX or Open AI
+
+or an American OpenCover or an American open source champion,
+
+there won't be a pilot.
+
+But I do think the Anthropic S-Wan is going to be really important.
+
+And I think it's going to break a lot of people's brains.
+
+And the reason is, is I think there are a lot of macro and value investors
+
+who are very confidently making these prognostications,
+
+about AI with the assumption that tokens are subsidized.
+
+Anthropic is generating cash.
+
+And like this fact is I would say kind of known in the world.
+
+I've actually never really spoken to Anthropic,
+
+but it just, you know, it feels like there are enough signals
+
+and that if you're to read the tea leaves of what has been said in public,
+
+they're generating cash, they're profitable.
+
+Open source tokens are profitable.
+
+Anthropic is profitable.
+
+Open AI, if they're not generating cash,
+
+they will be imminently.
+
+SpaceX, you know, same thing.
+
+And this, when I hear these macro and value investors who are ignorant,
+
+they're very smart, but they're ignorant of the facts,
+
+and they're making an assumption that tokens are subsidized,
+
+and this is all going to collapse in some circular financing bonfire,
+
+they're just wrong.
+
+The overwhelming majority of tokens are profitable
+
+for everyone in the chain.
+
+Everyone.
+
+And I think the Anthropic S-1 is kind of going to make that clear.
+
+But when I listen to these macro and value investors,
+
+talk about AI.
+
+It's a little bit about me saying,
+
+you know, I'm very bearish on the world economy
+
+because oil's at $500 a barrel.
+
+And you know what?
+
+If oil was at $500 a barrel,
+
+that'd be a good reason to be bearish.
+
+It's just not.
+
+Like they're just wrong.
+
+wrong. Like the simple fact is wrong.
+
+They're paid in some ways to be doom scrollers and merchants of doom. I can tell you,
+
+you know, one framing of this that I've been working on, which is the number of people employed
+
+in the United States, like 150 million, 160 million, what their collective salaries are,
+
+10 trillion, 12 trillion, whatever it winds up being. There is no world in which I don't see
+
+corporations and people in the economy spending five or 10% of the salaries of their employees
+
+on the equivalent in tokens. In other words, somebody makes $80,000 a year on average. You will
+
+spend $8,000, 10% of their salary, or a minimum of $4,000 to make them more efficient. We have
+
+an analogy for this. It's SaaS software and computers on their desktop, mobile phones,
+
+just their general use of technology. If you put those numbers together, you're looking at a trillion
+
+dollars in AI spend just in the United States. It's obviously going to happen. And if I'm wrong
+
+and it's half and it's $500 billion, well, that's kind of where these companies are trending.
+
+And that's not even talking about the rest of the planet. I think we're going to be fine,
+
+folks. All right. Let's, yeah, let's wrap up here. I get two more stories I want to get to.
+
+We'll go lightning round here. Very interesting story coming out of New Jersey and New York around
+
+Amazon. New Jersey's AG has sued Amazon last week. They're arguing the company is cheating basically
+
+by hiring drivers through subcontractors. This has been well known. It's called DSP. This concept of
+
+delivery service partners is a very clever, perhaps too clever, of a way for Amazon to shield themselves
+
+according to these lawsuits that are starting to pile up. Because if an Amazon driver crashes,
+
+there is liability, and it gets you out of some, you know, things you might have to pay for if they were Amazon employees on Monday.
+
+New York City mayor in front of the pods, the Zoron, Mondami, jumped into the fray.
+
+He is throwing his support, and he did one of his big grin socialist, Democratic socialist videos that he's now becoming famous for telling and demanding through municipal laws that will require Amazon to hire the drivers themselves.
+
+quote, corporations like Amazon build billion dollar business models by insulating themselves
+
+from accountability through a system of exploitative subcontracting.
+
+This has been an issue for a long time.
+
+There have been, tragically, a number of deaths because these subcontractors are put under
+
+massive pressure and people get killed, tragically, when they run into people because
+
+of them operating in the real world.
+
+And because the drivers are technically employed by the DSP, Amazon claims, you know,
+
+hey, we're not the employer, so we're not on the hook.
+
+And we don't have to get into union bargaining or labor obligations.
+
+So, Sachs, I'm curious your take on this in terms of the overall surge in people believing
+
+in socialism now and believing that corporations are cheating on the margins.
+
+Is Amazon cheating here?
+
+is this too clever and maybe they need to roll this back? I'm curious your opinion because it's getting
+
+momentum and it's going to be one of the big issues in the midterms and obviously in 2028.
+
+Well, I mean, this is a practice that's widespread. It's not focused on New York. I think Amazon's
+
+been using these networks of independent contractors as drivers for a while. And what they say is that if
+
+you deny them the ability to use these independent contractors, it will raise delivery costs.
+
+And there was a study that showed that the average household could pay hundreds of dollars extra
+
+if you change this.
+
+It would slow down service.
+
+It would put thousands of jobs at risk at small contractor businesses.
+
+And Amazon says that it could lead them to shift operations outside the city.
+
+Also, one thing that this DSP model does is it enables rapid scaling for peaks.
+
+So holiday surges, dense urban routing, lower costs.
+
+It's a much more flexible arrangement than if everyone was just an Amazon employee.
+
+So this is how the market has evolved is I think maybe when they started, Amazon probably was doing everything themselves.
+
+And they started to decentralize it to these networks of small businesses, these contractors.
+
+It actually ends up creating more jobs.
+
+It creates more entrepreneurship.
+
+I think these DSPs employ thousands of people in New York City.
+
+those jobs to be threatened if you basically made them illegal.
+
+So I think this is a case where they should just let, Sacks.
+
+Where do you stand on?
+
+I would just let freedom of contract and volunteer exchange prevail here.
+
+And look, this market structure evolved for a reason.
+
+The workers liked it.
+
+The DSP owners liked it.
+
+Amazon liked it.
+
+These are mutually beneficial arrangements.
+
+I don't see the reason why MAMDani has to insert the city in the middle of this.
+
+What I do?
+
+What do I would do if I was Amazon, and I'm sure they will not do this, I would just put a surcharge,
+
+hey, this is the momdani. This is the Zoran Mamdani fee that is being imposed on you.
+
+Loads of people use Amazon, not just wealthy people in New York. Lots of people use Amazon.
+
+And this is the Zoran mom donnie fee as a result of this ill-advised policy. I would have it as a line item.
+
+in every bill.
+
+Because that's what it's going to result in.
+
+When you compare Amazon's service to anything government provides,
+
+it's insane how efficient Amazon is.
+
+You order your thing and it can be there the same day or at worst,
+
+it gets delivered to you the next day.
+
+It's unbelievable how amazing Amazon service is.
+
+It's optimized for low prices for consumers.
+
+And we're going to basically get in the middle of that and have the government
+
+get in the middle of Amazon's driver network.
+
+what city service does MAMDani provide that remotely is as efficient as what Amazon does,
+
+that he now is going to tell them how to run their business? It's insane.
+
+If you look at what Starbucks did when Schultz was running it, he gave people a job worth having.
+
+And he took pride in taking the lowest paid people in the organization and giving them a living wage.
+
+and that living wage is somewhere around $20, $22,
+
+bucks in these cities.
+
+These DSP drivers are actually paid quite well,
+
+$18, $19, $20.
+
+But this was not created in the free market,
+
+as you're sort of saying, SACS,
+
+and it was just what everybody wanted.
+
+No, this was created explicitly
+
+to benefit Amazon and to take the burden
+
+of these employees and put it onto the American taxpayer.
+
+And they are getting called out on it,
+
+rightfully so by New Jersey and New York. And I believe, you know, and I'm a long-term Amazon customer.
+
+I've been, you know, a prime subscriber since the beginning. It would be a de minimis cost for them to
+
+make these employees, full-time employees, and you'd still have some DSPs to scale up and down,
+
+sure. But this is an opportunity for them to make those frontline workers part of the Amazon family.
+
+It would cost but 25 cents her delivery in New York to move them from the same.
+
+$18, $19 an hour to give them a slightly higher pay raise, maybe $21, $22, and give them benefits.
+
+This is an easy thing to do.
+
+And what our industry, what our industry has a crazy blind spot for is that they look for
+
+efficiencies, and Amazon is the most efficient company in the world, to the point of it
+
+being abusive to the most vulnerable members of our society, and for being against the espreed
+
+a corpse of capitalism. And this is a level of capitalism that needs to be self-corrected for.
+
+And I think the government's going to have very valid arguments here. I think it would be
+
+amazing for Amazon to get ahead of this because this will be what the Democratic Socialists,
+
+also known as Socialist Communists in my mind, this is a very valid argument that will sell
+
+with Americans who believe that this group of people is being taken advantage of and that we can
+
+easily afford to pay 25 cents more per package delivery. Yeah, Saks, you're right. It might add $100.
+
+Well, why have Uber do that too then, J-Cal? Absolutely. Uber has. Because Uber was basically
+
+castigated for the exact same thing, using independent contractors instead of making them full-fledged
+
+employees. It's actually make a great point about Uber. And this would be the equivalent of if
+
+Uber had three or four thousand people representing their drivers and they had no exposure.
+
+Uber actually has massive insurance exposure, massive lawsuits that they have to contend with for what those drivers do.
+
+So it's distinctly different and they've gone through this.
+
+I'm not a proponent of socialism, but I do think that there's an opportunity for Amazon, which is going to be automating along the way to just take a little bit of a haircut on their amazing business, but then be on the right side of history and not.
+
+take their employees, benefits, unemployment, food stamps, and health insurance, and give that to the
+
+public to do. And these socialists are going to point this out in the next two election cycles
+
+to the point of absurdity. And it's going to play. Socialism is playing. Socialism is making
+
+inroads and it's infecting people's brains. And it's up to capitalists to say, you know what,
+
+we don't need to be as cutthroat and don't need to be as clever. So that's my message.
+
+As a long-term shareholder in Amazon, I have a very big position in Amazon, and I keep increasing
+
+it every year. They should do the right thing here and get ahead of this so that they can say,
+
+hey, we are an incredible employer as opposed to, hey, we really are trying to hide and move
+
+these expenses around. That's my only point on it. Not a socialist, not a cuck, not interested
+
+in, you know, messing with capitalism. I think they got a little too clever here. That's my only
+
+point. And I think they should do the right thing here and treat those, the most vulnerable employees
+
+in the lowest-paid ones. What's that? Now, I know why you put this on the docket so you can get on
+
+your soapbox. Well, no, no, I put it on the docket because it's one of the top news stories.
+
+And I put it on the docket because we talk about socialism every week and we talk about all the
+
+virtues of capitalism. And there are downsides to capitalism where we can get too clever and then try to
+
+take expenses. I think we spent too much time on this. But let me ask you a question.
+
+You said that you want Amazon to employ all these drivers. By the way,
+
+Not all of them.
+
+I think they should employ a bunch of them.
+
+I know.
+
+You said you wanted a bunch to still remain with the DSPs.
+
+So how do you decide which is which?
+
+I think they could proactively do that.
+
+It's a great question.
+
+Andy Jassy could proactively decide just like Schultz did.
+
+Donnie wants to get rid of the DSPs.
+
+He wants to make them all employees.
+
+And I think there's a compromise here, which is there are DSPs to scale up when there's demand during the holidays.
+
+Seems like a great idea.
+
+But I think he should get ahead of it.
+
+But as soon as you acknowledge that the DSPs are better,
+
+because there are more flexible working arrangements that people want.
+
+Why are you meddling in this arrangement to begin with?
+
+That's actually not true.
+
+The people who work in the DSPs, the DSPs themselves,
+
+the people who own those fragmented, very small companies
+
+that go out of business the second they get in an accident to shield Amazon.
+
+Those employees would very much like to have Amazon equity.
+
+They would love to get RSUs and they would love to get health care and benefits.
+
+Some of those drivers, they work for Uber a lot of the time.
+
+I actually can.
+
+They toggle back and forth between being a driver for Amazon.
+
+being a driver for Uber.
+
+They like the flexible working arrangements.
+
+You're actually misinformed here.
+
+You're incorrect.
+
+These are people who are working full shifts.
+
+They're working eight to 12-hour shifts.
+
+I think it's actually 10 to 12-hour shifts.
+
+I don't think you can speak for all these workers.
+
+You can speak for them if you,
+
+they can speak for themselves and they are organizing.
+
+And Amazon has been trying to break the organization efforts
+
+when they try to unionize.
+
+And this is a tool for breaking that by forcing them to be part of the DSP.
+
+That's the game on the field sacks.
+
+Well, you already acknowledge that you think the DSPs should stick around.
+
+I think a portion of them should do that.
+
+And I think Andy Jassy and the team at Amazon should get ahead of this because it's a bad look.
+
+It's not in the best interest of capitalism to be this cut through.
+
+I think he should do it proactively.
+
+I don't think he should be forced to do it.
+
+That's my personal belief.
+
+The same way, Schultz said, there's an opportunity here to make baristas, have a living wage, and have benefits.
+
+And it was one of the best things Starbucks ever did.
+
+And it's really what capitalism should start thinking about.
+
+What is our role? What is our role in driving the move to socialism amongst young people?
+
+And this is an example of one of the reasons people are starting to believe in socialism.
+
+It's because they believe that companies like Amazon are cheating a little bit on the margins
+
+and maybe trying to take the expenses that they should incur and put them on the American taxpayer.
+
+And you know what?
+
+Mondami and New Jersey are going to win these lawsuits.
+
+I predicted now.
+
+Well, look, J-Cal, that all sounds really nice.
+
+and I want to save capitalism as much as you do.
+
+And if Amazon doing that would really save capitalism, then I guess I'm game for it.
+
+But I'm not sure it will.
+
+What we do know it will do is raise the cost of packages by about $5.20 per package.
+
+And it will cost families $664 more per year.
+
+And it puts something like 5,000 jobs at risk.
+
+So there are real costs in terms of doing things the way that you're saying.
+
+When people are wearing their hat as voters, yeah, they fall for the socialism stuff.
+
+but then when they're consumers, when they're wearing their consumer hat, they just want to pay less for packages.
+
+They will hate the fact that packages cost $5 more.
+
+And like Gavin said, they should put the Mamdani surcharge on their orders.
+
+And it's not $25.
+
+It's $5.5.20 per package, $664 per household per year in New York.
+
+That's crazy.
+
+That's a real cost.
+
+Talk about cost of living adjustment.
+
+That's a huge cost of living adjustment.
+
+Jake has had internet issues and we're just moving on.
+
+Gavin, last issue, what did you think of GROC bot?
+
+What did you think of the releases that XAI made this week?
+
+I guess it was GROC bot and then also it was GROC 4.6, right?
+
+And people were saying that it is close to the frontier or at the frontier, but a lot cheaper.
+
+So I've been maintaining, as of even last week, that we were down to a frontier lab duopoly with Anthropic and Open AI.
+
+Was I wrong about that?
+
+Is this number three?
+
+Is it more flexible and fluid than I thought?
+
+Yeah, I think it is.
+
+I mean, I think it's, can we show up,
+
+show that graph of the Pareto Frontier?
+
+This is pretty wild.
+
+Now, on the left,
+
+what this shows is kind of like quality or intelligence on the Y axis
+
+and cost on the on the X axis.
+
+So you want to be in the upper right quadrant.
+
+And you can see or you just want to be on the outside.
+
+of this and you can just see like how disruptive groc 4.6 is pricing right so as you
+
+have you moved right on the x-axis it's getting cheaper it's
+
+getting cheaper and the y-axis is the capability and it's getting more and more capable as you
+
+move up exactly they invert the x-axis so that as you move to the top right
+
+exactly and i mean this is now and this is on cursor bench and x-a-i you know space x-x is
+
+you know, almost certain, you know, they have a right to acquire cursor,
+
+they're working with cursor, so maybe this is grading your own homework.
+
+Well, right here on the right, this is from Databricks,
+
+which just raised money at $190 billion.
+
+This is a very real company that is very sophisticated,
+
+and you can see, like, even on this, you're well ahead of Fable 5,
+
+which, you know, I think most people would kind of agree is the –
+
+you know, the gold standard.
+
+Like, this is your higher quality,
+
+that's a slightly lower price.
+
+So I think GROC 4.6 is, you know,
+
+the numbers are the numbers, you know, on X,
+
+I think we put it down.
+
+People, you know, we do have to wait and see the vibes.
+
+But I think it's pretty interesting.
+
+DHS, who I think created Ruby on Rails.
+
+David Hanmeyer-Hanson.
+
+Yeah, he posted something really positive.
+
+Base camp, base camp.
+
+The DHAs, David Hanmeyer.
+
+37 signals, great.
+
+37 signals, base camp, yes.
+
+He posted something really positive.
+
+You saw the data breaks evaluation.
+
+You saw our Merckor evaluation.
+
+And I think the early vibes are really good in these benchmark scores are bearing out in the real world.
+
+Elon has caught up, in other words.
+
+And if you were to attribute why he's caught up, it would really be two reasons.
+
+Number one, he bought Cursor, he's got that team.
+
+They're a dialed-in team.
+
+Number two, he reshuffled the management of X-A-I and brought in his killers from SpaceX.
+
+Yeah, Gavin, those are the two races.
+
+He brought in, you know, he brought in, you know, the SpaceX Aces, along with the Cursar Aces and some new people.
+
+And he did that in six short months, Gavin.
+
+Never count Elon out.
+
+He's frequently late.
+
+he's never wrong
+
+and he tends to over-deliver when it does come.
+
+And that's to his own admission.
+
+He's like, I'm always late,
+
+but we get it right eventually.
+
+Yeah.
+
+Absolutely.
+
+And this is still a relatively small model.
+
+It's 1.5 trillion parameter models.
+
+A larger model, GROC 4.7,
+
+that should be significantly more capable,
+
+is coming out in a few short weeks.
+
+Grock bot is also seems just as important.
+
+It feels kind of like another open-cloth
+
+moment for AI, for this kind of personalization of AI, of making it democratizing AI,
+
+making it easy.
+
+The same thing that Zuckerberg said in his manifesto, he wants to create thoughts for everybody.
+
+And that's what Claude co-work and Claude tag, both do exception well, as well as Ermi's
+
+perplexing computer and open clock.
+
+I'm just going to admit for me, some of those are like, and I try to be very technical, but
+
+like rock thoughts.
+
+Too hard to use.
+
+Not too hard to use, but it feels much.
+
+much easier to use for other people and not coders.
+
+No, no, Grogh is much easier to use.
+
+OpenClaw and Hermes, you need to be.
+
+Hermes.
+
+Hermes.
+
+Are you buying a scarf?
+
+Yeah, that's what I called them.
+
+They're just like the pre-da.
+
+That's very funny.
+
+If you've ever had that channel, it's like that.
+
+Sachs, like you're, our wives order some channel once in a while and they
+
+brink birth us.
+
+It is pretty amazing that in six months they caught up.
+
+But Sachs, this creates attention.
+
+Yeah.
+
+This does create a little tension.
+
+He's hosting Anthropic.
+
+He's catching up.
+
+up to Anthropic. What do you think about that tension here that he's there, Amazon Web Services,
+
+Elon Web Services at the same time as competing with them increasingly? What I love about it is
+
+that he's creating these huge compute clusters, right? And that gives him the ability to train a big
+
+model, a big potentially frontier model. So you can think of that. It's like the call option is to
+
+catch up and become a true frontier lab. But if he fails at that, he's got the put option of just
+
+selling the compute at a spot at, you know, pretty attractive prices to the frontier labs.
+
+And he has the right sacks to take that compute back from Anthropic.
+
+He put that clause, according to reports, into the Anthropic deal.
+
+So he could take back compute if he wants to.
+
+Right.
+
+Both sides have a 90-day cancellation, which means that if the spot price of compute goes up,
+
+he benefits.
+
+If it goes down, by the way, it could hurt him because either side could renegotiate within 90 days, right?
+
+So basically, Elon is able to charge spot minus 90.
+
+So that's the risk.
+
+But it all goes back to what we were talking about before, which is, do you think that
+
+compute will be supply constrained going into next year and the year after?
+
+And if so, that's a very advantageous dynamic for Elon because, again, he's very close
+
+to charging true spot for his compute.
+
+But he can also essentially rerout it to his own service if he's able to take the lead.
+
+Yeah, and just...
+
+Can I say what's interesting?
+
+Sorry, sorry to interrupt, but...
+
+I talked to a lot of investors about SpaceX, okay?
+
+Yeah.
+
+And what's just amazing to me is everyone will have a nuanced view on Starlink.
+
+Maybe they're a skeptical...
+
+Maybe they're a skeptic on Starlink direct-to-sell.
+
+I think the plan to use kind of these distributed Starlink effectively almost...
+
+You know, we'll call them small cells, femto-cells, is interesting.
+
+Everybody will have a nuanced view on orbital compute.
+
+Whether they're bullish or bearish.
+
+they will have a view.
+
+They'll have a view on terrestrial compute.
+
+Very few of these investors talk about GROC at all.
+
+And it is per rato dominant on a lot of measures.
+
+And we have an existence proof that Anthropic went from whatever it is,
+
+a billion to 50 billion, really fast.
+
+And if Anthropic is worth, you know, with two trillion per the F3T,
+
+you know, three or four trillion, you know,
+
+according to yourself on a previous episode.
+
+I'll settle out.
+
+I said I thought that was a market clearing price.
+
+I didn't say that's where I thought it was worth.
+
+You know, maybe people should start to consider Brock when they think about SpaceX.
+
+SpaceX has so many ways to win, and I think that's the higher a bit here is.
+
+And we're obviously all talking our book here.
+
+The folks on this podcast are amongst the earliest investors in SpaceX.
+
+I was part of leading, a small part of leading.
+
+the second round of $10 billion.
+
+Hey, there's one thing that broke during the show
+
+that we should for sure talk about,
+
+and that's at Silver Lake maybe buying workday.
+
+Workday's up 17%.
+
+And if this is true, this is, I think, a significant moment
+
+for the stock market.
+
+Software has been in a death spiral
+
+that really kind of has started,
+
+you know, that probably, you know,
+
+troughed maybe three, four months ago,
+
+but it was in a tough spot for 12, 15, 18 months.
+
+And the return of a private equity bid
+
+for software really changes the investing landscape.
+
+And I don't know what the potential buyers of Workday are thinking,
+
+but I do know that the rise of Open Source
+
+and the increasing competitiveness of Open Source
+
+is a godsend for the American software industry.
+
+It is an absolute godsend.
+
+Yeah, if you want to throw up a chart of workday,
+
+you know, like a five-year chart, you can just see it.
+
+but a world where you have one,
+
+two, or three dominant frontier models,
+
+I mean, you can just see the stock went from,
+
+yeah, we'll call it 300 straight down to 100,
+
+you know, in really short period of time.
+
+And even with this bid, you've only recovered a little bit.
+
+But a world where anthropic, open AI,
+
+and, you know, maybe even SpaceX are kind of the only model providers
+
+that dominate the model layer.
+
+That is a hard world for software.
+
+If I were to guess why the private equity bid for software might be coming back,
+
+it's because they see what's happening with open source.
+
+Pretty amazing.
+
+And that is the backstop, isn't it, Sacks?
+
+We've talked about this.
+
+If nobody in the public markets wants to own these companies,
+
+and private equity sees away, we talked about bending spoons, I think, last week, a whole bunch.
+
+There is now, I think, I don't want to call them bottom feeders,
+
+but what would you call them, Gavin?
+
+and like, you know, sharp acquirers of money printing businesses that want to extract even more
+
+revenue from it.
+
+Yes, Axe?
+
+This is a good turn of events that there is a buyer for these companies.
+
+Absolutely.
+
+I mean, what Silver Lake is saying, they've been oversold.
+
+They've been oversold, yeah.
+
+And so here where they go.
+
+There must be some value in that.
+
+And if you use AI to run these, I think that was the thing bending spoons is doing really well.
+
+They get rid of 80% of the employees and then put the 20% who are left as
+
+AI first employees and they figure out how to get all of this incredible revenue.
+
+There's your breaking news.
+
+Gavin Baker.
+
+Amazing.
+
+Tied right now.
+
+Just so you know, I looked at the metrics before we got on today.
+
+You're now tied with Brad Gersner in terms of ratings.
+
+You and Brad Gerser are neck and neck and tied for fifth bestie, which means one of you
+
+will drop to sixth bestie if this continues.
+
+And we'll see.
+
+Brad Gerser may be on next week.
+
+So we'll see which best he takes the fifth slot.
+
+David Sacks, great to see you.
+
+Hey, maybe we get a year round later.
+
+Maybe we can get a steak.
+
+I want to get a steak later?
+
+I got Thursday night off here.
+
+I got a hall past tonight.
+
+Oh, okay.
+
+All right.
+
+Maybe we can go get a steak.
+
+This has been an amazing episode of the All In podcast for August 14th.
+
+I'll see you next time.
+
+Bye-bye.
+
+Brain man, David Sachs.
+
+Open source it to the fans and they've just gone crazy with it.
+
+Love you.
+
+The queen of kinlam.

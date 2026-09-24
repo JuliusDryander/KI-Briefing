@@ -2,81 +2,92 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| Legal AI & Margen | Das Legal-AI-Unternehmen Harvey erlebte einen drastischen Rückgang der Bruttomargen von 50% auf -50% im Juni 2026, da die Token-Nutzung durch die Einführung von Reasoning- und Agenten-Funktionen um das 20-fache anstieg, konnte diese aber durch Modelloptimierung und Post-Training schnell wieder ins Positive drehen. | John, Jordy, Gabe (Harvey), Max (Lagora) | TBPN |
-| KI-Agenten & Handel | Meta testet menschliche Concierges für seinen persönlichen KI-Assistenten Muse, was auf eine Strategie zur Datensammlung für zukünftige Modellverbesserungen hindeutet, während Amazon seine Logistik- und Werbe-Dominanz nutzt, um Agenten-Integrationen zu widerstehen, und Shopify sich durch Shop Pay als Partner positioniert. | John, Jordy, Ben Thompson, Alex Wang, Nikesha Rora, Stryan | TBPN |
-| Spezialisierte KI-Daten | Snorkel AI, das $350 Millionen eingesammelt hat, konzentriert sich auf "Data 2.0", bei dem es nicht mehr um das Volumen, sondern um die Präzision und Qualität von spezialisierten Daten für fortgeschrittene KI-Modelle geht, da Modelle immer besser werden und der Bedarf an menschlicher Expertise für schwierige Datenpunkte steigt. | Alex Ratner | TBPN |
+| Regulierungs- und Wirtschaftskrise | Kalifornien leidet unter einer tiefgreifenden Regulierungs- und Wirtschaftskrise, die durch 16 Jahre Einparteienherrschaft und überbordende Bürokratie verursacht wurde, was zu den landesweit höchsten Armuts- und Arbeitslosenquoten sowie einer massiven Abwanderung von Unternehmen und Bürgern führt. | Steve Hilton (candidate for governor of California) | All-In |
+| Wirtschaftspolitische Vorschläge | Steve Hilton schlägt drastische Maßnahmen zur Revitalisierung der Wirtschaft Kaliforniens vor, darunter massive Budgetkürzungen, eine Senkung der Einkommensteuer und eine Neuausrichtung der Energiepolitik, um die Lebenshaltungskosten zu senken und die Wettbewerbsfähigkeit zu verbessern. | Steve Hilton (candidate for governor of California) | All-In |
+| "Ressourcenfluch" und unausgewogene Wirtschaft | Die Diskussion legt nahe, dass Kaliforniens scheinbarer wirtschaftlicher Erfolg als viertgrößte Wirtschaft der Welt durch einen "Ressourcenfluch" des Silicon Valley verschleiert wird, dessen Reichtum eine schlechte Regierungsführung maskiert und zu einer unausgewogenen Wirtschaft mit geringer privater Arbeitsplatzschaffung führt. | David Sacks (host/bestie), Steve Hilton (candidate for governor of California) | All-In |
+| Versagen der lokalen Verwaltung | Spencer Pratt kritisiert die lokale Verwaltung in Kalifornien scharf für Inkompetenz und Korruption, die zu verheerenden Bränden durch vernachlässigte Infrastruktur und zur Zerstörung kleiner Unternehmen durch die Legalisierung und Förderung illegaler Straßenverkäufer führt. | Spencer Pratt (media entrepreneur) | All-In |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## ⚖️ Legal AI: Harveys Margen-Achterbahnfahrt
+## 📉 Regulierungs- und Wirtschaftskrise in Kalifornien
 
-John und Jordy diskutieren den Bloomberg-Bericht über das Legal-AI-Unternehmen Harvey, dessen Bruttomargen im Juni 2026 von 50% auf negative 50% fielen. Dieser Rückgang war auf eine 20-fache Zunahme des Token-Verbrauchs zurückzuführen, da die Einführung von Reasoning- und Agenten-Funktionen die Nutzung pro "Sitz" drastisch erhöhte. Harvey reagierte schnell mit Modelloptimierung, Routing-Verbesserungen und dem Post-Training eines Open-Weight-Modells namens Harvey Tenet, wodurch die Margen innerhalb eines Quartals wieder ins Positive gedreht werden konnten.
-
-**Konkrete Details aus dem Gespräch:**
-- Harveys Bruttomarge fiel im Juni 2026 von 50% auf -50% (Bloomberg-Bericht).
-- Der Token-Verbrauch stieg um das 20-fache, angetrieben durch Reasoning- und Agenten-Funktionen.
-- Das Unternehmen hatte eine sitzbasierte Preisgestaltung, die bei stark erhöhter Nutzung zu Margenproblemen führte.
-- Harvey ist durch Modelloptimierung und Post-Training eines Open-Weight-Modells (Harvey Tenet) wieder bei positiven Bruttomargen.
-- Der jährliche Umsatz (ARR) liegt bei einer Run Rate von $400 Millionen, was einem monatlichen Umsatz von $33 Millionen entspricht.
-- Der Verlust von $16 Millionen im Juni wurde angesichts der $500 Millionen Kapitalaufnahme nicht als Krise betrachtet.
-- Vergleichsunternehmen wie Disco (E-Discovery) erreichen 75% Bruttomargen, und Thompson Reuters (Legal Professionals Software) erzielt fast 50% bereinigte EBITDA-Margen.
-
-**🇪🇺 Europa-Relevanz:**
-- Ab August 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein – Harveys Erfahrungen mit der Kostenexplosion bei Token-Nutzung und der Notwendigkeit von Post-Training könnten die Entwicklung EU-konformer Legal-AI-Lösungen verteuern.
-- Die Nutzung von Anthropic-Modellen durch Harvey ist relevant, da Anthropic zu den 26 Anbietern gehört, die den GPAI Code of Practice unterzeichnet haben, dessen Transparenzpflichten ab August 2025 in Kraft treten.
-- Der Digital Omnibus, der die High-Risk-Deadline um bis zu 16 Monate verschieben könnte (Backstop: Dez 2027), bietet europäischen Anbietern möglicherweise mehr Zeit, um ihre Modelle zu optimieren und gleichzeitig die hohen Standards des AI Act zu erfüllen.
-
-## 🤖 KI-Agenten: Der Kampf um die Kundenschnittstelle
-
-John, Jordy und Ben Thompson diskutieren die aufkommende Ära der KI-Agenten und den "Agentic Commerce". Meta testet menschliche Concierges für seinen persönlichen KI-Assistenten Muse, um komplexe Anfragen zu bearbeiten und gleichzeitig Trainingsdaten zu generieren, da Muse nicht auf Nutzerdaten trainiert. Amazon widersteht der Integration von Agenten in seine Kernprozesse und nutzt seine Logistik- und Werbedominanz, um die Kontrolle über die Kundenschnittstelle zu behalten. Shopify positioniert sich als Partner für Agenten-Integrationen, jedoch nur über Shop Pay, um die Wertschöpfung zu sichern. Die Diskussion beleuchtet die Herausforderungen und Chancen für Unternehmen, die sich an die veränderten Konsumentenverhaltensweisen anpassen müssen.
+Steve Hilton (candidate for governor of California) beschreibt Kalifornien als einen Staat in einer tiefgreifenden Regulierungs- und Wirtschaftskrise. Er führt dies auf 16 Jahre Einparteienherrschaft zurück, die eine "insuläre, selbstbezogene Elite" geschaffen habe, welche die Verantwortung für die Bürger vergessen und sich stattdessen auf Ideologie und die Interessen von Lobbygruppen konzentriere. Dies habe zu einer überbordenden Bürokratie und einer massiven Abwanderung von Unternehmen und Einwohnern geführt.
 
 **Konkrete Details aus dem Gespräch:**
-- Meta testet menschliche Concierges für Muse, die Anrufe von digitalen Agenten bearbeiten, um komplexe Aufgaben zu lösen und Trainingsdaten zu generieren.
-- Muse trainiert nicht auf Nutzerdaten, was die Akzeptanz bei datenschutzsensiblen Nutzern erhöhen könnte.
-- Amazon lehnte die direkte Integration mit OpenAIs Checkout-Prozess ab und integriert stattdessen Anzeigen in ChatGPT, um Käufe auf seiner Plattform zu fördern.
-- Ben Thompson sieht Amazon aufgrund seiner Logistik, Infrastruktur und des "letzten Schritts in der realen Welt" als den stärksten Hyperscaler in der KI-Ära.
-- Shopify integriert mit Muse, aber nur über Shop Pay, um die Wertschöpfung für Händler und die Plattform zu sichern.
-- Eine frühere Integration von ChatGPT mit Walmart führte zu einem Drittel niedrigeren Konversionsraten und kleineren Warenkörben.
-- Amazon's E-Commerce-Geschäft ist ohne seine Werbeeinnahmen (über $70 Milliarden in den letzten 12 Monaten) unprofitabel.
-- Stryan warnt, dass Unternehmen, die sich nicht an die durch Agenten veränderte "Reibung" anpassen, zurückfallen werden, da Agenten ungenutzte Flugmeilen, Loyalitätspunkte oder Versicherungsleistungen einfordern.
+- Kalifornien hat die höchste Armutsrate, die höchste Arbeitslosenquote und die höchsten Lebenshaltungskosten im Land.
+- Seit über einem Jahrzehnt wird Kalifornien im jährlichen Ranking des Chief Executive Magazine auf Platz 50 von 50 für das Geschäftsklima eingestuft.
+- Die Macht von Spendern, Gewerkschaften und Prozessanwälten führe zu einem der korruptesten Systeme des Landes.
+- Unternehmen in Kalifornien haben eine 90%ige Wahrscheinlichkeit, in Rechtsstreitigkeiten zu enden.
+- Im letzten Jahr wurden 1.118 Gesetzesentwürfe verabschiedet, die die regulatorische Belastung erhöhen.
+- Der Staat hat über 420.000 Vorschriften, die Hilton bis zum Ende seiner ersten Amtszeit auf unter 200.000 reduzieren will.
 
 **🇪🇺 Europa-Relevanz:**
-- Metas Ansatz, menschliche Concierges zur Datensammlung für Muse einzusetzen, könnte unter den strengen EU-Datenschutzbestimmungen der GDPR und den Transparenzpflichten des AI Act (GPAI Code of Practice ab Aug 2025) genau geprüft werden.
-- Die "Agentic Commerce"-Diskussion unterstreicht die Notwendigkeit einer starken Kapitalmarktunion (CMU) in der EU, um eigene Plattformen und Logistikinfrastrukturen zu finanzieren, die mit US-Giganten wie Amazon konkurrieren können (EU VC-Volumen bei ~30% des US-Niveaus).
-- Der Deutschlandfonds mobilisiert bis zu €130 Mrd. für private Investitionen in DeepTech und KI, was europäischen Startups helfen könnte, im Wettbewerb um Agenten-Technologien und -Anwendungen zu bestehen.
-- Die "entschlossene Vereinfachung" der Finanzregulierung durch die Merz-Regierung könnte die Entwicklung innovativer Finanzprodukte für KI-Agenten erleichtern, um mit den schnellen US-Entwicklungen Schritt zu halten.
+- Ab Aug 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein – Kaliforniens über 420.000 Vorschriften zeigen, wie eine überbordende Regulierung die Wirtschaft lähmen kann, ein Risiko für die EU bei der Umsetzung des AI Act.
+- EVP Henna Virkkunen betont die Notwendigkeit, "doing business in Europe easier" zu machen; der Digital Fitness Check (Konsultation bis 11. März 2026) prüft die Wechselwirkung aller EU-Digitalgesetze, um eine ähnliche "Bloat"-Situation wie in Kalifornien zu vermeiden.
+- Die EU hat Bußgelder bis €35 Mio. / 7% Umsatz für Verstöße gegen den AI Act festgelegt; Kaliforniens hohes Litigation Risk (90% Chance auf Klage für Startups) könnte ein warnendes Beispiel für die EU sein, wie regulatorische Komplexität die Rechtsunsicherheit erhöht.
 
-## 🧠 Spezialisierte KI-Daten: Der Wandel zu "Data 2.0"
+## 💰 Wirtschaftspolitische Vorschläge zur Trendwende
 
-Alex Ratner von Snorkel AI, dessen Unternehmen $350 Millionen eingesammelt hat, erklärt den Wandel in der Datenstrategie für KI-Modelle. Er spricht von "Data 2.0", einem Paradigmenwechsel weg von der reinen Datenmenge hin zu Präzision und Qualität spezialisierter Daten. Da KI-Modelle immer leistungsfähiger werden, ist es entscheidend, die "richtigen Daten" zu finden, die spezifische Wissenslücken schließen oder Fehlausrichtungen korrigieren. Menschliche Expertise bleibt dabei unerlässlich, insbesondere für die Erstellung von "schwierigen Daten" in komplexen Bereichen wie Coding oder Mathematik, wo Modelle noch nicht vollständig autonom sind. Snorkel AI sieht sich als "RSI engine for data", die menschliche Experten durch KI beschleunigt und deren Feedback zur Verbesserung der spezialisierten KI-Modelle nutzt.
+Steve Hilton (candidate for governor of California) präsentiert konkrete wirtschaftspolitische Vorschläge, um die Abwärtsspirale Kaliforniens zu stoppen. Seine Strategie konzentriert sich auf eine drastische Reduzierung der Staatsausgaben und Bürokratie, um die Steuerlast für die Bürger zu senken und die Energiepreise zu stabilisieren.
 
 **Konkrete Details aus dem Gespräch:**
-- Snorkel AI hat $350 Millionen in einer Finanzierungsrunde eingesammelt.
-- Der Fokus liegt auf "Data 2.0": Präzision und Qualität spezialisierter Daten statt reinem Volumen.
-- Modelle sind bereits sehr gut, benötigen aber "die richtigen Daten", um spezifische Wissenslücken oder Fehlausrichtungen zu adressieren.
-- Menschliche Expertise ist weiterhin entscheidend, insbesondere für die Erstellung "schwieriger Daten" in komplexen Bereichen wie Coding oder Mathematik.
-- Alex Ratner ist skeptisch gegenüber einer rein "sci-fi"-Version der rekursiven Selbstverbesserung (RSI), die menschliche Beiträge ausschließt.
-- Er ist jedoch "bullish" auf RSI, die menschliche Expertise, reale Inputs und die Überwindung von Compute-, Energie- und Datenengpässen beinhaltet.
-- Snorkel AI bezeichnet seine Plattform als "RSI engine for data", da sie Menschen durch KI beschleunigt und deren Feedback zur Verbesserung der spezialisierten KI-Modelle nutzt.
+- Das Budget des Staates Kalifornien hat sich in den letzten 10 Jahren verdoppelt, während 2 Millionen Menschen den Staat verlassen haben und sich die Lage verschlechtert hat.
+- Hilton plant, den Hochgeschwindigkeitszug zu streichen, einen Personalabbau von 10% in der Regierung durchzuführen und 5% Effizienzsteigerungen zu erzielen.
+- Die Finanzierung von Non-Profits, die die Obdachlosigkeit verschlimmern, soll eingestellt werden.
+- Die staatliche Einkommensteuer soll für die ersten 150.000 Dollar Einkommen abgeschafft werden, um Tausende von Dollar in die Taschen der arbeitenden Bevölkerung zu bringen.
+- Eine "sinnvolle Energiepolitik" soll eingeführt werden, die kalifornische Energieressourcen nutzt und veraltete Vorschriften sowie versteckte Steuern auf Benzin abschafft, um die Benzinpreise von 6 Dollar auf 3 Dollar zu senken.
+- Das DMV soll abgeschafft und die Fahrzeugregistrierungsgebühr auf eine Pauschale von 73 Dollar pro Fahrzeug und Jahr gedeckelt werden.
 
 **🇪🇺 Europa-Relevanz:**
-- Europas InvestAI-Initiative mobilisiert €200 Mrd. für KI, darunter €20 Mrd. für 4-5 KI-Gigafactories mit bis zu 100.000 Next-Gen-AI-Chips, um die notwendige Rechenleistung und Datenverarbeitungskapazität für "Data 2.0" zu schaffen.
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA, was die Fähigkeit zur Verarbeitung und Generierung spezialisierter Daten beeinträchtigen könnte.
-- Das €11 Mrd. Rechenzentrum Lübbenau von Schwarz Digits, das bis Ende 2027 bis zu 100.000 GPUs beherbergen soll, ist ein konkretes Beispiel für europäische Anstrengungen, die Infrastruktur für "Data 2.0" aufzubauen.
-- Das EFI-Gutachten 2026 empfiehlt "Europäisch denken statt nationaler Kleinstaaterei" für die KI-Entwicklung, um die Fragmentierung der Daten- und Talentlandschaft zu überwinden und die für "Data 2.0" notwendige Expertise zu bündeln.
+- Die von Steve Hilton vorgeschlagene Senkung der Einkommensteuer für die ersten 150.000 Dollar könnte als Modell für EU-Staaten dienen, die mit Brain Drain und hoher Steuerlast kämpfen, um KI-Talente und Unternehmen anzuziehen.
+- Hiltons Forderung nach einer "sinnvollen Energiepolitik" zur Senkung der Gaspreise von $6 auf $3 spiegelt die EU-Debatte über hohe Energiepreise wider; Deutschland hat die höchsten Industriestrompreise in Europa, und die Merz-Regierung senkt Netzentgelte und Stromsteuer, um die Wettbewerbsfähigkeit zu verbessern.
+- Die EU mobilisiert €200 Mrd. für KI (InvestAI), davon €50 Mrd. öffentliche Mittel, mit dem Ziel, privates Kapital zu hebeln; Hiltons Plan, den Staatshaushalt zu kürzen und Bürokratie abzubauen, könnte als Ansatz dienen, um öffentliche Mittel effizienter einzusetzen und private Investitionen anzuziehen.
+
+## 💸 "Ressourcenfluch" und unausgewogene Wirtschaft
+
+David Sacks (host/bestie) und Steve Hilton (candidate for governor of California) diskutieren, wie Kaliforniens scheinbarer wirtschaftlicher Erfolg als viertgrößte Wirtschaft der Welt durch einen "Ressourcenfluch" des Silicon Valley verschleiert wird. Dieser Reichtum maskiere eine schlechte Regierungsführung und führe zu einer unausgewogenen Wirtschaft mit geringer privater Arbeitsplatzschaffung.
+
+**Konkrete Details aus dem Gespräch:**
+- David Sacks zitiert Peter Thiel, der Silicon Valley als "Ressourcenfluch" bezeichnete, da der generierte Reichtum und die Steuern eine gute Regierung überflüssig machen und zu einem Einparteienstaat führen.
+- Javier Bacera (zitiert von Hilton) verweist auf die viertgrößte Wirtschaft und Attraktionen wie Disneyland als Zeichen des Erfolgs.
+- Die viertgrößte Wirtschaft wird hauptsächlich durch einen "unglaublich erfolgreichen Sektor" (Tech) angetrieben, der viel Umsatz generiert, aber nicht viele Arbeitsplätze schafft.
+- Die Zahl der viertgrößten Wirtschaft beinhaltet die Größe der Regierung, die sich in den letzten 10 Jahren verdoppelt hat.
+- Die Netto-Arbeitsplatzschaffung im Privatsektor seit der Pandemie ist in Kalifornien "im Grunde Null".
+
+**🇪🇺 Europa-Relevanz:**
+- Peter Thiels "Ressourcenfluch"-These für Silicon Valley, wo Reichtum schlechte Regierungsführung maskiert, ist relevant für die EU, die €200 Mrd. in KI investiert (InvestAI) und 4-5 KI-Gigafactories plant, um eine breitere wirtschaftliche Basis zu schaffen und nicht nur auf wenige Tech-Giganten zu setzen.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen; Kaliforniens "im Grunde Null" Netto-Arbeitsplatzschaffung im Privatsektor trotz Tech-Reichtum zeigt die Gefahr einer unausgewogenen Wirtschaft, die die EU mit Initiativen wie dem Deutschlandfonds (€130 Mrd. private Investitionen) vermeiden will.
+- Die EU-Kommission und EIB Group haben ein MoU für Gigafactory-Finanzierung unterzeichnet (Dez 2025), mit dem Ziel, dass die Mehrheit der Eigentümer aus Europa kommt; dies soll verhindern, dass europäische Investitionen lediglich den Reichtum weniger globaler Akteure fördern, ohne breite Arbeitsplatzschaffung oder lokale Wertschöpfung.
+
+## 🚨 Versagen der lokalen Verwaltung und Folgen für Unternehmen
+
+Spencer Pratt (media entrepreneur) kritisiert die lokale Verwaltung in Kalifornien scharf und bezeichnet sie als "korruptes kriminelles Mafia-Kartell". Er führt Beispiele für Inkompetenz und Fehlallokation von Steuergeldern an, die zu verheerenden Bränden durch vernachlässigte Infrastruktur und zur Zerstörung kleiner Unternehmen durch die Legalisierung und Förderung illegaler Straßenverkäufer führen.
+
+**Konkrete Details aus dem Gespräch:**
+- Spencer Pratt bezeichnet die Regierung als "korruptes kriminelles Mafia-Kartell", das Steuergelder "wäscht", um "Menschen auf unseren Straßen sterben zu lassen".
+- Bürgermeisterin Bass wird für Brände verantwortlich gemacht, da Wasserreservoirs leer gelassen wurden und tote Vegetation nicht entfernt wurde.
+- Eine Massenklage von 10.000 Opfern wurde wegen Fahrlässigkeit gegen Gavin Newsom, State Parks, die Stadt und LADWP eingereicht, da ein Feuer nach dem Löschen nicht überwacht wurde und in einem bekannten Windereignis wieder aufflammte.
+- Im Jahr 2018 wurde ein Gesetz in Sacramento verabschiedet, das den Straßenverkauf im ganzen Bundesstaat legalisierte, wodurch Städte und Landkreise machtlos sind.
+- Legale Geschäfte (z.B. ein Schuhgeschäft seit 14 Jahren) gehen bankrott, weil Straßenverkäufer keine Steuern, Miete oder Lizenzen zahlen.
+- Die Stadtverwaltung gab 500.000 Dollar aus, um Straßenverkäufern Karren zu geben, während die Reparatur einer Reservoirabdeckung, die 200.000 Dollar gekostet hätte, unterlassen wurde.
+- Das System belohnt diejenigen, die das Falsche tun, und bestraft diejenigen, die das Richtige tun.
+
+**🇪🇺 Europa-Relevanz:**
+- Spencer Pratts Kritik an der Inkompetenz der lokalen Verwaltung, die zu Bränden durch leere Wasserreservoirs führt, ist relevant für die EU-Debatte über kritische Infrastruktur; der Berlin-Anschlag auf das Stromnetz (Jan 2026) hat die Diskussion über das Kritis-Dachgesetz neu entfacht.
+- Die Legalisierung von Straßenverkäufern in Kalifornien, die etablierte Geschäfte ruinieren, könnte als Warnung für EU-Städte dienen, die mit ähnlichen Herausforderungen im Einzelhandel und der Durchsetzung von Vorschriften kämpfen, insbesondere im Kontext von "Level Playing Field" und fairem Wettbewerb.
+- Die Finanzierung von Straßenverkäufer-Karren durch die Stadt, während notwendige Infrastruktur (Reservoirabdeckung für 200.000 Dollar) vernachlässigt wird, zeigt eine Fehlallokation von Mitteln, die im Kontrast zu EU-Initiativen wie InvestAI steht, die €200 Mrd. für strategische KI-Infrastruktur mobilisieren.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-**Verteidigungs-KI & Schwarm-Autonomie:** Peter Kalogiannis, Co-Founder und CEO von Swarm Arrow, stellte das Gamera-Flugzeug vor, das für das US-Verteidigungsministerium entwickelt wurde, um das "eiserne Dreieck" aus Reichweite, Nutzlast und Kosten zu durchbrechen. Das Unternehmen konzentriert sich auf den Bau von Hunderten dieser Flugzeuge pro Jahr und die Entwicklung einer Autonomie- und Kommando-Kontroll-Plattform, die einen Schwarmbetrieb ermöglicht, um das Bottleneck der "ein Pilot pro Fahrzeug"-Modelle zu überwinden.
-
-**Neues Bildungsmodell für "Builder":** Gagan Biyani, CEO der Horowitz and Dresen Academy, kündigte eine neue, einjährige, tuition-freie Schule in San Francisco für junge "Builder" an. Die Akademie, die $42 Millionen eingesammelt hat, konzentriert sich auf praktische Fähigkeiten und den Aufbau eines Netzwerks im Silicon Valley, ohne auf traditionelle Akkreditierungen zu setzen, da diese für die meisten Tech-Unternehmen irrelevant seien.
+- **Integrität von Wahlen und "Legalisiertes" Ballot Harvesting:** Spencer Pratt behauptet, dass das Wahlsystem in Kalifornien durch "legalisiertes" Ballot Harvesting manipuliert wird, bei dem DSA-Aktivisten bezahlt werden, um Stimmzettel zu sammeln und auszufüllen. Dies sei durch die Trennung von Stimmzetteln und Umschlägen nach der Abgabe unüberprüfbar. Er fordert eine Wähler-ID.
+- **KI-Rechenzentren als Lösung für städtische Probleme:** Spencer Pratt schlug vor, Skid Row in Los Angeles in Rechenzentren umzuwandeln, um stadtweite Infrastrukturprobleme wie Wasser- und Stromleitungen zu erneuern und Obdachlose zu Elektrikern umzuschulen, was private Investitionen in Milliardenhöhe anziehen könnte.
 
 # 💭 Zum Drüber Nachdenken
 
-**Europas Traum vom KI-Assistenten scheitert an der Realität der Stromrechnung**
-Kontext: Ben Thompson beschreibt die "Software-förmigen Löcher" im Alltag, die durch KI-Agenten und Roboter gefüllt werden könnten – von der Postbearbeitung bis zur Hausorganisation. Doch während in den USA über die Automatisierung des physischen Lebens nachgedacht wird, kämpft Europa mit Strompreisen, die 2-3x höher sind als in den USA, und strengeren Genehmigungsverfahren für Rechenzentren. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt.
-Die Frage dahinter: Wie kann Europa seine "AI Infrastructure Gap" schließen und die physische Automatisierung vorantreiben, wenn die grundlegenden Energiekosten und regulatorischen Hürden die Entwicklung von Rechenzentren und Robotik-Fabriken massiv behindern?
+**Kaliforniens "Regulierungs-Tsunami" droht Europas KI-Ambitionen zu ertränken.**
+Kontext: Steve Hilton kritisiert Kaliforniens über 420.000 Vorschriften und 1.118 neue Gesetze pro Jahr als "Bloat", der Unternehmen vertreibt. Gleichzeitig ringt die EU mit der Umsetzung des AI Act, dessen High-Risk-Systeme ab Aug 2026 compliant sein müssen. EVP Virkkunen verhandelt den Digital Omnibus, um die Deadline zu verschieben und die Umsetzung zu vereinfachen, während der Digital Fitness Check die Wechselwirkung aller EU-Digitalgesetze prüft.
+Die Frage dahinter: Ist Europas Streben nach "Tech-Souveränität" durch umfassende Regulierung ein notwendiger Schutz oder ein selbstgebauter Käfig, der die Innovationskraft wie in Kalifornien abwürgt?
 
-**Meta's "Human-in-the-Loop"-Trick: Datensammeln unter dem Deckmantel des Kundenservice?**
-Kontext: Meta testet menschliche Concierges für seinen KI-Assistenten Muse, um komplexe Anfragen zu bearbeiten und gleichzeitig Trainingsdaten zu generieren, da Muse nicht auf Nutzerdaten trainiert. Dies wirft Fragen auf, wie solche Praktiken mit den strengen EU-Datenschutzbestimmungen der GDPR und den Transparenzpflichten des AI Act (GPAI Code of Practice ab Aug 2025) vereinbar sind. EVP Virkkunen betont, dass Europa "hohe Standards" nicht kompromittieren will, während der Digital Omnibus die High-Risk-Deadline bis Dez 2027 verschieben könnte, um der Industrie entgegenzukommen.
-Die Frage dahinter: Ist Metas Ansatz ein cleverer Weg, um die Lücken der KI-Modelle zu schließen und gleichzeitig wertvolle Daten zu sammeln, oder ein potenzielles Minenfeld für europäische Regulierungsbehörden, die zwischen Innovationsförderung und dem Schutz der Bürgerrechte abwägen müssen?
+**Wenn Kalifornien seine Infrastruktur für 200.000 Dollar nicht schützt, wie soll Europa dann 200 Milliarden Euro für KI-Gigafactories sichern?**
+Kontext: Spencer Pratt enthüllt, dass Los Angeles eine 200.000 Dollar teure Reservoirabdeckung nicht reparierte, was zu verheerenden Bränden führte, während 500.000 Dollar für "illegale" Straßenverkäufer-Karren ausgegeben wurden. Parallel dazu mobilisiert die EU €200 Mrd. für KI-Investitionen (InvestAI), darunter €20 Mrd. für 4-5 KI-Gigafactories, und Deutschland bewirbt sich mit mehreren Standorten (z.B. Schwarz Digits Lübbenau, €11 Mrd.). Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt.
+Die Frage dahinter: Kann Europa seine ambitionierten KI-Infrastrukturprojekte erfolgreich umsetzen und schützen, wenn selbst grundlegende Infrastruktur in einer der reichsten Regionen der Welt an politischer Inkompetenz scheitert?

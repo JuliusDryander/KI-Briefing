@@ -2,112 +2,116 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| KI-Sicherheit & Regulierung | Der öffentliche Diskurs über KI-Sicherheit erreicht neue Höhen, mit führenden KI-Forschern, die konkrete Vorschläge zur Überwachung von KI-Forschung und zur Vorbereitung der Regierung auf potenzielle "Bad Scenarios" machen, während gleichzeitig die politische Auseinandersetzung zunimmt. | Dario Amadeh (Anthropic), Jeffrey Hinton, Joshua Benjio, Andrew Bartow, Jack Clark (Anthropic), Jacob (Microsoft), Eric Horvitz (Microsoft), Daniel Ek (Spotify, NECO) | TBPN, All-In |
-| Persönliche KI-Agenten | Persönliche KI-Agenten wie Instinct zeigen ein explosives Wachstum und das Potenzial, den E-Commerce und Dienstleistungssektor grundlegend zu verändern, indem sie Reibungsverluste beseitigen und die Kaufbereitschaft erhöhen, was jedoch auch zu Systeminstabilität in Finanzmärkten führen könnte. | Noah Shin (Instinct), Anish Acharya (Andreessen Horowitz), Gary Gensler (SEC Chair), Apollo Economist | TBPN |
-| Compute-Märkte & Infrastruktur | Der Markt für KI-Compute ist unreif und fragmentiert, ähnlich den frühen Tagen der Stromversorgung, und erfordert einen unabhängigen Marktbetreiber, der die gesamte Infrastruktur standardisiert und betreibt, um Risiken zu reduzieren und Skalierung zu ermöglichen. | Evan Conrad (San Francisco Compute), Daniel Ek (Spotify, NECO) | TBPN, All-In |
-| Meta Enterprise Platform | Meta positioniert sich mit der neuen "Meta Enterprise Platform" und dem "Muse Agent" als Anbieter von KI-Lösungen für Unternehmen, um seine Stärken in fortgeschrittenen Modellen, Agenten und Infrastruktur zu nutzen und gleichzeitig eine "Off-Gassing Valve" für seine Compute-Investitionen zu schaffen. | Mark Zuckerberg (Meta), CJ Desai (Meta) | TBPN |
-| NECO – Präventive Gesundheitsversorgung | Daniel Ek (Spotify Co-founder) hat mit NECO ein vertikal integriertes Gesundheitsunternehmen gegründet, das durch umfassende Datenerfassung (Blutmarker, Hautscans, Wearables) und KI-Analyse präventive Gesundheitsversorgung revolutionieren will, um chronische Krankheiten frühzeitig zu erkennen und die Gesundheitsergebnisse zu verbessern. | Daniel Ek (Spotify, NECO), David Friedberg | All-In |
+| Infrastruktur | Die Kühlung von Rechenzentren, insbesondere für KI-Infrastruktur, erfordert neue, wasserneutrale Technologien, da politische und lokale Widerstände den Ausbau verzögern und traditionelle Kühlmethoden zu wasserintensiv sind. | Christopher Beck (Chairman, President, CEO of EcoLab) | TBPN |
+| Weltraum-Fertigung | Varda Space Industries hat mit dem ersten kommerziellen Wiedereintritt mehrerer Fahrzeuge eine Flottenmentalität für die Mikrogravitationsfertigung im Weltraum erreicht, was die Skalierung der Produktion von Materialien wie monoklonalen Antikörpern ermöglicht. | Will Bruey (Mavarda) | TBPN |
+| KI-Infrastruktur | Nvidias ursprüngliche Strategie, über DGX Cloud Leptin eine "planetarische KI-Fabrik" zu werden und den Zugang zu Compute zu aggregieren, hat sich nicht wie erwartet durchgesetzt; stattdessen entwickelte sich das Produkt zu einer vereinheitlichten KI-Plattform, die mit Neocloud-Anbietern wie CoreWeave koexistiert. | Laut der Diskussion | TBPN |
+| Venture Capital | Die Chainsmokers haben sich als Venture-Investoren mit ihrer Firma Mantis etabliert, indem sie ihre Marketing- und Branding-Expertise nutzen, um Gründern über die reine Kapitalbereitstellung hinaus einen Mehrwert zu bieten, und betonen die Bedeutung von konsequenten Renditen, um sich in der VC-Branche zu behaupten. | Alex Pall, Drew Taggart (The Chainsmokers) | All-In |
+| KI-Modelle | Tavis hat mit Griffin ein "Human Interaction Model" entwickelt, das als erstes KI-Modell einen Turing-Test bestanden hat, indem 48% der Tester es für einen Menschen hielten, und zielt darauf ab, KI-Mitarbeiter und -Assistenten zu schaffen, die sich natürlich anfühlen und komplexe Aufgaben im Hintergrund erledigen können. | Hassaan Raza (Co-founder and CEO of Tavis) | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🤖 KI-Sicherheit & Regulierung: Zwischen SNL-Parodie und White-House-Dinner
+## 💧 Infrastruktur: Rechenzentren und Wassermanagement
 
-Dario Amadeh (Anthropic) wurde in einer SNL-Parodie dargestellt, was seine Bekanntheit im breiteren Publikum zeigt und die öffentliche Diskussion über KI-Sicherheit auf ein neues Niveau hebt. Gleichzeitig traf sich Amadeh mit Präsident Trump zu einem privaten Abendessen und nahm an einem weiteren White House Dinner mit KI-Führern teil, was die Intensität der politischen Gespräche unterstreicht. Eine Gruppe führender KI-Forscher veröffentlichte über die University of Cambridge konkrete Vorschläge zur KI-Sicherheit, die die Überwachung von KI-Forschung und die Entwicklung staatlicher Notfallpläne umfassen. Daniel Ek (Spotify, NECO) betont, dass jede große Technologie extreme Positive und Negative hat und es an uns liegt, sie zu steuern; er sieht noch die Möglichkeit, den Einfluss zu gestalten.
-
-**Konkrete Details aus dem Gespräch:**
-- Dario Amadeh (Anthropic) wurde in einer SNL-Parodie dargestellt, was seine Bekanntheit im breiteren Publikum zeigt. (TBPN)
-- Amadeh traf sich mit Präsident Trump zu einem privaten Abendessen und nahm an einem weiteren White House Dinner mit KI-Führern teil. (TBPN)
-- Eine Gruppe führender KI-Forscher (u.a. Jeffrey Hinton, Joshua Benjio, Andrew Bartow, Jack Clark von Anthropic, Jacob von Microsoft, Eric Horvitz) veröffentlichte über die University of Cambridge Vorschläge zur KI-Sicherheit. (TBPN)
-- Die Vorschläge beinhalten die Überwachung des Anteils von KI-gestützter F&E in Laboren (z.B. Code-Anteil, Dollar-Anteil). (TBPN)
-- Sie fordern die Entwicklung staatlicher Notfallpläne für Szenarien wie Cyberangriffe durch autonome Agenten oder Biosecurity-Vorfälle. (TBPN)
-- Daniel Ek (Spotify, NECO) ist überrascht, dass in der Debatte nicht stärker über die Menge an Compute als Indikator für die Macht eines Modells gesprochen wird, da dies ein Faktor für die Sicherheit sein könnte. (All-In)
-
-**🇪🇺 Europa-Relevanz:**
-- Ab Aug 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein – die US-Diskussion um "Bad Scenarios" und Notfallpläne könnte den Druck auf EU-konforme Anbieter erhöhen, die diese Risiken adressieren müssen.
-- EVP Henna Virkkunen verhandelt den Digital Omnibus, der die High-Risk-Deadline um bis zu 16 Monate verschieben könnte (Backstop: Dez 2027) – ein Zugeständnis an die Industrie bei gleichzeitigem Festhalten an Standards, während die USA auf informelle Treffen und Forscher-Vorschläge setzen.
-- Die Forderung nach Überwachung von KI-gestützter F&E in Laboren könnte im EU AI Office aufgegriffen werden, das ab Aug 2025 operativ ist und die GPAI-Transparenzpflichten überwacht.
-
-## 🛍 Persönliche KI-Agenten: Die "Zero-Effort-Economy" kommt
-
-Persönliche KI-Agenten wie Instinct zeigen ein explosives Wachstum und das Potenzial, den E-Commerce und Dienstleistungssektor grundlegend zu verändern, indem sie Reibungsverluste beseitigen und die Kaufbereitschaft erhöhen. Instinct erreichte 1 Milliarde Dollar Transaktionsvolumen in ca. 6 Monaten und wächst täglich um 10%. Noah Shin (Instinct) glaubt, dass Agenten den 70%-Anteil von Werbeeinnahmen in Apps eliminieren könnten, aber der 30%-Anteil von Produktverkäufen stark wachsen wird, da der Kaufaufwand gegen Null geht. Anish Acharya (Andreessen Horowitz) sieht KI-Agenten als sehr positiv für die Restaurantbranche, da sie eine globale Optimierung der Auslastung und bessere Kundenbindung ermöglichen, auch für kleinere Restaurants. Ein Ökonom von Apollo und Gary Gensler (SEC Chair) warnen jedoch, dass die algorithmische Perfektion von KI-Agenten in Finanzmärkten zu massiven Flash-Crashes führen könnte, da sie gleichzeitig optimale Entscheidungen treffen. Die Kosten für die Bereitstellung eines KI-Agenten werden auf ca. 1.000 Dollar pro Nutzer pro Jahr geschätzt, was für Startups noch prohibitiv ist und sinken muss.
+Christopher Beck (Chairman, President, CEO of EcoLab) erklärt, dass die Kühlung von Rechenzentren, insbesondere für die neue Generation von KI-Chips (wie Blackwell und Vera Rubin), nicht mehr mit traditionellen HVAC-Systemen erfolgen kann. Stattdessen sind direkte Chip-Kühlung und geschlossene Kreislaufsysteme erforderlich, die kein zusätzliches Wasser verbrauchen und weniger Strom benötigen. Er kritisiert, dass 60% der Rechenzentrumsprojekte in den USA politisch bedingt pausiert oder verzögert werden, da lokale Gemeinschaften Bedenken hinsichtlich Wasserverbrauch und Stromkosten haben. Beck betont die Notwendigkeit, mit Gemeinden zusammenzuarbeiten, um die Vorteile wasserneutraler Rechenzentren aufzuzeigen und die negative Wahrnehmung von KI-Technologie zu bekämpfen.
 
 **Konkrete Details aus dem Gespräch:**
-- Instinct (Noah Shin, 23 Jahre alt) erreichte 1 Milliarde Dollar Transaktionsvolumen in ca. 6 Monaten (Stripe brauchte 18 Monate). (TBPN)
-- Instinct wächst täglich um 10% und hat 0 Dollar für Marketing ausgegeben. (TBPN)
-- 40% der Nutzer teilten innerhalb von drei Wochen eine persönliche Kreditkarte; 50% des Transaktionsvolumens entfallen auf Reisen. (TBPN)
-- Noah Shin glaubt, dass Agenten den 70%-Anteil von Werbeeinnahmen in Apps eliminieren könnten, aber der 30%-Anteil von Produktverkäufen stark wachsen wird, da der Kaufaufwand gegen Null geht. (TBPN)
-- Anish Acharya (Andreessen Horowitz) sieht KI-Agenten als sehr positiv für die Restaurantbranche, da sie eine globale Optimierung der Auslastung und bessere Kundenbindung ermöglichen. (TBPN)
-- Ein Ökonom von Apollo und Gary Gensler (SEC Chair) warnen, dass die algorithmische Perfektion von KI-Agenten in Finanzmärkten zu massiven Flash-Crashes führen könnte. (TBPN)
+- Traditionelle HVAC-Kühlung ist für neue Chips (Blackwell, Vera Rubin) nicht mehr ausreichend; direkte Chip-Kühlung ist notwendig.
+- EcoLab hat Technologien für geschlossene Kühlkreisläufe entwickelt, die kein zusätzliches Wasser benötigen und weniger Strom verbrauchen.
+- 60% der Rechenzentrumsprojekte in den USA werden politisch bedingt pausiert oder verzögert.
+- Lokale Gemeinschaften lehnen Rechenzentren ab, oft wegen Bedenken bezüglich Wasserverbrauch und Stromkosten.
+- EcoLab arbeitet mit Gemeinden zusammen, um aufzuzeigen, dass wasserneutrale Rechenzentren weniger Wasser als eine Autowaschanlage verbrauchen und Stromkosten senken können.
+- Desalination ist laut Beck keine zukunftsfähige Lösung aufgrund hohen Energiebedarfs und geopolitischer Risiken; stattdessen sollte Abwasser recycelt werden.
 
 **🇪🇺 Europa-Relevanz:**
-- Die MiCA-Verordnung (Markets in Crypto-Assets) ist seit Juni 2024 in Kraft und reguliert Stablecoins strenger als in den USA; dies könnte die Integration von KI-Agenten in Finanzdienstleistungen in der EU erschweren, wenn diese auf Krypto-Lösungen setzen.
-- Die Warnungen vor Flash-Crashes durch KI-Agenten in Finanzmärkten könnten die EU-Kommission dazu veranlassen, im Rahmen der Kapitalmarktunion (CMU) oder des Digital Fitness Check (Konsultation bis 11. März 2026) spezifische Regulierungen für agentengesteuerte Finanztransaktionen zu prüfen.
-- Die hohen Kosten von 1.000 Dollar pro Nutzer pro Jahr für KI-Agenten könnten die breite Akzeptanz in der EU verlangsamen, wo die Kaufkraft im Durchschnitt niedriger ist als in den USA, was die Notwendigkeit von Investitionen in kosteneffiziente KI-Infrastruktur (InvestAI) unterstreicht.
+- EU-Strompreise sind 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa, was die Kosten für wasserintensive Kühlung in Rechenzentren weiter erhöht.
+- Das €11 Mrd. Rechenzentrum Lübbenau (Schwarz Digits) und das Telekom/Nvidia-Projekt München (~€1 Mrd.) setzen auf erneuerbare Energien und effiziente Kühlung, um den "AI Infrastructure Gap" in Europa zu schließen.
+- In Frankfurt gibt es Moratoriums-Diskussionen für Rechenzentren, und Irland leitet über 20% seines Stroms in Rechenzentren, was den politischen Widerstand in der EU widerspiegelt.
+- Kanzler Merz will Netzanschluss-Regeln für Rechenzentren überarbeiten, um den Ausbau zu erleichtern, während Christopher Beck die Notwendigkeit lokaler Einbindung betont.
 
-## ⚡ Compute-Märkte & Infrastruktur: Der fehlende "Power Grid" für KI
+## 🚀 Weltraum-Fertigung: Skalierung in Mikrogravitation
 
-Der Markt für KI-Compute ist unreif und fragmentiert, ähnlich den frühen Tagen der Stromversorgung, und erfordert einen unabhängigen Marktbetreiber, der die gesamte Infrastruktur standardisiert und betreibt, um Risiken zu reduzieren und Skalierung zu ermöglichen. Evan Conrad (San Francisco Compute) vergleicht den Compute-Markt mit der frühen Stromversorgung, wo jede Fabrik ihren eigenen Generator betrieb; es fehle ein "Power Grid" für Compute. Der Markt sei unreif, da es zu wenige Akteure mit Supercomputing-Expertise gibt, die über Kapital, Land und Strom hinausgehen. San Francisco Compute schlägt einen unabhängigen Marktbetreiber vor, der "physical settlement" durchführt, d.h. die gesamte Infrastruktur bis zum Rechenzentrum selbst betreibt und standardisiert. Daniel Ek (Spotify, NECO) sieht Compute als Schlüsselmetrik für die Defensibilität von KI-Modellen und schlägt vor, die Menge an Compute als Faktor in der Regulierung zu berücksichtigen, ähnlich wie bei frühen Supercomputern. Die aktuelle "AI-Blase" wird von Venture Capitalists gehalten, die hohe Bewertungen für KI-Labs akzeptieren, da diese hohe Anzahlungen für Compute-Verträge benötigen; Compute-Märkte könnten dieses Risiko de-risken.
+Will Bruey (Mavarda) berichtet über den ersten Flug von mehreren kommerziellen Wiedereintrittsfahrzeugen gleichzeitig, was den Übergang von Einzelmissionen zu einer "Flottenmentalität" für Varda Space Industries markiert. Dies ermöglicht die Skalierung der Mikrogravitationsfertigung, die auf der Erde nicht physikalisch repliziert werden kann (Einsteins Äquivalenzprinzip). Bruey hebt hervor, dass diese Technologie besonders für die Biotech-Industrie relevant ist, etwa für die Kristallisation von Medikamenten wie monoklonalen Antikörpern. Varda hat bereits Flüge bis 2029 vertraglich gesichert und landet die Fahrzeuge auf Land, da dies kostengünstiger ist als im Ozean, da die Fracht (Medikamentenmoleküle) unempfindlich ist.
 
 **Konkrete Details aus dem Gespräch:**
-- Evan Conrad (San Francisco Compute) vergleicht den Compute-Markt mit der frühen Stromversorgung, wo jede Fabrik ihren eigenen Generator betrieb; es fehle ein "Power Grid" für Compute. (TBPN)
-- Der Markt sei unreif, da es zu wenige Akteure mit Supercomputing-Expertise gibt, die über Kapital, Land und Strom hinausgehen. (TBPN)
-- San Francisco Compute schlägt einen unabhängigen Marktbetreiber vor, der "physical settlement" durchführt, d.h. die gesamte Infrastruktur bis zum Rechenzentrum selbst betreibt und standardisiert. (TBPN)
-- Daniel Ek (Spotify, NECO) sieht Compute als Schlüsselmetrik für die Defensibilität von KI-Modellen und schlägt vor, die Menge an Compute als Faktor in der Regulierung zu berücksichtigen. (All-In)
-- Die aktuelle "AI-Blase" wird von Venture Capitalists gehalten, die hohe Bewertungen für KI-Labs akzeptieren, da diese hohe Anzahlungen für Compute-Verträge benötigen. (TBPN)
-- Compute-Märkte könnten dieses Risiko de-risken, indem sie die zukünftigen GPU-Preise vorhersagbar machen. (TBPN)
+- Erster Flug von mehreren kommerziellen Wiedereintrittsfahrzeugen gleichzeitig (Fahrzeuge 8 und 9).
+- Übergang von Einzelmissionen zu Flottenbetrieb ermöglicht Fertigung in großem Maßstab.
+- Mikrogravitation kann auf der Erde nicht physikalisch repliziert werden (Einsteins Äquivalenzprinzip).
+- Anwendungen umfassen die Kristallisation von Medikamenten, insbesondere monoklonalen Antikörpern.
+- Varda hat Flüge bis 2029 vertraglich gesichert (7 für nächstes Jahr, 10 für das Jahr danach).
+- Landung auf Land ist kostengünstiger als im Ozean, da keine Astronauten an Bord sind und die Fracht (Medikamentenmoleküle) unempfindlich ist.
 
 **🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% haben; die Forderung nach einem "Power Grid" für Compute unterstreicht Europas "AI Infrastructure Gap".
-- Der €20 Mrd.-Fonds für 4-5 KI-Gigafactories im Rahmen von InvestAI zielt darauf ab, bis zu 100.000 Next-Gen-AI-Chips zu schaffen, um die Compute-Kapazität in der EU zu erhöhen und die Abhängigkeit von externen Anbietern zu reduzieren.
-- Deutsche Bewerbungen für KI-Gigafactories, wie das €11 Mrd.-Rechenzentrum Lübbenau von Schwarz Digits, zeigen den Versuch, die Compute-Infrastruktur aufzubauen, aber die Fragmentierung des Marktes könnte einen EU-weiten "Compute-Marktbetreiber" erfordern.
-- Kanzler Merz' Forderung nach einer F&E-Quote von 3,5% des BIP und einer "KI-Offensive" im Bundeshaushalt 2026 (€17,1 Mrd. für F&E) soll die technologische Basis stärken, die für einen reifen Compute-Markt notwendig ist.
+- Die EU mobilisiert €200 Mrd. für KI (InvestAI), davon €20 Mrd. für 4-5 KI-Gigafactories, die je ~100.000 Next-Gen-AI-Chips produzieren sollen – Varda zeigt, dass die Fertigung von Hochtechnologie auch im Weltraum stattfinden kann.
+- EVP Henna Virkkunen betont die Tech-Souveränität und fordert, dass Mehrheitseigentümer von EU-finanzierten Projekten aus Europa kommen – dies könnte auch für zukünftige Weltraum-Fertigung gelten.
+- Der Deutschlandfonds (€30 Mrd. Garantien) zielt auf Startups in DeepTech, KI, Biotech und Verteidigung ab, Sektoren, die von Vardas Mikrogravitations-Fertigung profitieren könnten.
 
-## 🌐 Meta Enterprise Platform: Zuckerbergs Schachzug im KI-Wettrennen
+## ☁️ KI-Infrastruktur: Nvidias Strategiewandel und Neoclouds
 
-Mark Zuckerberg positioniert Meta mit der neuen "Meta Enterprise Platform" und dem "Muse Agent" als Anbieter von KI-Lösungen für Unternehmen. Ziel ist es, Metas Stärken in fortgeschrittenen Modellen, Agenten und Infrastruktur zu nutzen und gleichzeitig eine "Off-Gassing Valve" für seine massiven Compute-Investitionen zu schaffen. CJ Desai wurde als Chief Enterprise Platform Officer eingestellt und berichtet direkt an Zuckerberg. Die Initiative könnte schnell hohe Umsätze generieren, auch durch den Verkauf von Compute (Tokens, Inference, Bare Metal Deals). Die strategische Positionierung als "AI Business" soll verhindern, dass Compute-Verkäufe als Zeichen mangelnder Nachfrage nach eigenen Modellen interpretiert werden, wie es bei SpaceX der Fall war.
+Die Diskussion beleuchtet, wie Nvidias ursprüngliche Ambition, mit DGX Cloud Leptin eine "planetarische KI-Fabrik" zu werden und den Zugang zu Compute zu aggregieren, nicht wie geplant verlief. Nvidias Ziel war es, als "Front Door to Compute" mit großen Cloud-Anbietern wie AWS und Azure zu konkurrieren. Die Bewertungen des DGX-Produkts zeigten jedoch, dass es keine überlegene Alternative zu Neocloud-Anbietern wie CoreWeave darstellte. Infolgedessen entwickelte sich Nvidias Produkt zu einer "unified AI platform", die Software für das GPU-Management bereitstellt, aber die direkte Kundenbeziehung und die Hardware-Eigentümerschaft bei den Neoclouds belässt. CoreWeave expandiert derweil mit "CoreWeForge" zu einer umfassenden KI-Cloud, die CPUs, Speicher und Management-Tools anbietet.
 
 **Konkrete Details aus dem Gespräch:**
-- Mark Zuckerberg kündigte die "Meta Enterprise Platform" an, um Unternehmen beim Wachstum und der Transformation durch KI zu unterstützen. (TBPN)
-- Die Plattform soll Metas Stärken nutzen: fortgeschrittene Modelle, führende Agenten (Muse Agent), große Infrastruktur und Erfahrung mit Unternehmen. (TBPN)
-- CJ Desai (ehem. Gast der Show) wurde als Chief Enterprise Platform Officer eingestellt und berichtet direkt an Zuckerberg. (TBPN)
-- Die Initiative könnte schnell hohe Umsätze generieren (z.B. 0 auf 10 Mrd. Dollar/Jahr), auch durch den Verkauf von Compute (Tokens, Inference, Bare Metal Deals). (TBPN)
-- Dies dient als "Off-Gassing Valve" für Metas hohe CAPEX-Investitionen. (TBPN)
-- Die Positionierung als "AI Business" ist strategisch, um Compute-Verkäufe nicht als Zeichen mangelnder Nachfrage nach eigenen Modellen erscheinen zu lassen, wie es bei SpaceX der Fall war. (TBPN)
+- Nvidia plante 2023, mit DGX Cloud Leptin (nach der Übernahme von Lepton im April 2025 für 300-900 Mio. USD) als "Front Door to Compute" zu fungieren und mit AWS/Azure/GCP zu konkurrieren.
+- Die DGX-Produktbewertungen zeigten, dass es nicht besser war als die Arbeit mit Neoclouds wie CoreWeave.
+- Die Neoclouds befürchteten, dass Nvidia Workloads zu Konkurrenten leiten könnte, wenn sie nicht teilnehmen.
+- Das Produkt entwickelte sich zu einer "unified AI platform" (Nvidias Worte), die Software für GPU-Management bereitstellt, aber die Beziehung zu den Hardware-Besitzern (Neoclouds) beibehält.
+- CoreWeave expandiert mit "CoreWeForge" zu einer vollwertigen KI-Cloud, die CPUs, Speicher und Management-Tools anbietet.
+- Jensen Huang (Nvidia) wird zugeschrieben, dass er "den Kuta Mote" nicht leichtfertig aufgeben wird.
 
 **🇪🇺 Europa-Relevanz:**
-- Metas Fokus auf eine "Enterprise Platform" mit dem Muse Agent könnte den Wettbewerbsdruck auf europäische Cloud-Anbieter wie STACKIT (Schwarz Digits) erhöhen, die ebenfalls souveräne KI-Lösungen für Unternehmen anbieten.
-- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen in europäische KI-Technologieunternehmen; Metas aggressive Expansion könnte europäische Startups unter Druck setzen, die um Kapital und Marktanteile kämpfen.
-- Metas Strategie, Compute-Kapazitäten zu monetarisieren, könnte die Diskussion in der EU anheizen, wie die €20 Mrd. für KI-Gigafactories am besten genutzt werden können, um nicht nur Kapazität zu schaffen, sondern auch europäische Anbieter zu stärken.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA, was die Abhängigkeit von US-Cloud-Anbietern wie Nvidia und Neoclouds unterstreicht.
+- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen für KI-Technologieunternehmen und kritische Infrastruktur, um europäische Alternativen zu stärken.
+- Schwarz Digits (Lidl/Kaufland) baut mit €11 Mrd. das Rechenzentrum Lübbenau und kooperiert mit Aleph Alpha für KI-Modelle, um eine souveräne Cloud-Infrastruktur zu schaffen, die von Nvidias Hardware und Software profitieren könnte.
+- Der Digital Omnibus könnte die High-Risk-Deadline des AI Act verschieben (Backstop: Dez 2027), um der Industrie mehr Zeit für die Anpassung an komplexe KI-Systeme und deren Infrastruktur zu geben.
 
-## 🩺 NECO – Präventive Gesundheitsversorgung durch KI und Daten
+## 💰 Venture Capital: Von Musik zu Multi-Stage Investing
 
-Daniel Ek (Spotify Co-founder) hat mit NECO ein vertikal integriertes Gesundheitsunternehmen gegründet, das durch umfassende Datenerfassung (Blutmarker, Hautscans, Wearables) und KI-Analyse präventive Gesundheitsversorgung revolutionieren will, um chronische Krankheiten frühzeitig zu erkennen und die Gesundheitsergebnisse zu verbessern. NECO wurde 2018 gegründet und hat in Schweden und UK bereits über 100.000 Scans durchgeführt; es folgt dem "Spotify-Playbook" der Markteinführung. Das Angebot kostet 499 Dollar pro Besuch und beinhaltet 53 Blutmarker, über 6.000 hochauflösende Hautbilder, Herz- und Blutkreislauf-Checks, Griffstärke-Messungen und eine einstündige Besprechung mit einem Kliniker. Rund 1% der Mitglieder haben eine undiagnostizierte, ernsthafte medizinische Situation, die entdeckt wird; Personen mit schlechtestem Gesundheitszustand zeigen die größte Verbesserung. KI wird eingesetzt, um Risikofaktoren zu identifizieren (z.B. bei 950 Muttermalen pro Person) und Veränderungen über die Zeit zu verfolgen, was für menschliche Ärzte unmöglich wäre. Ek sieht das Problem des US-Gesundheitssystems in falschen Anreizen, die auf die Behandlung von Infektionskrankheiten ausgerichtet sind, statt auf Prävention und Langzeitinvestitionen.
+Alex Pall und Drew Taggart (The Chainsmokers) beschreiben, wie sie mit ihrer Venture-Firma Mantis den Übergang von der Musikindustrie zum Investieren vollzogen haben. Sie nutzen ihre Marketing- und Branding-Expertise, um Gründern über die reine Kapitalbereitstellung hinaus einen Mehrwert zu bieten. Mantis investiert in Series A-Unternehmen in den Bereichen Cyber, AI, Infra, Deep Tech und Health Tech, wobei sie keine Lead-Positionen einnehmen, sondern sich als "Sixth Man of the Year" verstehen. Sie betonen, dass konsequente DPI (Distributed to Paid-in Capital) entscheidend ist, um als VC ernst genommen zu werden, und dass sie eine Strategie der Konzentration auf Gewinner verfolgen. Ihre Erfahrung in der extrem wettbewerbsintensiven Musikbranche gibt ihnen Glaubwürdigkeit und eine einzigartige Perspektive.
 
 **Konkrete Details aus dem Gespräch:**
-- NECO wurde 2018 gegründet und hat in Schweden und UK bereits über 100.000 Scans durchgeführt; es folgt dem "Spotify-Playbook" der Markteinführung. (All-In)
-- Das Angebot kostet 499 Dollar pro Besuch und beinhaltet 53 Blutmarker, über 6.000 hochauflösende Hautbilder, Herz- und Blutkreislauf-Checks, Griffstärke-Messungen und eine einstündige Besprechung mit einem Kliniker. (All-In)
-- Rund 1% der Mitglieder haben eine undiagnostizierte, ernsthafte medizinische Situation, die entdeckt wird; Personen mit schlechtestem Gesundheitszustand zeigen die größte Verbesserung. (All-In)
-- KI wird eingesetzt, um Risikofaktoren zu identifizieren (z.B. bei 950 Muttermalen pro Person) und Veränderungen über die Zeit zu verfolgen, was für menschliche Ärzte unmöglich wäre. (All-In)
-- Das Geschäftsmodell ist vertikal integriert, mit eigenen Einrichtungen, Personal und Diagnosegeräten, was Kostensenkungen ermöglicht und positive Unit Economics bei 500 Dollar pro Besuch erlaubt. (All-In)
-- Ek sieht das Problem des US-Gesundheitssystems in falschen Anreizen, die auf die Behandlung von Infektionskrankheiten ausgerichtet sind, statt auf Prävention und Langzeitinvestitionen. (All-In)
+- Mantis investiert in Series A-Unternehmen in den Bereichen Cyber, AI, Infra, Deep Tech und Health Tech.
+- Sie nehmen keine Lead-Positionen ein, sondern agieren als "Sixth Man of the Year" und konzentrieren sich auf die Unterstützung von Gründern.
+- Ihre Erfahrung im Musikgeschäft (extrem wettbewerbsintensiv, 300.000 Songs/Tag auf Spotify) gibt ihnen Glaubwürdigkeit.
+- Sie nutzen ihre Bekanntheit und ihr Netzwerk für Go-to-Market-Beziehungen und Brand Building.
+- Sie betonen, dass konsequente DPI (Distributed to Paid-in Capital) entscheidend ist, um als VC ernst genommen zu werden, insbesondere da LPs nicht "safe play" suchen.
+- Sie haben ihren ersten "proper liquidity event" mit Underdog Fantasy erlebt.
+- Sie verfolgen eine Strategie der Konzentration auf Gewinner und diskutieren die Möglichkeit von Growth Funds oder SPVs.
 
 **🇪🇺 Europa-Relevanz:**
-- NECOs Erfolg in Schweden und UK könnte als Modell für die EU dienen, um die Gesundheitsversorgung von reaktiv zu präventiv zu transformieren, was mit den Zielen des Digital Europe Programms zur Förderung digitaler Gesundheitslösungen übereinstimmt.
-- Die Nutzung von KI zur Analyse von Gesundheitsdaten (z.B. 6.000 Hautbilder) muss die strengen Datenschutzanforderungen der GDPR (General Data Protection Regulation) erfüllen, die in der EU seit 2018 in Kraft ist und Bußgelder bis zu 4% des weltweiten Jahresumsatzes vorsieht.
-- Die EU AI Act-Regulierung für "High-Risk AI-Systeme" im Gesundheitsbereich (vollständig compliant ab Aug 2026) würde NECOs Diagnosesysteme betreffen und erfordert eine genaue Einhaltung von Transparenz-, Erklärbarkeits- und Sicherheitsstandards.
+- Das EU VC-Volumen liegt bei ~30% des US-Niveaus, was die Herausforderung für europäische VCs unterstreicht, die von den Chainsmokers beschriebene "konsequente DPI" zu erreichen.
+- Der Deutschlandfonds (€30 Mrd. Garantien) zielt darauf ab, bis zu €130 Mrd. private Investitionen zu mobilisieren, um das europäische VC-Ökosystem zu stärken und die Finanzierung von DeepTech-Startups zu verbessern.
+- Kanzler Merz betont die Notwendigkeit einer Kapitalmarktunion, um den europäischen und deutschen Kapitalmarkt besser für die Unternehmensfinanzierung zu nutzen, was die von den Chainsmokers diskutierten Herausforderungen der Kapitalbeschaffung adressiert.
+- EVP Henna Virkkunen prüft mit dem Digital Fitness Check die Wechselwirkung aller EU-Digitalgesetze, um das Geschäftsumfeld für Tech-Firmen und Investoren zu vereinfachen.
+
+## 🤖 KI-Modelle: Griffin und die menschliche Interaktion
+
+Hassaan Raza (Co-founder and CEO of Tavis) stellt Griffin vor, ein "Human Interaction Model", das als erstes KI-Modell einen Turing-Test bestanden hat, wobei 48% der Tester es für einen Menschen hielten. Griffin ist darauf ausgelegt, als "Pals" (AI employees, co-workers, companions) zu fungieren, beispielsweise in den Bereichen Vertrieb, medizinische Ausbildung oder Gesundheitswesen. Das Modell kann menschliche Verhaltensweisen wie Gesten und Mimik simulieren, um Vertrauen aufzubauen. Tavis plant eine schrittweise Veröffentlichung mit Fokus auf AI-Sicherheit und der Offenlegung, dass es sich um eine KI handelt. Griffin ist als "Envoy" konzipiert, das Gespräche führt und bei Bedarf auf andere Modelle oder Tools zugreift, um komplexe Aufgaben im Hintergrund zu erledigen.
+
+**Konkrete Details aus dem Gespräch:**
+- Griffin ist das erste Modell, das einen Turing-Test bestanden hat (48% der Tester hielten es für einen Menschen, gegenüber <2% für das nächstbeste Modell).
+- Das Modell ist für "Pals" (AI employees, co-workers, companions) konzipiert, z.B. für Vertrieb, medizinische Ausbildung, Gesundheitswesen.
+- Es kann menschliche Verhaltensweisen wie Gesten, Mimik und leichte Bewegungen simulieren, um Vertrauen aufzubauen.
+- Tavis plant eine schrittweise Veröffentlichung mit Fokus auf AI-Sicherheit und Offenlegung, dass es sich um eine KI handelt.
+- Das Modell ist als "Envoy" konzipiert, das Gespräche führt und bei Bedarf auf "große Modelle im Himmel" oder andere Tools zugreift, um Aufgaben zu erledigen (modellagnostischer Workflow).
+- Zukünftige Ziele sind die Verbesserung der Fähigkeiten als Mitarbeiter und die vollständige Integration der Schnittstelle.
+
+**🇪🇺 Europa-Relevanz:**
+- Der EU AI Act verbietet ab Feb 2025 bestimmte KI-Praktiken (Bußgelder bis €35 Mio. / 7% Umsatz) und verlangt ab Aug 2025 GPAI-Transparenzpflichten, was die Entwicklung von "Human Interaction Models" wie Griffin stark beeinflusst.
+- Meta verweigert die Unterzeichnung des GPAI Code of Practice, während 26 Anbieter (darunter OpenAI, Anthropic) ihn unterzeichnet haben – Tavis' Fokus auf Sicherheit und Offenlegung ist entscheidend für die EU-Compliance.
+- Ab Aug 2026 müssen High-Risk-KI-Systeme (z.B. in Bildung, Beschäftigung, öffentliche Dienste, wo Tavis' "AI employees" eingesetzt werden könnten) vollständig compliant sein.
+- EVP Henna Virkkunen betont die Notwendigkeit, "doing business in Europe easier" zu machen, während gleichzeitig hohe Standards gewahrt werden, was für die Kommerzialisierung von Griffins Technologie in der EU relevant ist.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-- **Plexo Capital und Emerging Fund Manager:** Lo Toney (Plexo Capital) investiert in Emerging Fund Manager, die oft einen technischen Hintergrund haben und früh in Unternehmen einsteigen. Die größte Herausforderung ist es, die Eigentumsanteile in schnell wachsenden Finanzierungsrunden zu halten, da größere Fonds früher einsteigen. (TBPN)
-- **AI Doom und "Loot Drop"-Bunker:** Einige Anthropic-Mitarbeiter erwägen den Kauf von abgelegenen Grundstücken und trainieren Doomsday-Szenarien, was die "Loot Drop"-Problematik aufwirft: Wer ein luxuriöses Bunker mit Vorräten baut, ohne in die lokale Gemeinschaft integriert zu sein, wird im Krisenfall zur "Beute". (TBPN)
-- **KI und Luxuskonsum:** Der Gstaad Guy argumentiert, dass KI die "optimierten" Luxusgeschäfte noch optimierter und damit weniger luxuriös machen wird. Echte Handwerkskunst und exklusive, unoptimierte Erlebnisse werden dadurch noch exklusiver, da sie sich dem Trend zur Effizienz widersetzen. (TBPN)
+- **Nvidia DGX Cloud Leptin vs. Neoclouds (TBPN):** Nvidias Versuch, eine "planetarische KI-Fabrik" zu werden und den Compute-Zugang zu aggregieren, hat sich nicht wie erwartet durchgesetzt; stattdessen koexistiert das Produkt mit Neocloud-Anbietern wie CoreWeave, die ihre eigenen KI-Cloud-Angebote ausbauen.
+- **Instinct AI und E-Commerce (TBPN):** Instinct experimentiert mit KI-Agenten, die personalisierte Produktempfehlungen per Textnachricht senden, um neue Nachfrage zu generieren und E-Commerce-Konversionsraten zu verbessern, stößt aber auf Skepsis bezüglich "Shop Slop" und der persönlichen Natur von Text-Marketing.
+- **Jake Paul und die Aufmerksamkeitsökonomie (All-In):** Jake Paul diskutiert seinen Weg vom Social-Media-Influencer zum Boxer und Angel-Investor (OpenAI, Cognition, SpaceX), wobei er die Macht der Aufmerksamkeit als Währung und seinen "Anti-Fund" hervorhebt, der traditionelle VCs herausfordern will.
 
 # 💭 Zum Drüber Nachdenken
 
-**Europas KI-Regulierungs-Dilemma: Zwischen 'Doom' und 'Boom' – wer steuert den Compute-Koloss?**
-Kontext: Während US-KI-Führer wie Dario Amadeh (Anthropic) im Weißen Haus über "Bad Scenarios" und Notfallpläne diskutieren und Daniel Ek (Spotify, NECO) Compute als entscheidenden Sicherheitsfaktor hervorhebt, ringt Europa mit der Umsetzung des AI Act. Die EVP für Tech-Souveränität, Henna Virkkunen, verhandelt den Digital Omnibus, der die High-Risk-Deadline bis zu 16 Monate verschieben könnte (Backstop: Dez 2027), um die Industrie zu entlasten. Gleichzeitig warnt Tim Höttges (Telekom), dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% haben.
-Die Frage dahinter: Kann Europa seine hohen KI-Sicherheitsstandards durchsetzen und gleichzeitig die notwendige Compute-Infrastruktur aufbauen, um nicht nur regulativ, sondern auch technologisch souverän zu sein, oder droht eine "AI Infrastructure Gap"?
+**Europas Rechenzentrum-Blockade: Wenn grüne Ideale auf KI-Realität treffen**
+Kontext: Christopher Beck (EcoLab) berichtet von 60% der US-Rechenzentrumsprojekte, die politisch verzögert werden, und kritisiert die negative Darstellung von KI. In der EU, wo Strompreise 2-3x höher sind und Städte wie Frankfurt Moratorien diskutieren, droht eine "AI Infrastructure Gap". Projekte wie Schwarz Digits' €11 Mrd. Rechenzentrum Lübbenau oder das Telekom/Nvidia-Projekt München sind Leuchttürme, aber die politische Akzeptanz bleibt eine Hürde.
+Die Frage dahinter: Kann Europa seine ambitionierten KI-Ziele erreichen, wenn es den Bau kritischer Infrastruktur nicht beschleunigt und die öffentliche Meinung nicht gewinnt?
 
-**KI-Agenten: Der €200 Mrd. InvestAI-Plan trifft auf die 10%-Tageswachstums-Realität**
-Kontext: Persönliche KI-Agenten wie Instinct wachsen mit 10% pro Tag und erreichen 1 Milliarde Dollar Transaktionsvolumen in sechs Monaten, was das Potenzial hat, ganze Branchen wie den E-Commerce und Dienstleistungssektor zu revolutionieren, indem sie Reibungsverluste beseitigen. Gleichzeitig mobilisiert die EU mit InvestAI €200 Mrd. für KI-Investitionen, darunter €20 Mrd. für 4-5 KI-Gigafactories. Deutsche Akteure wie Rolf Schumann (Schwarz Digits) und Tim Höttges (Telekom) treiben eigene Gigafactory-Bewerbungen voran, um Europas Chip-Anteil zu erhöhen.
-Die Frage dahinter: Ist Europas strategische Investition in KI-Infrastruktur schnell genug und ausreichend dimensioniert, um mit der disruptiven Geschwindigkeit und dem Kapitalbedarf von US-KI-Agenten-Startups mitzuhalten, oder werden europäische Unternehmen zu spät auf den Zug aufspringen, um von der "Zero-Effort-Economy" zu profitieren?
+**Mikrogravitations-Monopol: Europas Chance im Weltraum-Biotech?**
+Kontext: Will Bruey (Varda) verkündet den Start einer Flotte von Wiedereintrittsfahrzeugen für die Mikrogravitations-Fertigung, die auf der Erde nicht replizierbar ist. Mit Fokus auf Biotech, insbesondere monoklonale Antikörper, könnte dies eine neue Dimension der Industriepolitik eröffnen. Während die EU €200 Mrd. in terrestrische KI-Gigafactories investiert, bleibt die Frage, wie Europa sich in diesem neuen, strategisch wichtigen Sektor positioniert.
+Die Frage dahinter: Sollte die EU eine "Space-Biotech-Souveränität" anstreben, um nicht von einem US-Monopol auf Mikrogravitations-Produkte abhängig zu werden?

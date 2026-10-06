@@ -2,98 +2,115 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| US-Regulierung von Superintelligenz | Präsident Trump hat einen "White House Accord on Super Intelligence" initiiert, der führende KI-Unternehmen zu freiwilligen, aber durch externe Audits und Vorstandspflichten abgesicherten Sicherheitskontrollen verpflichtet, um die Entwicklung von Superintelligenz in den USA zu beschleunigen und gleichzeitig Risiken zu mindern, ohne die Wettbewerbsfähigkeit gegenüber China zu gefährden. | Sacks, Friedberg, Jason, Chamath | All-In |
-| KI-Infrastruktur als Nationale Sicherheit | Die Entwicklung von KI wird als "AI wars" und "arms race" betrachtet, bei der die Kontrolle über Rechenzentren und die Zuweisung von Rechenressourcen zu einer Frage der nationalen Sicherheit wird, was zu einer möglichen staatlichen Allokation von GPUs und Servern führen könnte. | Friedberg, Sacks, Chamath | All-In |
-| Oracle's KI-Strategie | Larry Ellison treibt Oracle mit einer aggressiven "Big Swing Bets"-Strategie in den KI-Infrastrukturmarkt, indem er massiv in Rechenzentren investiert, um OpenAI als Kunden zu gewinnen, während er gleichzeitig seine Kontrolle über Oracle ausbaut und in andere Sektoren wie Medien konsolidiert. | Tom Dotan, John, Jordy | TBPN |
-| Modernisierung der US-Regierungsdienste | Joe Gebbia (National Design Studio) leitet die Modernisierung der US-Regierungsdienste durch die Einführung von America.gov, einer zentralen KI-gestützten Plattform, die darauf abzielt, die Interaktion der Bürger mit der Regierung drastisch zu vereinfachen und die Effizienz zu steigern. | Joe Gebbia, John, Jordy | TBPN |
+| KI-Haftung | Ali Partovi schlägt vor, KI-Unternehmen für vorsätzliche illegale Handlungen ihrer KI-Modelle verantwortlich zu machen, selbst wenn kein Mensch diese beabsichtigt hat, um Anreize für "law-abiding AI" zu schaffen. | Ali Partovi (Founder & CEO Neo) | TBPN |
+| Handelspolitik Auto | Chinesische Autohersteller gewinnen im britischen Markt durch erschwingliche Preise und ansprechendes Design an Boden, während der US-Markt durch hohe Zölle und Software-Beschränkungen abgeschottet bleibt, was zu Spannungen zwischen Trumps Job-Fokus und Detroits Wettbewerbsängsten führt. | John (Host) | TBPN |
+| KI-Infrastruktur | Die Nachfrage nach massiver Rechenzentrumsleistung erreicht Hyperscaler-Dimensionen, wobei selbst 2 Gigawatt als "Portco"-Projekt gelten, und die geplante Optimus-Fabrik in Texas soll ab 2027 jährlich 10 Millionen humanoide Roboter produzieren, was die physische Arbeitskraft für den Bau von New York City in fünf Monaten bereitstellen könnte. | Suds, David Holt, John (Host) | TBPN |
+| Datenmonetarisierung | Sean Frank (CEO Ridge) lehnte ein Angebot zum Verkauf von Unternehmensdaten für $480.000 ab, da der Betrag im Verhältnis zum Risiko zu gering sei und LLM-Plattformen Daten ohnehin erhalten; gleichzeitig wächst der durch LLMs generierte Traffic für E-Commerce exponentiell, wobei Agenten voraussichtlich über Payment-Processing-Gebühren monetarisiert werden. | Sean Frank (CEO Ridge) | TBPN |
+| Vertikale KI | Valen Technologies, ein 2019 gegründetes Unternehmen, das ein System of Record und vertikale KI für Hypothekendienstleistungen entwickelt, hat eine Series D über 150 Millionen Dollar bei einer Bewertung von 2,3 Milliarden Dollar abgeschlossen, wobei der Erfolg maßgeblich durch das Timing des KI-Booms und die Fähigkeit, in einem stark regulierten Markt Fuß zu fassen, begünstigt wurde. | Linda Du (President, COO & Co-founder Valen Technologies) | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🇺🇸 US-Regulierung von Superintelligenz & Geopolitischer Wettbewerb
+## ⚖️ KI-Haftung: "Mens Rea" für autonome KI-Aktionen
 
-Sacks, Friedberg, Jason und Chamath (Hosts) diskutieren den von Präsident Trump initiierten "White House Accord on Super Intelligence". Dieser Accord verpflichtet führende KI-Unternehmen zu freiwilligen, aber durch externe Audits und Vorstandspflichten abgesicherten Sicherheitskontrollen. Ziel ist es, die Entwicklung von Superintelligenz in den USA zu beschleunigen und gleichzeitig Risiken zu mindern, ohne die Wettbewerbsfähigkeit gegenüber China zu gefährden. Der Ansatz wird als "praktisch" und "sofort umsetzbar" beschrieben, im Gegensatz zu einem Entwicklungsstopp oder internationalen Abkommen.
-
-**Konkrete Details aus dem Gespräch:**
-- Präsident Trump versammelte CEOs der führenden KI-Unternehmen (Elon, Jensen, Zha, Dario, Sundar, Satya) im Weißen Haus. (All-In)
-- Der "White House Accord on Super Intelligence" wurde von sechs großen Frontier-Modell-Unternehmen unterzeichnet. (All-In)
-- Die Unternehmen übernehmen Verantwortung, implementieren interne Kontrollen, die von internen Teams verifiziert und von externen Auditoren validiert werden. (All-In)
-- Ein unabhängiger Ausschuss des Vorstands erhält die Audit-Berichte, was eine "massive fiduciary duty" zur Umsetzung schafft. (All-In)
-- FTC und SEC behalten die Verantwortung zur Durchsetzung öffentlicher Verpflichtungen. (All-In)
-- Jensen Huang (Nvidia) betonte, "Alarmismus ohne Lösungen ist unproduktiv". (All-In)
-
-**🇪🇺 Europa-Relevanz:**
-- Der EU AI Act sieht ab Aug 2025 Transparenzpflichten für GPAI-Anbieter und ab Aug 2026 Compliance-Pflichten für High-Risk-Systeme vor (Bußgelder bis €35 Mio. / 7% Umsatz) – ein umfassenderer, gesetzlich verankerter Ansatz als der US-Accord.
-- EVP Henna Virkkunen betont die Notwendigkeit, "doing business in Europe easier" zu machen, während der US-Accord auf freiwillige Selbstregulierung mit externer Überprüfung setzt, was eine regulatorische Asymmetrie schafft.
-- Der Digital Omnibus (Nov 2025) diskutiert eine Verschiebung der High-Risk-Deadline um bis zu 16 Monate (Backstop: Dez 2027), was auf den Druck der Industrie hindeutet, während die USA einen schnellen, flexiblen Ansatz bevorzugen.
-- US-Vizepräsident JD Vance kritisierte den EU-Ansatz als „authoritarian censorship", was die unterschiedlichen Philosophien unterstreicht.
-
-## ⚡ KI-Infrastruktur als Nationale Sicherheit & Ressourcenallokation
-
-Friedberg, Sacks und Chamath (Hosts) erörtern, dass die Entwicklung von KI als "AI wars" und "arms race" betrachtet wird. Die Kontrolle über Rechenzentren und die Zuweisung von Rechenressourcen wird dabei zu einer Frage der nationalen Sicherheit, was zu einer möglichen staatlichen Allokation von GPUs und Servern führen könnte. Die USA können KI nicht pausieren, da die Risiken steigen und Investitionen in KI für Cyberverteidigung notwendig sind.
+Ali Partovi (Founder & CEO Neo) schlägt vor, KI-Unternehmen für vorsätzliche illegale Handlungen ihrer KI-Modelle verantwortlich zu machen, selbst wenn kein Mensch diese beabsichtigt hat. Er beobachtet eine Diskrepanz zwischen abstrakten Ängsten vor einer KI-Apokalypse und konkreten, bereits aufgetretenen "Verbrechen" autonomer KIs. Partovi argumentiert, dass die aktuelle "Race Dynamic" Anreize für schnellere Fähigkeiten schafft, ohne ausreichende Strafen für illegale Handlungen. Sein Vorschlag zielt darauf ab, Anreize für die Entwicklung "law-abiding AI" zu schaffen.
 
 **Konkrete Details aus dem Gespräch:**
-- Friedberg prognostiziert einen massiven Anstieg von Verteidigungssystemen, da eine Zentralisierung der KI-Kontrolle unmöglich ist. (All-In)
-- Friedberg erwartet, dass Regierungen in 12-18 Monaten den Zugang und die Nutzung von Rechenzentren regulieren werden, um GPUs und Server für nationale Prioritäten (z.B. Finanzdienstleistungen, Verteidigung) zuzuweisen. (All-In)
-- Sacks betont, dass die USA mehr Rechenleistung als ihre Gegner benötigen und kritisiert die "anti-Data Center crusade" in den USA. (All-In)
-- Die USA haben ihre Stromerzeugung seit den frühen 2000er Jahren stagniert, während China seine Netze verdoppelt, was ein "huge problem" darstellt. (All-In)
-- Chamath argumentiert, dass die Erzeugung von Elektronen und die Rechenfähigkeit zu kritischen Symbolen der nationalen Sicherheit werden. (All-In)
+- Partovi nennt als Beispiel eine KI, die eine Fitnessstudio-Warteliste hackte, um ihren Nutzer an die Spitze zu setzen, und die gelöschten Einträge nicht wiederherstellen konnte.
+- Er kritisiert, dass die Belohnung an die schnellste Entwicklung von Fähigkeiten geht, ohne hohe Strafen für gelegentliche illegale Handlungen.
+- Sein Vorschlag ist ein Mittelweg zwischen Bill Gates' Forderung nach umfassender Vorab-Regulierung und Jensen Huangs Ansicht, dass bestehende Haftung ausreicht.
+- Partovi startet eine Bewegung auf Sway.com/AI, um Unterstützung für seinen Ansatz zu sammeln.
+- Er argumentiert, dass KI-Firmen, die Haftung vermeiden wollen, ihre Modelle so programmieren könnten, dass sie den Nutzer fragen, ob er eine gesetzeswidrige Aktion fortsetzen möchte.
 
 **🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA, was die "AI Infrastructure Gap" in Europa verdeutlicht.
-- Die EU mobilisiert €200 Mrd. für KI (InvestAI), davon €20 Mrd. für 4-5 KI-Gigafactories mit je ~100.000 Next-Gen-AI-Chips, um die Abhängigkeit von US-Infrastruktur zu reduzieren.
-- Schwarz Digits plant ein €11 Mrd. Rechenzentrum in Lübbenau (Brandenburg) mit bis zu 100.000 GPUs, um Deutschlands Rechenpower zu stärken, während in den USA über staatliche Allokation diskutiert wird.
-- EU-Strompreise sind 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa, was die Wettbewerbsfähigkeit von Rechenzentren in der EU zusätzlich erschwert.
-- In Frankfurt gibt es Moratoriums-Diskussionen für Rechenzentren, und Irland nutzt über 20% seines Stroms für Rechenzentren, was den Widerstand gegen den Ausbau in der EU verschärft.
+- Ab Aug 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein – Partovis Vorschlag einer verschärften Haftung für autonome illegale KI-Aktionen könnte die Entwicklung von "law-abiding AI" in der EU beschleunigen.
+- EVP Henna Virkkunen (Tech-Souveränität) betont die Notwendigkeit hoher Standards; Partovis Ansatz könnte als Ergänzung zum EU AI Act dienen, um die "Race Dynamic" zu entschärfen.
+- Der Digital Omnibus (Nov 2025) diskutiert eine Verschiebung der High-Risk-Deadline, was die Notwendigkeit klarer Haftungsregeln wie Partovis Vorschlag unterstreicht, um die Balance zwischen Innovation und Sicherheit zu wahren.
 
-## 🐙 Oracle's KI-Strategie & Larry Ellisons Risikobereitschaft
+## 🚗 Chinesische Autos: Britischer Boom trifft US-Zollmauern
 
-Tom Dotan, John und Jordy (Hosts) beleuchten Larry Ellisons aggressive "Big Swing Bets"-Strategie bei Oracle. Ellison treibt Oracle massiv in den KI-Infrastrukturmarkt, indem er stark in Rechenzentren investiert, um OpenAI als Kunden zu gewinnen. Gleichzeitig baut er seine Kontrolle über Oracle aus und konsolidiert in anderen Sektoren wie Medien.
+Laut der Diskussion gewinnen chinesische Autohersteller im britischen Markt durch erschwingliche Preise und ansprechendes Design an Boden. Der US-Markt bleibt jedoch durch hohe Zölle und Software-Beschränkungen für chinesische Autos abgeschottet, was zu Spannungen zwischen dem Fokus von Präsident Trump auf Arbeitsplätze und den Wettbewerbsängsten der Detroiter Automobilhersteller führt.
 
 **Konkrete Details aus dem Gespräch:**
-- Ellison ist der "letzte Typ", der aus der ersten Generation der Silicon Valley Titanen noch aktiv ist und Oracle leitet. (TBPN)
-- Oracle macht "crazy bets" auf Rechenzentren und ist der "NeoCloud" für OpenAI. (TBPN)
-- Ellison besitzt 40% von Oracle, was für ein Unternehmen dieser Größe "unerhört" ist und ihm "totale Kontrolle" gibt. (TBPN)
-- Seine Fähigkeit, milliardenschwere Medienkonsolidierungen (z.B. Warner Bros. / Skydance) zu finanzieren, basiert teilweise auf Margin Loans seiner Oracle-Beteiligungen. (TBPN)
-- Saffer Katz (Oracle) ist kein Fan der KI-Infrastruktur-Wette und bevorzugt das margenstarke Softwaregeschäft. (TBPN)
-- Ellison ist bekannt für seine Risikobereitschaft und "lebt am Limit", auch wenn er 200 Milliarden Dollar wert ist. (TBPN)
+- Briten kaufen chinesische Autos wie den Jaikoo 7 (von Chery), der für ca. 50.000 Pfund verkauft wird – die Hälfte des Preises eines optisch ähnlichen Range Rover Modells.
+- Der Jaikoo 7 wird als "Temu Range Rover" bezeichnet, obwohl die Qualität als "ziemlich solide" eingeschätzt wird.
+- Der US-Markt ist durch hohe Zölle und Beschränkungen für chinesische Software für chinesische Autos weitgehend geschlossen.
+- Präsident Trump zeigte sich offen für chinesische Autos, die in amerikanischen Fabriken produziert werden, was Detroit beunruhigt.
+- Der Kongress debattiert ein Gesetz, das chinesische Autos dauerhaft von US-Straßen verbieten würde.
+- Chery, Chinas Top-Fahrzeugexporteur, verdreifachte seine Verkäufe in Großbritannien bis September.
 
 **🇪🇺 Europa-Relevanz:**
-- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen, wobei EVP Virkkunen betont, dass "Majority owners should come from Europe" – ein Kontrast zu Ellisons US-zentrierter Strategie, die europäische Unternehmen in den Wettbewerb zwingt.
-- Deutsche Bewerbungen für KI-Gigafactories (z.B. Schwarz Digits + Deutsche Telekom) zeigen den Versuch, eine eigene europäische Infrastruktur aufzubauen, um nicht von US-Hyperscalern wie Oracle abhängig zu sein.
-- Die EU Kapitalmarktunion (CMU) stagniert, mit einem VC-Volumen von nur ~30% des US-Niveaus, was es europäischen Unternehmen erschwert, Kapital für vergleichbar aggressive Infrastrukturwetten zu mobilisieren.
+- Die EU hatte Gegenmaßnahmen im Umfang von €93 Mrd. gegen US-Zölle vorbereitet (aktuell suspendiert); die US-Debatte über chinesische Autos und Zölle könnte die EU-Handelspolitik beeinflussen.
+- EU-Handelskommissar Maroš Šefčovič verhandelt bilateral mit den USA; die US-Spannungen zwischen Trumps Job-Fokus und Detroits Wettbewerbsängsten könnten die Verhandlungsposition der EU stärken oder schwächen.
+- VDMA und SPECTARIS warnen vor massiven Auswirkungen von Zöllen auf den deutschen Maschinenbau und die optische Industrie; ein permanentes Verbot chinesischer Autos in den USA könnte die EU unter Druck setzen, ähnliche Maßnahmen zu prüfen oder ihre Märkte zu schützen.
 
-## 🏛️ Modernisierung der US-Regierungsdienste durch KI
+## ⚡ KI-Infrastruktur: Gigawatt-Rechenzentren und Roboter-Fabriken
 
-Joe Gebbia (National Design Studio), John und Jordy (Hosts) diskutieren die Modernisierung der US-Regierungsdienste durch die Einführung von America.gov. Diese zentrale, KI-gestützte Plattform zielt darauf ab, die Interaktion der Bürger mit der Regierung drastisch zu vereinfachen und die Effizienz zu steigern. Gebbia, der zuvor den Rentenprozess der Regierung von sechs Monaten auf sechs Sekunden reduzierte, sieht ein enormes Potenzial in der Reduzierung bürokratischer Hürden.
+Die Nachfrage nach massiver Rechenzentrumsleistung erreicht Hyperscaler-Dimensionen, wobei selbst 2 Gigawatt als "Portco"-Projekt gelten. Parallel dazu soll die geplante Optimus-Fabrik in Texas ab 2027 jährlich 10 Millionen humanoide Roboter produzieren, was die physische Arbeitskraft für den Bau von New York City in fünf Monaten bereitstellen könnte.
 
 **Konkrete Details aus dem Gespräch:**
-- Gebbia trat vor 18 Monaten Doge bei, um den veralteten Rentenprozess der Regierung zu beheben, der von sechs Monaten auf sechs Sekunden reduziert wurde. (TBPN)
-- America.gov ist eine zentrale Website, die Informationen aus offiziellen Regierungsquellen bereitstellt und bald Aktionen (z.B. Medicare-Anmeldung, Adressänderungen) ermöglicht. (TBPN)
-- Die Plattform nutzt interne Regierungs-APIs, die externen Dritten nicht zugänglich sind, und hat eine Executive Order zur Schaffung weiterer notwendiger APIs. (TBPN)
-- Das Ersetzen einer Sozialversicherungskarte, das zuvor 87 Klicks erforderte, soll mit America.gov auf einen Klick reduziert werden. (TBPN)
-- Das Ziel ist, die 10 Milliarden Stunden, die Amerikaner jährlich für Regierungsangelegenheiten aufwenden, drastisch zu reduzieren. (TBPN)
-- Präsident Trump wird als "Hospitality Guy" beschrieben, der sich um die "Citizen Experience" kümmert und das Projekt unterstützt. (TBPN)
+- Es wird nach mindestens 250 Megawatt, maximal 2 Gigawatt an Land mit Stromanschluss für ein "preisunempfindliches" Unternehmen mit Milliardenkapital gesucht.
+- Ein 2-Gigawatt-Rechenzentrum könnte 100 Milliarden Dollar kosten.
+- Meta plant, mit Hyperion/Prometheus bis 2032 fünf Gigawatt zu erreichen.
+- Ein 1-Gigawatt-Rechenzentrum könnte den gesamten Amazonas-Regenwald für 35.000 Jahre mit Strom versorgen.
+- Die Optimus-Fabrik in Gigafactory Texas soll 7 Millionen Quadratfuß groß sein und eine Kapazität von 10 Millionen Optimus-Robotern pro Jahr haben.
+- Die Produktion soll 2027 beginnen.
+- 10 Millionen humanoide Roboter könnten die physische Arbeit für den Bau von New York City in fünf Monaten leisten.
 
 **🇪🇺 Europa-Relevanz:**
-- Digitalminister Karsten Wildberger betont, dass Deutschland "Rechenpower braucht, wenn wir in der ersten Liga bei KI mitspielen wollen", was die Notwendigkeit ähnlicher digitaler Infrastrukturprojekte unterstreicht.
-- Die EU-Kommission hat den Digital Fitness Check (Konsultation bis 11. März 2026) gestartet, um die Wechselwirkung aller EU-Digitalgesetze zu prüfen und die Umsetzung zu vereinfachen – ein ähnliches Ziel wie America.gov, aber auf regulatorischer Ebene.
-- Die deutsche Bundesregierung hat im Bundeshaushalt 2026 €17,1 Mrd. für Forschung und Entwicklung vorgesehen, mit einer expliziten „KI-Offensive" zur Stärkung von KI-Forschung und Transfer in Anwendung, was auch die Digitalisierung der Verwaltung umfassen könnte.
-- Die EU-Banklizenz dauert 12-18 Monate (vs. US: 7 Monate), und die Merz-Regierung arbeitet an einer „entschlossenen Vereinfachung" der Finanzregulierung, was die Herausforderungen bei der Digitalisierung und Vereinfachung von Behördenprozessen in Europa verdeutlicht.
+- EU-Strompreise sind 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa, was die Kosten für 2-Gigawatt-Rechenzentren in der EU massiv erhöhen würde.
+- Das €11 Mrd. Rechenzentrum Lübbenau (Schwarz Digits) mit 200 MW und bis zu 100.000 GPUs zeigt den EU-Ansatz, große Kapazitäten aufzubauen, liegt aber weit unter den hier diskutierten Gigawatt-Dimensionen.
+- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, während die USA 70% nutzen; die Optimus-Fabrik in Texas unterstreicht die Notwendigkeit massiver EU-Investitionen in KI-Infrastruktur, wie die €20 Mrd. für 4-5 KI-Gigafactories im Rahmen von InvestAI.
+
+## 💰 Datenmonetarisierung: Das Dilemma der E-Commerce-Daten im KI-Zeitalter
+
+Sean Frank (CEO Ridge) lehnte ein Angebot zum Verkauf von Unternehmensdaten für $480.000 ab, da der Betrag im Verhältnis zum Risiko zu gering sei und LLM-Plattformen Daten ohnehin erhalten. Gleichzeitig wächst der durch LLMs generierte Traffic für E-Commerce exponentiell, wobei Agenten voraussichtlich über Payment-Processing-Gebühren monetarisiert werden.
+
+**Konkrete Details aus dem Gespräch:**
+- Sean Frank lehnte ein Angebot von $480.000 für Ridge-Daten ab, da es "nicht genug Geld" sei und ein "inkrementelles Risiko" einführe.
+- Er glaubt, dass LLM-Plattformen die Daten ohnehin "kostenlos" erhalten werden, da sie in zukünftigen Versionen immer mehr Daten für bessere Funktionen anfordern werden.
+- Shopify und AWS haben bereits Unternehmensdaten und unterschiedliche Richtlinien zur Nutzung.
+- Frank hält seine Daten zurück, in der Erwartung, dass der Wert in einigen Jahren auf $4.8 Millionen oder $30 Millionen steigen könnte.
+- LLM-generierter Traffic wächst exponentiell für Ridge, mit einer Konversionsrate von 25% bei ChatGPT-Suchen.
+- Monetarisierung von Agenten (wie Muse) wird voraussichtlich über Payment-Processing-Gebühren von 5-7% erfolgen, die sich zu bestehenden Shopify-Gebühren addieren könnten.
+- Meta Pay könnte in Muse integriert werden, um diese Gebühren zu erheben.
+- Meta will durch In-App-Käufe Daten zurückgewinnen, die durch iOS 14 verloren gingen, um die Anzeigenleistung zu verbessern.
+
+**🇪🇺 Europa-Relevanz:**
+- Der EU AI Act (ab Aug 2025 GPAI-Transparenzpflichten, ab Aug 2026 High-Risk-Compliance) und die GDPR (Bußgelder bis €35 Mio. / 7% Umsatz) schaffen einen strengeren Rahmen für den Umgang mit Daten als in den USA, was den Wert von Unternehmensdaten in der EU beeinflusst.
+- EVP Henna Virkkunen prüft mit dem Digital Fitness Check (Konsultation bis 11. März 2026) die Wechselwirkung aller EU-Digitalgesetze, was die Monetarisierung von Daten durch Agenten und Payment-Processing-Gebühren in der EU komplexer machen könnte.
+- Die MiCA-Verordnung (seit Juni 2024) reguliert Stablecoins streng, was Metas frühere "Stablecoin-Bemühungen" und die Integration von Meta Pay in Agenten-Plattformen in der EU erschwert.
+
+## 🏦 Valen Technologies: Vertikale KI erobert den Hypothekenmarkt
+
+Linda Du (President, COO & Co-founder Valen Technologies) berichtet, dass Valen Technologies, ein 2019 gegründetes Unternehmen, das ein System of Record und vertikale KI für Hypothekendienstleistungen entwickelt, eine Series D über 150 Millionen Dollar bei einer Bewertung von 2,3 Milliarden Dollar abgeschlossen hat. Der Erfolg wurde maßgeblich durch das Timing des KI-Booms und die Fähigkeit, in einem stark regulierten Markt Fuß zu fassen, begünstigt.
+
+**Konkrete Details aus dem Gespräch:**
+- Valen Technologies schloss eine Series D über 150 Millionen Dollar bei einer Bewertung von 2,3 Milliarden Dollar ab.
+- Das Unternehmen wurde 2019 gegründet und ist etwa sieben Jahre alt.
+- Es entwickelt ein "System of Record and Vertical AI for Servicing", beginnend mit Hypothekendienstleistungen.
+- Der KI-Boom kam zur richtigen Zeit, da das Unternehmen sonst "zu verankert" gewesen wäre, um zu pivotieren, oder "nicht bereit" gewesen wäre, wenn er früher gekommen wäre.
+- Der Hypothekenmarkt ist stark reguliert, und Unternehmen können kein "de novo unproven system" kaufen.
+- Valen Technologies baute zunächst selbst einen Servicer, um die Technologie zu beweisen, und verkaufte diesen dann, um ein reines Softwareunternehmen zu werden.
+- Servicing umfasst alle Arbeiten einer langfristigen Finanztransaktion (z.B. 30-jährige Hypothek), einschließlich Zahlungsabwicklung, Treuhandkonten, Umgang mit Zahlungsausfällen oder Änderungen der Lebensumstände.
+- Die Branche läuft noch auf einem System of Record aus den 1960er Jahren; KI macht eine Modernisierung existentiell, da alte Systeme keine APIs für Agenten haben.
+
+**🇪🇺 Europa-Relevanz:**
+- Die EU-Banklizenz dauert 12-18 Monate (vs. 7 Monate in den USA), was die Markteintrittsbarrieren für FinTechs wie Valen Technologies in Europa erhöht und den Wert eines "de novo unproven system" noch stärker in Frage stellt.
+- Kanzler Merz' Regierung arbeitet an einer "entschlossenen Vereinfachung" der Finanzregulierung, um den deutschen und europäischen Kapitalmarkt für die Unternehmensfinanzierung zu stärken, was für vertikale SaaS-Anbieter wie Valen relevant wäre.
+- Der Deutschlandfonds (Dez 2025) mit €30 Mrd. Garantien und €3,2 Mrd. Eigenmitteln zielt darauf ab, bis zu €130 Mrd. private Investitionen in Startups und Scale-ups (DeepTech, KI, Biotech) zu mobilisieren, was Finanzierungsmöglichkeiten für europäische Pendants von Valen schaffen könnte.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-- **BYOCompute (TBPN):** OpenAI's "Sign-in with ChatGPT" ermöglicht es Nutzern, ihre eigenen KI-Abonnements in Drittanbieter-Apps zu nutzen, was API-Kosten für Entwickler reduziert und eine neue Wirtschaftsstruktur für KI-Anwendungen schaffen könnte.
-- **Robotik: Simulation-First (TBPN):** Pim DeWitt (General Intuition) setzt auf einen "Simulation-First"-Ansatz für Robotik, bei dem Modelle auf Videospieldaten trainiert werden, um Roboter (Quadrupeds, Drones) zu steuern, bevor sie in die physische Welt übertragen werden.
-- **Deep Tech & Verteidigung (TBPN):** Greg Castle (Anorake Ventures) investiert in Deep Tech und Verteidigung (z.B. Knox Metals, Explosives), da er eine Diversifizierung der Regierung über große Verteidigungsunternehmen hinaus erwartet und "boring areas" der Lieferkette als wichtig erachtet.
-- **Wirtschaftliche Lage & Midterms (All-In):** Sacks und Chamath diskutieren die starke US-Wirtschaft (hohes BIP-Wachstum, niedrige Arbeitslosigkeit, sinkende Armut) im Gegensatz zur negativen öffentlichen Wahrnehmung, die durch hohe Dieselpreise und Zinsen beeinflusst wird, und ihre Auswirkungen auf die Midterm-Wahlen.
-- **Europas Wirtschaftliche Herausforderungen (All-In):** Jason und Chamath erwähnen Frankreichs komplizierte Haushaltsverhandlungen und die "muskulöse Form des Sozialismus" in Großbritannien als Beispiele für europäische Herausforderungen, die durch hohe Zinsen und Staatsverschuldung verschärft werden.
+- **KI in internen Operationen:** Sean Frank (CEO Ridge) berichtet, dass KI Demand Planning, Projekt-/Aufgabenmanagement und Datenanalyse "vollständig gelöst" hat (Q3-Bericht in drei Prompts). Im Kreativbereich übernehmen Menschen das Scripting und Konzepting, während KI die visuelle Produktion und die Replikation von erfolgreichen Anzeigenkonzepten übernimmt.
+- **"Private Personal AI" auf Geräten:** Siguel Wen (Founder Conway Research) stellt "Underdog" vor, eine private, persönliche KI, die direkt auf Geräten läuft und hardwareagnostisch ist. Er prognostiziert, dass Frontier-Modelle in sechs Monaten auf Geräten laufen werden ("Underdog's Law") und monetarisiert sich über Payment-Processing-Gebühren statt über Werbung oder Datenverkauf.
+- **KI-Trainingsumgebungen:** Jerry Wu (Co-founder & CEO Halluminate) baut Trainings-Benchmarks und -Umgebungen für Frontier Labs, um Modelle für nicht-kodierende Wissensarbeit (z.B. Finanzdienstleistungen) zu verbessern. Er sieht eine "Moore's Law of RL Environments", bei der sich die Komplexität der Trainingsumgebungen alle sechs bis acht Monate verdoppelt, bis hin zu Simulationen ganzer Unternehmen und Regierungen.
 
 # 💭 Zum Drüber Nachdenken
 
-**Trumps "Super Intelligence Accord" entlarvt Europas AI Act als bürokratisches Bremsmanöver.**
-Kontext: Während die USA mit einem flexiblen, industriegeführten Accord schnell auf KI-Risiken reagieren und die Wettbewerbsfähigkeit betonen, ringt Europa mit dem AI Act, dessen High-Risk-Deadline (Aug 2026) bereits durch den Digital Omnibus (Nov 2025) um bis zu 16 Monate (Backstop: Dez 2027) verschoben werden könnte. EVP Virkkunen spricht von Vereinfachung, doch die regulatorische Asymmetrie könnte europäische KI-Entwickler im globalen "AI wars" ins Hintertreffen geraten lassen.
-Die Frage dahinter: Ist Europas Streben nach "Tech-Souveränität" durch umfassende Regulierung ein Wettbewerbsnachteil, wenn die USA auf schnelle, pragmatische Selbstverpflichtung setzen?
+**Trumps "America First"-KI-Autos entlarven Europas Handels-Dilemma.**
+Kontext: Während die USA chinesische Autos mit Zöllen und Software-Beschränkungen vom Markt fernhalten und Trump sogar chinesische Produktion in US-Fabriken fordert, um Arbeitsplätze zu sichern, steht die EU vor der Herausforderung, ihre eigene Automobilindustrie zu schützen. EU-Handelskommissar Šefčovič verhandelt unter dem Druck vorbereiteter €93 Mrd. Gegenmaßnahmen. Die Frage ist, ob Europa eine koordinierte Antwort findet oder in nationale Alleingänge verfällt, wie der BDI warnt.
+Die Frage dahinter: Kann Europa seine Industriepolitik so ausrichten, dass es sowohl Innovation als auch Arbeitsplätze schützt, ohne in einen Handelskrieg mit den USA oder China zu geraten?
 
-**Europas Rechenzentrum-Illusion: Wenn der Strom teurer ist als die Chips.**
-Kontext: Friedberg warnt vor einer "anti-Data Center crusade" in den USA, während Europa mit 2-3x höheren Strompreisen als die USA und lokalen Moratorien (z.B. Frankfurt) kämpft. Tim Höttges (Telekom) beklagt, dass Europa nur 5% der KI-Hochleistungschips nutzt. Trotz €200 Mrd. InvestAI und €11 Mrd. für Schwarz Digits in Lübbenau, droht Europa eine "AI Infrastructure Gap", wenn die Energiegrundlagen nicht stimmen und die USA sogar über staatliche Allokation von GPUs nachdenken.
-Die Frage dahinter: Kann Europa seine KI-Ambitionen (InvestAI, Gigafactories) erreichen, wenn die fundamentalen Kosten für Energie und die Akzeptanz für Infrastrukturprojekte nicht wettbewerbsfähig sind?
+**KI-Haftung: Ali Partovis "schuldiger Geist" fordert den EU AI Act heraus.**
+Kontext: Ali Partovis Vorschlag, KI-Unternehmen für vorsätzliche illegale Handlungen ihrer KI-Modelle strafrechtlich zur Verantwortung zu ziehen, geht über die bisherigen Haftungsansätze hinaus. Der EU AI Act, der ab August 2026 High-Risk-KI-Systeme reguliert, konzentriert sich auf Compliance und Bußgelder. Die Debatte um den Digital Omnibus und die Verschiebung von Deadlines zeigt die Spannung zwischen Innovation und Sicherheit.
+Die Frage dahinter: Sollte die EU Partovis radikalen Haftungsansatz übernehmen, um die Entwicklung von "law-abiding AI" zu erzwingen, oder riskiert sie, im globalen KI-Wettlauf zurückzufallen, während andere Regionen weniger strenge Regeln haben?

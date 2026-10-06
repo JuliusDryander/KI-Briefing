@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-10-06 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~176k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - AI Video Game Mods, Should You Sell Your Data, Bryan Johnson on Endurance Racing | Sean Frank, Linda Du, Ali Partovi, Sigil Wen, Jerry Wu, Bryan Johnson
 Quelle: https://podscripts.co/podcasts/tbpn-live/ai-video-game-mods-should-you-sell-your-data-bryan-johnson-on-endurance-racing-sean-frank-linda-du-ali-partovi-sigil-wen-jerry-wu-bryan-johnson

@@ -1,14 +1,3 @@
-=== KOMBINIERTES BRIEFING-MATERIAL | 2026-10-07 ===
-Quellen: TBPN
-Anzahl Transkripte: 1
-Gesamtlänge: ~150k Zeichen
-==================================================
-
-WICHTIG FÜR DIE ANALYSE:
-- Jedes Transkript ist durch '=== PODCAST-TRANSKRIPT: ...' getrennt
-- Verknüpfe Themen ÜBER Quellen hinweg, wenn sie verwandt sind
-- Gib bei jeder These an, aus welcher Quelle sie stammt
-
 === PODCAST-TRANSKRIPT: TBPN ===
 Titel: TBPN Live - Le Chonk, Buffett Discovers YouTube, The Case Against AI Job Doom | Greg Fleming, TJ Parker, Joowon Kim, Rick Dungey, Dylan Field, Hardik Kabaria
 Quelle: https://podscripts.co/podcasts/tbpn-live/le-chonk-buffett-discovers-youtube-the-case-against-ai-job-doom-greg-fleming-tj-parker-joowon-kim-rick-dungey-dylan-field-hardik-kabaria

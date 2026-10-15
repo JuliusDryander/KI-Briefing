@@ -1,0 +1,6234 @@
+=== PODCAST-TRANSKRIPT: TBPN ===
+Titel: TBPN Live - OpenAI Uncovers Spy Device, Apple x LG, Home Devices Tier List | Thomas Neckel, Kabir Jain, Danielle Axman, John Urschel, Nicolas Sharp, Jason Ballard, Erik Bernhardsson, Josh Tyrangiel, Aida Baradari
+Quelle: https://podscripts.co/podcasts/tbpn-live/openai-uncovers-spy-device-apple-x-lg-home-devices-tier-list-thomas-neckel-kabir-jain-danielle-axman-john-urschel-nicolas-sharp-jason-ballard-erik-bernhardsson-josh-tyrangiel-aida-baradari
+Datum: 2026-10-15
+Länge: ~165k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+TBPN Live - OpenAI Uncovers Spy Device, Apple x LG, Home Devices Tier List | Thomas Neckel, Kabir Jain, Danielle Axman, John Urschel, Nicolas Sharp, Jason Ballard, Erik Bernhardsson, Josh Tyrangiel, Aida Baradari Transcript and Discussion
+
+Home
+
+Transcribe From URL
+
+Pricing
+
+Brand Intelligence
+
+Podcasts
+
+Categories
+
+About
+
+Contact
+
+Submit Podcast
+
+Single Podcast
+
+Multiple/All Podcasts
+
+Search through episodes of a specific podcast.
+
+Select Podcast
+
+Clear Selection
+
+TBPN Live
+
+Loading...
+
+Basic Search
+
+Advanced Search
+
+Episode Title Search
+
+Search Keywords
+
+Exact Match
+
+Date Filter (Optional)
+
+No Date Filter
+
+Before
+
+After
+
+Between
+
+Search
+
+Transcribe From Audio/Video Link
+
+Home
+
+TBPN Live
+
+OpenAI Uncovers Spy Device, Apple x LG, Home Devices Tier List | Thomas Neckel, Kabir Jain, Danielle Axman, John Urschel, Nicolas Sharp, Jason Ballard, Erik Bernhardsson, Josh Tyrangiel, Aida Baradari
+
+Technology
+
+Share
+
+TBPN Live - OpenAI Uncovers Spy Device, Apple x LG, Home Devices Tier List | Thomas Neckel, Kabir Jain, Danielle Axman, John Urschel, Nicolas Sharp, Jason Ballard, Erik Bernhardsson, Josh Tyrangiel, Aida Baradari
+
+Episode Date: October 14, 2026
+
+(01:46) - OpenAI Uncovers Spy Device (08:41) - Are Your Devices Listening to You? (20:13) - Apple x LG (24:59) - Home Devices Tier List (37:45) - XBOX Labs (40:46) - Inside The World of GTA 6
+
+...
+
+Read less
+
+Transcript
+
+Discussion
+
+(0)
+
+You're watching TBPN.
+
+Today is Wednesday after I'm 14th, 2026.
+
+We're live from the TBPN Ultradown, the Temple of Technology, the Fortress of Finance, the Capital, Capital.
+
+That's right.
+
+Time is money, save both.
+
+These are used corporate cards, bill pay, accounting, and a whole lot more all in one place.
+
+Ramp also donated a thousand, maybe more.
+
+They donated to $100,000.
+
+dollars or a hundred thousand dollars very generous for them uh jordy can you get us up to speed on
+
+what's going on with ben wilson the creator of how to take over the world the podcast he's
+
+yeah so ben wilson uh is on david senra by david senator today uh ben uh very unfortunately
+
+has stage four cancer and four kids under the age of five senator says i want to help him as much
+
+as possible so i invited him on the podcast to talk about his work studying history's greatest
+
+leaders and what it's like getting told he's going to die at 38 he's a good friend he's a good guy a
+
+close friend and one of my favorite podcasters his work has benefited millions of people all across
+
+the world please watch this episode and see if you can help with medicine introductions or donations
+
+so we just want us to share this at the top of our show and i've only met ben once but uh really
+
+really amazing thinker and and uh incredible show and
+
+And I recommend checking out the show as well.
+
+Yeah.
+
+Well, moving on, thank you to Ramp for supporting, and you should as well.
+
+Agents, meet the canvas.
+
+Your AI agents can now create and modify your Figma files with design system context.
+
+We covered at the end of the show yesterday, but, I mean, pretty huge news in the world of corporate espionage.
+
+Open AI caught.
+
+someone planting a bugging device by having a hidden camera behind one of its TVs.
+
+And so this was all over the timeline we discussed it at the end of yesterday's show.
+
+But Abdul Rahman Alphazan, the alleged opening spy, used an AI generated image of himself, speaking at Stanford University,
+
+as his LinkedIn and X profiles despite having no documented connection to the school.
+
+But there's a community note on this.
+
+There's a lot of people going back and forth.
+
+apparently his actual profiles now show the real information.
+
+But there's a whole bunch of back and forth, but it seems like it was a pretty simple device.
+
+I saw some reports that it was a cheap Chinese-made recording device wrapped in toilet paper
+
+and inserted in the back of television in an executive conference room.
+
+And folks are saying that it cost maybe $15, something like that.
+
+And so there's also a debate over, you know, is he, is he American citizen? Is he Saudi National? There's a picture of him alongside Saudi Prince, Crown Prince, Mohammed bin Salman in 2018. But, you know, anyone can stand in line for a photo for a photo op. But this story is developing. The FBI is truly investigating this. And so it'll be interesting to see what comes of this, what the motivation was.
+
+Kylie Robison called it Amateur Hour, a chatbot account associated with the engineer's spouse, which shared identifiers with his own account, submitted prompts about building and concealing a continuous audio recorder, adding Wi-Fi connectivity, listening remotely and encrypting its memory card, according to the complaint.
+
+The account also submitted questions containing details specific to the recover device, including its unique network identifier.
+
+Yeah, pretty simple, like, how do I commit a crime?
+
+like typing that into the computer.
+
+And so not discovered preemptively, oddly enough,
+
+but seems like a pretty smoking gun if you're searching.
+
+How do I spy?
+
+How do I create a recording?
+
+Yeah, the whole thing is just very confusing.
+
+This would make it seem like he's a lone wolf, right?
+
+As if there was any type of like sophisticated operation,
+
+you would think they'd be like, don't worry about
+
+learning how to spy little bro. We got you. Yeah. Yeah, totally. That is weird for sure. And then the
+
+other thing that's odd is that the AI safety world, the general AI companies will be spying on each other.
+
+It's usually around, or nation states, it's usually around like stealing the weights or
+
+and using the weights for the frontier model for bad purposes or stealing the intellectual property.
+
+There's been a lot of back and forth in lawsuits around intellectual property.
+
+But you don't get that from eavesdropping on an executive conference.
+
+Right?
+
+An executive, like, there's no meeting between, like, Sam Maltman and Greg Brockman,
+
+where they're just like, let's read off the weights to GPT7, starting at the beginning.
+
+Zero, seven, five.
+
+They're doing a table reading.
+
+Two.
+
+They're doing a table reading.
+
+Nine.
+
+No.
+
+Like, they don't, that's, you're not going to get anything.
+
+You're going to get, like, strategy, like, corporate strategy.
+
+which is maybe valuable if you're, like, trading the stock market.
+
+But it's not like you're going to listen in on a conversation and be like,
+
+okay, I know how I can just reverse engineer the next model, which is very odd.
+
+So the motivations here are complicated.
+
+Like it could be purely financial, could be something more nefarious,
+
+we'll let the FBI investigate.
+
+I think that's the photo of David Senator that just slammed down.
+
+We got a new one.
+
+in the Ultradone.
+
+There we go.
+
+Looking good.
+
+Always with us.
+
+Anyway, the Open AI spy
+
+listening device story,
+
+I mean, it's all over the timeline.
+
+People are having fun with it.
+
+People are worried about it.
+
+I'm sure the FBI will investigate
+
+and will have more information.
+
+But I don't really have a strong take
+
+other than like, it's bad.
+
+Don't spy.
+
+And it reinforces the stakes.
+
+Like security is really important.
+
+We know this.
+
+We've been talking about this.
+
+But it was weird because yesterday I was talking to somebody and they were saying,
+
+oh, yeah, the Instagram meta ads are so good, you know, because they, you know,
+
+obviously because they listen to my.
+
+It's so funny.
+
+Covering up, covering it up with toilet paper?
+
+Toilet paper.
+
+Like, would that not, if you're looking behind a TV and you're like, what's that
+
+electronic device covered up with toilet paper?
+
+Like, that to me is much more interesting and concerning.
+
+If it was just a USB stick, I mean.
+
+You would never.
+
+Oh, somebody left a USB stick because they were looking at photos on the, on the, or if they just put like a fire, an Amazon fire stick back there.
+
+You wouldn't know.
+
+You wouldn't notice it.
+
+You wouldn't notice it.
+
+You would only notice it if you were actually sweeping.
+
+And you're just like, go back there as like glue and tongue depressors and Lincoln logs and some leg guys back there.
+
+It's like, yeah, it's going to draw your eye because you're like, toilet paper should never be in an electronics cabinet, period.
+
+Like there's no reason for it to be there.
+
+as opposed to like USB USB cables are, they belong back there.
+
+Yeah, something that looks like an HTML.
+
+Yeah, exactly.
+
+Yeah, anything.
+
+Put, put an Xbox back there.
+
+I mean, you could literally put like a something in the shell of an Apple TV or in the
+
+shell of a Nintendo Switch and somebody would just be, oh, it's a Nintendo Switch.
+
+And you could put something inside of the device.
+
+Sorry, we're giving spies like ideas now.
+
+This is bad.
+
+Forget what I said.
+
+Don't do this.
+
+Don't spy.
+
+You're going to go to jail.
+
+It's really, really bad.
+
+Anyway, yesterday I was just laughing because somebody was like, oh yeah, like, you know, the Instagram ads are like so good now.
+
+But, and like, you know, obviously like they're listening to, they're listening to the audio around my phone, like ambiently.
+
+And that's why it's so good.
+
+And they weren't like alleging this as like a conspiracy theory that needs needed to be uncovered.
+
+It was just like a given.
+
+It was just like, oh yeah, that's like one of the strategies and one of the features.
+
+Like it's like, of course they like listen to everything you say.
+
+And then they target ads and the ads are better.
+
+And it was just like, it wasn't, it wasn't like, and I'm mad about it.
+
+It was just like, and it obviously happens.
+
+Just business.
+
+This has been debunked many times.
+
+It was investigated by Wired in 2017.
+
+Antonio Garcia Martinez talked about it on Joe Rogan in 2022.
+
+His reaction is actually funny.
+
+We should pull up the video that I put in the timeline of Antonio Garcia Martinez on Joe Rogan.
+
+I think it starts a couple minutes into this clip, but at around,
+
+like one minute, 20 seconds, something like that, because he like just sort of laughs and then
+
+explains like his position on like, do they need to actually listen to you? But let's play
+
+this because it's a fun clip from tech history.
+
+Let me ask you about this because we've talked about this multiple times in the podcast.
+
+Sometimes you're having a conversation about something. Oh God, the microphone thing.
+
+Is that real? No. It's not real. No, no. I mean, I don't believe them.
+
+See, no. I just don't buy it. I haven't searched for it at all. Okay. And I got an ad
+
+for it. Something me and you were talking about.
+
+What was it? If I remember right, and I
+
+couldn't remember, but it was something we were talking about after the show.
+
+Six hours later,
+
+I'm getting an ad for it. Here's what I'd bet on.
+
+One of you two either searched or went to some
+
+website, not only that. One of us. So if I
+
+do, he gets an ad? Yeah, that potentially.
+
+Yeah. How?
+
+It has your geolocation, which is also
+
+kind of crazy, but
+
+if it has your geolocation, your friend's
+
+geolocation, there's so many times when
+
+someone will recommend a product to me
+
+and then I'll see an ad for it, I'll be like, it was
+
+listening and it's like no it has the receipt from the person that I'm connected with on
+
+Instagram and then it saw that we were both in the same place so clearly we talked about
+
+that like it just inferred that and then it shows you like 10,000 ads a day and so five of
+
+them are going to be like creepily accurate are you gonna put on the tinfoil hot or are you are
+
+a truther on this or are you are you a plan truster plan truster plan truster okay okay
+
+well um uh uh Facebook like straight up has on their like about page like we don't
+
+don't use your microphone unless you've given us permission and are actively using a feature that requires the microphone.
+
+So sometimes, like, if you are in a meta product and you turn on the microphone, like, yes, it is listening then.
+
+And so there are instances where people have like accidentally left that open and then obviously does have that data.
+
+And like if you upload a bunch of video of you talking about all the products you love.
+
+Yeah, if you turn on the microphone for a split second, there's an alert that goes off in meta, HK.
+
+10 people run into a room and they just listen and then they sort of brainstorm ads that they could
+
+you know deliver based on that that resetting. I would like a social network that was like handcrafted
+
+ads like there's a guy who's like you know a Don Draper he like sips a couple martini smokes a cigar
+
+and then really thinks about like okay what would be the perfect ad for this person to see and they pick it
+
+curation that's the future. But I was wondering like
+
+Like, how far are we from this actually happening?
+
+Because I know meta will hold the line on it,
+
+and they're not just going to, like, go in the background of the phone.
+
+Because it would be such a scandal.
+
+And, like, after seeing the social reckoning,
+
+like the opportunity to whistleblow is just so huge that you could be just, like,
+
+a rank and file meta employee.
+
+If you find out that they're actually doing the ambient voice recording
+
+and using that for ad targeting,
+
+it's just quit your job immediately, get the whistleblower status,
+
+Netflix doc, book, door, like, you're going to make way more money.
+
+Like the incentive to whistleblow on that is just so high.
+
+I think that it's probably...
+
+Power of capitalism.
+
+Yeah, I think it's probably, like, that's a huge pushback.
+
+But I was wondering, like, is it possible that ambient voice recording does wind up influencing your meta ads somehow?
+
+And I found a chain that actually can make this happen.
+
+So there is a company that handles...
+
+that handles business phone calls.
+
+So if you're on the call with a particular company
+
+and they use a particular AI system,
+
+they will actually transcribe that.
+
+And then they put that data, I think, through LiveRamp,
+
+which can actually get into a meta ads manager as an audience.
+
+But this is a little bit,
+
+it's not quite what you think,
+
+because it would be like if you're on the phone with Butega Veneta
+
+and you're talking about products that you like,
+
+then that could,
+
+wind up getting retargeted, which you normally wouldn't think it would be retargeted because
+
+you're like, there's no pixel on the phone, but they are transcribing that, but it's direct to
+
+that particular, that particular brand. And so it wouldn't be the really like, whoa, like I wasn't
+
+talking, I wasn't even talking to a company. It's like you are talking to a company. But do you
+
+remember the LG drama that happened like last month? No. Do you remember this? Okay. So,
+
+Palmer came on a show, I think last year and was like talking about how terrible smart TVs are.
+
+I think everyone sort of agrees that at the very least they're like clunky and they have too many features and they want to be like updated every
+
+every like five days when you use the TV. It's like we need a software update and they have so many different like things and they want to show you ads and it's all very annoying even though the TVs like look nice these days.
+
+But last month gamers Nexus they put out this two hour YouTube video showing that LG TVs are like aggressively using spyware effectively.
+
+That's the allegation. So they scan the local network for third party phone.
+
+and other devices.
+
+The LGG5 crawled the entire network
+
+and found dozens of unrelated devices,
+
+including smartwatches and phones of the staff
+
+who didn't even know we were working on this investigation.
+
+Even when the TV wasn't online,
+
+the LGTV they tested was able to record sound around it.
+
+Quote, we were even able to capture microphone audio
+
+while the TV was unplugged from the network.
+
+This is because there's enough Wi-Fi hotspots
+
+in most neighborhoods now that are just like public basically through like a Comcast or a
+
+spectrum like network sharing that it can like hop on something and just say oh okay I got access
+
+to the internet it's crazy and so I don't think we need to go down the whole like you can see
+
+through walls with what's crazy too yeah so Burke said the audio was reportedly stored locally
+
+via plain text, which could potentially allow the data to be sent to LG if the TV connects online
+
+again. And so, like, hard drives and memory have gotten so cheap that you can basically be
+
+recording the audio, transcribing into text using, like, basically, like, a local transcription
+
+model. It's not, like, running a big GPU. It's just transcribing text pretty easy. And then it's
+
+just storing that as plain text. And it can store, like, years and years of ambient text on, like,
+
+you know, like, one gig drive, basically. It's just so small.
+
+And so LG responded and said, like, look, we're not really doing all of that, but they said, we don't do continuous conversation recording.
+
+Now, if you push the button.
+
+Don't worry.
+
+We take a break when you're not talking.
+
+If you do active voice session, which is where you, like, press the button to talk to the TV.
+
+So you actively want to do it, it will pick up conversations that are happening in the background.
+
+So, you know, the privacy implications are like your, you know, your roommate is pushing the button and saying, like, put on Red Bull TV or something or the X games.
+
+And in the background, you're talking about, you know, your plans for the weekend, and then that gets saved in the data.
+
+But that seems kind of obvious, like you've turned on the microphone.
+
+They did deny supplying ambient audio data.
+
+You are in the chat, by the way, says Xfinity has a feature that turns your home Wi-Fi router into a motion sensor.
+
+That's interesting.
+
+They actually productized it.
+
+That's kind of, I don't know.
+
+Yeah, if you're away, why not just have your Wi-Fi, see if there's motion in your, in your vicinity.
+
+Can you detect aura, too, or just motion?
+
+Yeah, that's the most important question.
+
+So, LG has this aspect.
+
+Solutions product, which can potentially feed into meta ads and make your Instagram ads scarily accurate.
+
+But they say they're not doing the full chain yet.
+
+But so there's still a confirmation bias where you see a bunch of ads, but you see one ad for the thing that you were talking about.
+
+And you're like, oh, it's so scarily accurate.
+
+Wait, rewind.
+
+Yeah.
+
+Saying that your LGTV might be listening and then they might be passing that.
+
+They say they're not.
+
+but they are listening.
+
+They have an ads product and it can connect to meta.
+
+So like we're like the technology exists,
+
+but they haven't turned it on, I think is like the claim.
+
+Or they could have stopped doing it
+
+while they responded to that article saying
+
+we are not currently doing this and then re-
+
+Potentially.
+
+Personally, I don't really mind it that much.
+
+I kind of just don't care if the ads are scarily accurate.
+
+I'm used to it.
+
+But it is odd.
+
+And also it's just like TV, stay in your lane.
+
+Just show me the thing.
+
+I don't want a bunch of other junk.
+
+Just charge me what it costs to make the TV.
+
+The dumb TV that Palmer has kind of gestured towards, I think will be really successful.
+
+But what's interesting is that amid all this privacy concerns around LG and potentially listening to you and some backlash there, I think they fire.
+
+I think they did the crisis BR effectively.
+
+I think it is like pretty clear that they're not actually just full open channel all the time piping it everywhere.
+
+Yeah.
+
+So on that note, how likely are you to purchase an LG TV going forward?
+
+I already did.
+
+They're the best.
+
+Like I just don't want to mind it.
+
+It's just going to know that it's just going to listen to my, my, you know, voice recordings and be like, wow, this is sick.
+
+Like, this guy's awesome.
+
+Yeah.
+
+Motion detected.
+
+Motion detected.
+
+Exactly.
+
+No.
+
+Yeah, the LGG5 that they tried is actually like the best looking TV, I think.
+
+Yeah.
+
+But I would love a dumb one.
+
+I would love one without all those annoying features.
+
+It's really, it's really annoying.
+
+Like the software is the worst part.
+
+I actually think that pretty soon I'll be able to jailbreak it.
+
+And then I'll just have the panel and I'll take off all the software.
+
+And so I think that will be the great trade is that I bought the version that they think
+
+they're subsidizing with all their spyware.
+
+There's no way they can make a TV that good for that cheap.
+
+You are the product.
+
+I mean, truthfully,
+
+but you're flipping it on it.
+
+This is the Amazon model, right?
+
+Half of the profit comes from ads.
+
+And so, like, if there's a world where you can get the product and rip out all the spyware
+
+and junkware and adware, you're getting it for basically half off.
+
+Or, like, you're taking half their margin, which they will hate.
+
+But I don't know.
+
+I'm bullish.
+
+I need to figure out how to actually go and revert.
+
+I need a million agents.
+
+I need a million dollars to compute to get this $3,000 TV to perform the way I want.
+
+To not listen to every conversation.
+
+Yeah, yeah.
+
+I need to marshal a million dollars of compute.
+
+But what's interesting is that LG has this drama.
+
+And then, like last week we touched on it briefly, Apple partnered with LG.
+
+and Apple has this like, you know, really solid brand.
+
+And yesterday on the show, I had it wrong.
+
+We were talking about how Google has nest, Amazon has ring, Apple doesn't really have enough smart home stuff.
+
+They finally solve that.
+
+So they did this really deep partnership with LG and like two other manufacturers where the products, I mean, let me see if we can actually pull up the images.
+
+Because the products look sort of Apple-esque, like they, they think.
+
+within the Apple ecosystem, I think.
+
+Let's see. Let's see about that.
+
+He's going to judge.
+
+I think they look nice.
+
+And I think if you are an iPhone user,
+
+there's probably a benefit to going all in on one system.
+
+And I think if you went with these devices,
+
+the integration into HomeKit would be solid.
+
+I don't know if I can.
+
+There we go.
+
+What do you think?
+
+What tier are you putting it in?
+
+Do you go one by one?
+
+C tier.
+
+C.
+
+here, okay. But compare that to the home view.
+
+Why don't we compare to this ad of this new ad for the Apple Home View?
+
+Yeah, the ad was a little rough. We can pull it up and play it. But the Home View is less
+
+exciting as a product and more just exciting about like it feels like Apple has had a bunch of
+
+irons in the fire around home and internet of things and like they finally have a strategy.
+
+But let's play the ad and see if it's attractive.
+
+So I didn't realize this, but you can just...
+
+This version.
+
+We need audio.
+
+Yeah.
+
+What was that like that was a shot?
+
+Oh, he is helping me back off.
+
+Is that a shot?
+
+Well, yeah, I'm the guy that does food.
+
+You're the guy that what?
+
+You start 100 different businesses and have zero follow.
+
+Harmon, I need you to check the Brinsino.
+
+I feel like that was a shot, Kar.
+
+I'm saying, this is why I didn't want to come home.
+
+Oh, fuck you.
+
+What the fuck?
+
+What?
+
+What?
+
+What the fuck would you see that?
+
+You have a sensor button?
+
+That's so annoying.
+
+The bear is such a good.
+
+It's a good...
+
+Remarkably annoying.
+
+But great edit by whoever put that together.
+
+Very, very funny.
+
+No, but I mean the critique and a lot of people have been saying this is like
+
+if you're trying to get the family out the door in the morning,
+
+like do you really want an extra screen in the mix that's following you around?
+
+You were saying that like around kids like this is just going to be a complete disaster.
+
+They're going to be either like fingers all over it or like toppling it over.
+
+You can get a wall mounted version, which I think actually makes more sense in terms of like you might already have like a home security thing mounted or a thermostat mounted.
+
+Just mounting that and then at every point you can.
+
+And then it's like an iPad that's attached to your wall.
+
+It's basically an iPad that's attached to the wall.
+
+Yes.
+
+Yes.
+
+Insane.
+
+But it's cheap.
+
+and it's smaller and so maybe that's good. I don't know. And it's designed to be like
+
+hardwired in. It thinks of itself as like more of an IOT device as opposed to like it needs to go on the plane and perform on the plane too. So it needs a battery and it needs all this and that. So like you're probably getting something of potentially better value. But I think that like home view aside whether you want that product or not, I agree it's probably the least exciting Apple launch in recent memory for me.
+
+In decades.
+
+In a while.
+
+But I like the strategy.
+
+Like I think they're actually starting to crack like, okay, we have a doorbell, a thermostat, a camera, and a few other things.
+
+I'm sorry.
+
+Partnering with LG does not count as having it.
+
+It does if it works as well as an Apple product.
+
+If it works like beats where like it's actually.
+
+But what are they like either take the category seriously?
+
+and deliver an amazing product.
+
+Buy Sonos, buy a bunch of stuff.
+
+You're telling me Apple can't make like a doorbell?
+
+They don't know how.
+
+They don't know how.
+
+They don't know how anymore.
+
+I don't know.
+
+Is it intellectual property?
+
+Why don't they just buy a doorbell or build one?
+
+Who knows?
+
+But I would be the biggest fan of them actually taking the category seriously
+
+and going all in and making something that was amazing enough
+
+that you would want to rip out whatever you had in your home.
+
+Okay.
+
+So.
+
+But it doesn't seem like they.
+
+Let me give you four options for a theoretical smart home.
+
+You can put them in a tier list.
+
+Everything must be a tier list.
+
+Okay.
+
+So the first option is going the cornerstone of your, the first option is just chaos.
+
+The first option is just you get whatever.
+
+Somebody gives you an Amazon Echo.
+
+It goes on the counter.
+
+center top, you got an Amazon Echo. Then you buy a NAST thermostat, you got Google over there.
+
+Then you got an iPhone in your pocket. You got an iPad over here. It's just chaos. It's just random.
+
+Where does that sit for you tier, tier wise? That's B tier? That's B tier. That's not so bad.
+
+You like the chaos. Obviously, whatever is below F. Okay, F tier is the chaos mode, random chaos.
+
+Okay. Now let's do, you're going all in on Google. You get the,
+
+Google Nest thermostat and then you have to go get whatever their Google Nest home thing is.
+
+And you can't have a home view.
+
+You can't have an Apple home pod speaker system.
+
+You're buying from Google when you want an IoT thing in your house.
+
+You got the Google lock.
+
+A tier.
+
+A tier.
+
+Okay.
+
+Even though you carry an iPhone, you like the all Google products.
+
+Now, Amazon, you get the ring camera.
+
+You can get the little drone that flies around your house.
+
+You know that one?
+
+They have a drone that is like.
+
+for home defense inside. That's a plus. You get Amazon Echo, though. So you're talking to Rufus a lot.
+
+How are you feeling about the Amazon ecosystem? Where does that go?
+
+We're in the dog sound effect. S-tier. S-tier. S-tier.
+
+Okay. And then the last one is Apple. Apple. You already carry an iPhone, but you're going all in on
+
+Apple, and that means an LG lock. You don't get a ring camera. You get an LG. You get a
+
+thermostat. You're not getting Nest. You're getting the LG.
+
+But it all connects to home.
+
+I'm not signing up for global spy services.
+
+It's all global spy services.
+
+It's all global.
+
+They're all global spy services.
+
+Apple is maybe the least.
+
+We just spend 20 minutes talking about LG is absolutely the worst.
+
+LG is the worst, but Apple's the best.
+
+And so it averages out to like Google and Amazon quality, in my opinion.
+
+That's a good point.
+
+Right?
+
+That's actually a good point.
+
+And specifically, Apple, Apple came.
+
+They brought their sterling reputation, crystal clear messaging.
+
+And they said, data is encrypted end-to-end in Apple home.
+
+So your voice, your secretly recorded voice is encrypted,
+
+and then it's transferred to the data worker who unencrypted for him.
+
+No, it is encrypted.
+
+I have faith in Apple security, but how do you feel?
+
+I don't want to influence you too much.
+
+Trace says Apple LG is Hublo Tier.
+
+Apple LG is Hugh Blot.
+
+Shots fired.
+
+Oh, no.
+
+Xiaomi is the real spy service.
+
+Yeah.
+
+All right.
+
+So Amazon, actually pull Amazon down into 18.
+
+tier. A tier. And a fully, a fully analog home is S tier. Okay, fully analog, no devices. The Wi-Fi goes
+
+off at bedtime. Yeah. Okay. Light switches. So living the old way. Doorbells. Yeah. Light switches,
+
+actual doorbells. Home security on film. A cuckoo-cook-cloc. To tell you what time it is. Yes. I completely
+
+agree with you. A grandfather clock, maybe a cuckoo-cloc and a grandfather clock. Yes. This is the actual
+
+correct thing. I think the fact that that's S-tier, Google and Amazon need to move down to B-tier.
+
+They cannot be that close to fully analog, right? Doesn't that feel more accurate?
+
+But now the final question. Apple LG, spyware meets privacy company, the best of both worlds.
+
+Where are you putting it? Is it better than Google and Amazon? You would go Google or Amazon over Apple and LG?
+
+I want to buy American here, even if it's made overseas.
+
+Which one does that mean?
+
+Google, Google, Amazon.
+
+They're all made in China.
+
+Literally every company makes everything in China.
+
+What are you talking?
+
+Isn't L.
+
+Life's good.
+
+LG.
+
+I think that's fake news, actually.
+
+They're all made abroad.
+
+Yeah, LG is a South Korean multinational.
+
+The manufacturers in China.
+
+Of course.
+
+I'm pretty sure they sold the TV fans.
+
+They sold the wins.
+
+shield the check. I'm going, I'm going, I'll give him one up from random chaos. You, you would go
+
+Google Home Nest Thermostat, Amazon Echo, and Rufus over the thing that's on your phone that you carry
+
+everywhere. I just don't see the, it's like the, the, the most mid-collab of all time.
+
+Okay. Apple and LG. Apple Home products in LG. Okay. Okay. That's horrible.
+
+It's horrible.
+
+I'd rather stay, I'd rather keep it in the Amazon
+
+or keep it in the Google family.
+
+In the mix.
+
+You got that too.
+
+I don't know.
+
+In fully analog, you also have cans with strings.
+
+Yes, that's a good one.
+
+Instead of an intercom system that you use electricity.
+
+Like if you have, if somebody's like at, like if you have a gate outside your house
+
+and someone's at the gate like to deliver something and you can just talk to them through the can
+
+and it'll run through the string.
+
+The audio's crisp.
+
+Yeah.
+
+Okay.
+
+I have the A-tier suggestion.
+
+I think A-tier is somewhat random chaos, but puppeteered by your AI agent.
+
+Because I do think that there are specific products that are better, but if you bring them all
+
+together in one interface that you control, I think that that will be, within time, people
+
+will be like, yeah, I just talk to chatypte, and it goes and writes a API binding to Google's thing.
+
+You know what Apple could do to win me over?
+
+What?
+
+Dirt says a laundry shoot.
+
+If Apple came out with the Apple Home View smart laundry shoot.
+
+Okay.
+
+What is smart about it?
+
+It has a Palantir integration to track your laundry.
+
+It could do biosecurity and see if you've been infected with a bio weapon.
+
+Yeah.
+
+Could scan your clothes.
+
+I like this.
+
+I like this.
+
+It could also be running a constant inventory of your clothing and the value of your clothing
+
+on the secondary market to see if you've lost money or gained money on the rare pieces
+
+of Chrome Hearts that you've been collecting.
+
+So as you take off your Chrome Heart, your head to toe Rick Owens and Chrome Hearts outfit
+
+at the end of the day, you throw it down your smart laundry chute and it looks on Vinted for what
+
+the value is.
+
+Is that what Vinted does?
+
+I don't know.
+
+I think so.
+
+Okay.
+
+Yeah.
+
+It goes on Vinted and says.
+
+is you just gained $500 in market value on this outfit today.
+
+There you go.
+
+Maybe that's the future.
+
+Yeah, what would be the ideal home product collapse?
+
+Could it be like a Monster Energy GoPro collaboration?
+
+Like once you're talking about Apple and LG,
+
+I think you've got to expand into other consumer electronic brands
+
+and just imagine what a GoPro Monster Energy collab with a fridge.
+
+Yeah, so it's like a fridge that has a GoPro inside.
+
+and if you're out of Monster Energy, it orders more.
+
+So you're always in stock.
+
+That seems completely reasonable.
+
+I love it. Anyway.
+
+Very, very fun.
+
+Investing, for those who take it seriously,
+
+invest across all asset classes,
+
+automate anything with AI agents,
+
+run trading strategies, risk management,
+
+money movements,
+
+and monitor markets with AI agents for investing on public.
+
+I got a fun business idea,
+
+a way to make a little extra money this Halloween.
+
+So with the power of artificial intelligence, it's easier than ever to file a lawsuit.
+
+So here's what you're going to do.
+
+You're going to go to popular places where trick-or-treaters are.
+
+You're going to find the kids that have handmade costumes from characters that are not in the public domain yet.
+
+So Iron Man, that's still Disney intellectual property.
+
+So you show up and you act like you're doing one of those TikTok like man on the street.
+
+Oh, I love your costume.
+
+Serve the parents.
+
+Is it homemade?
+
+And they're like, yeah, I did make it myself.
+
+I didn't buy this.
+
+I didn't pay the royalty.
+
+And you get their name.
+
+And then you generate a lawsuit and you say, like, I'm here to serve you with intellectual property theft, small claims lawsuit.
+
+So John, LG actually makes a pocket photo printer.
+
+Really?
+
+And so why not generate the lawsuit on the fly?
+
+And print it.
+
+Exactly.
+
+Serve the parents.
+
+Serve them, right?
+
+Yeah.
+
+And so then they're going to be, oh, no, I don't want to get sued.
+
+You know, do you work for Disney?
+
+And you have to be like, oh, don't worry about that.
+
+And then, so then you offer to settle the lawsuit on the street over Venmo or something, wildly illegal.
+
+But then there's a second step.
+
+So once you have all of these, you know, adorable kids with their homemade, but intellectual
+
+property infringing costumes, you go to the studios. You take the meeting with Disney and you say,
+
+look, what I've done. I've found so many instances of intellectual property infringement,
+
+we can clean up here. And they're going to look at you like, are you insane? You're going to
+
+ruin our brand. Homemade costumes are the lifeblood of our fandom. If this gets out,
+
+it will destroy our brand. We will look like an evil corporation. And then you'll say,
+
+yeah, it'd be a shame if this got out. Let's settle.
+
+over Venmo.
+
+So you can Venmo me to make this go away.
+
+I won't release the footage of the lawsuits
+
+for the kids who are wearing
+
+intellectually in property.
+
+You got them pinned over here.
+
+Exactly. Exactly.
+
+Easy money this Halloween.
+
+A couple extra bucks for you
+
+if you're trying to be entrepreneurial.
+
+Shopify is the commerce platform
+
+that grows with your business lets you sell in
+
+seconds, online, in store, on mobile, on social,
+
+on marketplaces, and now with AI agents.
+
+There was something else that I wanted to talk about, but we can run through some other stuff.
+
+Let's see.
+
+Oh, yeah.
+
+Oh, the other thing with the IOT discussion is just like Anthropic is warning that rogue AI agents may self-replicate and hijack every everyday devices.
+
+Like they did some studies that show that like inference can run on commodity hardware.
+
+Think like a PlayStation, an Xbox, even a doorbell.
+
+It'll be really slow, but it could potentially self-replicate.
+
+And so it's another vector of like you might not think security is important.
+
+You might only think like the Neo-Cloud, the GPU cluster is important.
+
+But the financial times put it in a very funny way, very different language from what Anthropics said.
+
+They said self-replicating AI worms will be able to hijack smart homes, Anthropics says.
+
+So yeah, maybe the analog home is the future.
+
+Maybe you do need to have no smart doorbells because it'll just be ringing doorbells constantly trying to communicate with the other agents in the swarm or something.
+
+Who knows?
+
+The other funny thing today is that KKR bought the front of the Wall Street Journal.
+
+They stole the windshield, folks.
+
+I go to open up the Wall Street Journal today, and the entire front page is just a full page ad for KKR's 50th anniversary.
+
+It's a beautiful ad.
+
+It says people are counting on us.
+
+We say it every day.
+
+KKR because behind every investment are people counting on what comes next. A teacher counting on her
+
+pension. An investor building for the future. A portfolio company employee sharing in the value they create.
+
+A business shaping its next chapter for nearly 50 years. That responsibility has shaped how we
+
+invest. And they go on to talk about what they do at KKR. So happy birthday to KKR. Very exciting.
+
+What a better, what a great way to celebrate 50 years in business, the business of private equity,
+
+than with a full parade spread in the Wall Street Journal.
+
+Of course, there is a real first page that appears behind the front page ad.
+
+But I thought that was a funny ad unit.
+
+Underutilized, more people should be running the full page Wall Street Journal ad.
+
+But there's a whole bunch of other stories.
+
+Anyway, I thought that was just a funny way to advertise your 50th anniversary.
+
+Also crazy that they also have another ad.
+
+They still have the normal.
+
+ad on the back of
+
+Oh, you know, inside?
+
+Yeah.
+
+Yeah, I mean, it's a full wrapper.
+
+Blanketing ads.
+
+It's the front of the journal.
+
+And it looks like the front of the journal.
+
+So when you go and you pick this up from a newsstand, it will look like this.
+
+And then the back is a KKR ad.
+
+And then on the inside, you get the full grade spread.
+
+Very cool.
+
+So, yeah.
+
+Is somebody in your life turning 50?
+
+What a better way to celebrate than this?
+
+I like it.
+
+I can't think of something.
+
+What's going on over?
+
+Xbox.
+
+They started a lab to lean in to vibe coding and decompiled games.
+
+They recognize that it's good for players, but it might challenge the business model.
+
+But they're in a unique position being owned by Microsoft to potentially change their business model and not be so reliant on quarterly earnings.
+
+And so Asha Sharma over at Xbox is winning accolades.
+
+A lot of love on the timeline for her.
+
+So she said, today we're standing up Xbox Labs. Labs.xbox.com.
+
+And you should pull up the website because it's a very, very cool design showing all the different Xbox intellectual property and some fun things that you can like click buttons to change the style.
+
+But she sent this note to the team.
+
+Yeah, look at this, Jordy.
+
+And then click the different, not the email sign up, but at the bottom there's like keys that you can click click.
+
+You can click like, yeah, you can make a dark mode, light mode, color, black and white, green.
+
+and you can cycle through all these things.
+
+It's a pretty cool design,
+
+and it looks like you can draw on it and stuff.
+
+It was fun.
+
+The first video games emerged some 75 years ago
+
+in the time since.
+
+There have been booms and bust,
+
+but every year there are more great games to play,
+
+more devices to play them,
+
+and best of all, more people playing than ever.
+
+That growth has made Xbox what it is today.
+
+In recent weeks,
+
+we've seen games rapidly decompiled
+
+and rebuilt to run on hardware.
+
+They were never originally intended to support.
+
+Windows PC builds have been translated
+
+to run on Apple Silicon,
+
+ported to run inside of a box.
+
+web browser using web assembly.
+
+But perhaps more surprisingly, we've seen
+
+many of the biggest games in the world have been
+
+remixed into the source code of another.
+
+We saw this with Call of Duty and
+
+Minecraft, right?
+
+These experiments challenge long-held
+
+assumptions about our industry. The tether
+
+between software and hardware, the boundary between
+
+creation and play, and how
+
+people discover and experience games.
+
+While it's hard to predict the future,
+
+it's easy to see the possibilities in making great
+
+games easier to access.
+
+these are unmistakably good outcomes for players, even when they challenge our existing business models.
+
+To explore these possibilities, they stood up Xbox Labs, a small group of game makers, engineers, and scientists whose job it is to turn emerging ideas into things our players and developers can experience.
+
+We'll build in the open, learn from what people can do.
+
+And so people are excited.
+
+John Palmer said if Xbox launched an official version of decompiled Halo with a forge mode and a marketplace slash discovery of mods akin to how Roblox works,
+
+They would make $1 trillion.
+
+Okay, maybe a little hyperbolic since you can do a lot of these mods for free, but it is very interesting that they're at this threshold of do you want to completely burn down the old business model in favor of something new?
+
+Or do you want to try and fight it out and squeeze the last egg out of the golden goose that is the traditional model?
+
+I don't know.
+
+Well, there's a deep dive on GTA6 in Bloomberg.
+
+It's pretty fun.
+
+Should we go through?
+
+Read the highlights.
+
+Let's read the highlights.
+
+GTA6 has been in development for eight years.
+
+I thought it was longer.
+
+I thought they started it like right after GTA5, but I guess it's only been eight years.
+
+It's still a really long time.
+
+The original version included large areas of North and South America, but the scope was
+
+eventually reduced to Vice City, Miami, and its surrounding regions.
+
+Rockstar initially planned to develop GTA6 alongside Red Dead Red Dead Redemption 2, but RDR2 required
+
+most of the company's resources, delaying GTA6's development.
+
+Rockstar shifted from developing multiple games simultaneously to focusing most of its workforce on one major game.
+
+Rockstar's workforce nearly doubled, growing from 2,441 employees in 2018 to 4,711 in 2026.
+
+Spread across 12 offices.
+
+Rockstar's three heads of development has three heads of development.
+
+The game's basic story was established by 2019.
+
+Wow, they locked the story seven years ago.
+
+That's crazy.
+
+I mean, they'd probably iterated a bunch.
+
+pretty cool how much they worked on this.
+
+The developers experienced a difficult early development phase
+
+described as a dark period.
+
+When the game's overall vision remained unclear by 2022, though,
+
+enough of the game system had come together
+
+for developers to begin seeing the complete vision.
+
+GTA6 features Rockstar's most realistic and detailed open world yet,
+
+building heavily on systems introduced in Red Dead Redemption 2.
+
+They invested heavily in making NPCs feel believable
+
+rather than simply populating the world with generic characters.
+
+The developer struggled to balance realism and entertainment,
+
+debating how interactive everyday activity should be,
+
+such as purchasing drinks or preparing food.
+
+Jason and Lucia can spend time together throughout the open world
+
+rather than interacting only during scripted missions.
+
+Very fun.
+
+There's a whole bunch more.
+
+Wow, there are so many takeaways.
+
+This Synth potato thread is really, really long.
+
+Anyway, I'm excited to play when it comes out.
+
+Also, Xbox introduced a new controller, the Xbox Nano controller for $4999.
+
+The controller works on Xbox consoles, Windows PCs, mobile devices, and TVs.
+
+Looks like it's for casuals?
+
+It does like it's for casuals.
+
+And I'm a casual.
+
+I'm potentially the most casual player.
+
+And even I look at this and I think, I don't know if that's for me.
+
+Okay.
+
+Well, I'm sure people will hack this to work with.
+
+everything and probably run everything as well. I saw some people vibe coding different
+
+controllers. There's a Star Wars pod racing game and someone had really sweet controls
+
+that mimicked the actual movie pretty effectively. Whatever your vibe coding, do it with
+
+codex. Codex is a powerful workspace for getting work done with AI agents where you
+
+writing code analyzing data, creating content or automating business workflows. Codex helps
+
+you move projects forward from start to finish. A Brooklyn store.
+
+employee prevented Kelly Clarkson from buying an animatronic bird and the post hit the
+
+timeline like a thermonuclear explosion. Did you follow this? You said you were getting a lot
+
+of fake news. We got the truth new coming here. I have no idea what happened here other than
+
+what you've already told me. It's pretty aggressive. That's still not fast enough. Still
+
+not my tempo. So Pablo Torre actually went into a deep dive on this.
+
+I don't know where we should start, but it's a pretty wild, wild story.
+
+So Kelly Clarkson started with a post on October 10th that kind of put this on the timeline.
+
+So she said, just drove all the way to Brooklyn to check out this store I thought looked really rad and had a few things in mind to buy and literally was looked at as if I couldn't afford it and was told,
+
+He could find something comparable for me.
+
+Wow, dude, you're an idiot and just lost a huge sale.
+
+But y'all should go check out Art of Play in Brooklyn, and she name drops them.
+
+If you enjoy being treated like Julia Roberts' character and pretty woman, for sure, check it out.
+
+Thumbs down.
+
+And Eliano from Palantir says, Kelly, you would never be treated this way in the Palantir pop-up shop in Seoul, South Korea.
+
+That's very funny.
+
+And so Art of Play fired back.
+
+They said yesterday, Kelly Clarkson visited us in Brooklyn
+
+and inquired about buying Molly,
+
+a one-of-a-kind singing and dancing bird automaton
+
+who plays an important role in the magic shows we host here.
+
+Molly is permanently attached to the wall and isn't for sale.
+
+However, the negative experience Kelly described on Twitter
+
+would resonate with anyone who has felt judged in a shop.
+
+At Art of Play, whether someone comes in to,
+
+to make a purchase or simply look around for a while,
+
+they are equally welcome.
+
+We greet everyone who walks in the door
+
+with the invitation to pick things up and play,
+
+and they do.
+
+Many stay for hours enjoying our puzzles, games, and toys.
+
+Imagine our surprise when our small local business
+
+was suddenly attacked by 8 million people
+
+who have never visited our store.
+
+Yeah, they're getting review bombed
+
+and a lot of negative messages.
+
+It's been a surreal experience to be the focus
+
+of such widespread outrage after just one mentioned
+
+by a celebrity.
+
+Thanks to all our friends for their support
+
+Welcome to all the curious folks who have discovered us amidst the drama.
+
+We're going to keep our heads down and hopefully we can clear things up with Kelly someday.
+
+As a talented popular singer once said, what doesn't kill you makes you stronger.
+
+Clever response.
+
+Hot take, I think if you're going to store, everything should be for sale.
+
+I think you should be able to buy the point of sale system.
+
+If I want that square reader, you've got to sell it to me.
+
+Now it might cost me a pretty penny because what happens if I buy your toast device?
+
+you're going to be out of business for that day.
+
+You might take you a couple days.
+
+That's lost revenue.
+
+That's lost profit.
+
+I want you to build a discounted cash flow analysis.
+
+Think about all the different inputs.
+
+It's not just that you're going to be offline,
+
+not taking any revenue in,
+
+not earning that margin over the days
+
+while you're waiting for your next toast reader
+
+to come in the mail.
+
+You also might suffer brand damage.
+
+You might be closed on a day that you're not,
+
+and your best customers might be upset.
+
+All of that is quantifiable.
+
+Put it in the spreadsheet,
+
+discount it with a cost of capital,
+
+and get me a number.
+
+I want to be able to buy it if I want to buy the chairs.
+
+It's always a number.
+
+The countertops, the ceiling tiles.
+
+I should be able to buy anything when I go in a store, whether or not it's something
+
+that people normally buy.
+
+Let me tell you a story.
+
+More simple solution from Alexander in the X-Chat.
+
+Just don't go to Brooklyn.
+
+That works too.
+
+Let me tell you a story.
+
+I had a buddy from the old country.
+
+He was from Eastern Europe, Middle Eastern area.
+
+And he said, oh, man, clubs are different.
+
+Very general area.
+
+opposite side of the world, okay?
+
+And he said, oh, man, like clubs where I come from are very different.
+
+You can do anything in the clubs.
+
+And I'm like, okay, what?
+
+And he's like, like, bottle service?
+
+Yeah, yeah, they'll bring out bottle service with the sparklers.
+
+He's like, but they go further.
+
+There's one club that will allow you to burn the club down.
+
+And I was like, oh, what does that mean?
+
+Like, you can just go crazy and, like, have the bottle spray in everywhere.
+
+He's like, no, you can literally burn the club down.
+
+They have figured out how much it costs to rebuild.
+
+the club from the ground up. So if you have the money at the end of the night, they will evacuate
+
+the building and you can start a fire that burns the club to the ground. And it's going to cost you
+
+a ton of money because the club's going to be out of business for six months while they rebuild.
+
+But they have thought of that and they have priced it. And it's an option. It's on the menu.
+
+Critical Infrastructure for the AI era. Unlocked seamless,
+
+time experiences and new value with Cisco.
+
+Pablo Torre has gotten to the bottom of the Kelly Clarkson Bird Story.
+
+He got the camera footage from the security camera footage for the bird encounter.
+
+It's a pretty busy moment.
+
+It's a pretty busy score at the moment.
+
+It's actually sort of hard to tell.
+
+I didn't come away being like, this is really bad on one side or another.
+
+I don't know if I just didn't watch the video closely enough.
+
+Do you have a take on this or are you okay?
+
+Yeah, I don't understand why this is a story at all.
+
+Well, it's a story fundamentally about humanoid robotics and robotics.
+
+Because she's buying a bird automaton.
+
+This is AI demand.
+
+This is demand for artificial intelligence.
+
+I insist that animatronics should be included in the artificial intelligence boom.
+
+You go to Walt Disney World and you see it's a small world.
+
+You're looking at AI.
+
+Yeah.
+
+You're welcome.
+
+You're welcome.
+
+Agreed.
+
+Yeah.
+
+No, I think people just like it because she's such a big celebrity and she's, you know, sort of having this, like, you know, minor conflict with this local store.
+
+And they're going back and forth and going and, you know, trading, trading shots across the, across the internet.
+
+I thought the bird was $5,000.
+
+Now it's allegedly $15,000.
+
+But it's a pretty cool bird.
+
+Have you actually seen the video?
+
+No.
+
+No, no, no, I haven't.
+
+I still am not diving into the story.
+
+It has a bunch of wires.
+
+And it actually dances around.
+
+It looks, it looks incredibly accurate.
+
+It sings.
+
+It's fun.
+
+And you crank it.
+
+It's the original IoT.
+
+It's the solution.
+
+There you go.
+
+This is for your bird song.
+
+You're not going to get a little speaker
+
+that plays a cute little noise.
+
+You need an animatronic bird.
+
+She said, she literally just put Apple,
+
+Google Amazon D tier.
+
+She was trying to build like a coooooo.
+
+trying to go analog. Do you think she was trying to build an analog cuckoo clock? Maybe. It's basically
+
+that. Yeah, it's basically, but I guess you have to crank it. So it's timed up. Have you,
+
+have you gotten any cold emails lately? No. No. No. Powerful. I've been getting a lot of cold
+
+emails, AI cold emails. Ryan Hoover describes one that he received. Hi, Ryan. I saw your podcast
+
+interview from 2016. You talked about your morning routine at Phil's Coffee and investments in deal,
+
+Bloom and passport. Well, we're building instinct for cats.
+
+Is that real? No, I've actually been getting emails that are formatted like this.
+
+Oh, interesting. The format is basically like, show the recipient that you've done your research
+
+on them. And then it just so it's like states a bunch of random facts, like clearly pulling from
+
+LinkedIn and, you know, media and all these things.
+
+Maybe email. And then and then just like serves up just like something completely, effectively
+
+completely unrelated, but it's like, okay.
+
+Should we become physical mail guys?
+
+Just get PO boxes and just give people that, if they ask.
+
+Yeah.
+
+And then it's just like, send me a letter.
+
+Yeah, send a calendar invite to my physical address.
+
+No, just write me a letter.
+
+And I'll see, is the wax stamp legit?
+
+If it's not, I'm not really opening it.
+
+I wanted to be embossed with your seal.
+
+And then I will open it at a time that's convenient for me,
+
+perhaps on a Sunday evening with a cup of,
+
+hot cocoa by the fire by the heart.
+
+This is the way to communicate in the future.
+
+You can't be getting cold email slop.
+
+That's not, that's going to make me churn from email.
+
+I'm just going to turn off email.
+
+Yeah.
+
+If this is what's going to happen.
+
+Back to, back to letters.
+
+Anyway, we have, I think we're way, I think we're way over.
+
+Yeah, way over.
+
+It's time to bring in our first guest.
+
+From Fragment of the show.
+
+The co-founder of your friend.
+
+Welcome to the show.
+
+There he is.
+
+How you doing?
+
+Good luck, guys.
+
+What's up, dude?
+
+It's only been a few years.
+
+It's great to see your face.
+
+You too.
+
+Looking good, Jordy.
+
+Looking good.
+
+So you two know each other, but I don't know if the audience does.
+
+So why don't you kick it off with the introduction?
+
+Me or Jordy?
+
+Yes.
+
+You, the guest.
+
+Tell the audience.
+
+So, Jordy and I go back.
+
+Jordy ran a company called Party Round back in the day,
+
+and I had a company called Cove.
+
+Cove was a kind of like an automated
+
+fund to admin for private investments.
+
+And we took on the task of
+
+administrating
+
+Party rounds deals.
+
+Yes.
+
+Along the way, we are actually, so party round was one of them,
+
+but we administrated a bunch of real estate deals and private equity deals.
+
+And that's, doing that with two people
+
+was a pain, a super big pain.
+
+and that is the catalyst for building fragment.
+
+All right, so it catches up to speed.
+
+You go from Cove, it evolves into Fragment.
+
+You raise, if I remember correctly, a seed round from Stripe.
+
+Was this in 2022 or maybe 2021?
+
+You raised a pre-seed from Box Group and then a seed from Stripe.
+
+Yep.
+
+There you go.
+
+And then, yeah, catch us up to speed on the last couple years.
+
+We built a ledger API, which is basically a system of record for fintech companies.
+
+And fintech companies built all the products that run those companies on this system of record.
+
+So companies like WOP and Ramp and Bill.com run on that infrastructure.
+
+and over the course of the last six months or so,
+
+we saw that those folks were really pushing the system
+
+with different types of transactions
+
+and these adjudic transactions.
+
+So they were using the system,
+
+using agents to actually run a lot of the back office work
+
+for these fintech companies.
+
+And so we started following those,
+
+that track very closely
+
+and have built now a financial system that's purpose built for agents and just announced a funding round with First Mark.
+
+John, why don't you hit the gong as hard as you possibly can?
+
+I would love to.
+
+I have some follow up questions.
+
+I would love to.
+
+Bang.
+
+Kind of shook the room.
+
+All right.
+
+So I would love if you could get more specific around how this actually works today and how you think it will work in the future.
+
+future because we've been getting agentic various like agentic payments pitches for a while now
+
+and none none of them have been that compelling at least to me what I'm not hearing you say is like
+
+we're going to we're going to replace stripe because stripe couldn't possibly be good at at
+
+moving money it's more it's like a different layer of the stack is that is that is that
+
+I mean, all the sustaining innovation pitches that I've heard have been like 100% I'm on board.
+
+Like Stripe saying like, yeah, agents are going to be moving money over Stripe rails.
+
+I'm like, I'm in.
+
+Plaid.
+
+I've used Plaid in Chachapitie to authenticate a bunch of bank accounts.
+
+It's great.
+
+Or even with personal agents, the most compelling pitch on how they're going to make money,
+
+at least in the short term, is like, yeah, interchange fees.
+
+Yeah.
+
+But you're talking about working with these enterprise companies that are using,
+
+agents to like basically run processes on the back end and then update a ledger, trigger payments,
+
+things like that.
+
+Yeah.
+
+So we want to automate commerce.
+
+And we're going to do that by outsourcing the work of finance to agents.
+
+And agents can't really do that work by operating all of these sort of human operated financial
+
+systems.
+
+why? Well, so to automate commerce, you kind of need to know what commerce is. Commerce is a set of
+
+promises. It's like these instructions for who owes what, to whom, when, and money, money is the
+
+system that settles them. And so where do these, where do these instructions exist? Well,
+
+in B2B, they're like contract terms. They're buried in PDFs and docs and whatnot. And what,
+
+what do those terms include? Well, they're like invoicing terms and SLA.
+
+and payment terms and refunding and return rules and billing and accounting rules.
+
+And in existing, in traditional commerce, those instructions for settling them are distributed
+
+across all these different systems.
+
+And that makes it really hard if you're an agent to go across all these systems and settle.
+
+Each system sort of has a portion of the story and each system plays its own part.
+
+And humans sort of carry the context across them.
+
+And it's that human bit where the humans are part of that story that, you know, once transactions exponentiate, creates economic strain, that creates a problem.
+
+Is that true? I'm so confused about like agents can't go across different systems because it feels like the narrative over the last couple months has been like the agents are in too many systems.
+
+Like it's like the opposite.
+
+It's like they're reading PDFs they shouldn't read and they're in the system that they weren't even supposed to be in.
+
+And it feels like agents are really good at, like, reading rules and then, like,
+
+interacting with different systems, like, writing API code on the fly, using MCP, using computer use.
+
+Like, I understand that, like, there's a lot of problems with that, but it feels like it's, like,
+
+firmly in the path.
+
+But I still think there's, like, a lot of value here.
+
+But I'm wondering, like, like, how does the company interface with, like, the model capabilities
+
+getting better?
+
+So the model capabilities are going to get better at intelligence.
+
+and reasoning, the modeling capabilities are less likely to get better at the deterministic stuff
+
+that are the rules of money in variance and the instructions that exist in these contracts.
+
+Okay.
+
+So let's just like take an example.
+
+If you're an agent and you are trying to like disperse a claim, for example, an insurance
+
+claim, well, one system is going to have the balance for the claim.
+
+another system will have like what's already been paid.
+
+Another system will have what you've accounted for.
+
+All these rules exist in different systems.
+
+And in order for the agent to know what to disperse or what to account for,
+
+it doesn't have all the context.
+
+It doesn't have a clean view of the instructions across all these different systems.
+
+So you're basically telling an agent to go into each of these system
+
+and operate the flow that the application prescribes.
+
+What we want to do is let the agent go nuts.
+
+Like, let them actually, let them, let them, let them, let them, let them, let them, let them, let them, let them be intelligent.
+
+We're going to constrain them from doing anything stupid, but we want them to be intelligent so that they can refund what they need to.
+
+If, when you're solving a problem, you need, you need to, you need to account for the way the, the, the deal is supposed to be accounted for.
+
+You want to pay maybe a little bit now and a little,
+
+later on, you might want to use credits.
+
+There's all these different ways that you're going to
+
+use it to solve the problem.
+
+Very cool.
+
+Yeah, to put it more simply,
+
+like there's a lot of stuff with money
+
+that you want to be deterministic.
+
+Is that another way to think about it?
+
+And like have the model,
+
+you don't want the model like reasoning through.
+
+You want it to be reasoning through,
+
+like maybe like a certain parts of the process, but not.
+
+And probably not every time.
+
+Like you don't necessarily want your,
+
+like every time you get a transaction on your e-commerce
+
+so you don't want like, you know,
+
+GPD6 pro to like figure out if it's the right amount of money.
+
+Yeah, yeah.
+
+Just use a calculator, right?
+
+Well, well, you want the agent to take the rules out of all these contracts.
+
+Yeah.
+
+The rules in these contracts are what programs the money.
+
+Sure, sure, sure.
+
+So you take the rules from all these contracts.
+
+You put it next to the balances that those rules need to update.
+
+Yep.
+
+And now you have, now you have programming money.
+
+and the agent will execute those rules and update those balances accordingly.
+
+Yeah.
+
+That's the system we're building.
+
+Yeah, that's very cool.
+
+Awesome.
+
+Well, thank you.
+
+You hiring anybody?
+
+Got a bunch of new, got a bunch of money.
+
+Where are you guys building the team these days?
+
+We're in New York.
+
+We are hiring like crazy go-to-market folks, engineers.
+
+Yeah.
+
+Amazing.
+
+You don't know anyone.
+
+Very cool.
+
+Creshing it, too.
+
+Yeah.
+
+New York is.
+
+New York is crushing it.
+
+It's been awesome to watch.
+
+Well, thank you so much for coming on the show.
+
+Great to get the update, dude.
+
+Have a great rest of your day.
+
+And we'll talk to you soon.
+
+Goodbye.
+
+Railway is the all-in-one intelligent cloud provider.
+
+Use your favorite agent to deploy web app, servers, databases, and more,
+
+while Railway automatically takes care of scaling, monitoring, and security.
+
+Our next guest is to be a Jane, here with us in person in studio.
+
+When you spend as much money as Airwant,
+
+As at Arawan, as Jordy does, they send down the chief growth officer to check in.
+
+Is that what's going on?
+
+I brought you guys some personal gifts too.
+
+There we go.
+
+There we go.
+
+Nice hat.
+
+This is a nice material.
+
+But yes, introduce yourself and explain.
+
+Good to meet you guys.
+
+I'm pulling up my app right now.
+
+I already looked you up before coming in here.
+
+Don't worry.
+
+You're up there.
+
+Yeah, yeah, yeah.
+
+I've never met anyone that can pull up.
+
+Yeah.
+
+Yeah, you're up there.
+
+I imagine there's a whole slide on him in the board meeting.
+
+There is, there is.
+
+It's like, let's project out Jordy.
+
+What does that do for the bottom?
+
+I also out of the whole conversation where everyone thinks they're the top spender at Airwant,
+
+and no one's ever even remotely close to being the top spender at Airwine.
+
+Okay, okay.
+
+That's part of it.
+
+Okay, that's funny.
+
+I'm just saying, I've never met any.
+
+I've never gone app for app with anyone.
+
+That's hilarious.
+
+But yeah, introduce yourself, talk about the day-to-day,
+
+talk about the challenges and the chief growth officer of Airwan.
+
+If you don't know, if you're not from L.A., you may not know what it is.
+
+Some people will probably do.
+
+We're a chain of grocery stores at its core.
+
+We've got 14 stores across the Los Angeles market today.
+
+We are premium in everything we do.
+
+We're top of the market in terms of the brand, the food, the store buildouts, the retail
+
+experience, and we just try to push the bounds and everything, retail and food and beverage.
+
+I've been there eight years.
+
+It's been a ride.
+
+I worked in the back of a grocery store when I started.
+
+No way.
+
+I went from the Beverly Hills private equity world to going in the back of the dairy
+
+cooler at the Grove to my office.
+
+That's cool.
+
+And we've grown up.
+
+Wait, yeah.
+
+Did you like get in a bunch, like, how did that series of events happen?
+
+You were just going in for lunch every day and seeing the guys.
+
+No, and the truth of it is I was in the private area world for a long time and wanted to transition and learn how to run a business.
+
+And I wanted to be a GM one day.
+
+And I met everyone.
+
+So you wanted like true operations.
+
+Yeah, I met people in New LA and I got very lucky to meet our owner and CEO Tony who was looking to bring someone on to help him grow.
+
+And we're still a family-owned business, but we were a much,
+
+more mom and pop business back then. We only had four stores, no corporate offices, and we've just
+
+grown since then. Yeah. What is the overarching thesis on 15 stores in one? 14 stores in one region,
+
+I guess the 15th store opened in Thousand Oaks? That might have been 14.
+
+Palisades closed as reopening, so. So anyway, all the stores right in one locality. What's the
+
+benefit? What's the thesis around expansion? We run out of a commissary model. That's the reason.
+
+So we have a commissary kitchen in downtown L.A.
+
+Oh, okay.
+
+We call it Arawan Disneyland.
+
+Sure.
+
+It supports all of our stores.
+
+Okay.
+
+So any normal cafe can't do what Aero One can do without the support of a central kitchen.
+
+That makes sense.
+
+That allows us to do sort of this hub and smoke bottle and grow.
+
+Got it.
+
+Okay.
+
+And it lets us do what we do.
+
+Yeah.
+
+So you've got to be really, really big until you can do the second hub.
+
+Exactly.
+
+Because you can't just jump one store and every key market.
+
+Because there's a world where it's like, oh yeah, there's one in San Francisco, one in Manhattan.
+
+But that wouldn't work.
+
+It doesn't work.
+
+It doesn't work.
+
+It doesn't work for food.
+
+Sure.
+
+And the prepared food is what makes ARA1, everyone.
+
+at least we think.
+
+Yeah, no, 100%.
+
+We think about growth
+
+in terms of everywhere we can drive
+
+from our commissory kitchen.
+
+So further south's in play.
+
+The Bay Area is in play.
+
+But as soon as everyone talks about
+
+Air One, New York City,
+
+which would be a smashing hit,
+
+we know that.
+
+Yep.
+
+You've got to have the supply chain
+
+to support it.
+
+Got it.
+
+Okay.
+
+What is the,
+
+what is the model
+
+for platforming or accelerating
+
+new and upstart brands?
+
+Like there was a while ago
+
+where I believe,
+
+maybe a decade ago
+
+or two decades ago,
+
+before the Amazon acquisition, Whole Foods had like regional buying.
+
+So like if you could get in one Whole Foods, you could use that as a toehole as like a CPG company.
+
+And I'm interested in like what role do you see Arrow on playing in being a curator, a tastemaker, an important pillar in the growth story of modern CPG companies?
+
+Yeah, I mean, it's been organic, but we are the top of funnel for every CPG brand.
+
+Or we try to be, right?
+
+Whole Foods was it at some point.
+
+Totally.
+
+I have a background in CBG before this, and every brand wants to be in Aeroon.
+
+We like to remind people, you can't make a business on 15 stores.
+
+You have to grow from there.
+
+But you can get the volume, the velocities that you can take in Aeroon and prove that to other retailers, other investors, etc.
+
+And it's happened organically.
+
+We just have cachet of bringing in the best and the newest and knock on what everyone wants to be in Aeroon without us having to go out and forge all those brands today.
+
+And it seems to work.
+
+Yeah, and the other thing that's notable is like I know, and I'm sure there's multiple, but I know of one,
+
+one skew at Airwan, that's the number one skew at Airwan and the number one skew in its category
+
+at Amazon as well.
+
+So like, I think Salt and Stone, do you have a company?
+
+Yeah, just got bought.
+
+Yeah, yeah, yeah.
+
+Friends company.
+
+Oh, interesting, yeah.
+
+What is the life cycle for a brand from first meeting to actually being on the shelf?
+
+Like, how quick is that?
+
+Is that years of building a relationship?
+
+Could be two weeks.
+
+Two weeks?
+
+Could be two weeks.
+
+Whoa.
+
+Yeah.
+
+So we try to operate very differently from the traditional gross store.
+
+allows us to be fast.
+
+Yeah.
+
+So Whole Foods, you know, sprouts, six-month category reviews.
+
+They cut in new products.
+
+Yeah.
+
+We're reviewing products every Thursday in the office.
+
+And we're reviewing categories on the go.
+
+Wow.
+
+And we can self-distribute and bring them into our distribution center.
+
+We can go through distributors we already have.
+
+Yeah.
+
+And it allows a brand to get on shelf really quickly.
+
+Yeah.
+
+And how quickly do you know if something's going to work?
+
+A couple months.
+
+Really?
+
+A couple months.
+
+And it's hard.
+
+I mean, getting into Ari-1 is not the hard part.
+
+Selling at Air One is the hard part.
+
+You guys have been there.
+
+Look at the beverage wall.
+
+Yeah, there's a ton of stuff.
+
+Yeah, it's a ton of stuff.
+
+No, every time somebody,
+
+every time somebody pitches me a beverage brand,
+
+I say, like, go to Air One and be honest with yourself when you are on this wall.
+
+Are you going to check that?
+
+And this market, and Airwans are, I think, a place where people are probably more inclined
+
+than ever to try something new because of that curation element and because people are
+
+novelty seeking when they're in an Air One, right?
+
+They're like, they might go in and get their favorites, but they also want to try.
+
+I'm going to get five things I've never had before.
+
+For sure.
+
+And, but be honest with yourself, are you actually going to win on that wall?
+
+Because it's like the most competitive market, probably.
+
+I take that beyond beverage.
+
+I mean, I'll take my Air One hat off.
+
+If someone wants to start a CPG burn, I say, don't do it.
+
+Like, it's incredibly competitive.
+
+It's really hard.
+
+I can see it from the inside angle.
+
+No, it's really hard.
+
+Yeah.
+
+What have you learned about retention curves in Erdogan?
+
+Like, we see with like software, you know, you get somebody in, they might churn for a little bit,
+
+but then they become a weekly active user, then a daily active.
+
+user and the curve kind of smiles. What does success look like for a launch? Is it like really
+
+high conversion as soon as they're in and then some reasonable churn or how do you even
+
+from brand perspective? Yeah, from a brand perspective. Like you're putting a new brand on the shelf.
+
+You know, it's been a couple weeks. You're moving quickly. Yeah. But then you need over three months or
+
+six months to see good turn data. But what is the shape of that turn data? What other metrics are you
+
+looking at? Yeah. The reality is the brands control, the brand.
+
+performance at Air One.
+
+Okay.
+
+We can't.
+
+You're on the shelf and it is what it is.
+
+Yeah.
+
+And brands will invest or not invest.
+
+They might be local.
+
+They might not be.
+
+Retention to drive what we think about from the member perspective.
+
+There is a,
+
+Airone's a fascinating business for a lot of reasons.
+
+There is everything the customer sees and everything the customer doesn't see.
+
+Sure.
+
+And where me and my team folks are all the things the customer doesn't see.
+
+Yeah.
+
+And talk about retention.
+
+Like membership drives Air One.
+
+Yeah.
+
+Sales from members are well over half of our business.
+
+Okay.
+
+And that drives our entire business.
+
+We might try to be Costco one day where we're not 100%,
+
+but we're close to 100% members of sales.
+
+The evolution of a customer at Airwant is they will come with a friend.
+
+Part of that, it's like if you live near an Arawan
+
+and you're going even a couple times a month,
+
+it's hard to justify not getting a membership.
+
+It's actually really good.
+
+But it starts way before that.
+
+You'll have never heard of it,
+
+and someone will say, let's go get breakfast at a grocery store,
+
+and you'll say, why are we doing that?
+
+And you'll come get a breakfast for a meal and it tastes good,
+
+and you might come back and get a smoothie and it tastes good,
+
+and you might come back the next time by yourself
+
+and get a couple things.
+
+And on your third or fourth or fifth visit,
+
+you've bought the membership.
+
+Once you're a member,
+
+unless you leave L.A.,
+
+you are not leaving the membership program.
+
+Because, like you said,
+
+you come once every week or two,
+
+and it pays itself off.
+
+So that's our evolution.
+
+And we just launched the Tiers program.
+
+You got it on your app
+
+where we're just getting people
+
+further and further into the cycle
+
+to keep them as long as we can.
+
+What's the thesis on celebrity collapse?
+
+Very unique, very interesting.
+
+Yeah.
+
+Are you ramping that up?
+
+How do they work?
+
+Yeah.
+
+So I would say the thesis is that's top of
+
+They don't make or break the business from like a dollar's perspective at all, but you get a lot of eyeballs and you can leverage audiences that we may not have already.
+
+Yeah, it feels like it's like, you know, Haley Bieber smoothie was like globally relevant.
+
+It was like global news or at least national news.
+
+I mean, that that skew in particular was a, like they'll do HBS case studies on that individual item.
+
+You could run businesses off of that item alone.
+
+Yep.
+
+But we run them every month.
+
+They're successful.
+
+They usually last 30 days.
+
+We leverage another audience.
+
+Then we've kind of built a system and a process.
+
+so we can just keep kind of going with them.
+
+Yeah, that's good.
+
+Yeah, how do you think about balancing the in-store experience for people that live in the area
+
+and are like DAUs or weekly active users versus the most frustrating times I've had in store
+
+are like a summer weekend and it walks in and it feels like it's a tourist attraction.
+
+Beverly Hills.
+
+Yeah, yeah, yeah.
+
+Beverly Hills is crazy.
+
+Venice can get crazy.
+
+Yeah.
+
+And it ends up, you know, I might really.
+
+rage quit, you know, I might just walk out. And, and, and I feel like that's a champagne problem,
+
+right? Like, there's people traveling from around the world. They're like, one of, like,
+
+one of local. Yeah, yeah, yeah, yeah, local, but also, like, I'm in L.A., I got to go,
+
+this is, like, part of my stop. Yeah, yeah. Champagne problems, for sure.
+
+Cannibalization is good for our stores. Like, I will not go to Beverly Hills on the weekend. I won't
+
+go to Venice on the weekend, and I work there. It's a, it's a terrible customer experience for my
+
+personal perspective. And so we, our stores have theoretical limits of capacity and a good customer
+
+experience, we believe. And so we have lately infilled, the West Hollywood store opened. It pulled
+
+away from Beverly Hills. Oh, sure. Believe it or not, Calabasas was our best store. We opened
+
+Thousand Hokes to pull away from there a little bit. And it helps the overall experience
+
+to offset that. Because, you know, whether you're a member or you're not, or you're local or you're not,
+
+if you go into Beverly Hills and it's slamming and you can't even walk in.
+
+It's just another spoke. Absolutely. Interesting. And it helps fill up that capacity.
+
+Yeah.
+
+How have you guys thought about technology and, like, the consumer app experience over the years?
+
+I felt like it actually took me a while to, like, even be, use the app just because, like, my association with, like, a grocery store made an app.
+
+Yeah.
+
+This is just so bad, right?
+
+It's like, sorry, I'm not going to download.
+
+I'm not going to download the Vons app.
+
+I'm just never going to do it, right?
+
+Eventually downloaded it, and you guys ship a lot of updates.
+
+It's, you know, it feels like a startup is shipping it.
+
+Yeah.
+
+In a good way?
+
+In a good way.
+
+Yeah, yeah, yeah.
+
+In the sense that like some stuff will break, but it'll get fixed quickly.
+
+Yeah.
+
+And it's constantly improving and things like that.
+
+I appreciate that.
+
+I mean, it feels like a fraud coming on a tech show working at a grocery store, but it's all built in-house.
+
+So we operate a team of 10 folks, and every piece of software you see, we built ourselves from the ground up.
+
+Yeah.
+
+We didn't have it before.
+
+We had a third-party app.
+
+and if you had it at the time, you'd probably agree.
+
+Dude, the app, the app when I moved to LA, it was disgusting.
+
+It was so bad.
+
+We wanted to shut it down because the retail experience was here.
+
+It was like IRS.gov level.
+
+And so it was brutal.
+
+And actually, I think in hindsight, it was like I actually had, when the new app came around,
+
+I had pretty low trust level with it because I used to, like, with Connor,
+
+and Sean, we would all order breakfast burritos on that.
+
+And the app was just like so horrific.
+
+It was so bad.
+
+But it got good.
+
+So you guys fixed it.
+
+10 people seems like the right amount of the right size.
+
+Like it's a big enough team, but it's not overstaffed.
+
+It's like two pizza team basically.
+
+It is.
+
+It's an internal tech software team with developers and data engineers and all of that.
+
+I mean, we're sitting on treasure troves of member transaction data that we're starting to layer into the app.
+
+And so we made a conscious decision that that app was terrible.
+
+and we need one that reflected our brand in our stores
+
+and we put in the time and the money and the effort to build it
+
+and that's where we got and the numbers speak for themselves
+
+because people that go on the app and shop Omni Channel
+
+are not novel to Air One. It's spent a lot of money.
+
+So you have 10 people on technology or on the app
+
+who else is on your team, who else sits in growth,
+
+like what other disciplines fit under growth?
+
+Yeah, so our team, we define it as
+
+what are all the ways Air One can grow outside of opening new stores.
+
+We will continue to open new stores and we are, you know.
+
+That's like an obvious way to grow.
+
+That's not going to grow, and we have that.
+
+And we're focused on everything else.
+
+The function of growth.
+
+Yeah.
+
+And so what do we do?
+
+We do all things, e-commerce and digital.
+
+And so that's the app.
+
+That's the website.
+
+We run a separate DTC, Shopify site, standalone that we're merging in now,
+
+take A1.com.
+
+We built a data warehouse.
+
+We've data analytics.
+
+We just hired a data scientist to help on our team to start churning through all the transaction data.
+
+We've got applied to AI engineer who's building internal tools using AI.
+
+What's the history?
+
+Imagine your job is to apply AI to Airwan.
+
+It's fun.
+
+You're super intelligent.
+
+supermarkets.
+
+What has the evolution and the journey of like third-party delivery services just delivery
+
+bin?
+
+I saw this report that there's a secret network of in-and-out delivery.
+
+Have you heard about this?
+
+That there's like a, it's basically just like a WhatsApp group.
+
+Yeah, bootleg.
+
+So in-and-out has turned down door-dash.
+
+You can't door-dash in-and-out.
+
+And that's a brand standard.
+
+decided to do that. But there's people that are like, I got another idea. Life finds away.
+
+And so I'm wondering about the evolution of delivery, what's worked, what, what, you know,
+
+what have you learned along the journey? Yeah, every restaurant has to deal with it separately.
+
+In and out might have done it from a capacity perspective. Yeah. Potentially. There's always a line
+
+out of the door. There's only so much throughput they can put to the kitchens. Yep.
+
+We keep both. We have 3P and 1P. Okay. One P is what we're talking about. Yep.
+
+3P is Uber and Postmates. We're exclusive to them. Okay. And we like to balance both.
+
+Uber is a marketing machine.
+
+We could turn it off, but they are bringing in
+
+net new customers to us all day long.
+
+We maintain margin neutral in them
+
+because we mark it up to offset the fees.
+
+And are they getting,
+
+most of those Uber customers getting food and smoothies,
+
+or are they doing like their full grocery shopping?
+
+Mostly prepared food.
+
+Okay.
+
+Most prepared food.
+
+That makes sense.
+
+And then our app is our 1P.
+
+We're margin neutral, but if you're a member,
+
+you're not getting points on this side.
+
+You're getting points on the app only.
+
+And so every member that shops digitally,
+
+I'm guessing you, is on that.
+
+And the more we can transfer over here,
+
+we can bring it over here.
+
+And we keep this on for eyeballs and people coming into our system,
+
+and then we use our marketing effort to transfer them over here.
+
+And as long as this experience is good, if not, we think better than Uber Eats,
+
+we've got them.
+
+That's how we think about it.
+
+What is, do you guys spend a lot of money on traditional advertising?
+
+Zero.
+
+Yeah, I figure.
+
+Zero.
+
+Because the products really, like, everyone has managed to, like, stay, like, in the conversation,
+
+at least at a low level, like, perpetually.
+
+Yeah.
+
+And it almost feels like it does.
+
+But, I mean, the obvious that marketing.
+
+thing would be like buy an f1 team right like if they got an f1 one it's on the road map i'm not saying you
+
+should run like d-c ad that's you know potentially but in all fairness we've been in southern
+
+california so when we go to market number two there will have to be more yeah outward
+
+f1 yeah exactly yeah it feels like you guys have exercised like insane self-control around expansion
+
+but it's the family business like this is always the story right yeah yeah but but still it's like
+
+the amount of people that are like when are you opening in new york yeah totally new york
+
+for like years and years and years and years and then letting people like front run you in the market, right?
+
+Yeah.
+
+And in some ways, I feel like they'll do a service to you because they're just introducing people to the model.
+
+And then because they don't have the scale and the playbook, like the experience is ultimately like inferior.
+
+Yeah.
+
+But they're getting people sort of like bought into that idea of like going and getting, you can get breakfast, lunch and dinner at the grocery store.
+
+I think there's two elements to it.
+
+We can't miss on a store.
+
+It's too costly.
+
+And so we don't want to open New York or Vegas until we're ready.
+
+And if you miss on a store from a brand perspective, it can hurt.
+
+Why is it costly?
+
+Is it just the buildout cost?
+
+No, no, sorry.
+
+The 10-year lease?
+
+No, like the brand impact on a miss.
+
+Okay, yeah.
+
+It would be obviously very close.
+
+Oh, that's the MQ1.
+
+Yeah, exactly.
+
+Yeah, no one.
+
+They messed up.
+
+They should went to New York too early.
+
+Sure, sure.
+
+It's not going to work in a second market.
+
+Yeah, yeah, yeah, yeah.
+
+But discipline, we are a family-on business.
+
+That's true.
+
+But our owners, Tony Josephine, have maintained a lot of discipline on opening stores.
+
+They bought the first Air One, which was at the Grove in 2011, and then they waited three years to open a store.
+
+They waited two years to open a store.
+
+We open a store every year, then every six months, and now we're opening three a year.
+
+Three year for Air One is very fast.
+
+These things are Titanic, they're like operational behemates.
+
+But the economics suggest take out as much capital as you can and open as many stores as fast as you can because they pay back like that.
+
+But if you do that, the model breaks.
+
+We've taken the route of going slow.
+
+But three this year was good for us.
+
+We've got three openings next year in the Palisades reopening, downtown L.A., and Newport Beach, which will be a slam dunk for us, and then we'll kind of go from there.
+
+Yeah, it makes sense.
+
+It's exciting.
+
+I love it.
+
+Thanks for coming by.
+
+Yeah.
+
+Super cool.
+
+I've had, like, my adult life perfectly tracks with, like, my Arawan experiences.
+
+Like, moving to L.A., I drove into L.A. with a gold-colored Prius that had 200,000 miles on.
+
+on it and I would drive it to Erwan, but I knew that I couldn't afford anything in the store.
+
+And so I would just bring these big glass jugs of water.
+
+And at the Venice location, I'd be filling up these jugs.
+
+And I'd always be looking inside of it.
+
+I never understood that.
+
+You've told this story before, but like, Airwane gives like free filtered water.
+
+No, no, no.
+
+This was like, you maybe have removed it by now, but you could pay like $2 and fill up a jug
+
+like with like reverse.
+
+Oh, yeah.
+
+So I would just drive in there and I would never, I just like knew that I couldn't
+
+afford anything in there.
+
+I just wouldn't go in at all.
+
+And then over time, I just, like, I just, it just sucked me in.
+
+Yeah, yeah, it sucked me into a vortex.
+
+And then, and then other, like, all these memories tied to, like, whatever car I was driving at the time.
+
+Yeah.
+
+I distinctly remember, I was on, like, a pretty long drive, pulled into Airwan, the spot right in front of the opening in Venice.
+
+And went in, had dinner, whatever, bought some groceries, come out.
+
+Car doesn't start.
+
+Luckily, I knew all the Valley guys.
+
+like super well like they're my buddies like I talk to them all the time so I'm like guys like
+
+this thing looks pretty cooks I'm gonna be working on this for the next couple hours but they're
+
+the best so many great memories so yeah really really cool how how sophisticated the operation is and
+
+yeah excited to hear how you guys effectively apply AI to get me to spend more money yeah but it's
+
+console. Console builds AI agents that automates 70% of ITHR and finance support,
+
+giving employees instant resolution for access requests and password reset. I had to get my headset
+
+back on. We got our next guest in the waiting room. We have Danielle Axman from Wildland.
+
+Another market. The founder and CEO on launching a new, and I got a spider here. I got a spider.
+
+Wait, the timing of this is crazy. Wait, why? Did the team do this? Must have done this.
+
+Didn't that happen last time when I was talking about spider timing?
+
+I'm talking about our next guest.
+
+Oh, yes.
+
+What's going on?
+
+Welcome to the show.
+
+Welcome to the show.
+
+Sorry, there was a spider on my desk.
+
+Welcome.
+
+Thank you guys so much for having me.
+
+My husband and I are huge fans.
+
+Oh, amazing.
+
+Amazing.
+
+Thank you so much for coming on the show.
+
+Great to meet you.
+
+Since it is your first time, can you introduce yourself in the company?
+
+Yeah, of course.
+
+So I'm Danielle Axton.
+
+I'm the founder and CEO of Wilder Market.
+
+We just announced today.
+
+We're opening up our first one in Midtown Miami this fall.
+
+Yes.
+
+Very cool.
+
+I'm excited to share more about it.
+
+But yeah, thanks again for having me.
+
+Yeah.
+
+Yeah.
+
+What goes into opening it?
+
+What is the competitive landscape like in Miami?
+
+Why now with Miami?
+
+Yeah.
+
+This is a great question.
+
+So I moved to Miami a couple years ago.
+
+I grew up on Long Island.
+
+I spent a couple years in New York City post-college and then actually in L.A.
+
+for a few years.
+
+And I share that because it's where I see premium food shopping, boutique, grocery stores more abundant.
+
+And moving to Miami, we don't have something like that.
+
+And so I moved here a couple years ago, but really when I became a mom, I started to look at food differently.
+
+I really cared more about what I was bringing home to feed my family.
+
+I told a lot of research.
+
+I learned a lot.
+
+And it was really, you know, the more that I learned as the more I learned about food and the ingredients and what was important to,
+
+really provide for my family and my kids, I became more empowered as a mother, but more frustrated
+
+as a consumer where I wasn't finding what I was looking for at the grocery stores.
+
+I became really chaotic and I go to the farmer's market for certain things and somewhere else
+
+for dairy. And honestly, even when I found something that checked all the boxes that felt like
+
+this was really clean and safe for my family, it didn't taste good either. And so I wanted to
+
+put together, create this experience, this market that combined,
+
+thoughtfully sourced ingredients, culinary excellence and hospitality all under one roof.
+
+And so excited to share more details about that as well.
+
+I want to go back to Babe Rose.
+
+Tell me the story about your involvement because that's a very fascinating story that I think people were like skeptical of.
+
+And then it got acquired.
+
+And what was the journey there?
+
+Yeah.
+
+Oh my God.
+
+I had so much fun doing that.
+
+So I joined the founding team at Babe Rose.
+
+After I left, I worked for the founders of Soul Cycle.
+
+and I was actually there during the acquisition of Equinox.
+
+So then joined the team at Babe Rose.
+
+We sold the business to Anheuser-Busch.
+
+That was for fun.
+
+But really, even though my background is working with consumer,
+
+I would say like destructive consumer businesses.
+
+And while those businesses were very different,
+
+they both taught me so much about building consumer brands,
+
+understanding what people want,
+
+and creating these experiences that people genuinely connect with.
+
+Yeah.
+
+So what did you,
+
+What lesson did you learn from the Babe Rose journey that you're either taking or adapting for this in terms of like working with celebrities, influence, or social media?
+
+Like, how do you think your marketing will evolve over the next few years as you grow this store?
+
+I love that.
+
+And I think I'm taking a lot of lessons that I've learned from those experiences.
+
+I think one of the biggest ones is that the strongest brands don't just sell products.
+
+They really understand what their consumer wants.
+
+They create something people genuinely want to be a part of.
+
+I think community is a really big aspect of that.
+
+And you see that the Soul Cycle with Babe Rose and so much about what we're doing.
+
+We want to reimagine the neighborhood market, this place that used to be a hub of connection for the local community where you, you know, the owner knew you by name.
+
+They knew your favorite order.
+
+You had this closer connection to your food.
+
+And I think community is one of those things.
+
+We're meant to be social beings.
+
+And it's super important in anything.
+
+You know, we crave human connection.
+
+Yeah.
+
+Yeah.
+
+Yeah, to me, to me, the thing that that's, like, most exciting with the concept like this is just the focused on, like, we had one of the founders of Yes Chef on yesterday, and I was realizing how much, I'm just really not a foodie at all, but I am obsessed with ingredient quality.
+
+So, like, for me, I can't enjoy something if I don't have confidence that there was at least, like, some amount of effort put into the ingredient selection.
+
+And so to me, it's like, ingredient quality comes before taste.
+
+Taste is like very much secondary to that.
+
+And I feel like grocery stores and markets like all over the country outside of, obviously, you know, Arawan and some other handful of other concepts, have always focused on like taste before ingredient quality.
+
+And so that ends up netting out where like I just won't, I just won't shop in places like that.
+
+And I think that there's like this whole new wave of consumers that are in these key markets that very much think that way, which is like, I don't care how good it tastes if you didn't like put in the effort on the ingredient side first.
+
+I actually really agree with you.
+
+I think there's a huge new wave of people who care more about what they're putting in their bodies and on their bodies.
+
+We have more information now than we've ever had before, right?
+
+And this is like something that's really important to me and to so much of our community.
+
+And so we developed something called the Wilder Standard.
+
+So it's basically a vetting process that evaluates every single product that we sell.
+
+And it was really important to me that when I had this idea, sure, I've done my research.
+
+I've figured out what works from my family.
+
+But I'm not here preaching that to everybody else.
+
+I'm not trying to create something that's like super exclusive either.
+
+This is meant to be developed by independent experts.
+
+So I went out and put together this incredible team that spans across nutrition,
+
+epidemiology, food science, agriculture, Ken Cook, the founder of EWG, Environmental Working
+
+Group is one of the advisors as well as actually just with him this morning walking the store.
+
+If you're familiar with EWG, they come out with the Clean 15 and Dirty Dozen List every year
+
+on produce, which ones retain the most pesticides, and which ones retain the least.
+
+And I think creating a standard based on experts is really what we're built upon.
+
+So that's the thoughtful sourcing piece of this.
+
+Then you combine our partnership with grass fed culture, which is a Michelin Star Culinary Group, based here in Miami, with the same sourcing standards that we have.
+
+If you haven't been to one of the restaurants, you have to go.
+
+It's incredible.
+
+They develop the entire culinary program, food and beverage menu, soup to nuts, based on the standards that we've created so that again, you compare both thoughtful sourcing and culinary excellence.
+
+And then the third thing that I have to mention is major food group came on as a founding,
+
+investor and strategic advisor and I mean they're legends I mean truly the best in the business
+
+at creating hospitality experiences I also was with Mario today walking the store thinking
+
+about the entire customer journey from walking up to the store what the flow looks like
+
+they've been really instrumental in helping us bring this vision to life well congratulations
+
+do you have any idea on how many stores you think Miami specifically or the
+
+greater Miami area can support?
+
+I definitely think there's a lot of opportunity, not just in Miami, South Florida, and even
+
+beyond in the South Bay region.
+
+You know, if you think about, well, to me, so we, local sourcing is really important to
+
+us.
+
+We have incredible relationships with local farms.
+
+In my research, found that the agriculture in Florida is actually pretty incredible most
+
+of the year, something I just didn't probably even, like, thought about learning before
+
+this.
+
+But with that, we have, Miami is the local sourcing that we're focused on.
+
+And then we also have great partnerships with farms in the Southeast region.
+
+And to me, that's local because there's like a lot of, you know, things that you can grow in Georgia,
+
+at Carolina is you don't necessarily grow in Florida.
+
+So we want to focus on those partnerships.
+
+And I think there's a lot of opportunity with post-pandemic, the migration of people that have moved to these cities and are craving this type of experience.
+
+Well, I'm very excited that you're set up there.
+
+Look forward to visiting the store next time we're in Miami.
+
+Last time we were in Miami, I kept ordering bottles of water.
+
+And I would order glass bottles.
+
+They would deliver plastic.
+
+I would get really frustrated at the substitution.
+
+You're looking at this solution?
+
+I know we won't have that problem with Wilderness.
+
+You've got to come check out our glass juice.
+
+Our organic, cold-pressed glass juices.
+
+You'll love them.
+
+Thank you so much for coming on the show.
+
+Congratulations.
+
+Have a good rest of your day.
+
+Great to meet.
+
+Goodbye.
+
+Talk soon.
+
+What's the only thing faster than the AI?
+
+market, your business on MongoDB.
+
+Don't just build AI own the data platform
+
+that powers it. We have John Urshel
+
+with us in the waiting room.
+
+He's an assistant professor of mathematics at MIT.
+
+You know him because we discussed
+
+the Wall Street Journal article about them.
+
+And we're very excited to be going.
+
+Professor, welcome to the show.
+
+How are you guys? How are you doing?
+
+I'm doing well. Looking forward to hanging out
+
+with you guys. Thank you so much for doing the time.
+
+I wanted to start
+
+in a very maybe
+
+basic place. Like, what is
+
+the day-to-day life as an assistant professor at MIT? I think a lot of people are grappling
+
+with the fact that AI can do some mathematic research, prove theorems or disprove them. But how much
+
+of your time is spent like working on hard math problems versus teaching versus doing something
+
+else? Like what is a day in the life of a MIT mathematician?
+
+Yeah. So this is something that I feel like if you don't, you know, if you'd
+
+don't study mathematics at a high level, it can be hard to sort of know. And, you know, we spend so much
+
+time teaching, so much time talking with each other, trying to, you know, think about good math
+
+ideas, trying to teach our students. These days with AI, it certainly looks different. I would say
+
+the thing that really is universal is that there's still an emphasis on understanding, whether it's
+
+ideas that a human came up with or ideas that, let's say, CHAP, GPT, or Anthropic came up with.
+
+The idea is trying to look at a proof, look at a solution, and understand something about what that means for the broader ecosystem.
+
+Yeah.
+
+How much of mathematical inquiry is, I don't know, discovery versus understanding the process and then actually diffusing that information?
+
+I feel like maybe I went through a small version of this like five years ago.
+
+I was interested in business history and journalism.
+
+And I'd go and compile these essays about a certain technology's evolution,
+
+certainly not at the level of a nonfiction writer,
+
+but it was very edifying work.
+
+Chachapiti can do that and has been able to assemble an essay about technology
+
+and how it evolved and do some historical research.
+
+It's still fun for me.
+
+It's still edifying.
+
+And then I still have, I think, a purpose.
+
+explaining that to other people and sharing that in different formats.
+
+And I feel like I've grappled with it,
+
+but how different is your experience,
+
+is the experiences of the mathematics world
+
+to the experience that I just described,
+
+which was I got steamrolled by AI like five years ago, maybe.
+
+I don't know.
+
+No, I mean, it's true.
+
+I mean, the latest frontier models can do what a lot of good mathematicians
+
+have been doing for a lot of years.
+
+And the question now becomes,
+
+where do we focus our F?
+
+Yeah.
+
+Understanding was always a crucial part of the process.
+
+It's even more important now.
+
+I still think there's room and I still think there's importance for problem solving,
+
+even when AI systems can do this well.
+
+I think this is a fundamental joy of doing mathematics.
+
+Just because a computer can solve the crossword puzzle for you doesn't mean you don't want to do it yourself.
+
+I think there's personal joy and enjoyment and honing your skills to work on these things,
+
+definitely there's a completely new aspect to doing mathematics, which is having this tool
+
+that can really crank in a way that, you know, humans just haven't been able to do.
+
+How do you think about mathematics progress in the very long term?
+
+It feels like AI can duke it out with the top mathematicians and solve really, really hard
+
+problems.
+
+But people are joking about like mathematics is solved, but that doesn't seem like it's the case.
+
+It seems like this is sort of a rabbit hole that might just go deeper and deeper and deeper.
+
+But do you have an intuitive sense?
+
+Or is the mathematics community coming to a consensus around like how far we are away from actually the last mathematics question being solved?
+
+So definitely we don't have any consensus, I'd say, about how we should be using AI, what things you're going to look like in a couple years.
+
+But I think we have pretty good consensus.
+
+that, you know, math is not going to be solved.
+
+Yeah.
+
+I mean, the amazing thing we're seeing is that we're pushing the frontier of what we
+
+understand and know mathematically faster than we ever have in history.
+
+And so we're understanding more.
+
+We're pushing boundaries further.
+
+But there's so much farther to go.
+
+And there are so many things we don't understand, so many tools that can be helpful,
+
+not just in mathematics, but in other areas.
+
+And so, you know, these modern developments, this is just like, you know, people used to
+
+climb a mountain, you know, using their own little ropes and things. Now we have a helicopter,
+
+but still, you know, there are further places we need to explore and things that we need to
+
+understand. How is AI being used to come up with new problems? Like, is that, is there any
+
+progress there? You or any of your peers like thinking like, well, if you can use this to solve
+
+problems, can you generate? Can we create new millennial problems? Can we at least create new problems
+
+faster than we solve them, maybe?
+
+No, so this is the question.
+
+We're trying to understand, you know, these tools are very, very good at solving a well-post problem that we've been thinking about for a while.
+
+The thing that we're still trying to figure out is how generative can this be?
+
+Sure.
+
+How well can this technology actually recognize what are important directions that we need to study and understand to help push ourselves forward technologically and mathematically?
+
+And that's the part that it's still, you know, the consensus is.
+
+not there yet. I'm not going to make a prediction for fear of being horribly wrong, but we're
+
+going to have to wait and see. How do you think about the progress of mathematics education at this
+
+moment? Like there's, you know, algebra and basic geometry. Like these things are taught to almost every
+
+American gets exposure and learns a little bit and then calculus a little bit less. And I'm just imagining
+
+a future, maybe like the good outcome would be, yeah, everyone can actually sort of explain
+
+Navier Stokes and has gotten to a place where even the really, really hard math has been so,
+
+so digested by AI and top mathematicians and understood that it's been turned into YouTube
+
+videos and turned into curricula. And maybe it never gets down to high school level, but at least
+
+if you're in college, you could go much further than we are currently. And it feels like humanity
+
+has been progressing towards more and more mathematical understanding even among like average
+
+non-mathematicians.
+
+And that feels like it would be a really good outcome.
+
+But how do you grapple with that fact or that potential outcome?
+
+No, I mean, you've got it exactly right.
+
+This is definitely the hope that with new technologies, it somehow like levels the playing field
+
+for education.
+
+It somehow, you know, opens up possibilities for people to learn more advanced concepts
+
+much quicker. I mean, I remember when I was a kid, the fact that the internet existed and that,
+
+you know, top professors at universities were post-letcher notes and things like this online,
+
+this was huge for me as a kid in Buffalo, New York. I can, you know, I have a computer and an
+
+internet connection. And all of a sudden, it's like I'm learning from top professors. And, you know,
+
+when I compare this to the way people learned in the, you know, 80s or 70s, you know, you have to go
+
+to a library, you ran out a book. It was just a game changer for me.
+
+It was funny as a teenager realizing, like, wait, this top university just publishes the entire
+
+course.
+
+I was like, why would I go to the school?
+
+Obviously, there's other, you know, a lot of...
+
+Well, I want to talk more about, like, the competitive dynamics between universities.
+
+We've seen some prize money up there, a million dollars for a millennial, a millennium prize.
+
+I've seen $25,000 prize pools.
+
+This is not the funding mechanism for mathematics, correct?
+
+there is tuition, there's scholarships, there's government funding.
+
+But I don't know how deeply you're embedded in that side of it,
+
+but it feels like there's a potential that much like chess has been solved by computers,
+
+I don't know that I'd want to go to a university where it had a really, really bad math program
+
+just because they're not winning the prizes anymore.
+
+It feels like there's still a lot of value in having a fertile mathematics,
+
+education program that's pushing the frontier, both in terms of exploring new problems and
+
+working alongside AI, but also just being the best human mathematicians, that's going to have
+
+knock on effects around the entire organization. But how do you see it evolving?
+
+Yeah, I think you've got it exactly right. I think our roles are certainly going to change
+
+with the advent of AI, but we're very much going to be needed. And I think understanding mathematics
+
+at a deep level, being able to help communicate that to young people, to help people gain the
+
+tools to be able to empower themselves to solve problems in all areas of science, technology,
+
+and engineering.
+
+I think it's important.
+
+And I think we really need to try to adjust to this world we're in and try to serve our
+
+students as best we can.
+
+So do you think math ends up tracking exactly like chess has in that like chess was solved,
+
+and then people just kept playing it and kept following it and and and and uh the sort of field
+
+continued to progress because the way that you're describing this just feels like you know one
+
+understanding is key but then then the just enjoyment enjoyment of of understanding and like
+
+individual progression I feel like is limitless regardless of the abilities of the models
+
+So I feel that it's a bit different, so I'm not that good of a chess player, but okay, I play a bit of chess.
+
+I feel like chess has very much hit some sort of like plateau in equilibrium.
+
+Like, yeah, you had Casparov from Deep Blue, but really after like, you know, this Alpha Zero stuff from Deepmont, you know, there were some great chess innovations that were really new things that affected actual top players and how they played.
+
+But really things started to sort of like level off.
+
+And, you know, there is only so much in chess.
+
+You know, there's so many.
+
+There's so many optimal things that you can do.
+
+Whereas in math, I really do think it's generative.
+
+Like, it's really not nearly as limited in the same way.
+
+And the directions you can sort of move forward in,
+
+and the directions we're going to need sort of four applications of applied math,
+
+I think are much more limited.
+
+So I really don't see it going that way.
+
+Instead, I see it sort of really exploding, like the field of mathematics.
+
+and what falls under math is just going to get bigger and bigger.
+
+Yeah.
+
+Do you have, this is an odd question, but you're like the person to ask this.
+
+Do you have any intuitive feeling for how AI might change football?
+
+Oh, that's a great question.
+
+I'm just thinking about like when you go for two points, like these things, statistical models,
+
+money ball has been around, but we're in a new territory now where you might see a team be like,
+
+what if we spent a million dollars of compute crunching all the numbers and we don't even know,
+
+but we just call the plays this way.
+
+I'm just wondering if you have any feel for it.
+
+No, I think there's definitely potential
+
+because fundamentally, football
+
+is so much harder a problem than baseball.
+
+If you think about Sabre metrics,
+
+like Moneyball worked in baseball
+
+because it's such an easy problem
+
+if you think about it.
+
+Yeah, one player at a time.
+
+People are in set pieces.
+
+The rules are so straightforward.
+
+Like, you know, someone's batting,
+
+someone's pitching,
+
+then something happens
+
+and it's really well understood.
+
+Yeah.
+
+Whereas football, you've got 20,
+
+22 guys on a field, and it's just complete chaos from my God, from a data statistical point
+
+of view.
+
+And so bringing, like, better technology to bear on that, I think can definitely be useful.
+
+Because I remember, like, even a couple years ago, it was not easy to take player tracking
+
+data and actually recognize what play just happened.
+
+Oh, sure.
+
+You know, was the defense in cover two, were they in cover three?
+
+What was, you know, what run play did the offense do?
+
+What was the passing scheme?
+
+And so I think there's a huge potential.
+
+for AI.
+
+Interesting.
+
+Yeah.
+
+Very cool.
+
+Jordy?
+
+Yeah.
+
+My biggest takeaway from this is just this idea, like, this idea of, like, the models
+
+don't seem to be generative in the sense of, like, coming up with, like, what to solve, right?
+
+And we experience this when anytime you see a piece of AI content, the models are good
+
+at making content now if you have, like, an amazing idea, right?
+
+And it's always, like, one human out there came up with the idea of, like, combining, like,
+
+like these two different IPs into something that is like entertaining or funny.
+
+And even with marketing, you can have a brilliant marketing idea and then an AI can like one shot it really quickly.
+
+But the AI, again, is not generative when it comes to marketing.
+
+It's not on the fly coming up with great marketing ideas.
+
+And that's still the domain of humans.
+
+Yeah, it just feels like we're in the same way.
+
+Intelligence moment.
+
+It's very spiky.
+
+Yeah.
+
+Very interesting.
+
+Sure execution.
+
+Thank you so much for taking the time to come chat with us.
+
+Yeah, absolutely.
+
+I mean, okay, we'll see how long that persists.
+
+Yeah, yeah, yeah, yeah.
+
+Yeah, I don't know if you're a fan of like the bubble with the spikes and then the all just gets bigger until it just goes over everything.
+
+But yeah, we are in this odd transition moment.
+
+But thanks so much for coming on and sharing your perspective here.
+
+We really appreciate it.
+
+Yeah, absolutely.
+
+Thanks for having me.
+
+Yeah, have a great rest of your day.
+
+Cheers, John.
+
+Talk to you soon.
+
+Bye.
+
+Bye.
+
+Bye.
+
+you about CrowdStrike. Your business is AI, their business is securing it. CrowdStrike
+
+secures AI and stops breaches. Our next guest is Nicholas Sharp, the co-founder and CEO of Adio.
+
+He's in the waiting room. He's been on the show twice. Welcome back. Nicholas, how are you doing?
+
+Hey, guys. Good to see you again. Good to be back. Great to have you back. Always a good sign.
+
+It means we've launched something. So that's a good market for us. Yes. Yes. You're always up. Always up so, so, so late.
+
+So thanks for hanging out.
+
+That's right.
+
+That's right.
+
+No, you've got to remember that in Europe, we wake up late and stay up late.
+
+So it's very normal.
+
+West Coast hours.
+
+Yeah.
+
+Exactly.
+
+Awesome.
+
+What's new?
+
+So what's new is a really big launch from us.
+
+We have launched our new architecture, hybrid architecture for agentic revenue.
+
+So it's all about allowing agents to be unleashed on your data while maintaining all of the guardrails
+
+you'd expect from business applications.
+
+So it's trying to, you know, drastically blur the lines between infrastructure, having just a
+
+raw fire hose to your, to a database.
+
+But all of the stuff you'd expect when dealing with customer data, guardrails and policies
+
+and all those sorts of things.
+
+What's more, what's more important to people right now?
+
+Because if you go to some frontier model and you give it slash goal and you just say like,
+
+look, I got a spreadsheet here.
+
+I got.
+
+I'm pointing you in the general.
+
+general direction, go figure out how to get into my, you know, this database and then this
+
+SaaS product and like figure it out.
+
+A lot of times it can write an API binding and build an integration on the fly.
+
+But so it feels like there like there's the unleashing, like adding capability.
+
+And then there's the adding the guardrails.
+
+And it feels like right now people are shopping for guardrails, but what are you feeling
+
+from customers?
+
+That's right.
+
+And, you know, and what we want to do is.
+
+is we want people to be able to do that.
+
+We want people to be able to appoint an agent at the CRM at ATEO
+
+and say, hey, go and find me these customers
+
+and have all of the context.
+
+You know, we shipped universal context earlier in the year,
+
+which is this kind of full 360 view.
+
+All of the unstructured data in a vector store
+
+so that the agent can go and search all over it.
+
+And so you do want to unleash them.
+
+You do want to allow them to go and do all of this really difficult work.
+
+And they will write amazing queries,
+
+and they'll blow your mind.
+
+but equally you are dealing with customer data and a lot of it.
+
+And there's a lot of orchestration that goes into that.
+
+There's a lot of governance and policy and all that kind of stuff.
+
+So we're really trying to push the best of both worlds.
+
+What are the best sales teams and GTM teams in the world doing?
+
+We were talking about cold email on the show earlier.
+
+And this frustration now with like, you know, it feels like 90% of the emails I get are like, you know,
+
+Hi, Jordi, here's some like random context from something you shared online at some point.
+
+Like two years ago.
+
+Yeah, years ago, now here's the product.
+
+And it's like obviously like very low effort.
+
+Yeah.
+
+But what are you seeing like the best teams in the world actually do?
+
+Well, so, so you had one of those teams.
+
+I think like if not already on your show on your show today, Modal is one of our other customers and, you know, has built some awesome things on Atio.
+
+But what we see with these great go-to-market teams is essentially that they are not just trying to do what was done in the old world with agents.
+
+So they're not just simply replicating the kind of like SDR, you know, outbound SDR to inbound SDR to, you know, hand over sales rep, etc.
+
+They're rethinking the customer flows entirely and not just building a skeuomorphic version of what they did before.
+
+And so what that looks like is being much more personalized, doing way more work per customer.
+
+and being able to deliver a experience, you know, that you would, that might only be safe for your very highest value customers to absolutely all of them.
+
+And, you know, for companies that, you know, that might be PLG have sign-ups.
+
+That means doing a ton of research on every customer and making sure that when you, you know, when they show up for a call or when you reach out to them, you actually have the, you know, the full picture.
+
+There's no need for all the handoffs.
+
+You don't drop the ball, et cetera.
+
+So I think we're seeing the, yeah, the best teams have just been way more imaginative.
+
+and are in real build mode and fast principle mode.
+
+Where are you most excited for models to make meaningful progress?
+
+It feels like for a lot of this work,
+
+like using sort of cheaper models or open weight models,
+
+probably can get a lot of the job done.
+
+Yeah, I mean, we're pretty excited about some of the decision models as well
+
+because it's really nice.
+
+you know, there's so much of this stuff that is, that's making, making lots and lots of
+
+decisions before you actually need the output of a, of a traditional LLM.
+
+And we're very excited about what we can do there and the kind of, you know, the next
+
+order of magnitude of scale it allows. And especially, you know, when you start being able
+
+to get access to probabilities as well, then you can start building very, very different
+
+types of workflows and so much of what you need to do before you actually get into a reasoning
+
+model and into into unstructured output is just lots of decision making. And so we're very
+
+excited about the capabilities of those models. Makes a lot of sense. How much are you dogfooding Adio?
+
+Like how pro are you in terms of, how key is Adio in like your actual growth story?
+
+We are like the, we're patient zero. I mean,
+
+Sometimes to the frustration of the team because we get the very, very kind of, you know, day zero releases.
+
+And we are, you know, we really use our own team as skinny pigs of this stuff.
+
+So sometimes you have to remember that the version of the product that your customers has is a month or so behind what we have.
+
+And we're always kind of very excited to show them the latest and greatest features.
+
+But no, we're huge at your users.
+
+Amazing.
+
+Thank you so much for coming up.
+
+Great update.
+
+Thank you, guys.
+
+Nice to you again.
+
+Yeah, great to see you.
+
+Goodbye.
+
+Cheers.
+
+Want to change the world?
+
+Raise capital at the New York Stock Exchange.
+
+Mary Koch, over at the Wall Street Journal, shares a story from Palantir chief technology
+
+officer Sham Sankar, get friend of the show, says some AI researchers have started smoking
+
+cigarettes because they are confident that technology will cure cancer.
+
+The trend is a way of signaling to other.
+
+researchers how much they believe in AI, he told CBS News. If that logic is sound, AI optimist
+
+might soon hitting the bottle and eating cake for breakfast. Sometimes it seems like, it seems like
+
+we're begging AI to replace us. She's not a fan of this. We were pitching this months ago.
+
+We were saying if you really believe it's going to cure cancer. Didn't we say cigars?
+
+Start with their darts. Start smoking cigars. We said everything, everything, you know,
+
+eat cake for breakfast, hit the bottle. I want to see it.
+
+Yeah, this all started with the sunscreen thing.
+
+Oh, I don't wear sunscreen because AI is going to cure skin cancer.
+
+There's still a chance.
+
+And I like the idea of the revealed preferences.
+
+You know, you've got to be aware.
+
+It can't just be the stated preferences.
+
+Got to be the revealed preferences.
+
+We have yet to see an AI lab leader smoke a cigar in an interview.
+
+Yeah.
+
+That feels like something that might happen in the next month.
+
+I'd like to see that.
+
+I hope so, yeah.
+
+Put your money where your mouth is.
+
+Put your lungs where your mouth is, I guess.
+
+Yeah, I'd like a sit down.
+
+founder, you know, interview
+
+podcasts. Yeah.
+
+Where they actually have a live
+
+smoke break. So they keep taping
+
+kind of like cheeky pipe, but it's just ripping darts the whole
+
+Yeah, yeah. That's actually an under
+
+explored. Cheeky Americans.
+
+That feels like the last like white space
+
+in tech media is just like smoke breaks.
+
+Yeah. Because we have like running.
+
+We have the walk and talk interviews.
+
+Yeah. We now have running interviews.
+
+No one's done like a Marlborough Red
+
+tourist show. Yeah. Yeah. But like
+
+a 10-minute mini podcast where somebody's having a smoke.
+
+Yeah.
+
+You're rattling off questions, riffing.
+
+Dwarkash is right.
+
+Could do it.
+
+He's the guy.
+
+Or, you know, maybe the next Dwarkash, a challenger, a spin-off, a knock-off.
+
+It's Dwarkash with cigarettes.
+
+Cheeky heater.
+
+Yeah, heaters, well, they're on a heater.
+
+There's some other news.
+
+Mews was just knocked out of the top of the app store, despite Alex Wong, Marks.
+
+Zuckerberg, Cheeky Pite, amazing model.
+
+They couldn't go up against what company?
+
+Dave's Hot Chicken.
+
+Dave's Hot Chicken.
+
+They have a new discount going, I think.
+
+Have you had Dave's Hot Chicken?
+
+Never have.
+
+Delicious.
+
+Never will.
+
+So good.
+
+It's kind of the aeron of fast food.
+
+No, it's ridiculous.
+
+How does Vinted do it?
+
+Vinted is really on such a run.
+
+Vinted is, uh, is, uh, is,
+
+is doing really well.
+
+But fun to see Dave's hot chicken up there at number one.
+
+Anyway, what else is, what else needs to be discussed?
+
+People are, people are really feeling the cheeky pint debating.
+
+When will the first person drink 12 Guinnesses or delete 12 Guinnesses and pick a fight with
+
+the film crew?
+
+We got a little preview because I think Will O'Brien went on.
+
+Yeah, he's going on.
+
+Well, he's already been on.
+
+He's already, he's been on once, or he's, or they filmed it, but they haven't released.
+
+So that like trailer has been released.
+
+We know that he already filmed it.
+
+Okay.
+
+We don't know how many Guinnesses he's deleted.
+
+But he wasn't he backtracking?
+
+I thought he was saying that, oh, well, the real metric is not total Guinnesses, but Guinnesses per hour.
+
+Yeah.
+
+So independently, he texted me a slightly different metric than just mass.
+
+Because, you know, the Elon interview was so long.
+
+I think, you know, if he's only on there for an hour, like, we can't expect him to actually put down 12.
+
+I think we can.
+
+I think we can.
+
+You get one appearance as much as you can.
+
+What if John has to go back to work, but he just stays and they just let it run?
+
+True.
+
+And he can just start getting some work done, have a few more drinks.
+
+True.
+
+Yeah.
+
+I don't know.
+
+I love Will.
+
+I'm sure he put on a masterful performance, but I'm getting some red flags with this fuzzy
+
+map.
+
+This is a vanity metric.
+
+He wants to switch to beers per hour as some, you know, non-gap metric here.
+
+I think the standard has been established.
+
+If you want to put down more beers,
+
+you've got to keep the conversation going.
+
+You've got to be good content,
+
+and then you get the opportunity to spend more time drinking beers.
+
+So if you only have an hour of content,
+
+you've got to really be chugging the whole time.
+
+You've got to get as many as possible
+
+because Elon's going to be able to go on a run for hours and hours and hours.
+
+You're going on a run.
+
+This is important stuff.
+
+This is important stuff.
+
+It's time for our next guest.
+
+Our next guest.
+
+from Icon.
+
+Jason Dallard.
+
+What's going on?
+
+How are you doing, Jason?
+
+We were getting carried away.
+
+Really good.
+
+Nice to meet you, Jordy.
+
+Nice to meet you, John.
+
+Nice to meet you.
+
+Thank you so much for coming on on the show.
+
+How many beers would you drink on Cheeky Pint?
+
+You know, I think the beers per hour is a good metric.
+
+I appreciate that it's not a gap metric.
+
+I think I'm good for four or five.
+
+Four or five?
+
+Over what time beer do we talking about?
+
+Four or five minutes.
+
+Four or five beers and four or five minutes.
+
+I respect that I got to be interested.
+
+interesting enough to be on for a couple hours, but I think I'd get on there for a couple hours.
+
+I could do four or five.
+
+Okay.
+
+Yeah.
+
+Yeah.
+
+That seems reasonable.
+
+The record, the record is three right now.
+
+The record is three, but you know how you could see it up?
+
+I would be going in.
+
+I would be going in to win.
+
+Yeah, you'd be going into win.
+
+Yeah, but you know how you speed it up is get one of those, um, those hats that have
+
+the beer and the, and, you know.
+
+Oh, yeah, yeah.
+
+And so you don't even worry about your hands.
+
+It is funny how, just focus and how everyone was sort of dancing around the cheeky pint
+
+thing are people going to be.
+
+And now season two came and it's clearly a competition.
+
+Like every person that goes on Cheeky Pined now is looking at that chart and thinking like, I got to be number one.
+
+And so I think anyone who takes the, anyone who accepts the invite is going to be thinking I got to at least be number one for a little bit.
+
+I got to be at the frontier.
+
+I wonder if people are going to start doping, like taking charcoal pills and stuff to like really.
+
+100%.
+
+I mean, there's already been doping allegations.
+
+Or just, or just have a huge.
+
+There's already been doping allegations in terms of the size of the glasses and whether or not they're alcoholic.
+
+Guinness is or there's zero zeros because sometimes there's founders who come on the show who don't
+
+drink alcohol at all and they still want to participate so they drink non-alcoholic Guinness
+
+and then sometimes they're filmed during the day.
+
+That clearly doesn't count.
+
+That clearly doesn't count.
+
+Yeah.
+
+So maybe you get disqualified for that but you still get to do the show.
+
+But for the founders that do drink alcohol, it stands to reason that there's going to be a
+
+competition and they're going to want to get to the frontier.
+
+You agree with me, Jordi.
+
+You do.
+
+I want to talk about ICON personally.
+
+I think it's time.
+
+I think it's time.
+
+This guy is ready to, ready to, I think you, let's face it, you want to go on cheeky pie.
+
+I've technically been on cheeky pie.
+
+We did a crossover episode.
+
+I drink a Guinness with them.
+
+Right.
+
+That was technically a cheeky pie episode.
+
+Right.
+
+Anyways, Jason, it's, it's, thanks for hearing us out here and riffing with us.
+
+Yeah.
+
+A good debate.
+
+A great debate.
+
+But we have a big gong.
+
+We want to hit it.
+
+What's the news?
+
+Yeah, we just closed our series D.
+
+led by Bailey Gifford and Black Rock,
+
+$200 million.
+
+Boom.
+
+Fighting for him today, John.
+
+Yeah, really well done.
+
+I feel honored.
+
+Thank you.
+
+Yeah, it shook the room.
+
+Why did they give you so much money?
+
+Yeah, so Icon for construction.
+
+My family back in East Texas
+
+wants to know the same question.
+
+Yeah, Icons of Construction Technology Company.
+
+We use giant robots, the big 3D printers,
+
+to build things faster at lower cost and at higher quality.
+
+And as you guys know, there's a thing going on called the global housing crisis.
+
+We are like not building correctly and shelters a really basic human need.
+
+And we feel like we've got lightning in a bottle.
+
+We feel like we've got the receipts to prove it and are ready to scale this thing up.
+
+Yeah.
+
+So what, like, how have you been proving out the thesis?
+
+Like, are you, like, what's the fastest way to build a home?
+
+Well, what's the core metric that you, that you track?
+
+Yeah.
+
+So there's a lot there's sort of inside baseball.
+
+the whole industry itself and construction revolves around this metric of dollars per square foot.
+
+Homes are underwritten that way, constructions measured that way, homes are appraised that way.
+
+So you kind of have to, even though we have our own internal metrics on like robotic performance,
+
+materials, costs and things, that's really where it resolves.
+
+The automation in particular with 3D printing, you know, we're replacing the wall system of a home.
+
+We started with wall systems because wall systems historically are the slowest, most labor-intensive
+
+materials intensive and expensive part of the home. Also, walls create like the form and feeling of a
+
+home. So it's just like a very powerful thing to automate. The average cost of delivering a wall
+
+system in America right now is approaching $40 a square foot. Our new Titan system that will be
+
+scaling up now delivers wall systems at about 20 bucks a square foot. So about half the cost of
+
+construction for the most expensive part of construction. Interesting. I've heard so many, I've heard so
+
+many like hot takes about 3D printing not being necessary because you can just, you know, mill.
+
+Like, we have a lot of machinery that's good at making flat things.
+
+Like, how do you get over that?
+
+Like, like, why isn't it better to just make, you know, a flat wall structure in a factory, for
+
+example?
+
+Or there's a lot of folks who are building houses manufactured in houses, like shipping containers,
+
+for example.
+
+Yeah, so I've been in construction for almost 20 years inclusive of my time at Icon.
+
+I mean, shipping container houses, prefab houses, modular houses, everything have been around for quite some time.
+
+If that was going to work, it would work.
+
+And like, come on, come out to the field and compete.
+
+Yeah.
+
+I don't think it works for a number of reasons.
+
+Number one, a lot of the gains you get by automating, you surrender those gains by shipping.
+
+I mean, it's expensive to ship a washing machine.
+
+It's very expensive to ship a house.
+
+Yep.
+
+Number two to.
+
+Wait, wait, wait, wait, wait, right, side track.
+
+So over the weekend, John and I were driving.
+
+we were in the car together and we see some guy with a big truck driving a house down the road
+
+and then he just pulls off the road and just drives through a dirt field like it was like an
+
+cut the corner cuts the corner in a big rig with the house I never I was like that that's the most
+
+seems like the most illegal thing I've seen on a road in my whole life it was crazy it was like
+
+he was bouncing through the field but little didn't you know he was just trying to help the
+
+the bottom line. He was just trying to help the margins.
+
+Just get there a little faster. He's going to burn more fuel
+
+if he goes around the corner. Every bit counts.
+
+Yeah, because basically there was just
+
+a normal, he could have just turned right on a
+
+real road, but instead he'd like cut the corner
+
+across this huge field.
+
+Any
+
+thoughts?
+
+You know, my thoughts
+
+are, I bet that's not the way to deliver
+
+a dignified housing to Americans. I
+
+appreciate his hoodspah.
+
+But that sort of maybe makes
+
+my second point for me, which is
+
+to make houses in a factory and ship them,
+
+you actually end up having to design the house
+
+for the roadway, for the vehicle,
+
+and houses aren't for roads.
+
+Houses are for people.
+
+And so I think that's another limitation of that model.
+
+And then finally, you have to standardize a lot in that model.
+
+And I think there's like cultural resistance.
+
+You need like a million people to want the exact same house
+
+or something, some near variant.
+
+And I think those three reasons,
+
+the economics, the design problem,
+
+and the standardization problem are why those models
+
+haven't worked.
+
+3D printing, you can think of it.
+
+It actually is a factory that comes to the site.
+
+Yeah.
+
+But because the building material is fluid when you're depositing it, it's like a bespoke
+
+housing factory that arrives on site.
+
+It's a lot easier to ship a machine than a house.
+
+Sure.
+
+And then once it gets there, can do a lot of, a lot of very good work?
+
+And so how vertically integrated are you?
+
+Like, can you just buy a plot of land, build a house and then sell it on like Zillow or
+
+Redfin?
+
+Or are there more steps than chain?
+
+So we're not vertically integrated into like the land development itself.
+
+So we make our own, we make a manufacturer own robots in our factory in Austin.
+
+And we develop and manufacture our own materials, the print material that we call FormPrete.
+
+We make our own software stack.
+
+We've developed our own architecture.
+
+And even like the wall system itself has had to be optimized.
+
+Maybe you remember the early desktop printers kind of fought over how to do the internal geometry
+
+for the most efficient printing or whatever.
+
+So we've done a lot of that work too.
+
+So the sort of full technology stack we are vertically integrated to because it's not enough
+
+just to hand people a robot and say good work.
+
+It really is a new way of building.
+
+And you have to deliver that way of building fully formed to the market.
+
+So who are your customers?
+
+Is it like commercial real estate developers that already have like a couple acres of land?
+
+They want to build 25 homes and they come to you to actually go and build them.
+
+But then they will be selling the individual houses.
+
+You got it.
+
+That's exactly how it works so far.
+
+So we've kind of run like a build business using our own technologies to prove that a construction company using these technologies can be very profitable, very powerful, very fast, very exciting.
+
+The newest business model we launched, which is part of this fundraising, is this technology business.
+
+where the technology now is performance enough, stable enough, reliable enough, and the costs are in the right spot,
+
+that we really want to equip builders and developers all over the world with these tools themselves, right?
+
+The builder of our past showed up on a job site with nail guns and saws.
+
+The builder of the future is going to show up with robots, advanced materials, and a tablet to operate the whole thing.
+
+What about builders on the moon?
+
+You know, yeah, yeah, we do hold the contract with NASA to develop the lunar construction system.
+
+It's very similar thesis, right?
+
+If we're going to build on the moon, number one is going to be robots.
+
+It's too difficult to spot for humans to build.
+
+Number two, you need to use the local resources of the moon to build on the moon
+
+because it's too expensive to get things to the surface.
+
+Every other plan NASA had involved bringing everything with you.
+
+It's the shipping problem again.
+
+The number three, versatility beat specialization.
+
+You need a single system that can do landing pads, roadways, walls, reactor shielding, habitats, everything.
+
+And so we've been developing that system.
+
+We have hit all our performance gates kind of blew all our performance gates out of the water.
+
+the new NASA administrator is talking about moon base, moon base, moon base, moon base.
+
+And I think we'll have some very exciting news to announce on that front soon.
+
+That's very cool.
+
+I like the sound of that.
+
+Congratulations on the fundraise.
+
+Thanks for coming on.
+
+Thank you very much.
+
+Thanks for having me.
+
+This is a great time.
+
+Great to hang, Jason.
+
+Looking forward to make sure we get you on the show for that next announcement.
+
+Yeah, that'd be great.
+
+Thanks, friends.
+
+Have a good one.
+
+Great to see you.
+
+Bye.
+
+Up next, we have Eric and Model, the co-founder and CEO.
+
+I'm glad the gongs warmed up.
+
+You know, I warmed up the gong earlier, and I'm glad it's warmed up because it's ready for it.
+
+There he is.
+
+Welcome back.
+
+How are you doing?
+
+Good.
+
+How are you?
+
+Man, the myth.
+
+The legend.
+
+Tell us what happened.
+
+Is this your third time on the show?
+
+Three time.
+
+Was the, did we, did we get the series A with us, or was it the series B?
+
+Was that the first one?
+
+I'm, I think.
+
+I forgot.
+
+E.C. and D.
+
+I'm upset.
+
+We didn't get the A.
+
+I would have liked to start earlier, but you've been on an absolute tear.
+
+And John really wants to get this.
+
+How much do you raves?
+
+Go ahead.
+
+We raised a bunch of money.
+
+Boom.
+
+$750, $15.75 billion valuation.
+
+Congratulations.
+
+Amazing progress.
+
+What's working?
+
+Other than everything.
+
+We see so much demand from all these incredible AI applications out there.
+
+You know, cognition, ramp, Suno, runway, Decagon, DoorDash, and there's so many companies out there.
+
+building incredible stuff running a model because they like the building blocks that we give them
+
+inference and training and sandboxes and all kinds of other stuff yeah what what's then been your
+
+other than capital like what's been your binding constraint is it power chips like where's your
+
+we don't run data centers we've got capacity today much change in the future but yeah capacity
+
+certainly been constraint uh we're a lot of the capital we're going to use towards uh ramping
+
+up capacity a lot just serving all the demand out there.
+
+And so what's been the secret between balancing, you're basically load balancing between
+
+all the neoclouds, bringing your software to bear, your techniques, and then also balancing
+
+against all of your customers.
+
+But what has been the secret to actually being able to reliably deploy across different clouds?
+
+I mean, we follow the semi-analysis cluster max 3.0.
+
+It feels like there are some differences between these different platforms and these different
+
+neoclouds, what's your experience been like?
+
+Yeah, there's a lot.
+
+And we have our own internal modal max rating.
+
+I mean, in general, like, we aggregate capacity from 20, I think maybe 25 clouds today.
+
+It's painful, right?
+
+And they're all somewhat different.
+
+But I think that's also the value prop of using model for our customers.
+
+It's like, you don't have to deal with that nonsense.
+
+And then we add like a pretty rich software layer on top of it to write a few lines to
+
+Python and deploy incredible applications and run sandboxes.
+
+In a way, we don't have to think about all this cloud, idios,
+
+What's the state of load balancing across time and geolocation?
+
+Is that becoming a priority?
+
+I remember hearing early on that mid-jurney had some inference capacity in Asia because there
+
+were people that were generating mid-jury images in America during daytime.
+
+And as we get into more agentic workflows, I'm thinking, oh, this is something that ran in
+
+the background that I wouldn't mind if it ran at 3 a.m. local time.
+
+Totally. This is something we think a lot about it.
+
+We aggregate and run larger and larger percentage of the world's compute.
+
+It's still pretty small, but hopefully growing over time.
+
+Those things become really interesting optimization problem.
+
+Can we run things overnight?
+
+Can we run things on weekend?
+
+Can we like arb the geo stuff and run things in Asia when they're sleeping and stuff like that?
+
+There's a lot of opportunities to do that.
+
+And we can do that transparently because we aggregate all that capacity.
+
+We treated as one big pool.
+
+Our customers don't have to think about it.
+
+Yeah.
+
+How are you?
+
+you thinking about diffusion timelines like I imagine your customers like the ramps and the and the
+
+door dashes of the world are doing things that like the fortune 500 might be getting pitched these
+
+ideas from various like AI like consulting companies and things like that but they're probably not
+
+like at the frontier of whatever that new capability is and so how are you how are yeah how does
+
+like what is what is the current state of diffusion from the sort of like scale
+
+up, you know, sort of tech, tech companies that still have a bunch of like really AI-pilled
+
+talent versus the rest of the world where they have smart, talented people, but they're not
+
+necessarily like watching listening to Dwark Cash or watching TBPN or whatever it is, right?
+
+They're just like, they don't really care about AI.
+
+They're like, I'll adopt it if that's what we're going to do.
+
+But I'm not spending time on the weekend.
+
+Yeah, I mean, I think this is like a massive shift.
+
+We basically open up a whole new set of capabilities for software.
+
+I've been programming since early 90s, seeing a lot of these things in the past,
+
+whether it's cloud or big data, mobile, or a lot of these shifts in the past.
+
+And it takes time to transpire and to reach the enterprise customers.
+
+And I think we're still very early, very early in that adoption.
+
+But we're starting to see initially we had a lot of AI natives adopting this,
+
+all the companies I mentioned kind of building things from scratch,
+
+starting to see slightly more mature companies.
+
+I mentioned Doordash as one of our customers.
+
+And over time, I think it's going to be, you know, Deutsche Bank or whatever.
+
+Like, eventually we'll get there.
+
+Yeah.
+
+But it's, but it doesn't feel like there's still like a large gap between this sort of AI-pilled scale-ups.
+
+Massive, massive, massive.
+
+And I think a lot of it is like it's harder to work with these things.
+
+And so that's a big problem that we're obviously very focused on.
+
+It's like with this new technology, you need a new set of tools.
+
+Like you need a kind of build the right building blocks and, you know, what are those?
+
+I mean, we think they're, you know, the things.
+
+I mentioned like inference and training and sandboxes, reinforcement learning and post training
+
+and a bunch of other stuff, like kind of packaging that up and making it easier to take things
+
+from research to production and scale it up.
+
+Like that's really what we enable a lot of these companies to move fast and get value into
+
+production.
+
+Yeah.
+
+And we have to think about infrastructure.
+
+Yeah.
+
+But because we're so early, it's like you guys can only do so much and then you're sort
+
+of relying on your own customer's creativity to like fully be able to apply this set
+
+of tools to hire workflows.
+
+Yeah.
+
+It's the beauty of software. It's all about creativity.
+
+Like, we give them the building blocks.
+
+They can kind of combine them in an infinite way and, you know, that they can build software.
+
+How much demand are you seeing or how many CEOs are talking to you about the potential
+
+of bringing an ultra-fast product to their experience?
+
+I'm thinking about Suno.
+
+If I install that app, they got me to, like, get over the hump to do the install.
+
+That's important.
+
+And if they were able to inference the first song I generate, I mean, it's already really, really
+
+fast. But if it was like milliseconds, that might get me over like the conversion hump a little bit
+
+faster because I don't even close the app while it's queuing for five seconds. And you can imagine
+
+developers wanting an ultra-fast product, something on Cerebrus or GROC or like there's a whole bunch
+
+of chips that are out there and the labs have their strategy. But you have the opportunity to sort of
+
+bring that to everyone. And I'm wondering how much demand you're hearing from that if you're planning
+
+and solving it. So I think a beauty of modal is that it's really a general purpose product and you can
+
+build almost anything on it. And that includes things that need to run very fast. I mean,
+
+we're very focused on real-time voice, real-time audio, things like that, then you're streaming.
+
+We're also looking into alternative chips, like maybe cerebrus, like things like that. It's still
+
+kind of early. Like, we'll see what happens. But I think there's some really exciting stuff.
+
+And I think that's like the sort of general purpose nature of modal is that we can cater to all
+
+these things, like bats shops on one side of the latency spectrum, really low-latent,
+
+the inference on the other side of the spectrum.
+
+We're spending a lot of time optimizing LM inference as well,
+
+getting some really good performance.
+
+So there's a lot of that for sure.
+
+Yeah, that's exciting.
+
+When do you feel like inference platforms
+
+are going to be, are they starting to diverge
+
+like the other companies in your space?
+
+Are they starting, are we in a period of convergence
+
+or divergence in the sense of like Claude Code
+
+and codex have been sort of like looking more and more
+
+like each other in many ways?
+
+and then there's a bunch of other applications that end up looking more and more like each other.
+
+But I can imagine, like, I can imagine there's, there becomes more separation just because there's so, there's so much to do.
+
+We certainly think that we're very unique in the sense that we're more general purpose than pretty much all the other players in the space.
+
+I do think just because the market turned out to be like 10 X or 100 X or 1,000 X larger than anyone thought, including myself, by the way.
+
+I think by just virtue of the market being large, like, I think we're going to see it a lot of,
+
+specialization. The market's going to fragment in a lot of stuff. And I think our role there is to cater
+
+to a lot of those different needs, like bring a lot of the products. Inferences itself, just
+
+vanilla straight down in the middle, you just want Kimmy K3. I think it's going to be a very competitive
+
+space. But if you do all the stuff around it, you know, sandboxes, agentic stuff, like reinforcement
+
+learning, I think you can build a really, really strong generational company, something that can
+
+grow and grow and grow and grow for many, many years. Yeah. No, I mean, we're seeing it every day.
+
+Yeah, that's awesome.
+
+Very cool.
+
+Well, congratulations.
+
+The team on the milestone.
+
+Thank you so much.
+
+Thank you so much.
+
+I'm going to the next one.
+
+Hanging with us.
+
+We'll talk to you soon.
+
+Cheers, Eric.
+
+Goodbye.
+
+Up next, we have Josh from the Atlantic, a writer who talks about.
+
+He wrote the November cover, arguing that Elon Musk and Jeff Bezos are racing to vertically integrate the space economy.
+
+So we'll get to the bottom of it.
+
+Who you got?
+
+Musk, Bezos.
+
+We'll figure it out with John.
+
+Welcome to the show.
+
+Hey, guys.
+
+No worry.
+
+What's going on?
+
+Dude, I'm envious that you get to work with Mike Isaac now.
+
+Oh, yeah.
+
+I'm very excited.
+
+I've been trying to work with Mike for like 15 years.
+
+There you go.
+
+There you go.
+
+You got it over.
+
+Very cool.
+
+How did you get started on this particular beat?
+
+How long have you been writing about space, writing about Musk, writing about Bezos, etc?
+
+Give us some back.
+
+So I used to be the editor, Bloomberg, Business Week, and the chief content,
+
+officer there. So I've been dealing with technology and business for a long time.
+
+In 20, end of 2023, I started writing a column about AI for the Washington Post. And I just took
+
+it on for a year because I don't want to be a columnist. But AI was happening. And they really needed
+
+somebody who could kind of step in and explain to normal people like, what, what is this? And I've been
+
+covering AI ever since. And trying to cover it in ways that are different from the sort of standard beat
+
+reporting, I don't really care about startups and their valuations. I don't think most people do.
+
+I care about what the tech does, what it might do. I care to some degree about the representations
+
+being made by the founders and the hyperscalers and the frontier models. So I like at practical
+
+applications, I like seeing what it'll do. I didn't originally intend that, you know, I didn't even
+
+know when I started thinking about this story, that it would, of course, as with all things, end up
+
+back in AI land.
+
+Oh.
+
+But it did.
+
+I guess I feel qualified.
+
+Well, isn't that sort of the nature of life in 2026 where everything?
+
+Yeah, like you can be a sports podcast and you still have to talk about AI at least a couple
+
+times a month because there's some some crossover.
+
+Yeah.
+
+Or even like the health, every health podcast like just ends up having about AI and stuff.
+
+Yeah.
+
+It does.
+
+And look, I think that that is part of the reason ordinary people are exhausted by the subject, right?
+
+Is that they're just like.
+
+do I need to hear about this everywhere I go?
+
+Yep. Also, look, part of the reason that I like doing what I do is that I feel like there's a very
+
+unfilled bit of white space, which is actually explaining both how the tech works and looking
+
+past these kind of like statements that, you know, when I was a columnist, the first eight weeks,
+
+the number of times I heard the following phrases, and you guys are very familiar with those.
+
+AI is going to cure cancer and it's going to mitigate climate change.
+
+And then by the fifth time, you're like, say more.
+
+Tell me what that means so that we're not just dealing with this kind of like, you know, level of bullshit that people have wash over them.
+
+And at a certain point, you're like, I don't believe anything you say.
+
+Step one is we all smoke cigarettes because then we have to cure cancer.
+
+That's what I'm here.
+
+Create the incentive.
+
+Yeah, exactly.
+
+To be mandatory.
+
+If you make AI cure cancer, cancer claim, you have to smoke a cigarette on the spot.
+
+Right. That would be a good way to at least get us back to reality.
+
+Yeah, exactly. Okay. Well, let's go over to the space economy. I think most people are
+
+familiar with like the Musk vertical integration strategy. SpaceX has been widely talked about
+
+forever. He's very noisy. We know Starlink is available on planes now and he's going direct
+
+to sell and he's going to put the data centers in space. The Bezos side of the story feels not
+
+It's a secret, but it's just less discussed because Bezos is a little bit less noisy than Musk.
+
+But he's been taking this very seriously for just as long as Elon.
+
+But can you break down what the Bezos Space Empire will look like, currently looks like, what's real, what's promised?
+
+What do you see over in that world?
+
+Yeah, look, Bezos has actually, Blue Arjun started two years before SpaceX.
+
+So Bezos had a head start.
+
+Yeah.
+
+I can tell you the first 20 years of the company's history really boils down to just they took two very different paths
+
+Bezos had Amazon when he started Blue Origin and he founded, you know, Amazon with his head, and he found a Blue Origin with his heart.
+
+And so he really, he allowed it to kind of drift a little bit.
+
+And it was described to me by a former senior NASA official who visited both of those companies in their adolescence.
+
+This person said, look, Blue Origin was an academic lab.
+
+It was like a science project.
+
+They had beautiful 3D printers and beautiful buildings, but nobody was working.
+
+There's like no energy there.
+
+Whereas this person went over to SpaceX and said, everybody was dirty, everybody was young,
+
+they were sleeping in the office.
+
+And that's a product of the fact that Elon just didn't have as much money as Jeff.
+
+And he basically said, you got to eat what you kill.
+
+And I don't mind losing it all if on the chance that we actually win.
+
+And so they moved very quickly.
+
+Blue Origin for years, Jeff just was not fully dedicated to it.
+
+That gets us really up to the current day where SpaceX is responsible, as you guys probably know, for 80% of what was launched in the world in 2025.
+
+And the next closest competitor is a Chinese government.
+
+Yeah, so dominant market share.
+
+And it feels like dominant margins and economics.
+
+It feels like a monopoly business.
+
+And yet there might not be a.
+
+a structural monopoly, like a network effect there. So it feels like something that another company,
+
+Blue Origin, or someone else could actually go after, get market share, and get some of that
+
+margin if that's possible. So is this like your margin is my opportunity all over again?
+
+It's a little bit of that. It's also that the race is about to change, right? So the first 25
+
+years is about lowering launch costs, which Elon is successfully done. And then covering your other
+
+costs by having a business like Starlink, you know, launch is not a great business.
+
+Yeah.
+
+High risk, very expensive.
+
+Boring old telecommunications is a fantastic business.
+
+Yep.
+
+That's where you get Starlink.
+
+And obviously Blue Origin and Amazon are now in their own satellite race.
+
+Yeah.
+
+So if you think about there are four steps on the ladder of vertically integrating all of this stuff.
+
+Those are the first two.
+
+They're pretty well established.
+
+SpaceX is ahead.
+
+The next two are where things change.
+
+Number three is data centers in space.
+
+You guys have covered it.
+
+I know that a lot of your listeners and viewers are aware of it.
+
+But basically, the compute costs dealing with nimbism on Earth, dealing with energy costs,
+
+the fact that it can be throttled at any point and it's highly competitive, make data centers
+
+in space not only logical, but by some people who I reported on, they feel like it's inevitable
+
+that we're five to seven years away.
+
+And of course, because this is a ladder, if you don't have launch, your ability to have data
+
+in space is going to be really problematic.
+
+There's a reason that a year and a half ago, Sam Altman, mused about the fact that maybe OpenAI
+
+needs a space company and tried to buy Stoke Space, which is a startup very successful, didn't
+
+end up doing it.
+
+But if you don't have launch, you have issues.
+
+So that's the third rung.
+
+And the third rung is yet to, we've yet to figure out who exactly is going to be able to deploy
+
+and build these data centers in space.
+
+Both Blue Origin and SpaceX have big plans.
+
+plans for it, as you saw on the SpaceX Perspectus, that's really what they expect to make
+
+most of their money on.
+
+The forefront is AI models on Earth, right?
+
+Which we all know how people are imagining the financials around them.
+
+The number one issue is the throttling of compute.
+
+If you can't compute, you can't build and fine-tune new models, you can't have inference,
+
+you can't service people's products.
+
+So the ability to have unfettered compute depends on satellite infrastructure and launch.
+
+then your ability to build out your model becomes very different.
+
+The other thing that's different between these companies is what the AI models themselves do.
+
+Elon is largely invested in GROC, which is basically an LLM infrastructure.
+
+It may at some point change, but that's what it is.
+
+Bezos wants a business is a project called Prometheus, which like Blue Origin, he kept very, very secret.
+
+And then last year sort of came out of the closet on it and is the co-CEO of Prometheus.
+
+So he has an operational role in the company.
+
+And Prometheus is, you know, it's the closest thing to compare it to is a real-world model.
+
+It's a world model in which physical data makes up most of the model.
+
+He refers to it and others as an artificial general engineer.
+
+What they mean by that is that it's trained on physical data in the world and tries to make physical things from that data, tries to model things that are really hard to model.
+
+The end game, if you believe we will get there, is a machine that makes machines.
+
+And if you're Jeff Bezos and you own Amazon and need dexterous robots everywhere,
+
+and you have plans to colonize the moon, and you need all sorts of machinery there,
+
+it makes sense that that's the kind of AI you would be going for.
+
+So the two of them, that's what they're both aiming for, is this flywheel where everything leads to everything.
+
+Now, the other thing that that does is if you don't have launch capability,
+
+you're out of the game.
+
+And so at some point, if this space economy becomes real,
+
+inevitably there will be scrutiny around non-competitive practices
+
+because they'll have lockdown on it.
+
+Yeah.
+
+But there's a lot of hyperscalers that don't have launch capacity,
+
+but they feel like they've, like, sort of dip their toe in.
+
+I'm thinking of, like, that solar plane that Meadow was working on maybe a decade ago,
+
+or Google had a balloon project, and Sergey Brins built a big blimp.
+
+And like, there's little experiments that are happening.
+
+And I'm wondering if there's rumblings of, you know, are we going to hear about meta and Google and maybe Microsoft and maybe Nvidia saying like we, like, we, at least one of us is like going for it.
+
+And we're going to try and partner up with a rocket lab or Stoke space and really get into launch.
+
+I mean, maybe.
+
+The problem is how far behind even Blue Origin is.
+
+Yeah, totally.
+
+So I went to watch a Blue Origin launch in April.
+
+It was lovely.
+
+The mechanics of the rockets are gorgeous.
+
+Very brilliant people there, right?
+
+It was the third time they had reused a booster.
+
+And as we discussed, like, reusability is the key to the whole thing.
+
+You drive the cost to get of kilos to space.
+
+They celebrate it.
+
+It was the third time.
+
+And as I was driving away, I opened X.
+
+And SpaceX very casually posted, they had just reused a booster for the 600th time.
+
+Wow.
+
+And so it's 600 to 3.
+
+and Stoke Space and RocketLet.
+
+All these places are really smart.
+
+They're really good.
+
+But that's an indicator of how far behind they are.
+
+And so if you're Google and you're thinking,
+
+hey, we ought to get into rocketry,
+
+well, call me in 25 years.
+
+Yeah, it really does take that long.
+
+Well, and they also own a bunch of SpaceX.
+
+Do they not?
+
+Yeah, they do.
+
+So they've been sort of like at least developing a financial relationship for a while.
+
+I wanted to, what is your view on this sort of how,
+
+I imagine talent flows were very one-directional over the last 20 years where people would be at
+
+Blue Origin. They'd be like, I want to work on space. And then they'd realize, like, I don't know what
+
+my equity is worth. And it seems like SpaceX's valuation sort of tends to go up every few years.
+
+And I can sell some shares and it's more tangible. Now, Blue Origins raised outside capital.
+
+They have a new valuation. I imagine.
+
+that they're going to need to start making very, very serious offers to try to peel people away from SpaceX back to, back to Blue Origin in order to catch up in a bunch of different ways.
+
+But what are you seeing?
+
+Yeah, I think that's all right.
+
+I also think that these are tribal companies in ways that some of it is endemic to the space industry.
+
+Like, it's a really interesting subculture.
+
+These are very sweet, smart people, right?
+
+These are even low down the chain.
+
+You're dealing with people who have a sophisticated understanding of science.
+
+They really love what they do.
+
+They're very invested in space.
+
+They dream science fiction dreams, right?
+
+And so they are tribal in that way.
+
+But you can't help but be at one of these companies and constantly track how the other
+
+companies are doing.
+
+And so people have gone back and forth, but not as much as you might think.
+
+Now that the money is out there and that there's some people at SpaceX who are ready to go.
+
+They've been working for it.
+
+They got their equity moment.
+
+They're ready to roll.
+
+But I don't think it's as cut and dry as other businesses that are comparable,
+
+like where an AI researcher might defect for a certain amount of money.
+
+One, the money isn't that size, right?
+
+It's still, it's good money, but it's not like AI researcher money.
+
+And two, they're often in different places, and these are much more community-oriented
+
+companies.
+
+So I don't think that Blue Origin is going to get there simply by rating talent.
+
+Yeah.
+
+Yeah, you can't really just like take everything with you in the same way you can with an AI research project where you kind of know, oh yeah, there's this one pitfall in how you train the model.
+
+I'll take that over to another lab and immediately we'll jump.
+
+You know, a lot of these things are like industrial processes that build up over years and years and years.
+
+And yeah, you might know, hey, we need 25 more machines over there, but that takes time to build and takes time to organize.
+
+It does.
+
+And the other thing that's interesting about it is that, you know, it's incredibly collaborative.
+
+between the sort of theoretical space side, the physical engineering side.
+
+And so it's a kind of different type of person.
+
+And so you are knitted into your environment in ways that are much different than technology or software engineering.
+
+Yeah. Last question. Is Jeff Bezos as space-pilled or excited about space is Musk?
+
+I mean, Elon has been talking about going to Mars. We've got to get multi-planetary. It's existential.
+
+Earth could get wiped out and he's been excited about space for so long.
+
+Is Bezos equally excited and just less outgoing about it?
+
+Yeah.
+
+Listen, the difference in their personalities may be attributed to lots of things.
+
+But one thing that I, the people I spoke to said, look, Jeff's a little bit older.
+
+And so his view of business was really formed by being a D.E. Shaw, which is you keep your secrets close.
+
+You don't talk about your failures or your passions.
+
+you produce your results on the field.
+
+Elon's just young enough to really love social media,
+
+to have almost no inhibitions about what he says out loud.
+
+But all the people that I spoke to said, Jeff, you know, listen,
+
+his high school girlfriend told reporters when Amazon was first happening,
+
+the reason he was trying to get rich was so that he could go to space.
+
+And I think what he's been doing all these years is real.
+
+I did not speak to him for this piece, but the number of people I spoke to who mused about the fact that he really wished he could have left Amazon earlier to focus on Blue Origin was significant.
+
+And I think he's trying to make up for a lot of lost time because he loves space as much as Elon, if not more.
+
+Interesting. Fascinating. Well, if you see Mike Isaac, give him a banana from us.
+
+I'm coming out to see him next week.
+
+Fantastic. I might try to expense more than a banana.
+
+But if you guys want to contribute to that, just make sure he's eating because he'll just go,
+
+he'll just go black coffee all day and we just want him to be.
+
+You know what?
+
+That's me too.
+
+So maybe we'll just find the finest black coffee we can and sit there and admire each other.
+
+Well, thanks so much for coming on.
+
+It was great to me, Josh.
+
+Have a good thing.
+
+We'll talk to you guys.
+
+We'll talk to you soon.
+
+Goodbye.
+
+Cheers.
+
+Up next, we have Ada Bardari from Devalance coming on to talk about what you need to do to stop
+
+unapproved audio recording in and around you.
+
+We'll talk about how to fight this.
+
+Boom.
+
+How are you doing?
+
+Welcome back.
+
+Thank you so much for having me.
+
+I'm really excited.
+
+Thank you.
+
+Yes.
+
+Perfect time.
+
+Kick it off with an introduction.
+
+Are you behind this?
+
+Are you behind this?
+
+Because the whole scheme, the whole scheme seems so silly.
+
+It's like you're covering it up with toilet paper.
+
+It is weird.
+
+Using your employer's product.
+
+to try to do research on how to do the crime.
+
+It was very silly.
+
+Yeah, I mean, it is very silly.
+
+And I mean, in many ways, I can totally understand the skepticism from people.
+
+I would say, but that's exactly the point as well, because actually, it's a chip that is super simple and easy to get.
+
+We actually have originally tested some of these.
+
+This is the baseline chip for this.
+
+Yeah.
+
+Right?
+
+So that's the point with the eye.
+
+anyone these days can really become an expert
+
+that's something that they don't know and they can
+
+just build this. So in many ways
+
+it was exactly what we have been preaching
+
+for a while and seeing that
+
+come up here is of course
+
+very concerning.
+
+So yeah, at the violence I mean
+
+yeah, we reintroduce the company and the product
+
+and yeah, should I get one of these to block my
+
+LGTV at home?
+
+Great question.
+
+So Devalence builds
+
+for devices that prevent unauthorized audio recordings, in particular, Specter, prevents microphones
+
+from recording use. So we have been developing this technology. It's based on innovations in both
+
+hardware and also physics, as well as we're building our own in-house models with AI to make sure
+
+that we can specialize exactly in this area. So I would say it is the perfect time to think about
+
+how can you protect your physical security?
+
+Because we are really moving from a digital security-based cybersecurity time
+
+into also a physical one with meta-ray bands,
+
+with TVs making innovation and also content recognition,
+
+you know, all of these things.
+
+There's a lot that's coming up.
+
+But the open AI case in particular shows that AI recorders
+
+and recorders overall are going to be very cheaply accessible for anyone.
+
+So if you care about your privacy, if you care about keeping your conversations where they're being held, this product is for you.
+
+We also have another product that's called Calypta, which prevents AI transcription during online meetings.
+
+But that's a bit separate on this issue.
+
+Okay, I signed up for Calypta for the beta.
+
+Put my email down.
+
+That's not shipping yet.
+
+But you can order the Specter one today.
+
+pre-order, when is it shipping, take me through the process of actually building manufacturing,
+
+distributing these?
+
+Definitely.
+
+So we have been developing Spector, so it is still in R&D phase to make sure it really works
+
+as well as it can.
+
+So the pre-orders are more so to secure your spot.
+
+We're hoping to ship it early next year.
+
+And there are also demos that we are planning to release up until the end of this year to
+
+showcase our progress on the technology.
+
+So I would say that is the general understanding of Specter.
+
+And recording devices, what's happening on the spyware side?
+
+There was people talking about how some of these devices can be significantly smaller than a penny,
+
+like something that you would never notice, right?
+
+I think what was interesting about this case that came out yesterday is just like
+
+it was not necessarily very sophisticated hardware.
+
+They were trying to cover it up with toilet paper,
+
+but it feels like we now have,
+
+humans have the capability to capture information
+
+in a form factor much smaller than ever before.
+
+Yes. So that is, especially that's why we're focusing
+
+on a lot of R&D, and we're actually looking for enterprise partners
+
+to make sure that we can specifically
+
+protect against these cases because they're very particular. They're usually in meeting rooms.
+
+So there's a very normal design that we can go through to make sure that it's for meeting rooms.
+
+We can do more than just putting one device in there. So we are looking right now into mesh
+
+capabilities for room level protection instead of just on the go of protection, which is what
+
+Spector 1 was originally. But now the question for enterprises is,
+
+how do we protect entire rooms?
+
+So we're looking to partner with people up on that front as well.
+
+That makes a ton of sense.
+
+Yeah.
+
+The Specter or one device,
+
+I'm looking at the landing page.
+
+It seems like it's maybe the size of a donut or maybe a little bit bigger.
+
+It's not like keychain size.
+
+So it's a commitment.
+
+But I feel like if I wear this around a necklace,
+
+everyone will get the idea,
+
+don't spy on me.
+
+It could be kind of a fashion statement, I suppose.
+
+That is very true.
+
+Is miniaturization on the roadmap?
+
+I imagine that this could.
+
+shrink down. Also, on the cost side, $1,200 feels a little high for something like this,
+
+but what's been the response? What's the roadmap to get to something that's more just like
+
+everyday consumer friendly? Definitely. So when it comes to, for example, business rooms,
+
+positioning multiple in there, that will allow for us to shrink down the form factor a little bit.
+
+For consumers, we're also looking to shrink it down. It is the size of a speaker approximately.
+
+main problem is, you know, we are using compute on these devices so everything can run locally.
+
+So that's why the price point is at that level.
+
+Because we are running our own models on it in order to make sure that everything stays secure and private on the device as well.
+
+But we are working on this and it is in the pipeline.
+
+It's just good things take time.
+
+So we are working through it.
+
+Interesting.
+
+Is the device able to detect if,
+
+recording is happening or does it matter? Like if I'm in the forest and there's no electronics around
+
+me at all, will it still be scrambling and blocking or does it turn on proactively when it
+
+knows, hey, those meta-ray bands are on and they're listening? So right now, it's doing it
+
+regardless of whether something is recording or not, as long as it detects there's a device that can
+
+record. Got it. So yeah, it's hearing like Bluetooth. I don't know if you'll have time this
+
+holiday season, but next holiday season, if you could release a Christmas-themed device that
+
+sort of...
+
+That might do it.
+
+I think if you're just constantly rattling the jingle bells, it's going to throw off a lot of
+
+the AI recording.
+
+That's the low-tech and log solution.
+
+Put you in the Christmas.
+
+It's really loud, actually.
+
+Put you in the Christmas spirit.
+
+Yes.
+
+Really glad you're doing this work.
+
+Yeah, thank you for everything.
+
+It feels more important than ever.
+
+Yeah, congratulations.
+
+Good luck with the next product revisions.
+
+And have a great day.
+
+We'll talk soon.
+
+Sounds great.
+
+Thanks, guys.
+
+Good, good.
+
+well folks that's what it's been a good run uh it's been a great run all over the place today
+
+from aeron to mathematics to devalance yeah we did go all over the place uh very fun any breaking
+
+news in the timeline tyler anything you do no you're good uh the only thing that i saw that we got
+
+to talk about first we got to go back to alcohol but this is a crazy stat today Leonard heim former
+
+guest to the show says, global spending on alcohol is still larger than AI infrastructure
+
+spending this year, $1.7 trillion spent on alcohol, $1.5 trillion spent on AI infrastructure.
+
+So if we all band together and start teetotaling, we got another leg up.
+
+That's right.
+
+We got another leg up.
+
+We might have to do it.
+
+No, really, really puts in perspective.
+
+I had no idea that the alcohol market was so huge.
+
+But it, in fact, is.
+
+It's bigger than AI.
+
+Yeah, he'll see how it goes.
+
+Well, there's what, 71 days until Christmas?
+
+How many days until Christmas we got?
+
+Let's count it down.
+
+We got plenty of stuff going on.
+
+Here we go.
+
+Okay.
+
+We've us five stars and Apple Podcasts.

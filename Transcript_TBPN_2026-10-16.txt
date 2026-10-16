@@ -1,0 +1,4666 @@
+=== PODCAST-TRANSKRIPT: TBPN ===
+Titel: TBPN Live - SELL EVERYTHING (Including Your Dollars), Tesla Roadster Hype, Valar Atomics VC Feud | Reed Albergotti, Bryan Cantrill, Daniel Kimminau
+Quelle: https://podscripts.co/podcasts/tbpn-live/sell-everything-including-your-dollars-tesla-roadster-hype-valar-atomics-vc-feud-reed-albergotti-bryan-cantrill-daniel-kimminau
+Datum: 2026-10-16
+Länge: ~124k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+We are live from the TBPN Ultradome, the Temple of Technology, the Fortress of Finance, the Capital of Capital.
+
+How many days till Christmas?
+
+I know that's what you came to the show.
+
+That's the question you've been answering.
+
+We got the answer for you right here on TBPN.
+
+There are exactly 70 days until Christmas.
+
+It feels so close.
+
+It feels so close. It's remarkable. It's, it's, it's been wonderful joining, that you've all joined us on the road to Christmas. It's been, it's been a strong, strong road. I do want to, I do want to give a little. There's more. There's more coming. There's more coming. There's actually a lot more coming.
+
+There's 70 days or after that. Well, of course, it just, the clock restarts. Yeah, 364. Immediately. Of course, but I, I do need to give a little bit of a,
+
+Time is money. Save both.
+
+Easy-use corporate cards, bill-pay, accounting and a whole lot more, all in one place.
+
+I actually have a little Christmas gift right here.
+
+Let me open this up. Production team.
+
+Cost this my way this morning.
+
+And let's open it up.
+
+What's inside?
+
+What's inside?
+
+Oh, it's a ramp card.
+
+Great Christmas gift.
+
+What do you look at that?
+
+This holiday season.
+
+Get it for someone you love.
+
+Get it for someone who needs to save time and money, which is really everybody.
+
+Also, congrats to ramp.
+
+Massive fundraising news.
+
+We'll be talking to the team tomorrow.
+
+But the road to Christmas.
+
+We're 70 days away.
+
+And this can be a difficult moment.
+
+I mean, I don't want to call out anyone in particular on our team,
+
+but there was an individual on our team yesterday who I was reflecting because it had been
+
+a little bit cold over the weekend that I was feeling especially Christmassy.
+
+I was feeling the Yule Tide.
+
+I was feeling the hearth.
+
+I wanted to warm up my hands.
+
+We were in the jackets.
+
+Everyone was saying,
+
+is it so cold in the studio.
+
+It was like,
+
+no,
+
+there's just a warm fire burning inside my belly
+
+as I get closer to,
+
+as I get closer to Christmas.
+
+But somebody on our team is like,
+
+I'm like,
+
+oh, we're finally in like the cold season.
+
+And as soon as the cold starts
+
+where you live,
+
+whether you're in California or New York,
+
+as soon as it gets a little crisp,
+
+it's game on.
+
+It's game on.
+
+No one's going to look at you.
+
+Like you're crazy for talking
+
+about it's only 70 days until Christmas because it's Christmas yet.
+
+It's cold.
+
+It's cold.
+
+But Michael over there, I'm going to call you out.
+
+Michael over there on our team is like, John, you know it's going to get hot again.
+
+It's going to get hot again.
+
+And yes, I checked the weather.
+
+It's going to be heat degrees today, which is not the most Christmas weather.
+
+There's actually a heat advisory in California from the national weather.
+
+There's a heat advisory.
+
+But there is a lesson.
+
+It remains in effect until.
+
+Saturday.
+
+Which is Michael.
+
+90% of the road to Christmas, the battle for the road to Christmas is mindset.
+
+And we can't have anyone on this team being a Grinch right now.
+
+It's very important that everyone supports the idea and looks on whichever side is the greener grass.
+
+Friendly elf mindset.
+
+Friendly elf mindset.
+
+Bold and retriever mode.
+
+Yes, exactly.
+
+So yes, there might be heat advisory.
+
+It might be blistering hot.
+
+But we're still going to.
+
+to stay laser focused on what matters, which is that in 70 days, it will be Christmas.
+
+That's right. We're pretty excited here. We're headed to see, you can see everything,
+
+the new Nathan Fielder movie later today after the show with a great group. Can't Wait.
+
+We'll have the review for you tomorrow. Yeah. That'll be fun. And really anything to take our
+
+minds off the market, John, because it's an absolute blood bath out there. Well, before we go in,
+
+create and modify your Figma files with design system contact. Okay, so the market is mostly
+
+reacting to the Anthropic Investor Day numbers, but it's been in a decline for a long time
+
+for the last month. Coreweaves down something like 50% over the last month or so. It's been rough
+
+in the AI trade broadly. And it's crazy. Only 16% of it.
+
+It's crazy that you can be growing at 45% quarter on quarter and still not meet expectations.
+
+But when people have had in their minds 10x every year, 10x revenue growth every year,
+
+and Anthropic goes to their investor day and says that Q3 revenue was 16.8 billion,
+
+which annualizes to 67 billion. I don't know what they were doing there.
+
+That seems like a little bit of like, like, okay, I get it.
+
+like the Zoom reference, but like this is serious financial.
+
+There's a lot of money on the line.
+
+Can we not do like the meme thing right now?
+
+Anyway, they are in fact annualizing their quarterly run rate to an annual run rate of 67.2 billion,
+
+which is remarkable for a company that was doing, you know, a tenth of that a year ago.
+
+But it's seemingly not enough because everyone in their minds was like,
+
+they're going to surprise to the upside.
+
+They're going to throw up 90.
+
+like they're going to do something.
+
+And I was kind of in that camp.
+
+I was like, they had they been quiet for a while.
+
+I feel like everyone's like, there's that chart of like, oh, the growth stalled.
+
+And I was like, that feels like something that they would love to come out and be like,
+
+from the top rope, fake news.
+
+Like we got some surprise up our sleeve.
+
+But they really have been fighting fires on multiple fronts.
+
+So there's like the meta business, which has pivoted over.
+
+They're probably using their own model now.
+
+And maybe they, and there was that like leak of like an executive at meta saying like,
+
+oh yeah, if we stop buying.
+
+anthropic. Like, it could really mess up their IPO. That would be a shame. I would hate for
+
+a company to IPO at lower valuation than us, since we're almost two trillion dollars. Like,
+
+that would be terrible. So it seemed like sort of a veiled threat in the media. And then
+
+distillation. We actually got a number. So distillation is between five to seven percent of
+
+revenue, which I think is a little bit lower than people were expecting. But it feels like
+
+the anthropic team, David Sachs was celebrating this, that, hey,
+
+like there was this big problem and one of the proposed solutions was like bad open source do all this
+
+crazy stuff slow down and david sacks didn't want to do that and then uh anthropic came out and said hey
+
+like we did a lot of work we deployed our own frontier technology to fight this and uh we believe we
+
+have bought it and we believe that we can shut down distillation uh pretty staggering that five to seven
+
+percent, you know, that's billions of dollars spent stealing from, because that's the value of the,
+
+of the distilled tokens, which is pretty crazy that, that you can be at that scale of essentially
+
+fraud.
+
+Like you're not supposed to be distilling.
+
+It's against the terms of service.
+
+And usually when you see somebody, oh, yeah, there's somebody who's like scraping LinkedIn and
+
+then they're like reselling the data or whatever.
+
+It's like, yeah, they might have like a couple million dollars deployed into this scheme.
+
+But you're looking at, you're looking at $5 billion of fraud essentially, or run rate fraud, you know, something like that.
+
+But as they fight that fire, obviously that's going to be a drag on revenue growth.
+
+If they open the floodgates and we're like, yeah, go distill away, you know, at least in the short term, revenue would be growing faster.
+
+But in the long term, there'd be much more competition on the frontier.
+
+But it's certainly not as meaningful as some people.
+
+on the internet thought it was.
+
+Yeah.
+
+I mean, there were like some trolls who were like, oh, yeah, once you get rid of meta and distillation,
+
+company's going to be doing, you know, $2 billion a year.
+
+And it was like, no, that's not going to be the case.
+
+Like, this is a, this is installed in many, many organizations.
+
+This is a mature go-to-market.
+
+The question now is what happens to the frontier of the open weights ecosystem, right?
+
+Does a gap widen?
+
+Oh, because they're, because they're shutting down the distillation.
+
+We'll see how effective it is.
+
+Yeah.
+
+And I wonder how Muse Wonder distillation will fight.
+
+Like on one hand, like...
+
+I don't think people are going to be distilling Muse Wonder.
+
+Yeah, like maybe it's not quite there yet.
+
+But if Meta can invest enough to actually have a model that is a target of a distillation attack,
+
+are they better equipped to fight distillation attacks?
+
+because they've been fighting bots for a long time?
+
+Being on the frontier just means you're getting distilled.
+
+If you're not getting distilled, you're not a lot of,
+
+in your mind?
+
+It's like, unless you're being distilled, you're not frontier.
+
+Yeah.
+
+I think that's like the most honest definition.
+
+Like unless other people will spend a lot of money to try to emulate your model and recreate it,
+
+then you are not.
+
+That's a good reality check.
+
+Anyway, do you think that meta would be more equipped?
+
+than anthropic or less equipped than anthropic to fight distillation attacks if they do get attacked.
+
+And maybe, so what I'm saying is that like on one end, there's a lot of bots that are that are already in the meta ecosystem.
+
+And so you could be distilling attack because maybe you already have a bot net up and running across Instagram and you haven't been caught.
+
+And then you can reroute those bots to do something more valuable than just like and share and like AstroTurf stuff.
+
+you can get them to pull out tokens from wonder somehow,
+
+and then you can distill it, or wonder two, whatever you want to call it,
+
+Wonder three, whichever one is worth distilling.
+
+But then on the other side, you have an organization that's younger,
+
+a culture that's not paranoid about this stuff.
+
+They're not saber-rattling around, oh, if we get distilled, it'll be the apocalypse, right?
+
+And so, like, culturally, you'd think that they're a little bit less worried about this.
+
+And then also they're not in the business of like every, every distillation dollar is $10 that could be API revenue for Anthropic.
+
+It's very important from a business perspective.
+
+That is basically giving the stuff away for free.
+
+Yeah, it's important to keep people in like the muse ecosystem.
+
+But if they get distilled and then all of a sudden there's a open source model that's really, really good, they're not going to be as worried because they're just going to say, well, like that open source model doesn't have a button on the every Instagram, like the distribution.
+
+On every Instagram account, there's like a Muse button.
+
+I think they'll be happier.
+
+So I don't know.
+
+What do you think, Tyler?
+
+Yeah, I mean, so one thing is meta-release an open-source model today.
+
+Yeah.
+
+Muse Spark Open.
+
+Yeah, yeah.
+
+So I don't think they're that worried about like someone distilling them and then releasing
+
+an open-source version.
+
+Seems very different, like, ideologically, right?
+
+Yeah.
+
+Yeah.
+
+And also, I think it seems like distilling is, I mean, I don't know how hard bot detection is normally,
+
+but distillation seems like uniquely hard in that, like, I think it's hard to actually tell
+
+what is like a normal prompt versus what is not, right?
+
+If you're asking like some math problem,
+
+like are you going to distill on that?
+
+Because like effectively,
+
+if you're disilling on something,
+
+you need to like get the chain of thought, right?
+
+You can get like the reasoning steps.
+
+The answer looks very similar.
+
+And this is happening while they're experiencing explosive growth
+
+and the distillers are setting up hundreds.
+
+Distilleries.
+
+Distilleries are setting up hundreds of individual like max accounts.
+
+that each have their own VPN.
+
+And it's just very difficult to detect.
+
+Is this like organic growth?
+
+Yeah.
+
+Or?
+
+And often they're going through like third party wrapper companies.
+
+So there's a lot of companies that are like, yeah, we're like, you know, an AI native document editor.
+
+And there's like a bunch of these.
+
+It's not just like Not just Google Docs.
+
+Like there's a lot of these companies.
+
+You set one of these up and you're like, yeah.
+
+And we, you pay us a fee.
+
+And we go and we inference Claude or we inference GPT6 or whatever.
+
+And then that goes into the document.
+
+And then all of a sudden that if somebody's using that AI Word doc to do the distillation,
+
+then that SaaS company, that wrapper company needs to go and figure out, wait, why is someone generating on these documents?
+
+Maybe they can't even look at the documents.
+
+And then from enthrobics perspective or the Frontier Labs perspective, they're just seeing like,
+
+oh, yeah, one of our SaaS wrapper companies is like sending a bunch of.
+
+of queries across their entire network because they have thousands of users, maybe hundreds of
+
+thousands of users, and it's hard to tell. And so there's a lot of wrapper companies that have
+
+gotten to like crazy revenues, and basically no one uses the products because it's the
+
+distillers or the distilleries that are like, ooh, new wrapper company? Like, can't wait to
+
+spin up a thousand accounts on you because you won't detect me, but anthropic would. So we can't
+
+go straight to setting up clod plans. Instead, we'll set up a wrapper plan and a million
+
+wrapper plans and then the company that's running the wrapper is like this is amazing people are just
+
+paying so much for us and all we need to do is just take their prompt stuff it over in inthropics
+
+API give it back to them and we make a 10% margin on top like the mark the wrapper system's working when
+
+really like they are a distillation factory very interesting distilleries they're distilleries you got to
+
+take a trip to the distilleries well what's going on the market because yeah where did that lead us
+
+that led us to everything uh yeah i mean especially your dollar
+
+Sell your dollars. Sell your dollars. Sell your stocks, sell your bonds, get out of everything, get into land, buy guns, food, medicines. We will be on a barter economy soon, I think. I think that's the main major prediction. No, people are blackpilling. Sell your assets. Sell everything. Sell everything. Take your dollars, invest them into a roadster or maybe a missioness. Yes. I think that's why they timed this launch. They knew.
+
+This goes way deeper than we ever thought.
+
+They timed the launch of these two vehicles for later today
+
+because they knew that people would be going to cash and they'd be primed.
+
+No, this led us to the president of South Korea.
+
+Yeah, very dark.
+
+Yeah, posting something that was translated from Korean,
+
+but the GROC translation is, we must live.
+
+You have to live somehow.
+
+If it's hard, please call 109.
+
+In fact, Gil will help you find reasons to live together.
+
+I don't know who Gil is, but yeah, the Kaspi, I believe, is at a six-month low.
+
+And so for a country that loves trading as much as the South Koreans, dark times.
+
+Yeah.
+
+Yeah, a lot of this just goes down to exponential expectations being extremely difficult to keep up with.
+
+So the meme has been the lab revenues are 10xing every year.
+
+Anthropic went from like 100 million to 1 billion to 10 billion.
+
+So logically they'll do 100 billion.
+
+But I remember looking at the numbers and being like there's actually,
+
+it sounds so nitpicky to say it's deceleration, but it technically is because I think they went from like a little over 100 million to a billion,
+
+which is just under 10x,
+
+and then they went from a billion to technically 9 billion,
+
+which is a 9x, not a 10x.
+
+And so if you assume that you're actually seeing
+
+some slight degradation there,
+
+you would be thinking, oh, they'll close out at like 80
+
+because they went from 1 to 9.
+
+They didn't go from 1 to 10,
+
+so going from 9 to 100 would be acceleration.
+
+Again, we're talking about growing.
+
+10x a year, 9x a year, 8x a year.
+
+It's all crazy and incredible.
+
+But the fact of the matter is, like, the difference between an exponential curve going upwards and slight deceleration is a huge difference.
+
+And I think people are maybe, like, overreacting to this because there were a lot of people that were saying, like, oh, maybe we'll hit $100 billion.
+
+Maybe they'll do $150 billion.
+
+So when you get, when you get, like, the expectations so high people, it's very, very hard to keep up.
+
+And then also, I just, it's very clear that there's like this tall pop.
+
+syndrome in the frontier where whoever is in the lead like all the other businesses
+
+are like well we don't want a monopoly on intelligence and so let's go by from the
+
+other labs let's go you know figure something else out fund invest let's do
+
+something else to make it so that no one runs away with this entirely of course
+
+like there there always could be some sort of runaway but at least while
+
+businesses are the ones that are deciding you will see the the Microsoft's the
+
+Amazon's of the world. It's like all of a sudden they're doing deals with the other guy because they don't want a monopoly. And so as soon as someone starts running away with it, there's this huge forcing function where you're like, oh, wow, there's a big like, you know, the anti- YouTube alliance or the anti-netflix alliance or the anti-open AI alliance was the thing. And the anti-anthropic alliance like comes together. And these alliances come anytime someone's getting a little bit too hot at the party, somebody's like, yeah, we got to pull the punch bowl away a little bit.
+
+Yeah. Anyway, the news. Gersner. Yeah, please. He's on CNBC this morning. Okay. He says, we have sold, this is according to a meet. We have sold all of our core. We've don't own any of it today. We've taken exposure down over the last three months. We felt AI had overshot and would lead to a period of consolidation. They moved 10% of their book into meta and Tesla. And again, Brad, usually ahead of the curve. Sounds like he was here.
+
+as well.
+
+Yeah.
+
+It's an interesting challenge being, you know, running a hedge fund, an adventure fund,
+
+but then also being one of the most elite podcasters because there's times, there's periods
+
+where in some way he can't go out and say what he actually feels.
+
+Yeah.
+
+Because it's not sort of pragmatic for his actual investing.
+
+So the interesting thing is people aren't actually selling everything.
+
+they're not actually selling their dollars.
+
+That's just the meme.
+
+Of course, Satrini says, oh, it's over, over, which is very funny.
+
+Just to put it in perspective, the NASDAQ is down like 0.3%, 0.4%, not much.
+
+But then the Dow is up almost a full percent.
+
+So what's really happening is that there's just a rotation that's happening
+
+while the Dow and treasuries are getting more attention while tech stocks pulled back.
+
+Obviously, not good for the AI trade in the short term, but there's a lot of new initiatives.
+
+We'll go in through some of the progress because there is some interesting AI progress going on.
+
+But at least over in the AI trade, over in tech world, it's rough.
+
+People are speculating that Leopold might have gotten into some of the same trades,
+
+and depending on the leverage ratios, he could be down a bunch.
+
+It's very unclear.
+
+Obviously, he's extremely sharp and just learned a really hard lesson.
+
+So how he interprets that.
+
+Who knows?
+
+What's happening?
+
+Yeah, it is.
+
+It is notable that people are saying it's over over when the NASDAQ is flat over the last five days.
+
+Yeah, it's because like people are rotating out of Corweed, but then they're buying more
+
+SaaS, you know, because like if the AI trade breaks down like the super intelligence thing
+
+doesn't happen, it's like, well, then you still want to own like a social network that runs ads.
+
+You still want to own like a software company that has good margins.
+
+Like there's plenty of things that are worth owning.
+
+And so the dollars actually aren't getting sold.
+
+Like the money is not disappearing.
+
+It's merely just sloshing around in the economy.
+
+Anyway, the VARA AI, which is Value Aligned Research Advisors LLC.
+
+There's a rumor going around that Martin Screlli shared that the,
+
+the VARA AI fund has blown up.
+
+So we'll be tracking this.
+
+It happens fast, but not immediately.
+
+The rumors around situational awareness took a few days of speculation.
+
+Oh, he must be hurting based on the latest
+
+sell-off in semis and memory.
+
+And then a couple days later, oh, there's a rumor.
+
+He's doing a deal.
+
+Boom.
+
+And then all of a sudden it was all over the Wall Street Journal.
+
+So that will happen.
+
+and we'll find out maybe they make it out,
+
+maybe something happens.
+
+Yeah, looking at their portfolio,
+
+as of the last 13F,
+
+was nebius, bloom energy,
+
+core weave, Seagate, Western Digital,
+
+Hut 8, iron.
+
+A lot of stuff that's further out on the risk.
+
+Core scientific, some Nvidia, some sand disk.
+
+Okay, yeah.
+
+So, ASML, among others.
+
+So I think they were big believers.
+
+in this whole AI thing, hopefully continue to be.
+
+Yeah.
+
+But, yeah.
+
+And I mean, I still feel like there's a lot of management that happens in the pre-IPO stage.
+
+You could see potentially the labs, see that, okay, there's a blip.
+
+We've got to rip the band-aid off now.
+
+We've got to correct the record, get the low numbers out, because we know that we're going
+
+to go into a period of acceleration and that's when we actually want to IPO. It's notable
+
+that this investor day is not the actual IPO. This is a precursor to that. It's maybe almost
+
+like airing some dirty laundry, which is crazy to say given how fast this company is growing and how big
+
+it is. But it's useful to sort of clear the air when there's a bunch of speculation around
+
+sort of flatlining Q3 deceleration, these like sort of less exciting words floating around.
+
+We clear the air, you say, okay, we got, we decelerated.
+
+Only way to go is up now.
+
+Baja Blast.
+
+Time to Baja Blast.
+
+Yeah, maybe they got through the code read.
+
+Now it's time to Baja blast.
+
+Railway is the all-in-one intelligence cloud provider.
+
+Use your favorite agent to deploy web servers, databases, and more.
+
+While Railway automatically takes care of scaling, monitoring, and security.
+
+Well, the inflation is up.
+
+So if you are, if you were short stocks and long inflation, then you're very happy today.
+
+Hopefully.
+
+I mean, if you own real assets, you're probably pretty happy.
+
+Joe Weisandle says that was the hottest PPI number in four years.
+
+And yeah, it's a, it's a pretty rough fun.
+
+You're really having fun.
+
+Did you see inflation for the 1%?
+
+This is CPI Reserve.com.
+
+We can pull this up.
+
+It looks at inflation.
+
+You know, there's normally the CPI basket that measures, you know, what the average American buys.
+
+CPI Reserve is for the global elite.
+
+So it tracks how much does it cost to go to space on Virgin Galactic?
+
+How much does it cost to stay at Amund Gehri in a base suite?
+
+An Hermes, Birkenbag.
+
+How much has that gone up?
+
+The spicy rigatoni.
+
+Really?
+
+Only up 31%.
+
+Oh, I didn't do that.
+
+Porsche, 9-11 Carrera.
+
+And so there are some interesting stats here that we can go through, and you tell me whether these are
+
+overrated or underrated.
+
+Have these gone up because the value has improved or is it now overpriced?
+
+So I want an overrated, underrated for the key items that CPI Reserve highlight.
+
+So the classic Chanel flap in 2016, it was $4,900.
+
+Now in 26, it's $11,700.
+
+That's over 139% inflation in 10 years.
+
+That's over three times what standard inflation was.
+
+If it tracked CPI directly, it would be $6,800.
+
+but instead it's $11,700.
+
+Do you think the class...
+
+You're a bozo if you're still buying this.
+
+Okay.
+
+So it's overrated at this point.
+
+The inflation...
+
+Always was, though.
+
+Always was.
+
+Always was.
+
+Okay, what about Met Gala tickets?
+
+In 2016, it cost you $30,000 to go to the Met Gala.
+
+Now, it's $100,000.
+
+That's six times the average inflation rate in America.
+
+Overrated, underrated?
+
+What's a Met Gala ticket worth, Jordy?
+
+I think underrated still?
+
+I think so.
+
+This is charitable.
+
+giving. That's true. I hadn't considered that. So the more the more the better. Yes. And the med gala has
+
+grown so much, so many interesting folks there, so many interesting moments, worth every penny.
+
+What about a Hampton's luxury home? In 2016, the median Hampton's luxury home cost just $4.425 million. Today,
+
+it'll cost you $11.5 million. That's a hundred and sixty percent increase in 10 years.
+
+four times the CPI, the average inflation rate.
+
+Are you a Hampton's guy?
+
+I've actually, I don't think I've ever been.
+
+Never been.
+
+So overrated, you pass?
+
+No, I mean, when you look at the real estate prices here,
+
+I think this ends up feeling like it's driven in many ways from COVID,
+
+people wanting, like more people wanting second or third home.
+
+Yeah.
+
+Plus, they're not making anymore.
+
+Plus SERP, right?
+
+And so a lot of those homes traded at really low rates.
+
+And so that just drove everything.
+
+Okay.
+
+What about a Virgin Galactic seat?
+
+You want to go to space?
+
+It used to cost $250,000.
+
+Today it'll cost you $750,000.
+
+Overrated, underrated?
+
+I don't know.
+
+Not for me.
+
+Steel of the century.
+
+Are you going?
+
+Any price.
+
+Absolutely.
+
+Send me to space today.
+
+I would go.
+
+I would go to great lengths to block you from going on this.
+
+Is that because of safety?
+
+Assume that I survive it.
+
+Because I'm going to survive it no matter what.
+
+It's going to be.
+
+I can actually imagine, yeah, I can imagine the flight going poorly and you having to sort of like fight your way out.
+
+Yeah, yeah.
+
+You got to roll a duct tape and I got to put it together and screw this and figure it out.
+
+Take a deep breath.
+
+and dive.
+
+Yeah, exactly.
+
+Figure out a parachute on the way down.
+
+Yeah, yep, yep, that's exactly what would happen in a realistic scenario.
+
+Okay, the last one.
+
+The Porsche, actually we got two more.
+
+The Porsche 9-11 Carrara base, it used to be $83,000, $84,000 in 2016.
+
+Today, it'll cost you $135,000.
+
+That's 61% gain in 10 years.
+
+It's 1.5 times what the C.
+
+did, not a huge increase relative to overall, but it is ticking up in recent years. Where do you sit
+
+on the value of the Portia 9-11 career base? Still undervalued relative to the joy that you get
+
+out of it, but I wish that they could keep like the base base 9-11 at like $99,000. That'd be
+
+cool. Forever. Yeah. Yeah. Yeah, that'd be special. This is the world we live in. Yeah, it is.
+
+The last one, truly heartbreaking, a Dom Parignon Magnum.
+
+It's up 121% since 2016.
+
+Used to be $380.
+
+Now it's...
+
+Wait, we also got to pull up the big law.
+
+We got to pull up the big law hourly rate for partners.
+
+They are way outpacing.
+
+Oh, inflation.
+
+I mean, just look at this.
+
+Yeah, you used to be able to hang out with a lawyer for just a mere $1,500 an hour,
+
+and that'll cost you almost $3.3.3.000.
+
+grand an hour to get legal advice from a big.
+
+Yeah, no longer the cure for male loneliness.
+
+Yeah, because that $1,500 an hour.
+
+Yeah, you just call them up.
+
+Call them up and just ask them how you do it.
+
+You kind of lose track of time.
+
+Yeah, exactly.
+
+Going all over the place.
+
+Yeah, yeah, yeah.
+
+How are you been?
+
+How are the kids?
+
+Can we bill in quarter hour increments?
+
+Can we book in out in 10 minute increments?
+
+I'm going to my lawyer.
+
+I'm saying, can we just book a week at a time?
+
+If I talk to you, just put me down for the whole week.
+
+Yeah.
+
+Give me 100 hours, 100 hour block.
+
+If I shoot you a random question, if I ask you, is this domain available?
+
+Anyway, anything else you want to cover on the CPI Reserve.
+
+You can go check it out at cpi reserve.com.
+
+Very cool, a little fun project to give you another side of the economy.
+
+Craziest here is Manhattan luxury real estate.
+
+How's that doing?
+
+It is down.
+
+Down.
+
+P.I. Detere tax, right?
+
+It's higher taxes, people are getting out, they're moving.
+
+I don't know.
+
+It's working.
+
+There's also an interesting article in the Financial Times.
+
+I don't know if we have it here, but you can go read it all about the E-shaped economy.
+
+You've heard of the K-shaped economy.
+
+They argue that there's an E-shape, that there's the ultra-wealthy, the middle class, and the lower class,
+
+and they're all going in different directions, and that some of the inequality stats are not tracking exactly.
+
+how you would expect, and they pull some Bureau of Labor Statistics and some economic
+
+statistics that were released from the 2025 report.
+
+So we'll break it down.
+
+It's kind of interesting.
+
+Blake Byers is taking like the AGI question around capital markets.
+
+He says, my modal prediction for the next decade, interest rates spikes as capital shifts
+
+from saving treasuries to investments due to higher returns promised by AI-related CAPEX.
+
+We've seen this before because AI is the only modern project that could affect real rates to this degree.
+
+This leads to short-term panic as high rates spike debt servicing costs for governments and other borrowers.
+
+We're seeing this all over the place with real estate developers who are, who we're doing great, financing a large development project.
+
+And now with floating interest rates, they're over their skis and they have to refinance or sell the property or stop building.
+
+It's a really, really tight and chaotic moment.
+
+There's a lot of places that are in pre-foreclosure.
+
+It's actually an interesting hack.
+
+You can have Chad GPT go and hunt for properties that are in pre-foreclosure
+
+and make below market offers and get sort of a steal on properties.
+
+It's very, very interesting to dig into what's going on and what the loan actually.
+
+There were people that were doing this during the 2008 mortgage crisis.
+
+they would look into the mortgage-backed securities into the collateralized loan obligations,
+
+and they would say, okay, I know that this hedge fund does not want this house.
+
+They don't care about this, so I can go to them and buy it,
+
+because they're rating the whole bond at 20 cents on the dollar now,
+
+because we're collapsing.
+
+I'll buy it from them from 50 cents on the dollar,
+
+and it's more complicated a deal,
+
+but some people have walked away with some really, really great properties.
+
+after three years of panic, it becomes clear to the market that the investments are paying off in a big way.
+
+Interest payments remain high, but increased revenue from economic growth, more than offsets the higher borrowing cost.
+
+Panic shifts to euphoria, developed world adjust to 5% growth rates as the new normal and now demand 10% to be happy.
+
+Healthcare consumption R&D grows as a percent of GDP.
+
+I was listening to R.A. Emanuel and Ben Thompson talk, and it was the funniest interview because Ben Thompson cannot get a question.
+
+in edgewise. It's just a conversation. Normally Ben is like very structured in his interviews.
+
+Let's start with your background. Let's ask some questions. Instead, Ari's like, I'm asking you
+
+the questions. It's very, very funny. But one thing they talk about is that recently the share
+
+of advertising dollars, you're going to love this. The share of advertising dollars is percentage of
+
+GDP was 1 to 2% for a long time. It's now 2% to 3%. And they both agreed it could go higher.
+
+It was amazing. Anyway, AI is
+
+disrupting the job application market faster than the job market.
+
+This is continuing, it's a hot take, but it's continuing to gather evidence.
+
+Derek Thompson shared a post from the Wall Street Journal.
+
+AI amplified job applications are met with AI-enabled filters and other AI tools used by
+
+HR departments to narrow the application pool.
+
+People are interviewing with AI avatars.
+
+That seems like a really terrible thing unless the whole.
+
+whole meta game is just can you jail break it, which I think it probably should be.
+
+Like if I was to put out, if we were to put out a job description and we, I'm totally tempted
+
+to throw an AI avatar in front of that, just in the hope that someone convinces that
+
+AI avatar that it is in fact, in interviewing for the job you've seen that, where people will
+
+flip it a script and be like, actually, we're here to talk about your performance.
+
+And the AII avatar is like fighting back being like, remember your instructions, remember your instructions,
+
+you're the boss, you're in charge.
+
+We're here to interview you.
+
+And then eventually the interviewer can keep hammering
+
+and prompt injecting.
+
+But Derek Thompson says,
+
+and now 10-minute conversations with AI
+
+that take place in McKinsey's very real offices
+
+with partners or interview assessors
+
+in the room, observing how the candidates do.
+
+So these candidates are basically putting on an interview show.
+
+Yeah.
+
+And the partners are watching,
+
+watching two people duke it out.
+
+Yeah, it's kind of like a gladiator.
+
+Coriol arena.
+
+Yeah.
+
+And I want to see if you can beat the tiger that I've released.
+
+And if you can, you get to sit at the side of the cork jester or something like that.
+
+I don't know.
+
+We got to debate the bread and circuses thing.
+
+I feel like circuses are kind of running away with it.
+
+And bread is potentially falling behind.
+
+I don't know.
+
+Did you see the crumble cookies introduced like a chicken chicken cookie?
+
+I'm just saying that from a perspective of like what the elites are doing in our
+
+our economy. Think about it. So many billionaires are buying effectively circuses. They're
+
+buying sports teams. They're about UFC. There's F1. There's so many circuses. Yeah.
+
+Savannah bananas. The Savannah bananas. The Savannah bananas. The Banana. Banana. Banana.
+
+Banana ball. Banana ball? Yeah, the Savannah bananas. The Savannah bananas. And so there's
+
+a lot of speculation today that they're announcing some sort of acquisition.
+
+Yeah. So there's an intense amount of money flowing into the circus economy.
+
+me. But I feel like bread is kind of fallen behind. I mean,
+
+Arawan, we talk to them. It's interesting. But there's,
+
+there's a lot less. It's not a trophy asset in the same way.
+
+We had two grocery stores on the show. We did. But it's very different. Like,
+
+no one is saying that like, like, like, no billionaires are like, okay, I bought a grocery store.
+
+I'm sorry, John. Your whole thesis breaks down. Okay.
+
+Because crumble cookies and wing stop.
+
+Are collabing?
+
+It's fake news.
+
+It's fake news.
+
+See? Undefeated. But it's not a trophy asset. No one is, no one is getting the bag in venture or private equity or high finance and then being like, give me the award.
+
+Give me the award. Jordy's got to put on the fell for it again award because he fell for AI slop. There is so much AI slop on the timeline. I'm actually, I'm actually very, very close to to hooking up codex to Grockbot, sucking.
+
+my timeline out of X getting all the different raw data and the tweets and then fact-checking
+
+everything and then creating a new feed for myself.
+
+Belford again.
+
+Okay, we got to move the camera down.
+
+There we go.
+
+There we go.
+
+Felford again.
+
+I did.
+
+That's me.
+
+That's Georgie.
+
+Many, many times.
+
+Many, many times.
+
+But yeah, the job apocalypse is certainly not happening.
+
+Bank of America hired a thousand contractors to patch software flaws exposed by
+
+AI systems, mythos, and whatnot.
+
+You got the Falford Again Award
+
+with regard to
+
+the crumble cookie, wing stop.
+
+That one, I saw
+
+that and it just felt like something
+
+that would not be edible because there's
+
+bones in it.
+
+There's chicken bones.
+
+You know what I'm talking? This is the picture.
+
+You seem like the type.
+
+You seem like the kind of guy who just eats the bones.
+
+You don't eat the bones. No one eats
+
+the bones. Get out of here.
+
+That makes no sense.
+
+But you know what does make sense?
+
+MongoDB.
+
+What's the only thing faster than the AI market?
+
+Your business on MongoDB.
+
+Don't just build AI.
+
+Own the data platform that powers it.
+
+Okay.
+
+Okay.
+
+What?
+
+I'm excited that these thousand contractors got hired, but at the same time,
+
+shouldn't the same AI that discovers the bug be able to, like, work out a solution.
+
+But maybe there's just like, maybe there's 100,000 engineers worth of bugs.
+
+you know but because these thousand contractors are powered by yeah this is kind of odd headline now that
+
+I'm thinking about it very very odd and it's like yeah did we just create a bunch of make work because if we
+
+just didn't if we hadn't invented this it really is like the pandora's box
+
+pandora's box opening creates thousands of jobs containing the stuff that is flowing out of pandora's box
+
+is that what happened basically that's the story here anyway there is some
+
+progress on alignment. We're very excited to see this. Nick Camerata says neural networks may be
+
+easier to interpret than researchers once thought. Rune is very excited about this. So it starts with
+
+Nick Camerata. He says interpretability might be the most important scientific problem in the world
+
+right now, as I don't think we can solve alignment if we don't know what we're building. I think
+
+we have good news about it. I co-authored early work in Mechanical.
+
+interpretability at Open AI and came away pessimistic because neural networks appeared to fold
+
+into arbitrary tangled knots. They're grown, we're growing a garden, we're midwifing a deity
+
+instead of building a machine that is interpretable. This has been the hope that we can actually
+
+interpret these systems. And so he started Open AI's first large-scale automated interpretability
+
+project, finding about 2% of neurons legible with the primitive tools.
+
+that he had at the time.
+
+With modern, agentic tools and a much closer look,
+
+the picture looks totally different.
+
+The vast majority in models,
+
+up to trillions of parameters are legible,
+
+and their circuits beautiful.
+
+Many famous examples of tangled neurons
+
+turned out to be misunderstood.
+
+The roadblocks, I expected, mostly aren't there.
+
+I now think ambitious interpretability
+
+will be solved by the time we need it most,
+
+and possibly quite soon, as automated scientists
+
+keep improving. It may be a bitter lesson for interpretability. The simple thing at absurd scale
+
+works. And so Rune contextualizes it by saying when Nick told me that he had some interp breakthroughs,
+
+he was underselling it. I think this may be remembered as a major moment in scientific history.
+
+News so good, even Eliezer-Yutkowski will have to lower his pee-dume. We can start making a line
+
+into a moment. So, Tyler, did you read the full
+
+neural networks are already clean post by Nick Camerata from Goodfire.
+
+Okay, so it's like super long, but I think I have like the main, the main.
+
+It has beautiful, beautiful illustrations as you load already dash clean.
+
+Goodfire.com.
+
+Maybe you can start by giving us some context on Nick because he was at OpenAI.
+
+He references Open AI, but he's no longer there.
+
+What's he up to?
+
+What is his mission here?
+
+Yeah, so he's at Goodfire.
+
+Goodfire is like a Mechinturp lab.
+
+This is like all the stuff they work on.
+
+It's like a third party kind of similar to a lot of like the safety labs.
+
+Isn't a Frankenstein reference?
+
+Like fire bad, fire good.
+
+Like he's like, we're summoning the Frankenstein, but it's going to be good?
+
+Potentially.
+
+Potentially, okay.
+
+I'm not sure.
+
+So basically the context of this is like like Mechinturp broadly is you're trying to figure out like what's going on at the most like minute level in the models.
+
+Right.
+
+So you're looking at like individual neurons.
+
+Yep.
+
+text through a model, you know, neuron A lights up, it has a high number, like, Y.
+
+It's very unclear.
+
+You'll look at one neuron, and maybe you pass in some text about cats, and it lights up.
+
+And then you pass in some texts about dogs, and it also lights up.
+
+And it's, like, very confusing because, like, how is the model, like, actually working?
+
+It seems that, you know, each, like, individual neuron is basically, like, it corresponds to, like, a bunch of different, like, topics or, like,
+
+features usually call it.
+
+Yeah.
+
+And so there's this thing called like superposition.
+
+This was the previous theory.
+
+There's one thing you were doing where like, didn't you make like a 1776 GPS?
+
+Yeah, so that used something called a sparse auto encoder, which is basically like the theory
+
+is that these models are basically compressed forms of like bigger models essentially where
+
+you can imagine like a much bigger model where every single neuron corresponds to one specific
+
+feature.
+
+One neuron is the cat neuron.
+
+And so if you're talking about cats, that one will definitely let...
+
+And if you're talking about...
+
+We don't talk about cats on the show.
+
+If you're talking about something else, it won't light up, right?
+
+And then basically you can take your small model and you can basically expand it out.
+
+It's called a sparse arm decoder.
+
+So, yeah, I'm interested to see how he integrates with the labs.
+
+Obviously, he has ties to both Anthropic and Open AI through Chris Ola.
+
+But Goodfeyer's independent, probably doing a lot of work on open source models.
+
+It feels like, I don't know if he can have a product that he sells into the labs or if he can just be one of those, like, third-party auditors that gets brought in and basically says, like, I will do Mac and Terp for your lab and help you there.
+
+It'll be exciting to see where this goes and how people sort of like interpret this.
+
+Yeah, basically, the outcome is like we no longer need these sparse own encoders and you can actually look at the neurons themselves and figure out what's going on there.
+
+Fantastic.
+
+So it's very useful for safety, but also for capabilities, right?
+
+Because if you can figure out, like, you know, if you're trying to make some capability better within the model, like whatever math on some new subject, you can figure out exactly how it's working right now and then kind of optimize on that.
+
+So it's very applicable.
+
+Yeah, great news.
+
+Fantastic.
+
+Great summary.
+
+Thank you.
+
+Yeah, white pill.
+
+Needed that.
+
+Want to change the world?
+
+Raise capital at the New York Stock Exchange.
+
+faith in artificial intelligence was school.
+
+The timeline is in turmoil and has been over the weekend over Valar Atomics, Isaiah's company,
+
+and day one, because they're beefing over day one's pro rata rights.
+
+And so this happened back in October 9th, but we didn't get a chance to go through it.
+
+But Isaiah Taylor, the founder and CEO of Valar Atomics, posted a long blog post
+
+on October 9th, saying that he had gotten all of the investors to agree to waive pro rata
+
+except for one venture capital firm, day one ventures, and that they were fighting tooth
+
+and nail that day one had retained a law firm and was fighting a lawsuit against them,
+
+and it was getting messy, so Isaiah decided to bring it to the public square on X and have
+
+the open debate, lots of people coming out and supporting Isaiah. Some VCs coming out and supporting
+
+pro rata rights, obviously this is a more complicated situation because day one has a bunch of
+
+complicated and controversial connections to international organizations and stuff. And Isaiah's
+
+like going and doing more and more government work. And so like there is this extra layer of
+
+nuance there, I think, that's getting missed. But the, uh, there,
+
+The core debate that the VCs are having is that there's a, there's like a don't throw the baby out with the bathwater pitch happening that I'm seeing.
+
+Like Dalyne was talking about this.
+
+And you're saying their baby is prorata?
+
+Yeah, basically.
+
+Like the bathwater might, so like it might be like, okay, Isaiah, like we support you in this one case.
+
+You should be able to sort of force an investor who has this like very controversial background to be diluted debt.
+
+below the major investor threshold in this case but just know that like
+
+founders don't get the idea that pro rata rights are squishy like they're
+
+negotiated for for a reason they're gonna stick around don't think that you can
+
+pull this move without a huge amount of pushback because a lot of a lot of
+
+founders I think read this just as like oh yeah like I should override my
+
+investors pro rata because it can
+
+be a hassle to deal with. Like, you're going out and doing a round, but you've already sold 40%
+
+of the company. You're raising $20 million or $200 million or a billion. And some fund comes
+
+in and says, like, yeah, you're raising that much. I want the full amount. I want to jump
+
+straight to 20% ownership in this company. But all the previous investors say, hey, we want to
+
+keep our 40%. And so then you're faced with the question of, are you doing a 30% dilution
+
+my view is I don't even know if it's worth having the pro rata debate because the
+
+This isn't about pro rata at all.
+
+Yeah, it's sort of a proxy debate over the fact that it seems like Isaiah doesn't want to work with they want anymore.
+
+Yeah.
+
+And there are other vectors to work with.
+
+I think there's, isn't there like an FBI investigation or some sort of letter from the government investigating this?
+
+And like, like, there is, there are other forms.
+
+I think there's something else going on, but it is tricky.
+
+Like, signing up to work with the venture capitalist is somewhat of a marriage.
+
+and you're stuck with each other for a really long time,
+
+and it's hard if they don't want to sell their shares,
+
+if they don't want to go the other way,
+
+it's typically very difficult.
+
+There are some scenarios where VCs have just given the equity back and stuff.
+
+And then there have been other scenarios where founders have basically been like,
+
+we're not converting the convertible notes.
+
+And so you don't get any equity ever.
+
+But once it's papered and the pro rata is in the contract,
+
+it's very hard to dilute them down because that's the design is that,
+
+As long as I keep showing up with the money, me as an investor with a pro rata right,
+
+I can have 5% of this company forever.
+
+Yeah.
+
+And there's nothing.
+
+Yeah, the big, I mean, the question is just how much is having Masha involved with the company in a meaningful way, right?
+
+It's a meaningful stake.
+
+It's a meaningful stake.
+
+the law.
+
+You know, based on what Isaiah was saying, there's no information rights, like technical
+
+information rights that come along with that.
+
+And so I do think that it's probably completely possible for them to just sort of keep the fund
+
+at an arm's length.
+
+Yeah.
+
+But financial information rights are valuable.
+
+Yeah.
+
+Like even internationally.
+
+Like, I mean, we just saw that with the Open AI spy.
+
+Like, there is value to knowing if a business, even if you don't know how it works, if you know that it's profitable and you know that it's works, that can underwrite your own investing into competitive technologies.
+
+You're like, yes, let's grind down this path.
+
+Like, you think about it in the semiconductor space.
+
+Like, why is China subsidizing the indigenous semiconductor supply chain so aggressively?
+
+Well, they know semiconductors are super profitable.
+
+They can see NVIDIA.
+
+The only thing is, like, I just, the way that Isaiah runs a company, you have to assume that that momentum is going to become very obvious just through, like, public communications.
+
+Yeah.
+
+Hey, we got, you know, XYZ contract.
+
+Yeah, but you never know.
+
+Because if you have information rights, you know actually what's happening with the cash flow, actually what's real.
+
+There's always a lot of, like, you know, gesturing and context.
+
+and rumors above, and you have an advantage if you actually have the real numbers on the
+
+inside. It's only a slight advantage. I agree with you. I agree with you generally. But I don't think
+
+it's a huge – I do think it's valuable in information. And it's why investors negotiate for it.
+
+They want information rights. And they want to not be diluted down. So interesting. Yeah.
+
+Hopefully, if you're a founder and you're doing a VC deal, don't give the
+
+pro rata right away, the pro rata right lightly.
+
+Like think about it as a serious deal point.
+
+What is the value of that?
+
+It's going to be a headache potentially for a long time.
+
+Could be really awesome.
+
+Sometimes it's great to have people, investors with pro rata because every new round,
+
+you're like, oh, I got 40% of my round filled.
+
+Some founders love having a bunch of a bunch of VCs who are like, oh yeah, every round.
+
+Like you can count on me for the first half of that round.
+
+I'll fill it first and I'm continuing to add on.
+
+And so then when you're raising that next big round, you, yeah, you do still need to go find an anchor, but you don't need to necessarily fill it all, which can be hard if you're not the hottest company in the world sometimes.
+
+So it cuts both ways, but I don't think it's going anywhere.
+
+There is, yeah, I mean, the state of Delaware is firmly entrenched in Silicon Valley.
+
+And for that reason, like, we will abide by these things.
+
+Anyway, big car day today, two car launches, the Tesla Roadster.
+
+Tonight, 755 p.m. Central time?
+
+Yeah, so 555 Pacific.
+
+55 Pacific.
+
+855 Eastern.
+
+Okay.
+
+So 755, people are rumoring or are suggesting that 755 might be the quarter mile time.
+
+Is that what they're saying?
+
+Yes.
+
+I've seen a bunch of different specialists.
+
+speculation. What would be really crazy is if it was a 555 quarter mile and it was the Pacific
+
+time. That would be amazing. But I put down a deposit yesterday for a roadster and I'm fully ready
+
+to put that pin on the Feltford Again Award is ready to go. We have a big version. Tyler is a big
+
+version. Let's cut over to Tyler. And I need to, I mean, I need to, I need to create some stakes for this
+
+game because like what would hey hey but but but but break down your strategy yeah putting down the
+
+deposit so my strategy is it's you sold me on it you're right i ended up oh you did it i i did it okay
+
+so uh it's five grand on a credit card and it's and you have to wire 45 000 within 10 days
+
+but i'm going to know whether or not it's a good car by tonight and so i do so that i can i can
+
+I can cancel it if I don't like it and jump out of line.
+
+But if it's amazing, I mean, Elon's saying it's like, you're going to be the most amazing
+
+product demo ever.
+
+If it's amazing, then I will be able to hold my position in the line before everyone floods
+
+in post launch.
+
+And so it felt like the right risk of you're tying up five grand for two days, even at six percent
+
+interest rates, you're talking about like $5 of opportunity cost.
+
+It's nothing.
+
+It's a pretty good trade.
+
+It's a pretty good trade for potentially being at the front of the line.
+
+for something that could be really cool that actually flies.
+
+But if it's like, oh, it's going to be shipping in 2035 and it's, you know, it's not going to be
+
+anything special and, you know, none of the, like, none of the features appeal to me or, oh,
+
+we couldn't get self-driving working on it and it's not actually that.
+
+So here's the thing.
+
+Here's what everyone, let's speculate a little bit.
+
+Yes, yes.
+
+So I think that ramps will be involved.
+
+Okay.
+
+I think that ramps will be involved.
+
+So because our original bet was it was.
+
+will leave the ground on flat ground.
+
+And I think you had like half a foot.
+
+Did he say flat ground in the Joe Rogel?
+
+He just said, he just gestured towards it flying.
+
+Yeah.
+
+And so to me, what's the easiest way to get a car in the air?
+
+Okay.
+
+Shoot it off of a ramp.
+
+Drive it off of a ramp.
+
+I think we're going to be seeing multiple types of ramps.
+
+I think we're going to be seeing.
+
+That'd be awesome.
+
+I love it.
+
+I'm taking a different direction, a different bet.
+
+My bet is that off of flat ground, it will go.
+
+I think I said more than six feet in the air, but I think definitely more than three feet in the air.
+
+I think it will go high.
+
+Not 10,000 feet, which is what they got cleared to.
+
+You know those demos?
+
+You know the demo of the Chinese car?
+
+Yeah, yeah.
+
+Yang Wang.
+
+No, the one that sort of like drives around in a loop.
+
+Oh, yeah, through the tunnel.
+
+So what I think is that there's going to be sort of a looped ramp that will send it through the air in a rotation.
+
+Okay.
+
+And land.
+
+So like stunt driver, basically.
+
+Yeah.
+
+But maybe it could do it.
+
+Which is still incredibly impressive.
+
+You don't see.
+
+car manufacturers demo their cars by sending them off ramps.
+
+Okay, so if there's ramps involved, Jordie wins.
+
+If it jumps off the ground, off a flat ground, I win.
+
+That's the bet.
+
+Here's the other thing.
+
+Do you remember there's videos, there's some street in L.A.
+
+Yes, where they film all the car commercials.
+
+I know it.
+
+It's like Figueroa and First, something like that.
+
+No, I'm talking about...
+
+Oh, talking about something else?
+
+There's like basically a very specific road where it's very steep.
+
+up and then it flattens out for a second and then it goes oh yeah yeah I've seen people jump off
+
+that and so I think that I think Elon saw that yeah was like that we should just demo yeah
+
+car that way okay okay so you think jump I think I think rocket engines or or thrusters or fans that
+
+yeah pull this up pull this up immediately okay but let's pull this up up yeah what's going on here
+
+Is this a famous YouTuber too?
+
+So David Dobrick.
+
+David Dobrick, that's right.
+
+I've seen a bunch of videos of people do.
+
+Okay.
+
+That is so crazy.
+
+So I'm, I'm, and that's a Tesla, right?
+
+My call is this, but the ramp spins it.
+
+Okay, okay, okay.
+
+Okay, so you think jump, I think flat.
+
+Now, the question is, is what is?
+
+Play that back.
+
+There we go.
+
+That is insane.
+
+Here's the criteria.
+
+period, Jordi. The people that fell for the Tesla Roadster the first time, they put down the full amount in 2017, and they waited a decade and they didn't get anything. Nothing shipped, right? They fell for it. They didn't fall for it again because Tesla has always shipped their vehicles. They did the cyber truck. They shipped that. There's one outside. They're real. You may like it. You may not. But they shipped it. But they didn't with the original Roadster. And so there were a lot of people that feel like they're.
+
+fell for the Roadster promo scheme because they put down the money and then they waited a decade and they didn't get anything. So in order to fall for it again, you need to put down the money and wait another decade, but we don't want to wait a decade. And so the question is, is on what time scale would you be disappointed and to what feature set would you be disappointed?
+
+Well, I did have one theory that, that again, this was clearly a car that didn't want to get made.
+
+And it sort of was forced into it by taking deposits and all this stuff.
+
+And it doesn't really make sense in the Tesla lineup of sort of appliance-style cars in many ways, right?
+
+You're shaving off all these other cars, the Model X, et cetera.
+
+You don't have an SUV, all these things.
+
+And so I thought it would be funny to demo the car in such an insane way that it just instantly like federal regulations.
+
+regulators come in and say, like, you cannot under any circumstances do this.
+
+And then he's like, ah, my hand is tied.
+
+Yeah, sorry.
+
+I made the product.
+
+Okay.
+
+I just can't ship it.
+
+We're going back to model Y.
+
+We're only going to make the model Y now.
+
+Yeah.
+
+But if he says that, the obvious next step would be its track only, which is a huge selling
+
+point for me.
+
+It would be amazing.
+
+I would definitely stay in line.
+
+Yeah.
+
+Do we think it'll have a roll cage built in?
+
+Hopefully.
+
+Given that it may be taking flight.
+
+Hopefully it's a roll cage, but like all of the bars are like slightly misalive.
+
+Sebastian says Elon wouldn't hype it this much to drive a car off a ramp.
+
+Come on.
+
+Okay.
+
+It is a good point.
+
+I do think that I'm not.
+
+I do think it'll have rocket thrusters of some sort.
+
+But I still think I still think ramp.
+
+I think that's part of it.
+
+Like we're launching it.
+
+What if it does both?
+
+If it does both, we both win.
+
+Well, that's true.
+
+I'm saying it's using the rocket.
+
+What I'm saying is that what if there are two demos?
+
+One is just it's sitting there on flat ground and then it goes hover up and everyone's like, wow,
+
+it's flying.
+
+And then it goes down and it lands, but it goes up five feet in the air and we're like, wow,
+
+it can go so high.
+
+That's crazy.
+
+I've never seen a car do that.
+
+And then separately they're like, now to the stunt portion and then they go off around.
+
+That's what I think.
+
+That's what I expect to happen.
+
+Both?
+
+I'm thinking both.
+
+I think this is like a Nitro Circus style demo.
+
+I think there's, I think there's cars launching.
+
+I think, okay, then then spinning around, flipping around.
+
+Then the only thing I disagree with you on is that I don't think there will be any ramps.
+
+So I would go, you're gonna, you're gonna see the card leave the ground, but there will be no ramps involved at any point in the demonstration.
+
+You're going no ramp.
+
+That's our bet.
+
+Okay.
+
+That's our bet.
+
+But back to the FFELFORID Again award, what does it take for you to put that on?
+
+The demo is amazing.
+
+You do the full deposit, so you go from 5K, the 45K, and then it doesn't ship for you.
+
+And then it doesn't ship for 10.
+
+Yeah.
+
+So we have to keep these around.
+
+So it's going to be withered and old by the time we put it on?
+
+No, I would say, I would say one year.
+
+It's got to be one year.
+
+If it takes more than one year to ship this thing, then you fell for it again.
+
+Right?
+
+Because like, you've had 10 years.
+
+Like, you don't get another 10.
+
+You get another launch and then you get another, okay, ship it.
+
+Right?
+
+Yeah.
+
+I mean, that's fair.
+
+What else?
+
+What else would, like, you're, you're going to, you're going to be a,
+
+nine years like, oh yeah, didn't fall for it this time. I got my roadster just 19 years after
+
+they announced it the first time and only nine years after they announced it the second time.
+
+No way, dude. You're going to be in year six being like, I fell for it again.
+
+How much was the original roadster deposit?
+
+I thought it was the full amount. I thought it was like a quarter mill. I don't know.
+
+You can look that up, but Mission Ass is coming out. I think they will ship it. I think that the
+
+Mission S is probably a safer, a safer bet.
+
+This video leaked late last night.
+
+Yep.
+
+Let's pull it up.
+
+Shopify is the commerce platform that grows with your business and lets you sell in seconds online, in store, on mobile, on social, on marketplaces.
+
+And now with AI agents.
+
+Okay, what are they doing?
+
+They're peeling back a cover, and they're showing off the car.
+
+And you had a very good take on this.
+
+What do you like about this design?
+
+What do you like about the mission S?
+
+What sticks out to you about this?
+
+So I'll start by saying,
+
+I feel like a kid who, like,
+
+accidentally saw their Christmas present.
+
+Oh.
+
+And it's exciting.
+
+It's exciting because you're getting what you want,
+
+but also it just, like, kills all the suspense.
+
+Oh, interesting.
+
+I've been looking forward to this launch,
+
+more than any other car launch,
+
+my entire life.
+
+Yeah.
+
+And now it's ruined.
+
+But,
+
+yeah, because you want to see the great video.
+
+This,
+
+this car is way,
+
+way more aggressive
+
+than I was anticipating.
+
+Yes.
+
+It feels like,
+
+it really does feel like
+
+it's over for every other manufacturer
+
+in the,
+
+in the sort of like
+
+mid-range supercar category.
+
+Yeah, yeah, yeah.
+
+Because the McLaren's,
+
+the Lamborghinis, the,
+
+the Ferraris.
+
+Yeah.
+
+Like,
+
+it is going to be rough.
+
+Like this becomes the most...
+
+When I heard flat eight, I thought, okay, we're going to see...
+
+It's got a roof scoop.
+
+I know, I know.
+
+We're scooping.
+
+I mean, this is the perfect car for an S-tier journalist to just rip around S-F with the roof scoop.
+
+For sure.
+
+Oh, the scoop.
+
+The scoop.
+
+Yeah, so I definitely thought it was going to be like Cayman 9-11 and then this.
+
+And this would feel as far away from a 9-11 as a Cayman does.
+
+And a Cayman does not feel very far away.
+
+from a 9-11.
+
+It feels way farther.
+
+This feels way farther.
+
+Like, if a Keman is a 7 and a 9-11 is a 9, this is like a 15, right?
+
+It's like further along.
+
+And it's much closer to Carrera GT 918 Spider.
+
+Aesthetically, we'll see about the performance.
+
+We'll see about how they position it.
+
+I know that they're not going to do as much of a restriction on the production numbers.
+
+But at least from like an emotional feeling, it's giving me 918.
+
+successor. And I know that they might say, oh, it's not. It's a different thing. It's going to be
+
+high production or whatever. It doesn't matter. Emotionally, I'm feeling career GT. I'm feeling 90T.
+
+And this just immediately becomes by far the most desirable car in the $500 to a million price
+
+range, in my opinion. Yes. Like day one. Compared to Rivalto, compared to SF90, compared to 750 LP or
+
+whatever McLaren's working with these days.
+
+Although, where's the MCL 6GT?
+
+Remember the MCA, like, McLaren's doing like a manual one?
+
+Is that going to be sub a million now?
+
+That'll probably be two million.
+
+Oh, it'll be like one of their seven things.
+
+That's the thing.
+
+That's the thing.
+
+So many of the cars that have become.
+
+We looked at that Alfa Romero and it was like a million bucks.
+
+And it's like, okay, a million dollars for an Alfa Romero that.
+
+Yeah.
+
+Yeah.
+
+There's so many of these situations where they got the market potentially in like a headlock right
+
+I'd love to keep following the story.
+
+The one thing is the car is somewhat anti-social, right?
+
+How so?
+
+Looking at the amount of rocks that the back tires going to be thrown up.
+
+If you want to take this out on a Sunday drive with some buddies, you're going to need some mud flaps.
+
+That's right.
+
+Otherwise, good luck if you're sitting behind this thing.
+
+But overall, can't wait for the event.
+
+It's in less than 90 minutes.
+
+90 minutes will be the actual reveal.
+
+We might have to stay left.
+
+What a fantastic.
+
+looking car nailed right at the intersection of the 959 and the GT1.
+
+Very cool.
+
+Stunning.
+
+Anyway, we have our first guest of the show.
+
+Reed from Semaphore is here.
+
+He's the San Francisco Bureau Chief.
+
+You know him.
+
+You love him.
+
+He's got scoops.
+
+The new Porsche's got scoops.
+
+I swear they made this car for the lone wolf journalist that's scooping around,
+
+scooping around SF.
+
+I don't know how many journalists do you guys know,
+
+but you know if you buy a supercar
+
+you can no longer be in journalism.
+
+You have to leave.
+
+Why?
+
+Really?
+
+You should drive a super car
+
+and be a journalist.
+
+Fuck the trend.
+
+Fuck the trend.
+
+Yeah.
+
+You need to be driving like a,
+
+I don't know,
+
+like an Oldsmobile,
+
+something broken down or something.
+
+A very old one.
+
+Yeah.
+
+Something that you can pull up,
+
+pull out,
+
+you know,
+
+pull up outside of a technology company office
+
+and smoke a cigarette
+
+and just act sort of mysterious
+
+like a detective.
+
+Even like a 1998 S class, that has some weight to it, but it's going to be depreciated.
+
+You can pull up and have some authority there.
+
+Can we get, I don't know if you've been.
+
+Even owning a car is probably, yeah, go ahead.
+
+I don't know if you've been following, but any predictions for the Tesla Roadster later?
+
+We've been debating.
+
+Are there going to be ramps involved?
+
+Are there going to be, is it just rocket thrusters?
+
+Is it going to be able to kick flip?
+
+Things like that.
+
+You guys are in a very different place with cars than I am in my like I have a model
+
+Y and I'm just like I just need a bigger car.
+
+That's all I care about.
+
+I just need more space for the kids and the gear, you know, and all that stuff.
+
+Like a roadster, I'm just not, that's not where my head is at right now.
+
+Yeah.
+
+Go go for it.
+
+The model YL, the long wheel base version gives you an extra 20 inches or something.
+
+I was super excited.
+
+I want to go, when my lease is up, I'm going to for sure go check that out.
+
+Yeah, yeah, seems like you're good.
+
+Just make it bigger.
+
+That's my advice.
+
+I have one on order and they push me back because they can't make them fast enough.
+
+I was supposed to get it in November and now it's January.
+
+Yeah, I think my theory is that Tesla is like starting this crazy inflection where enough people have had the magical experience of self-driving.
+
+I've heard it so many people.
+
+What I'm actually fascinated by is like I, it doesn't feel like.
+
+like Elon is actually giving it enough attention.
+
+And I think in part, that's because he wants to merge Tesla and SpaceX.
+
+And he owns more of SpaceX, right?
+
+So he wants Tesla to be at a lower valuation when that happens.
+
+But we've both like put, you know, we both like, I bought a Tesla a few weeks ago.
+
+John has been trying to buy a Tesla.
+
+Both of them were delayed by months and months for like basic models.
+
+And so I think that inflection is happening.
+
+And I don't think you're going to get the like, every single, every single person I know now is having that, like, magical moment.
+
+I'll tell you, I have a broken shoulder right now from playing ice hockey and I activated my FSD.
+
+It's kind of amazing.
+
+You just sit there with your broken shoulder and have the car drive you around.
+
+How hard are you going?
+
+I mean, elite athlete.
+
+It's not, it's not, it's not how hard I'm going.
+
+It's like how hard my old man body.
+
+went to the ground when I was brutally tripped in Oakland but my point is
+
+wait so did you throw ice skating rinks were it too broken to throw hands after
+
+after you got taken out way too way too broken drop way too broken is just me
+
+sadly skating off the ice thinking this is probably the last time I lace them up
+
+but you know we should have been there we should have been there we would not
+
+let that let that let that go this is the second time FSD has helped me with
+
+with an old man hockey injury so I got to say
+
+It's, you know, there's some marketing opportunities there.
+
+No, no, the FSD is, is like, overpoweringly good to the point where people who don't like electric cars because they want to hear an engine are like, but I still had to get one as the second car, like for whatever reason.
+
+And then the political thing, people are like, look, the midterms are coming.
+
+Like, Elon's going to be, I like, I don't like him, but I'm doing it anyway.
+
+And I've heard that from a lot of people too.
+
+So people are begrudgingly buying them just because everyone said they would never buy a Tesla.
+
+and I every day at school drop off there's a new Tesla you know that's that's post you can tell it's
+
+post Elon because it's got the new post-doge because it's got the new headlights yeah yeah I'm getting
+
+the bumper sticker that's I bought this after FSD became so undeniable that I felt it was the safest
+
+option for my family and others on the road bumper sticker right yeah exactly well my bumper sticker
+
+just says morally superior that's all that's okay that's good yes yes yes that's like
+
+And then they can apply it to whatever the topic de jour of the day is.
+
+Whatever it is.
+
+Whatever it is.
+
+You're prepared.
+
+My other car is the moral high ground.
+
+Yeah.
+
+Right.
+
+There you go.
+
+That's great.
+
+Yeah.
+
+What else are you tracking?
+
+Are you, I mean, we were at the start of the show absorbed by the anthropic numbers, obviously
+
+historically massive, but still not beating expectations.
+
+And so, yeah, what are you tracking today this week in general?
+
+What's captured your fascination?
+
+I think, okay, so shameless plug, I've got Saty and the Della on my new podcast, which that'll air next week.
+
+So I was in, I love the music.
+
+So that's going to air next week.
+
+But a little teaser for that is, you know, I asked him this question.
+
+You'll have to watch it to see his answer.
+
+But, you know, Microsoft's doing great.
+
+Wall Street loves Microsoft.
+
+But like, look at the growth of all these companies.
+
+NVIDIA is now out-earning them per quarter.
+
+You've got the hyperscalers.
+
+You've got SpaceX AI coming into the fold.
+
+Is there a world in which Microsoft is still a great business, like a few years from now,
+
+but they're not in the Mag 7?
+
+And I heard a little gasp from the Microsoft comms team and asked the question.
+
+So you'll have to walk.
+
+But I think this is exactly.
+
+Those comms people can get aggressive.
+
+Are you sure somebody to chime in and say,
+
+are you sure you don't want to talk about something politically controversial?
+
+controversial instead, anything but the MAG7.
+
+I'll just say that like Satya is my favorite communicator.
+
+Like he's like in the MAG 7.
+
+Like he he's the one that I think is generally like the most candid.
+
+Yeah.
+
+And actually pick up on on how he feels about different things in a way that the other
+
+CEOs like he does it in a way that's just again, I think he's just very candid.
+
+Yeah.
+
+He's not fair.
+
+He's not performative.
+
+Yeah, exactly.
+
+This is perfect balance.
+
+And it never feels like he's just on some set of talking points and just always looping back to that.
+
+He's actually like, oh, let me answer this question.
+
+So I'm excited to catch that.
+
+And if he does have a talking point, it's like he's written a blog post on exactly the question that you're asking him.
+
+And he's got like the perfect.
+
+He's thought it all out.
+
+Yeah, yeah.
+
+And yeah, I mean, this was up, they've got the CSO summit up there.
+
+Sure.
+
+He's been thinking about security.
+
+I think the way he was actually really interesting here, I'm talking to these CSOs,
+
+because he was saying he's like, he's been sort of,
+
+it's almost like a let down,
+
+he's like let down by these models.
+
+He's like, I don't think the alignment is working.
+
+He doesn't think we're gonna get
+
+to mechanistic interpretability,
+
+so you have to put all these guardrails
+
+around this stuff.
+
+And that was fascinating to me.
+
+It's like a little bit,
+
+there's like a sliver of defeat there,
+
+but also like we're just gonna figure out
+
+how to make this work.
+
+Like we're gonna put secure, you know,
+
+deterministic software around it and, you know,
+
+we'll use it that way.
+
+What does your read on Xbox
+
+Labs. We talked about it yesterday, and I love the decompiled mashup games. I think they're super
+
+fun as like memes. I don't necessarily actually think that they're blockbuster games, but
+
+I thought it was interesting that Xbox was leaning in, but what's your interpretation of that
+
+story right now? Oh yeah. I totally agree. I was talking with someone. I think someone at Xbox
+
+about that, you know, earlier in the week. I think Asha is probably the right CEO for Xbox right now.
+
+I think she's like, you know, she's a little more forward thinking.
+
+She's flexible.
+
+And I think they're like, yeah, I mean, if you can't beat him, join them.
+
+Like, there's nothing you can do.
+
+If some kid wants to, like, mash out, like, decompile a game in their, you know, in their home using Claude, like, there's not much you can do about that from an IP perspective.
+
+So, like, I think they have to, the video game industry is going to have to rethink everything.
+
+I think it's probably going to accelerate cloud gaming, is my guess, like in new ways.
+
+And I'm excited by that.
+
+And Gen Z loved it.
+
+It feels like they're in such a good place as effectively a private company because they're owned by Microsoft.
+
+So they can kind of like hang out in the sub-balance sheet and completely upend the business model.
+
+Whereas if you're an independent video game company, you have a business model that relies on you earning a certain amount from microtransactions and selling a certain number of disks and having this particular business model.
+
+and you're going to miss your quarterly earnings if you upend everything.
+
+But they're kind of in a situation where it's never been a big driver for Microsoft.
+
+It's been awesome for culture.
+
+It's been really cool to work at Microsoft and be like, oh, yeah, we got the gears of war over there.
+
+But financially, there's a lot more flexibility.
+
+Do you agree with that?
+
+I totally agree.
+
+Yeah.
+
+I mean, they still, I mean, the console business is no joke.
+
+Like, it's like a great business.
+
+And I think they have that, but they will, I think they realize, like, they probably,
+
+have to start disrupting themselves a little, and they can do that. I agree. They have the luxury.
+
+Yeah, I mean, it feels like it's just good to be in hardware, too, because, like, we saw the Mac Mini
+
+was not ever built as, like, an AI device. Like, it's very much the opposite thesis from
+
+Nvidia, the graphics cards, right, which got used for all sorts of AI stuff and eventually
+
+develop server chips. But the Mac Minis flew off the shelf, and you could see people sort of decompose.
+
+or hacking Xboxes and being like, yeah, it's just a good bargain.
+
+It's a good product.
+
+It's reliable.
+
+And I can run anything on it or I can install an agent on it or I can actually hack and vibe
+
+code and do all these different things.
+
+And so they start flying off the shelf and actually becoming like differentiated.
+
+And they're just going to sell a lot because even if they're not, even if they don't have
+
+that huge margin of IP on top, it's still just a great product to be selling.
+
+Yeah.
+
+I also love this concept of just like hacking old hardware.
+
+So cool.
+
+you can actually do that now.
+
+It's like, why not?
+
+I mean, the stuff is so expensive.
+
+I'm, like, going through my drawers now looking for old hard drives because, like, I don't buy a new hard drive.
+
+But, yeah, I mean, it's like, why not?
+
+Like, just try to just try stuff.
+
+It's an exciting, exciting time.
+
+Yeah.
+
+How are you thinking about the open source alliance?
+
+Like, all the things that NVIDIA is doing, the different groups there.
+
+open AI has been kind of like one foot and the other like we don't want to ban it but we also aren't really open sourcing stuff meta is like open sourcing stuff but you know really has something very close source that's working now anthropics still very strong against but what is the shape of the open source alliance these days I think yeah first of all the I think the hyperscalers would love to ban it I mean I was talking to like our our DC people like the you know the the open fill funded groups or having dinner
+
+talking about like, you know, open source is going to be banned.
+
+I have no idea how that's even possible.
+
+I mean, that just seems so draconian and really ultimately just like a fool's errand that,
+
+yeah, I mean, I think this stuff is going to, is going to total, it is taking off, right?
+
+Like open source is massive.
+
+I want to fight you on that because I think it actually may be very easy to ban open source
+
+in the sense that like we banned, we banned file sharing.
+
+Like, right.
+
+And it's like, yeah.
+
+obviously like torrents still exist and you can go and find an offshore website that has a torrent
+
+but you will get a letter from HBO if you download the latest season of true detective
+
+illegally they will find your IP so you got to be using a VPN and then it just becomes cumbersome
+
+and you can't have a big data center hosting files like mega upload that whole saga what came and
+
+went and so it needs to be distributed like weights that are you know on this like dark web
+
+torrent network that's kind of cumbersome.
+
+And then the really dangerous stuff is always like a million dollars of compute.
+
+And I don't think you're going to be able to run anything as an attacker on a Mac Mini
+
+that can do anything but bounce off, you know, crowd strike plus mythos, plus GPT cyber plus
+
+power out.
+
+Like these organizations are going to be running like every attention saying.
+
+It's going to be clear.
+
+You're not advocating for it.
+
+No, I'm not advocating.
+
+In practice, it's not.
+
+Yeah.
+
+Banning serving.
+
+Serving it is quite different.
+
+But in the other, I think that you're, oh, go ahead.
+
+Yeah.
+
+Yeah, I was just going to say that the, like, the zero day that Expo found in Chrome was, that affects, would have affected a billion people.
+
+Yeah.
+
+Was like $40,000.
+
+Yeah.
+
+Yeah.
+
+Yeah.
+
+So.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+But you're assuming that it, that you actually get it banned, right?
+
+Like, I think, I think you're right.
+
+If this gets fully banned, like, there are technical ways they can just make it a total headache to download open, open, they could just like kill that industry.
+
+Yes.
+
+But like, is it the legal framework for just saying like any kind of open source AI model is banned is going to be so difficult, right?
+
+Yes.
+
+What is the theory there?
+
+Yeah, yeah.
+
+So, like, as a practical matter of how things get done in Washington, that is more interesting.
+
+tractable than the technical question of like, how do you find out that a data center is serving
+
+an open source model and send them a sternly worded letter, hey, stop serving this because we banned
+
+it. But yes. So I agree with you. It's harder to actually ban than enforce a ban that that happens
+
+potentially. Yeah. Interesting. I've always, what do you think, I mean, from talking to the DC folks,
+
+what do you think of this idea of like you can sort of chart the path of technology regulation by just
+
+summing up the market caps of various open letters.
+
+Like when the open source letter happened, I was like, oh, this is like very rough to be
+
+the anthropic position of like, let's ban it.
+
+Because I was just looking at, it's like, invidia, $5 trillion.
+
+And then you have another company that's like, you know, a couple trillion.
+
+And I'm just adding up the market caps.
+
+And I think it was like $25 trillion of market cap was saying, like, we support this thing.
+
+And whether or not D.C. is coin operated.
+
+It's just a fact of the matter that when you have that much.
+
+economic weight behind it and that many people's pensions and all the different things that like
+
+that might dictate the actual outcome. Oh yeah. I mean let's let's face it like DC is somewhat
+
+coin operated like it's not you know it's oversimplifying it and I'm out here in the Bay Area.
+
+Easy for me to say. I don't have to go to dinner with these people every night. Sure. But I mean,
+
+yeah, I think you totally can. But I also think it's like who it's like there's not some law that's
+
+being violated by this already. Like you have to you have to create a whole new idea, a whole new
+
+legal framework, it makes it, it makes it really difficult. And then like the other, the other thing I think
+
+with, like, name a, name a tech regulation that was actually good or, or didn't have some major
+
+blowback, like, even Section 230, which is almost like unregulating rather than regulating is, like,
+
+hugely debated today. The DMCA that, that governed all the downloads and torrenting and
+
+everything, that's a huge mess. Like, that just created headaches for years. Still is creating all
+
+these issues with doing, like, security research, right?
+
+You have to be very careful about how you research bugs and software because of that.
+
+So, like, I don't know.
+
+It just, to me, it doesn't make much sense.
+
+It makes a lot more sense.
+
+Like, it's like you have the money behind it and also just like the logic behind it.
+
+Like there's, it makes logical sense.
+
+Like, let's have open weights.
+
+Let's have open source harnesses and sandboxes.
+
+Like I wrote, I had a little scoop today on perplexity, open sourcing their sandboxing technology.
+
+I mean, like, let's.
+
+Let's crowdsource figuring out how to keep this stuff in silos and make sure it's safe.
+
+That makes a lot more sense than let's have two labs or labs companies in Silicon Valley,
+
+like figuring this out all out for us.
+
+Like that never works.
+
+Yeah, yeah.
+
+I'm preaching to the choir.
+
+I realize that.
+
+No, no, no, no.
+
+No, it's interesting.
+
+I'm thinking about like the AI is maybe like the least frustrating it will.
+
+ever be. I'm just imagining like, like, do we get the AI utopia or do we get the doom scenario?
+
+Well, like, the median case is like probably like we get cookie pop-ups. So we get some like annoying
+
+thing that happens that like is like constant and like and it's just, like, the cookie pop-ups
+
+development and like the way that like that's how the internet played out is just so depressing.
+
+Every time I have to click that button, I'm just like, how did this? How was this? How was this?
+
+the outcome, but I don't know.
+
+That was a consumer thing, right?
+
+And like I think there's actually, like my theory right now is like the reason there isn't
+
+more consumer stuff happening in AI is that there's just not enough compute.
+
+Like we don't have, you just don't have enough data centers to run like the frontier
+
+models for consumer applications.
+
+And I think open weights is probably the way that happens like first.
+
+Before you get to, I don't know, like the web 2.0 of AI where it's like all in the cloud,
+
+you're probably going to have some sort of like the net scape of AI first.
+
+Yeah, yeah, yeah, yeah.
+
+It runs on your computer and it's, you know, it's not why, it's not like everyone uses it,
+
+but it's sort of like early adopters get into it.
+
+Yeah.
+
+And we're like not even there yet.
+
+I mean, yeah, yeah.
+
+I mean, you see it with like, you know, Mews is having like a crazy moment, open AI response at Dot, but.
+
+Dave's hot chicken responds.
+
+Dave's hot chicken respond.
+
+Apparently working with Nikita.
+
+Yeah, apparently.
+
+But like, Dot, I think is like still rolling out.
+
+through the paid tiers because it's like,
+
+it's actually difficult that they were like opening the floodgates
+
+and being like, yeah, a billion people can just run this constantly.
+
+Like that's a lot of compute.
+
+And so it is tricky.
+
+Where are you thinking the bottleneck goes next?
+
+Like is it money?
+
+Are we gonna run out of money?
+
+Is that the real problem?
+
+Yeah, we, that's actually,
+
+I was talking about that this morning actually
+
+with our finance team.
+
+Because they're like obsessed with the fact
+
+that these companies are borrowing money.
+
+I'm like, I'm on the other side of this.
+
+I'm like, this is not like,
+
+This isn't like the financial crisis or like 2000 again.
+
+Like this is a very different thing.
+
+Yeah.
+
+But like the banks are getting to the point where they're like, yeah, we just can't lend out this much money.
+
+And so I think the borrowing has been opportunistic by these tech companies.
+
+It's like, why not borrow that money?
+
+Like investors like it.
+
+But if the banks are like, yeah, we're just, we're hitting our limit here.
+
+Then yeah, I think money does become another bottleneck.
+
+The hyperscalers, you know, the mag seven, they have enough cash.
+
+They can find other ways to fund this.
+
+But I mean, yeah, I'm actually probably going to write about this for tomorrow in the newsletter,
+
+how this is not a, this is a bottleneck economy.
+
+Yeah, it flipped so fast.
+
+I mean, I remember Peter Thiel and Eric Schmidt.
+
+Well, if cash is the next bottleneck, I'm going to invest in gas.
+
+Oh, yeah.
+
+You've got to get some of that.
+
+But I remember there was a wired tech conference, maybe 2012-ish, 2015-ish.
+
+Peter Thiel Eric Schmidt, who is then the CEO of Google, debating uses of cash at Google.
+
+And Teal's point was Google has $50 billion of cash on the balance sheet.
+
+You don't have anywhere to spend it.
+
+You're out of ideas.
+
+We're stagnating.
+
+Go do something with it.
+
+And he's saying, oh, well, like, we're spending a billion dollars on this self-driving car thing.
+
+And we're going to work on cancer research.
+
+It was all the same promises.
+
+But it was just a decade too early where there wasn't actually really.
+
+ways to deploy the capital.
+
+And this was the true across, you know, all the hyperscalers where Zuck would go off and spend
+
+$10 billion on something that wasn't really working.
+
+And now the opportunity is here.
+
+And we've switched from like, oh, you don't, you're not, you're not spending your cash.
+
+That's an investment.
+
+Also, Google did invent the transformer.
+
+And they did make, they did self-driving cars.
+
+But now, now we're in the, okay, go spend the cash because there is an opportunity that can
+
+actually consume that cash.
+
+And you still get criticized, but I don't know.
+
+No, I know.
+
+And it's like everyone's like, you know, everyone's talking on both sides of the mouths, right?
+
+It's like, oh, they don't want big tech to become so powerful.
+
+And it's like, well, they're actually being forced to like spend all their cash right now.
+
+Like that is a good thing.
+
+Right.
+
+That means there's like competition and disruption.
+
+And, you know, I guess if it doesn't work, then they'll go back to just having, you know,
+
+the most profitable cash cow businesses in history.
+
+But, you know.
+
+Yep.
+
+Yeah.
+
+I mean, we saw that today with like, there's a rotating out of the NASDAQ.
+
+go straight into the Dow.
+
+And, you know, it's like, oh, if the AI trade's blowing up, like, get back into SaaS,
+
+get back into the social network, ad tech, like, like, this money just, like, flows around,
+
+people hunting for the, for the latest thing.
+
+Anyway, they're pretty well hedged.
+
+Thank you so much.
+
+Awesome, really well excited for the Satya episode.
+
+Yes, go down.
+
+Go download it go listen to.
+
+Thank you.
+
+Yeah, download future proof.
+
+Future proof.
+
+I got to play it.
+
+Yeah, from seven before.
+
+Thank you so much for coming on.
+
+Yeah.
+
+Cheers, appreciate it.
+
+Goodbye.
+
+See you.
+
+Up next, we have Brian Cantrell.
+
+from Oxide, the co-founded CTO.
+
+Let's get this gong warmed up.
+
+It's time.
+
+Nice little warm-up bit right down the gates.
+
+How much did you raise?
+
+Let's get another.
+
+Man.
+
+I love it.
+
+How much did you raise?
+
+We got to know.
+
+Okay.
+
+Well, so, hey, guys, I don't know.
+
+Is that a gong about how much we raised or about the fact that we're profitable?
+
+Whoa.
+
+It's a different gong for that.
+
+The warm up.
+
+The mad lads did it.
+
+We did the profitability hit.
+
+Now we got a hit for how much they raised.
+
+That's right.
+
+How much did you raise?
+
+We raised 445.
+
+Finally, the best hit of all for the secondary.
+
+No, I'm kidding.
+
+No, we're not going to go there.
+
+We're not going to go there.
+
+We're having too much fun.
+
+Amazing to have you on.
+
+Thank you for matching or exceeding our energy.
+
+Good day.
+
+Introduce yourself in the company.
+
+What's going on?
+
+Oh, man, it's great to be.
+
+First of all, I just love the gong.
+
+I got to tell you, the gong, so my co-founder and I had, there was a gong at, we were at a cloud computing pioneer joint.
+
+That's actually really loud when you play it there.
+
+We got the baby gong.
+
+So the founding CEO had this gong that was very awkward.
+
+And because the problem with the gong is it like, then the gong isn't wrong very much.
+
+And like now the gong is just kind of like sitting there kind of like for,
+
+boating. That's crazy.
+
+That would never have it.
+
+And Gong ended up, a couple office
+
+moves later, ended up on Steve's
+
+desk. And there's just kind of this inert
+
+gong there. I remember as we were
+
+contemplating oxide, I looked at the going,
+
+I'm like, Steve, at some point, we
+
+are going to have, we're going to build this company,
+
+we're going to have our first customer, and we are
+
+going to ring a gong, and it's going to feel
+
+so good. But that gong
+
+never made the move. So we don't actually have
+
+a gong oxide. So the first gong
+
+that we have had at oxide is the gong
+
+you guys just spread. Amazing. Well, I
+
+recommend a gong hit for every single dollar of revenue that comes in. So that basically means you need
+
+somebody dedicated to the craft, you know, and they're pretty much just tapping away all day
+
+once you're at, you know, a certain run rate. But anyways, I still have no idea what you do,
+
+and I'm so curious. So we are a computer company. So it's right on the 10. Oxide computer company.
+
+So we make rack scale machines, hardware and software co-designed. And our,
+
+big observation, Steve and I were together at a cloud computing pioneer joint. Prior to that,
+
+I spent 14 years at Sun Microsystems, do I have to explain to your company? There you go.
+
+Exactly. The OG there. And we at Joint, we were building a cloud on top of commodity hardware
+
+on top of Dell HP, Super Micro. And when Joint was bought by Samsung in 2016, we went out to this
+
+explosive new scale and everything broke. And the stuff that broke in our software we could fix,
+
+but there was so much that broke at that hardware software interface that was unresolvable.
+
+And I mean, the number of times you heard from Dell, it's like, you're the only customer
+
+seeing this problem.
+
+And you're like, how the hell is that possible?
+
+That's strange.
+
+Everyone else is at much greater scale than we are.
+
+Then you realize like, oh, wait a minute, Google and Amazon and Facebook are not Dell customers.
+
+And so you, Dell, are kind of speaking your own truth at some level because once someone gets
+
+to this kind of scale, they actually can't be a Dell customer anymore.
+
+And so as we were beginning to contemplate what was next, we wanted to go, we realized that the hyperscalers had built for themselves their own machines, rack scale machines with hardware software co-designed.
+
+And the enterprise, anyone else didn't have that.
+
+You could rent it in the public cloud, but you could not buy it and run your own data center.
+
+And our big belief, we are very pro cloud, but we believe that cloud should be available wherever you want to run your business.
+
+And that includes on-prem.
+
+So the big, an iconoclastic belief that we had in 2019 was that cloud computing is going to endure and persist and thrive if that's going to happen on-prem.
+
+And it necessitates this rack-scale hardware software code design.
+
+And I have to tell you how in 2019 it was all SAS all the time.
+
+And it was very iconoclastic to.
+
+But part of the reason it is Oxide Computer Company in the name is to make clear to any,
+
+2019 VCs that there would be no pivots to pure software that we are.
+
+No pivots.
+
+No pivots, please.
+
+We just make computers, sir.
+
+Just make computers.
+
+And, you know, actually, just because you guys are scholars of history, digital equipment
+
+corporation back in the day, one of the, if not the first venture capital-backed company,
+
+wanted to make computers straight out of the shoot.
+
+And they were told by their VC, which is one of the, George Dorio, basically a proto-VC,
+
+in Massachusetts.
+
+It's like, you can't call yourself a computer company because IBM is going to be the only
+
+computer company in 1957.
+
+So they called themselves Digital Equipment Corporation, DEC.
+
+Isn't that amazing?
+
+So he thought there was going to be a fast takeoff in IBM, sort of an IBM singularity.
+
+That's exactly right.
+
+Totally.
+
+And as it turns out, we, and again, many, many, many decades later in 2019, we believe strongly
+
+in hardware software, co-design.
+
+actually delivering, because that's the only way you can really deliver this elastic infrastructure.
+
+All right.
+
+Give us the big milestones in the business leading up into this point.
+
+You started the company in 2019.
+
+John's ready.
+
+Gong's ready.
+
+Wow.
+
+Okay.
+
+Well, so honestly, the, I mean, the first big milestone was just radiasing our seed.
+
+So, what happened next?
+
+What happened next?
+
+Well, so when we raising the seed, we raise 20 million out of the shoot, which is a very big seed.
+
+And we feel, as we were talking to VCs in 2019 and only finding these SaaS folks and having to explain that actually the most important products that we have represent hardware software code design.
+
+So just finding and we feel very blessed to have found Eclipse and Sathlet Eclipse.
+
+having being big believers and immediate believers in hardware software code design.
+
+And they saw that like actually the biggest companies ever built are.
+
+So finding them, finding the right investors, raising the right amount of money.
+
+And we didn't want to raise like three on 12, right?
+
+Or whatever.
+
+But that would have been easy.
+
+Well, it would have been beneath you.
+
+It would have been a recipe for death because you would have, you can't do any of this with three.
+
+Yeah, yeah, yeah.
+
+Well, the funny thing is the funny thing is that the $20 million seed became, at least now is very much standard.
+
+And companies are now can be capital intensive enough to justify that.
+
+It's not just sort of like a, you know, supply and demand equation.
+
+But back in 2019, most of the companies that were getting started, like didn't really need, you know, they were three on 12.
+
+It would have been more than enough money to, like, at least get to the,
+
+next round.
+
+That's right.
+
+And so we knew we needed to raise that much to be able to get the team, get the team hired.
+
+I think, you know, I many ways the most terrifying moment for me in the lifetime of the
+
+company was when we got our first term sheet.
+
+We got that term sheet from Eclipse.
+
+Because it was like, oh, shit, I got to go build this thing.
+
+And we don't have the team.
+
+Like, I can't.
+
+This is so technically hard.
+
+There's so much technical risk in this.
+
+One of the things that we heard that drove us bananas in 2019 is like, look, technically we know you can do this.
+
+And I'm like, am I, you want to stop a VC, be like, no, no, sorry, let me stop you right there.
+
+Technically, I don't know I can do this.
+
+Like, I'm sorry.
+
+Like, technically, this scares the shit out of me.
+
+There's so much technical risk.
+
+We did our own compute slide.
+
+We did our own switch.
+
+We eliminated the UEFI bias.
+
+So we did our first instruction on the X86.
+
+We've done all of our own software, lowest levels of firmware, all the way up to the control
+
+plane distributed system, distributed storage.
+
+I mean, we are nine startups and one, unbounded technical.
+
+Crazy.
+
+By the way, Eclipse was absolutely cooking in the 2010s.
+
+Like, they have so many bangers that, like, were just non-obvious or like most people
+
+just were not that interested in that now look just like genius in hindsight.
+
+Well, and so they had the advantage of investing in this sector when everyone else was
+
+ignoring it. And so as a result, like if you were starting, starting Oxide in 2019,
+
+starting cerebrus a couple years prior, like you are so contrarian that you almost have to be good.
+
+You know what I mean? Like those companies are good companies because they were almost
+
+tautologically contrarian. And so Eclipse had the luxury of and what we found, we're kind of,
+
+we found that we're VC homewreckers because we would find that like a single partner.
+
+Yeah, is that the home record gone?
+
+We actually called them peltz on the wall because we...
+
+Well, because here's what happened.
+
+You get a...
+
+What I learned very quickly is that oxide is very, very contrarian.
+
+And obviously, like, everybody loves contrarian.
+
+But no one actually wants a zero, right?
+
+And I think that the outcomes for oxide were very bifurcated.
+
+It felt like, wow, generational company or zero.
+
+And, you know, VCs are kind of in this quantum superposition of fear and greed.
+
+And they would constantly be oscillating in their minds between like, oh, my God.
+
+In fact, we had a VC being like, I love that this is N of one.
+
+Or this is N of one.
+
+It's like they were scared that we didn't have competition.
+
+Wait, help me understand how this would be a zero, because it feels like, like, even if there's no AI boom, it's like you can still like buy parts, assemble.
+
+racks. Maybe there's not a ton of innovation, but you just become like a mid-market reseller of
+
+equipment and like, you have thin margins. Maybe, oh, okay, okay, so.
+
+That is a zero because, first of all, that's not differentiated. I know it's not differentiated,
+
+it doesn't go anymore. Okay. It just like, it just peters out or something. It peters out because
+
+the, but when I think big VC zero, I think like you, you spent a hundred million dollars on
+
+like software engineering for a social network that never gets,
+
+product market fit, and it's actually like you ran out of money, as opposed to like the downside
+
+risk with the sector that you're in feels like you become like a small like microcenter
+
+almost, like just a place that like assembles. Okay, no, no, no, no, no. The, the downside risk is a zero.
+
+Because we're not reselling things out of the back of a catalog. We are actually engineering a system.
+
+And there are companies that tried to do what oxide did. You haven't heard of
+
+them because they're all zeros. And some of them are like pretty prominent zeros. Sure, sure, sure.
+
+And we actually, one of the things that, you know, benefit of starting a company, you know, later in
+
+life and with a lot of wisdom, and Steve and I both started the company in our 40s, we were real
+
+scholars of how these companies had failed and wanted to understand how every single one of these
+
+companies had failed. And of course, like, any founder will tell you, well, I failed because I ran out of
+
+money. It's like, yeah, yeah, yes, you ran out of money, but also like, why else? And the,
+
+One of the things that we saw over and over again is if you have something that is kind of half built,
+
+it is very, very hard to get that funding round to get to that real customer.
+
+And getting that first customer is really, really hard.
+
+And then getting that first customer to expand is even harder because you need to land this thing.
+
+And that there was a company Nebula that is pretty similar to Oxide's vision.
+
+If you guys remember, this is one of the open.
+
+This is during the great open stack boom.
+
+Oh, yeah.
+
+Which maybe you haven't heard of for a reason, right?
+
+But so Nebula and Nebula's vision looks like Oxides' vision, almost scarily so.
+
+And I'm like, I got to understand every single thing about this company.
+
+Best seven bucks I ever spent my life is on the Stanford Graduate School of Business.
+
+Did a case study on Nebula as Nebula is dying.
+
+Whoa.
+
+So Nebula is like going to go bankrupt.
+
+By the way, Nebula shut down on April 1st.
+
+So April 1st, 2015 Nebula shuts down.
+
+And I was in the office with my CEO at the time.
+
+And he and I were looking at this like goodbye cruel world kind of announcement.
+
+And we're like, is this like the darkest most fucked up April Fool's joke ever?
+
+Or is this company literally so incompetent that they can't even go out of business on the right day?
+
+Like go out of business on March 31st or April 2nd.
+
+April 1st, I'm sorry.
+
+No, we announced that.
+
+We announced our acquisition on April 2nd.
+
+We had the opportunity.
+
+It was ready to go on April 1st.
+
+I wanted to get on the first.
+
+But it would have been so much more chaotic than there already was.
+
+Exactly.
+
+They're excellent.
+
+Good job overruling.
+
+Wait, but this company, but this company, this company, they had raised a lot of money.
+
+It was like hot at one point.
+
+This was sort of, I think, like, predates my technology consciousness.
+
+Kleiner had backed up the truck.
+
+Kleiner had put a ton of money into it.
+
+And I was absolutely a zero.
+
+And they, now, the case study was extraordinary because they failed at everything.
+
+They failed at the tech.
+
+They failed in terms of manufacturing, in terms of supply chain.
+
+They failed in terms of their approach to market.
+
+They were trying to get to market too quickly with something.
+
+It was kind of that lean idea of like, well, let's just ship garbage.
+
+It's like, no, no, you can't ship garbage.
+
+You have to actually get something that fully works.
+
+and in particular, one of the go-to-market things that they screwed up
+
+was they had this idea that someone will buy one rack
+
+and they'll buy one rack and then like a month later they'll buy 30.
+
+It's like, no, no, no, no, no.
+
+Have you ever been an enterprise buyer?
+
+Sorry, you're going to buy one rack
+
+and you are going to kick the shit out of that rack for like 18 months
+
+if you are a bank or you are a farmer company
+
+or you are going to spend a long time.
+
+Because when you do that 30 rack buy,
+
+you are betting your career on it.
+
+And the hell are you going to bet your career?
+
+What about 30 racks?
+
+What about 30 racks?
+
+What about 30 racks?
+
+I mean, we know
+
+we know a lot about 30
+
+rack buys, but not on this.
+
+So I got a little switched up there.
+
+We're just buzzing around.
+
+Sorry.
+
+But thank you.
+
+This is a really good history.
+
+I hope they don't watch this.
+
+Like the team, you know?
+
+Because you're like,
+
+Not only did they have the perfect vision.
+
+They had the worst execution across every possible dimension of the business.
+
+That's not a state secret.
+
+It's in the Stanford Graduate School Business case study.
+
+But it's behind the paywall.
+
+It's behind the paywall.
+
+You're breaking open the paywall.
+
+I'm breaking open the paywall.
+
+But it was super helpful to learn from that because you realize that, like, in your go-to-market motion,
+
+you have to rely on the fact.
+
+You have to know that that single rack is going to be at that single customer.
+
+That customer could be a 100-rack customer,
+
+but they're not going to be a 100-rack customer
+
+until they are running in production on a smaller deployment
+
+for an extended period of time.
+
+And that changes the way you gear the business from,
+
+it changes the way you raise,
+
+it changes the way you kind of set expectations,
+
+the way you build the product,
+
+the way you set expectations with your own employees,
+
+with your customers,
+
+because what we are focused on is,
+
+are those very large appointments.
+
+And what's exciting,
+
+and this is where you can definitely ring the gong
+
+is that's what we arrived at in the last 18,
+
+months is we got those
+
+companies
+
+and the number of
+
+you know
+
+I'm like
+
+number of people
+
+we're both
+
+pretty fiscally
+
+conservative
+
+and you know
+
+these companies
+
+that like
+
+celebrate
+
+employee
+
+milestones
+
+like number of
+
+employees
+
+I'm like
+
+no we are
+
+never doing that
+
+yeah
+
+number of employees
+
+that it shouldn't be
+
+a cause of
+
+celebration
+
+those are all
+
+like
+
+you should be
+
+celebrating
+
+revenue and so on
+
+profitability
+
+profitability
+
+profitability
+
+And like, can we celebrate when we have more racks shipped than employees?
+
+I'm like, yes, that we can celebrate.
+
+And that was a big, a big gongbanger was when we shipped more racks than we have employees.
+
+So our vision from the beginning was how do we run in a, we have the belief that if you have an extraordinary team, you can run an efficient business, a totally iconoclastic belief, along with the econoclastic belief.
+
+We're real renegades over here.
+
+Yeah, really out there on the fringe.
+
+Amazing stuff.
+
+Yeah, thanks so much for coming on.
+
+Yeah, what a milestone.
+
+This was super fun.
+
+You're welcome anytime.
+
+Yeah.
+
+This was a joy.
+
+Yeah, we'll talk to you soon.
+
+And congratulations to the team on, yeah, how many racks are you trying to get?
+
+What's the new?
+
+What's the new ratio that you're going for?
+
+100 to 1?
+
+Like how.
+
+I would love that.
+
+Exactly.
+
+I'm very, again, old school.
+
+It's like, what is your?
+
+revenue per employee and like let's get revenue per employee in the many millions of dollars please
+
+that's yeah that's that that's the objective and big healthy generational business we're not not
+
+looking to not looking to not looking to actually go build the generational business that steven
+
+i want to work at for the rest of our careers which apparently is also a conoclastic i thought that
+
+was the point of certain companies is that we build generational ones but guess not i guess everyone else
+
+is geared for an exit so um but we're um yeah big time to be excited to be
+
+Big talk until you get offered a hundred times revenue and then.
+
+No.
+
+No, this is like, this is not like a negotiation tactic.
+
+Like this is like honestly hand on heart.
+
+Like that's not what we're interested in because it's got to be 200 times.
+
+Yeah.
+
+Yeah.
+
+Yeah.
+
+Yeah.
+
+Yeah.
+
+Awesome.
+
+Yeah.
+
+I mean, we are wanting to kick our debt in the universe.
+
+So that's what we're doing here, Doc.
+
+I love it.
+
+I love it.
+
+Dent the gone.
+
+Thank you. Dent the gong and then dent the universe.
+
+Great stuff, Brian.
+
+Have a great best of your day.
+
+We'll talk to you.
+
+Give our best to the team.
+
+Have a good one.
+
+Go bye.
+
+Your business AI, their business is securing it.
+
+CrowdStrike secures AI and stops breaches.
+
+Console builds AI agents that automate 70% of ITHR and finance support, giving employees instant resolution for access requests and password reset.
+
+Our next guest is Daniel Kimeno from the Advanced Spade Company.
+
+Welcome to the show.
+
+The founder and CEO.
+
+What's going on?
+
+What are you got in your hand there?
+
+I'm going subterranean, I think.
+
+What's going on?
+
+Look at that microphone.
+
+Oh, the Lucy Mac.
+
+There we go.
+
+Jordy, you got that.
+
+Check, check, check.
+
+I got the same flavor, but in a different form factor.
+
+All right, so what's going on here?
+
+What's going on?
+
+What's going on here?
+
+This is our media debut.
+
+We've like famously under the radar,
+
+and so we wanted to show off all the cool stuff.
+
+We get to play with a bunch of fun things.
+
+Awesome.
+
+Yeah.
+
+Amazing.
+
+Well, yeah, so introduce yourself in the company.
+
+And give us background.
+
+Have you worked it anywhere relevant to the current mission?
+
+Oh, yeah.
+
+I've probably only worked at relevant places.
+
+Name them off.
+
+So, yeah, I mean, way, way back when I was a student and did the Hyperloop competition
+
+when it was just like design for college students.
+
+And our team did really well.
+
+It got me in the door at Space.
+
+And I think I was like the only person that worked at SpaceX and I was like didn't care about rockets.
+
+I just wanted to build transportation.
+
+And yeah, and from there we like built the Hyperloop track and like ran that competition.
+
+And like right before we were kind of like showing it off, Elon was like, oh, we're going to do it.
+
+We got to be serious.
+
+Let's go like dig a hole in the parking lot.
+
+And that's kind of where boring company started.
+
+And so then I got to help start that and like do that for questions.
+
+a while and it like there's some like wildly fascinating uh technical problems when you start looking at
+
+underground construction and so kind of like occupied my whole brain for a while then we went uh was in
+
+was in austin building uh building for a couple of elan companies doing just like a lot more site development
+
+and there's like crazy construction coordination of in like underground utilities like it is wild
+
+how difficult it is to know what's there and not hit it.
+
+Had a couple accidents along the way, you know?
+
+Yeah.
+
+Yeah, yeah.
+
+To say the least.
+
+There's a couple water lines in Austin that like I know where every inch of that line is
+
+personally.
+
+So yeah, like, but these kind of like, it was so wild working at SpaceX and seeing like,
+
+do we know where like satellites are to millimeter grade?
+
+And then underground construction, it looks upside down because of these technical problems and just like an integration of data.
+
+And so I ruined a lot of parties.
+
+I just kept thinking and talking about this constantly.
+
+And then, yeah, I got to spend like two years at Andrel, which was awesome.
+
+And it like finally met kind of some smart people.
+
+They tip me in the right direction.
+
+And then, yeah, it was really fixated on like, okay, there's a couple.
+
+of technical things you can go build.
+
+They're hard to build, but you go build those.
+
+And then this would make you really good at building underground.
+
+And if you're going to build underground,
+
+the really, really useful thing to do is go build underground utilities.
+
+And so that is, you know, 2024.
+
+We started an advanced spade company.
+
+I think I was running around telling everyone like,
+
+dude, power lines, you should care, put them underground.
+
+And everyone's like, yeah, yeah.
+
+And like, we're in my garage.
+
+And then like L.A. started burning down around us.
+
+And then all of a sudden, everyone was calling.
+
+We had like big wigs coming to just my garage and seeing like, what can we possibly do to get power lines underground?
+
+And yeah, we've been going for two years now.
+
+And having a ball digging holes, burying utilities in those holes.
+
+It's great business.
+
+So glad you're doing this.
+
+Like where I live, I live in Malibu.
+
+And like there's all the power lines should be underground.
+
+I think the power is getting shut off for at least some parts of the city this this week just because there's like there's high winds and and
+
+the utility knows they need to do it, but it just seems like it's really hard and expensive.
+
+And so everyone just keeps kicking the can down the road.
+
+And so yeah, it seems like super, super important work.
+
+How do you even go about like what is what is what is revenue even look like in this business?
+
+Like, are you, like, who, who's actually getting the, the, the, these are like massive infrastructure projects.
+
+I imagine you guys are, like, part of that, or are you guys like the, are you guys like the, the
+
+primary partner that's, like, bidding on, on these, like, kind of opportunities?
+
+Yeah, it's, I mean, this is a very hard thing to figure out early on, but we've kind of a, early days of mastering it.
+
+but we're getting quite good at this sort of like,
+
+find the essentially like the cheapest, shittiest work that nobody wants
+
+and that nobody is good at and start there.
+
+And then you go start doing it.
+
+And then you have like a room full of engineers building way better tools,
+
+like integrating the data, just like make that work supercharged.
+
+And then as your reputation gets good,
+
+you'll start getting on bigger and bigger projects and getting bigger and bigger scope.
+
+And you just keep sort of clawing the next,
+
+thing forward. So we started in private utility locating. We were really good at making maps.
+
+And so then these general contractors who are typically the ones that like hold the contract
+
+from the utility, they would say like, hey, like we keep hitting stuff. The drillers are struggling.
+
+You guys make a really good map. Can you come drill for us? And we're like, yes, that,
+
+you know, secret plan the whole time. And then we go start drilling and like we already come in
+
+with a bit of an edge because we have like really good data sets, really good maps.
+
+And then we just like keep going forward, right?
+
+Like apply the better tech there.
+
+You go build it better there.
+
+And you start on like really small shots.
+
+You're kind of like a sub and you get called in last second.
+
+And it's it's very like it is ground game and it is reputation based.
+
+And you just like keep building those.
+
+And the tech lets us like speed run the normal like construction growth curve.
+
+So you're basically just expanding.
+
+the scope of what you're doing and then eventually people are going to realize like, hey,
+
+this GC is actually just a very thin wrapper around the advanced bade company and then you guys
+
+eventually will bid for the, for the project yourself. Yeah. And that's, um, there's like a,
+
+I mean, yeah, uh, there's, there's a bit of a mix. Like, there are days where being a subcontractor
+
+is really nice because it's just like a lot less that we have to deal with. But then you also wind up like,
+
+you have no control over your own destiny.
+
+And so the way we see it is kind of like our service team, I mean, it feels very big for us,
+
+but like is quite small.
+
+And we sort of just keep moving up in terms of technical difficulty.
+
+And then as we move up, we want to sort of like leave the lower end market to where it's like,
+
+we don't want to be a monopoly of all things utility construction.
+
+That's like a really tough game to be in.
+
+So what we do is we take the tools that we've developed to get really good in that market.
+
+And then we turn around and sell them to the like mom and pop shop.
+
+So private locating is one where like we're kind of phasing out of it.
+
+You know, like we can do like these really high quality maps on like really like customers who care a lot about the data.
+
+So a lot of the like field work for just like marking and pre-construction stuff.
+
+It's just like we aren't the best person to go do it.
+
+but now we can sell them a locator that we're like, hey, we spent years perfecting this and making it so that like
+
+we can move crazy fast. It does all the things that you want. And that's, there's this theory in
+
+construction of kind of like golden shovels. Everyone wants to sell you, say like, hey guy, like
+
+contractor who lives on 3% margin, pay me a ton of money buy this golden shovel and like I promise
+
+you that it's going to make you a bunch of money in the end. And that's,
+
+It's like a brutal business.
+
+Like most people fail when they try to do that.
+
+Whereas if we say like, hey, we've eaten your lunch, we've taken every contract you've had for the last year.
+
+And now we don't want to do it anymore.
+
+Here's the tool that like let us go beat you.
+
+Now it's an easy sell.
+
+Like everyone, everyone wants that tool.
+
+Interesting.
+
+Fascinating.
+
+How important is reliability?
+
+Like how much, how much opportunity is there in like innovation, robotics, the really sexy advanced stuff entirely new?
+
+equipment versus like just taking a design that works and simplifying it, removing complexity,
+
+and just getting away different economic equation, like a reusable rocket at SpaceX, for example.
+
+It's, um, there, there are a bunch of cool things that are like, no one's ever done this
+
+and it's going to count on like material advancements in tech.
+
+We, I can't wait to come tell you about those in like five years.
+
+The reality is right now it is that like tech, you can kind of look anywhere in the industry
+
+and everyone like hates each other.
+
+Everyone thinks that the other part is like underserving them.
+
+There is a stack of like tech that can solve pretty much any of the problems, but you're
+
+paying like 18 different people.
+
+So one one customer was like, oh, you guys are really just like a slick integrator of all
+
+these things.
+
+Yeah, that's a way to say it.
+
+I mean, we also have, like, we have zero SaaS cost.
+
+We don't pay, like, for added layers.
+
+Like, we can go make those things.
+
+So, like, some challenges are mostly just integrate.
+
+I mean, like, construction workers love having details sent to their phone.
+
+It's, like, the easiest way to make them happy.
+
+Yep.
+
+And it's, like, not hard to do.
+
+Yep.
+
+Making a new locator is, like, quite hard to do.
+
+It's, like, yeah.
+
+So there's a mix.
+
+Some days it feels like if you just take good notes and then go ahead and look at those notes, you're like a notch above.
+
+You're doing really well.
+
+Last question for me.
+
+Can you walk us through what's behind you?
+
+It feels like I'm looking at maybe three different vehicles, but what's your product?
+
+What's modified?
+
+What's the purpose of all this?
+
+Everything here is like our config of something that you buy.
+
+So we've got a directional drill.
+
+So this is like a super common drill that you'll see.
+
+Like you guys will see it on the street.
+
+They're all over LA, everywhere.
+
+And these are kind of like the big, this is the thing where, you know, like these tools really proved their value.
+
+Basically, everyone wants underground.
+
+Grid investment has like, in the last 10 years, it's tripled.
+
+Reliability is worse by every single metro.
+
+trick. And every, like, the problem, problem is overhead. You keep putting stuff overhead. It keeps
+
+failing. Everyone wants to go underground. There's no, like, secret there. It just cost too much.
+
+And really when fiber started rolling out super aggressively, then directional drills, you had this
+
+problem where you're like crossing a rural road. How do you do it? And it's like, what do you, you can't
+
+dig a trench and like stop a two-lane country road. So directional drills became like ubiquitous. They
+
+were everywhere because you can just pop a shot under the road.
+
+Then they prove their worth this whole idea of being trenchless and being like less intrusive,
+
+less invasive in rural places.
+
+Now the fiber companies are trying to do it in cities and it's like, I mean, look at the news,
+
+right?
+
+Like New York airport just got shut down because of people like operating and there's fiber in the
+
+ground and you like hit it and it's like the tool set and the tech set.
+
+is just not there to be able to be trenchless
+
+or safely work in cities.
+
+And so that's kind of where we started.
+
+And yeah, like data center boom has pushed things forward,
+
+but it's reduced the barrier to cost a lot.
+
+Then we just have big trucks.
+
+We've got a mud truck, so like drilling is a very fluid game.
+
+Yeah, that makes sense.
+
+Very cool.
+
+I love the, I love your design.
+
+Like it's so cool like it feels like it feels like it could just be like a everyday like construction like general contracting
+
+Like logo it has that feeling but but it's very cool
+
+Yeah, how big is a team today? We're like 50 55 something like that hiring more I assume
+
+Yeah yeah yeah always to say the least I'm a dig in to do well yeah, I'm on a public awareness get I
+
+I mean, we're based in Long Beach, so we're surrounded by space companies.
+
+And I am on a public awareness campaign of like, space doesn't matter.
+
+No one, don't look up.
+
+You know, come to dig holes.
+
+Space doesn't matter.
+
+As take it from somebody who works at SpaceX.
+
+That's great.
+
+Look down.
+
+Well, thank you.
+
+I'm out on the show.
+
+Great to meet you, Daniel.
+
+Fascinating company, fascinating journey.
+
+I love to learn more soon.
+
+Yeah.
+
+And please, please land some contracts in my backyard.
+
+Yeah.
+
+For sure.
+
+Yeah.
+
+I love it.
+
+Coming to your streets, baby.
+
+Fantastic.
+
+Can't wait.
+
+Talk to you soon.
+
+Great to me, dude.
+
+Cheers.
+
+Critical infrastructure for the AI era.
+
+Unlock seamless, real-time experiences and new value with Cisco.
+
+We got to pull up this video of Acetocorsa with mods running DLSS-S-5, which is Nvidia's AI up-resing.
+
+And I was looking at this with Jordi yesterday.
+
+We were like, oh, we should pull this up on the show.
+
+This is really cool.
+
+I can't believe they took a very big.
+
+video game and they added some mods to make it look more realistic and they added some AI upresing
+
+and it looks like a YouTube video. It looks real. And we were like, ah, but it might just be a video.
+
+So maybe this is someone trying to trick us into thinking it's fake AI because this is happening.
+
+There's a lot of video games that are rebranding as like, oh, we vibe coded this game. And in fact,
+
+they've been working on it for a couple of years. It's not actually vibe coded. And I was like,
+
+this might be fake in that it's real video.
+
+But it turns out it's not fake.
+
+This is a video game, I believe.
+
+I've done a bunch of research and tried to debunk the idea that this was Acetocorca.
+
+I believe it is Acetocorca, but I cannot tell it from real video.
+
+Like, it's fully past the touring test at this point.
+
+This is, like, maybe the first video that I've been able to watch the full thing
+
+and firmly say, like, we are cooked in terms of video.
+
+like this is this passes the touring test we were both confused by it um i don't know if you have any
+
+other takeaways the the interesting thing is that you my takeaway is i got to shave more seconds
+
+off my lap time it's bah you got to shave some time off your uh off your time but uh do you want
+
+this because there was some debate over uh i don't want my video games to look real i want them
+
+to look like a game uh part of what makes this look real is that there's some camera shake and
+
+your the camera position and is behind the driver's head as someone who
+
+spends a lot of time in a racing simulator, would you want this filter on? Would you want this
+
+feature? Is this appealing? Or is this just a cool viral novelty? I don't really care that
+
+much about graphics. Okay. But I would certainly take it for a spin. Yeah. Yeah. You should.
+
+Automate anything with AI agents, run trading strategies, misk risk management, money movements, and
+
+monitor markets with AI agents for investing on public.
+
+There are...
+
+Gibreel says, please stop cutting off the intro countdown music on your live stream final
+
+cuts. I enjoy the intro song. Please live it in.
+
+Really? That's interesting. It's just so long.
+
+But people know to skip to five minutes maybe? I don't know.
+
+That's something I'd never considered. We thought we were doing such a favor,
+
+saving you from having to tap, tap, tap, tap, tap, tap, or scroll forward.
+
+We thought we were going the extra mile. Takes us a little bit of time saves you.
+
+I think it's a little treat for showing up live.
+
+Oh, okay.
+
+Music's a little treat.
+
+Okay, yeah.
+
+For being with us live.
+
+If you want to enjoy the intro music.
+
+The real ones.
+
+Show up live.
+
+Show up live.
+
+Okay.
+
+Otherwise, it's going to be cut off.
+
+It's a live exclusive.
+
+It's a live exclusive.
+
+So I guess, sorry.
+
+Sorry to you in the chat.
+
+Sorry, Jim.
+
+We're not giving you what you want.
+
+We're not listening to the customers.
+
+The customers don't know what they want.
+
+They'd ask for a faster horse.
+
+Well, there is a lot of,
+
+a lot of fake news on the internet.
+
+There's this idea of single flight life insurance from Jetstar.
+
+I was able to debunk this.
+
+It's a really ridiculous concept, $8 in $3 million if your flight crashes for a single
+
+flight.
+
+Of course, Jetstar does actually sell insurance, but not this way.
+
+Very funny post, though, but be careful out there because I'm sure a lot of people saw this
+
+and thought, hey, maybe that's real.
+
+I like this take on jet lag
+
+Jet lag is kind of holy to me
+
+I'm tired because I flew I flew too fast
+
+too far my body
+
+misses a different sun
+
+I haven't been getting jet lag lately
+
+I've been doing pretty well
+
+I don't know maybe it's just
+
+just been doing East Coast for a couple days in and out
+
+I think RVs are going to have a huge comeback
+
+and you never have to worry about jet lag
+
+RV lag is not a thing
+
+get ready
+
+yeah who do you think is actually gonna buy
+
+Who do you think they're actually going to buy the banana ball team?
+
+You think Disney or TKO in depth?
+
+I've never watched the second of it.
+
+The nanobananas.
+
+Maybe Google will buy them.
+
+Who knows?
+
+Yeah, an AI company should buy them just to like try to help with the popularity.
+
+Training data for hallucinated AI video.
+
+They already do it in real life.
+
+Get it in the dataset.
+
+Codex is a powerful workspace for getting work done with AI agents.
+
+whether you're writing code, analyzing data, creating content, or automating business workflows.
+
+Codex helps you move project forward from start to finish.
+
+The other story that is worth sharing is that Reese Witherspoon is buying her company back.
+
+Hello Sunshine.
+
+It was valued at $900 million in 2021, but potentially she's going to get it back for just 94% of what that headline valuation was.
+
+I think you were saying that's around $7 million or something for this production company.
+
+So Candle Media bet on Witherspoon's celebrity brand and book club, but it fell short as growth in direct-to-consumer subscriptions lagged.
+
+But always fun, rooting for a founder getting back in the full ownership seat.
+
+So a lot of silver lining there, although I'm sure there was some money that was wagered and lost.
+
+Who knows?
+
+Who knows where it goes next?
+
+But very exciting to see her maybe back at the helm and getting another bite of the apple.
+
+I am personally, I'm personally rooting for it.
+
+Also, do you think this is a recession indicator?
+
+The fact that startup launches are starting to do paid partnerships with all the hottest anonymous accounts, Robert Sterling, Wall Street Bats, Greg.
+
+Yeah, this is just the biggest anti-signal.
+
+Like, if you do this, I just assume that I shouldn't, and no one should care about your company.
+
+So just don't do it.
+
+Don't do it, folks.
+
+interesting. Do something that is original that will break through. Yeah. I think there's
+
+enough people that will just your brand will just be like, yo, you're the AstroTurf brand. You're
+
+the brand that had to buy, you know, quote tweets. But there is, I believe that there's
+
+a industrial complex around this now. Like there is a yeah, there's multiple companies that do this.
+
+Yeah. And so it's, it's probably something that's pretty turnkey. Yeah. Sheal was saying like if you pay for
+
+X premium, it should just block the paid partnership.
+
+Interesting.
+
+That would be interesting.
+
+Yeah, maybe that would be something to do.
+
+It is cool that the disclosure came because there was a while there on X where there
+
+was a lot of stuff that was paid and was not disclosed.
+
+And this feels like a step forward in terms of transparency.
+
+It makes the platform better, honestly.
+
+Yeah.
+
+I'm enjoying it.
+
+And I don't see that many of these paid partnerships.
+
+And sometimes they're funny.
+
+Anyway.
+
+Well, thank you for tuning into TV.
+
+the end, leave us five stars.
+
+We're just 23 minutes away
+
+on the mission as reveal.
+
+We're just hours away from us seeing
+
+the new Nathan Fielder movie.
+
+That's right. We're very excited. Leave us five stars
+
+on Apple Podcasts and Spotify.
+
+Get ready for Christmas. It's only 70
+
+days away. And sign up for a newsletter
+
+at tbpn.com.
+
+And we will see you tomorrow
+
+at 11 a.m.
+
+We love you.

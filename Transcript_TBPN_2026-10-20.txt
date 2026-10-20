@@ -1,0 +1,5588 @@
+=== PODCAST-TRANSKRIPT: TBPN ===
+Titel: TBPN Live - "You Can See Everything" Sparks Debate, 17% GDP Growth Please, Call of Duty Campaign Review | Katie Drummond, Bing Gordon, Daksh Gupta, Jean-Denis Greze, Quinten Farmer
+Quelle: https://podscripts.co/podcasts/tbpn-live/you-can-see-everything-sparks-debate-17-gdp-growth-please-call-of-duty-campaign-review-katie-drummond-bing-gordon-daksh-gupta-jean-denis-greze-quinten-farmer
+Datum: 2026-10-20
+Länge: ~147k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+We are live from the TBPN Ultradome.
+
+The Temple of Technology.
+
+The Fortress of Finance.
+
+The Capitol.
+
+The Capitol.
+
+Do we still got a little color grade going on, boys?
+
+What's going on with the bold tans today?
+
+Yeah?
+
+Okay.
+
+You left the color grade.
+
+Well, we're slowly getting out of Nathan Fielder territory.
+
+We're not zoomed in, but we still got the color grade,
+
+and I still got the Nathan Fielder headphones,
+
+which are actually amazing, deeply underrated.
+
+He's a wired headphone guy.
+
+You've been talking about this for a long time.
+
+I didn't think those were great.
+
+Oh, you didn't like them.
+
+I love them.
+
+I think that they sound way better.
+
+The quality is horrible.
+
+Oh, really?
+
+No, no, no, I think it's nice.
+
+It's nice.
+
+I don't know, just the way I can still hear a little bit of this.
+
+It's not so isolating.
+
+It feels like I'm more present.
+
+I don't know.
+
+Time's money.
+
+Save both.
+
+These are your corporate cards,
+
+Bill Pay, accounting, and a whole lot more,
+
+including Tony Hawk,
+
+including Bamargera.
+
+They put on an incredible event
+
+at the New York Stock Exchange
+
+on Friday, on Saturday night.
+
+Tony Hawk was there skating
+
+around the floor of the New York Stock Exchange
+
+outside of the New York Stock Exchange.
+
+Bamargera was there.
+
+He was also just skating around New York yesterday
+
+showed up on a buddy of mine story.
+
+It's awesome.
+
+Yeah, great, great sponsorship,
+
+great out of the box, outside of the box thinking
+
+from the ramp team on a really interesting
+
+brand partner who
+
+Yeah, just a lot of contrast there.
+
+So great, great outcome.
+
+So congrats to them.
+
+Let me, we're still in Nathan Fielder territory.
+
+We have Katie Drummond from Wire, the global editorial director, hopping on to talk about her interview with Nathan Fielder, which dropped today.
+
+
+---
+
+
+Then we have a bunch of other folks joining the show.
+
+But Theranos was all over the timeline.
+
+He broke his silence.
+
+Nathan?
+
+With Katie.
+
+That's true.
+
+That's true.
+
+That is actually what happened.
+
+Yeah, he did.
+
+But yeah, this weekend, every time I would refresh, it would be you can see everything takes.
+
+Everyone had all these different opinions and takes.
+
+The one that stuck out to me was that there's a little bit of a, like, you watch the movie and most people came away thinking more positively of Elizabeth Holmes being like, oh, maybe she wasn't, maybe she's not that bad.
+
+Maybe there's more to the story.
+
+Maybe she was manipulated.
+
+She seems to be manipulated multiple times, potentially.
+
+Like, maybe she's more of a...
+
+Some people might be like, she's bad, but she'd probably be nice to me if I interacted with her.
+
+Yeah, yeah, a little bit of that.
+
+And, yeah, and there's this, I don't know, there's some sort of, like, suspicion that I feel
+
+some people in Silicon Valley are having where it's like, oh, it's just like the fake it to you make
+
+it thing.
+
+It's not that big of a deal.
+
+And I just, I just can't, I just can't stop thinking about, like, it seems.
+
+like she's just a bad founder. Like, put aside the fraud. Like, it just seems like, like,
+
+total slop in terms of the execution of that business and gives me absolutely no faith in a
+
+Theranos 2.0. Totally. And the whole time, I was like almost yelling at the movie screen because
+
+she taught, the way she describes Theranos is like this box and like it's in the cloud.
+
+It's just like it's so, it's so unaware of the medical device.
+
+device industry, which is so frustrating to me because she, she's making this point,
+
+and I was like, we've, we have an invention.
+
+And our invention allows you to test blood for things and, like, we test all this stuff.
+
+And she's making it sound like it's like magical science.
+
+And it's like, I looked it up.
+
+There have been 60 plus companies since the Heronos started that sold for over $100 million
+
+in that category.
+
+It's like, it's like someone coming to you and being like, I have a magical, I, we invented something.
+
+It takes information and it stores it on a database that you can access through a website.
+
+It's like, so you make a SaaS product.
+
+Literally hundreds of people make those.
+
+And there are thousands of people that work in the medical device industry.
+
+And they've made boxes that look kind of like a Phaeranos box and it runs a test.
+
+And they don't go to prison for 10 years.
+
+Yeah, they don't go to prison.
+
+And they, and it's just, it's such a, it's such a tried and true playbook that it's actually like an industry that's boring at this point.
+
+They're like, these companies.
+
+get funded. No one reads their press releases. And then they get sold for hundreds of millions of
+
+dollars. And it's like, okay, cool. Yeah, congrats. You made $500 million doing another medical
+
+device. We know the playbook at this point. You get some intellectual property. You build the
+
+device, kind of the supply chain, figure out the chemistry, get the FDA application in. It takes
+
+a decade for the FDA to actually approve it. You probably sell the company before then. Like,
+
+there's such an established playbook that there's specific VCs that just focus on this. And they're
+
+just like, oh, yeah, we'll just do these deals all the time. We just do them. And then we, yeah, we
+
+sell them to this company. And this biotech company just loves buying these. And it happens all the
+
+time. And she never just says like, look, this stuff happens all the time. It's not crazy
+
+that I'm going to be able to build a box that tests for something. Like, this happens all the time.
+
+Instead, it's like, it's like, I'm the only one that could possibly do this, which is so weird.
+
+It's such a bad frame to not just admit what's, what's really happening on the field, which is that
+
+box, diagnostic boxes get built and sold every few years for hundreds of millions of dollars.
+
+You could just do that.
+
+But instead it has to be this pie in the sky nonsense.
+
+And it really, really frustrates me, as you can probably tell.
+
+Nikita Beer broke down a little bit of this concept.
+
+He said one of the things that hasn't been talked about with Elizabeth Holmes, she was
+
+created in the era of the TED Talk entrepreneur.
+
+And this is exactly what I was picking up on.
+
+So between 2011 and 2015, after the release of the social network, there was an entire apparatus
+
+built around child prodigies, college accelerators, young entrepreneur organizations.
+
+I watched countless founders of a hard tech companies present fraudulent products at conferences.
+
+They had fake studies with fudged numbers.
+
+Most of the adults in the room excused it as faking it till you make it, but Holmes was the one who rode the wave better than anyone else.
+
+When the TED Talk era came to an end, when people finally came to their senses, she was still running the same playbook.
+
+And in the most scrutinized field, there is medical technology.
+
+When people ask how far she got so far, it is largely explained by the period.
+
+she did it in and she got caught when the world suddenly woke up.
+
+And so, yeah, it's so odd because there are a ton of founders who build medical devices
+
+and sell them and raise money and do all these different things.
+
+But they're boring businesses because they never touch consumers directly.
+
+Like you go to the hospital.
+
+They might say, oh, yeah, you have a cough, but we're going to run it for some bacterial,
+
+some, you know, antibiotic resistant bacterial thing.
+
+We're going to take some of your blood and just take off.
+
+a little piece of the blood and put it in this box to make sure that you don't have this thing.
+
+And they'll do this on site.
+
+But you never see the brand of the company that runs this because all you care about is like,
+
+am I sick or not?
+
+Right.
+
+And so you might wind up getting a lab test that says like UCLA or USC on it or whatever, you know,
+
+whatever medical network you went to.
+
+And the doctor is just going to introduce themselves as like Dr.
+
+Smith or whatever.
+
+They're not going to tell you, oh, yeah, by the way, we just ran your blood on this small
+
+startup that got acquired by a big tech, big biotech company, and it was a great deal and all the
+
+investors made money. So you're never going to hear about it, even if you use the box. And if you
+
+don't, you don't care at all. And so there's other things, which is that this is strictly
+
+regulated by the FDA. So if you're a founder of a medical device company, like, what you are
+
+going for is FDA authorization. That's marketing authorization. That's literally the ability to sell
+
+the product. It's not illegal to build a medical device. It's illegal to sell it, to market it. And so
+
+that also includes like you can't you typically can't go on podcasts and and media and say oh yes we have
+
+this thing that does this thing we have to say oh we're working on this progress like we can't say
+
+that it actually works because we haven't been approved to say that by the fda and so by the way can
+
+do spoilers now i think so i think we can assume that spoiler alert spoiler alert you don't want to
+
+hear spoilers just turn leave the stream going but just turn the audio down yeah and we'll just
+
+Talk away.
+
+What spoiler do you want to talk about?
+
+So, Billy does this
+
+ideal to get a cut of
+
+profit on the back end of the movie.
+
+You would probably know what that's exactly called.
+
+Yeah, points on the back end.
+
+Points on the back end.
+
+So he does this thing.
+
+Incredibly good.
+
+And then later, after the movie's totally been
+
+finished, he decides,
+
+ah, this is going to look pretty bad, backs out, right?
+
+Damage has already been done, right?
+
+Like, he looks, he looks, he doesn't look great.
+
+Yeah.
+
+And Elizabeth is trying to say, like, oh, I don't really know much about the details.
+
+So one thing, like, the damage was already done, and now the movie is a massive hit,
+
+and it's going to continue to be a massive hit.
+
+It seems like it'll be like a cult classic.
+
+It's something that people will look back.
+
+And I can see somebody watching it back in, I can see watching it back in 10 years and being like, wow, that was a moment.
+
+Just because Nathan Fielder's body of work is becoming so iconic.
+
+And I can't imagine being 60 years old being like, I'm going to turn on some Nathan
+
+Fielder.
+
+Just take me back to the good old days.
+
+But the funny thing is, do you think that Billy, do you think it made sense for him to do this
+
+deal because she claimed in the show she has hundreds of millions of dollars of restitution
+
+to pay?
+
+So of course, she wouldn't want to make, even if she wanted to make money on it.
+
+She wouldn't get any benefit of it.
+
+So she would want to route it through Billy?
+
+It's a good question.
+
+There's some ambiguity over whether or not they're married.
+
+I couldn't get to the bottom of this, but I think they might not be legally married,
+
+in which case it would make sense for him to get those profits and then use that for their kids and their family,
+
+but then it doesn't flow to her bank account, which immediately gets grabbed by the investors.
+
+That's what I'm saying.
+
+I think you might be on to something there.
+
+She gets a lot of the benefit in that it's sort of funding.
+
+Yes, and so is your point that if she's in on the deal sitting there being like, we want to get paid, but just pay it to Billy's account, don't pay it.
+
+That's more tricky from a restitution perspective.
+
+Totally.
+
+I imagine a judge would be like.
+
+Oh, that's an interesting wrinkle.
+
+I hadn't thought of that.
+
+Yeah, a judge would be like, yeah, you're earning money.
+
+I don't care.
+
+Yeah, I don't care that you did.
+
+Billy has to like go behind her back and make it really public that he's going behind her back.
+
+Huh.
+
+Yeah, good point.
+
+Good point.
+
+So.
+
+Yeah.
+
+The fraud continues potentially.
+
+Interesting.
+
+You might be right about the Cold Classic thing.
+
+I mean, from my perspective, it looked like we were experiencing like an absolute box office smash.
+
+Like it was taking over the timeline.
+
+I would describe it more as like a phenomenon.
+
+When I think of Cold Classic, I think of like slow burn, like no underappreciated at the box office.
+
+And then all of a sudden it becomes really popular.
+
+I think it's like super popular.
+
+But yeah, but I'm still talking to people like over this last weekend.
+
+Yeah.
+
+I would say like Nathan Fielder there in a smooth.
+
+movie, blah, blah, blah. And some people will be like, oh, yeah, yeah, I think I remember Theron.
+
+Like, there's still people out there that don't. Do you know how it did at the box office?
+
+It was not the number one movie this weekend. What was? By a factor of two, Street Fighter.
+
+See what I mean? See what I mean? Street Fighter made $31 million and you can see everything made
+
+$15 million. So twice as much money for Street Fighter, which, I mean, I'm sure it's a great
+
+movie, but I didn't even know what was happening. Maybe that's a cult classic for me.
+
+It seems like something I'd like.
+
+I think 50 cents in it.
+
+It looked awesome when I saw a poster eventually.
+
+Also, oh, whale fall.
+
+Whale Fall made $8 million.
+
+I want to see this movie.
+
+This is a horror film about a whale.
+
+Seems really cool.
+
+Anyway, someone gets swallowed whole by a whale.
+
+Spoiler alert.
+
+But I think that's in the...
+
+In the trailer, maybe?
+
+And the name.
+
+Spoiler alert.
+
+Your business is AI, their business is securing it.
+
+CrowdStrike secures AI.
+
+and stops breaches.
+
+So, I mean, the wildest part about the whole you can see everything, Theranos thing,
+
+is that, one, I've talked to Billy on the phone about the Twitter that he was running
+
+and all that stuff, answered all those questions.
+
+Nothing that really was different than what you saw in the movie.
+
+But he sort of gave me the pitch for Theranos 2.0, and I was, like, pushing back,
+
+being like, like, so you should go for, like, a specific diagnostic, go for, like, do this.
+
+Like, I have a buddy who ran this exact playbook, made $400 million in a very short amount of time.
+
+Like, this is tractable.
+
+And then he was like...
+
+Wait, when did you have this conversation?
+
+I talked to him, like, last year.
+
+Okay, yeah, I think it's coming back to me.
+
+Yeah, I told you that...
+
+So basically that...
+
+Yeah, I remember.
+
+You were like, oh, yeah, like, bearish.
+
+Yeah, the story is is that Elizabeth Holmes came back to X and was posting, like, funny,
+
+things and was getting like amplified and going viral and everyone was like wow elizabeth holmes and we were
+
+getting pitched to have billy on the show loosely so what was going on was that uh elizabeth holmes was being
+
+like so edgy and based on the timeline everyone was like wow like she's innocent because she she's
+
+actually a great entrepreneur because she's like funny and i was like and i was like these are two different
+
+things yeah comedy on the timeline does not mean you're great founder often does not they're not
+
+correlate at all. Yeah, it doesn't mean that you're innocent. And so my pitch was, I said,
+
+look, if we're going to take this Elizabeth Holmes redemption arc seriously, I want to see
+
+some great calls about biotech. Because this is sort of what's happened with other individuals
+
+who have been rehabilitated. You'll see, like a Martin Screlli, put out a call about a particular
+
+quantum computing stock, and then you can just wait, and you wait six months, and you're like,
+
+wow, Martin, like, say what you will about what happened in the past.
+
+The guy is dialed about analysis of public market companies today.
+
+And so that is undenialy.
+
+And so you wanted to see Elizabeth do like a Trevor Milton where tries to invent something new, fails,
+
+and then now it's just running some random private aviation company.
+
+No, I mean, maybe.
+
+I don't know.
+
+I actually haven't read the Trevor Bell thing.
+
+No, that's kind of what you're saying is don't try to create something new from scratch,
+
+Oh, sure, sure.
+
+Just make a medical device company and do one thing that.
+
+So yes and no.
+
+Like, yes, probably from an entrepreneurship standpoint, I would be in favor of that.
+
+But from a branding perspective, my point that I posted about was like, I want to see Elizabeth Holmes
+
+give an incredible take about peptides and how that market will evolve and then watch that
+
+happen and be like, oh, wow, she was early.
+
+I want her to be a good biotech analyst.
+
+I want her to be smart on the science.
+
+I want her to tell me what's happening.
+
+Crazy thing about the movie, though, I can't remember a single point where she was locked in on anything science-related.
+
+I completely agree.
+
+It was just, it was Billy.
+
+That's the point.
+
+Learning about mitochondria.
+
+Yeah, that's my point.
+
+Like, if a genius scientist goes to jail wrongfully, I would assume that they continue reading science literature and that they come up with interesting thesis around that.
+
+One simple trick that the medical industry hates.
+
+You can actually do that.
+
+That happens.
+
+Like, this stuff happens if you actually read the literature.
+
+and you're in tune with the market and what's going on.
+
+And you could call longs and shorts and you could predict different things about how the biotech
+
+community is going to evolve.
+
+And some of those predictions would be right.
+
+And if a lot of them are right, you will be seen as someone who understands the industry.
+
+And you can see this with all sorts of people in AI where they post about AI progress.
+
+And then you just wait a couple of years.
+
+And you're like, oh, yeah, like, like them or don't like them.
+
+They were definitely right about the cyber security capability.
+
+of models five years ago.
+
+And so at the very least, we got to give them that credit.
+
+And I want to, I want Elizabeth Holmes to throw down, give me your biotech 2027.
+
+Give me your AI 2027 thesis.
+
+Let's watch it play out.
+
+If you're right.
+
+At the very least, a market map.
+
+At the very least a market map.
+
+Show me that you understand what Roche-Barris vehicles is doing.
+
+A tier list.
+
+A tier list.
+
+A tier list of biotech acquisitions in the medical device space.
+
+Yeah.
+
+Show me you're a student of the industry you're operating in.
+
+Right? Yeah. And so I had put this out there as like, I want to see, I want to see some real, some real analysis, something that shows you that you're a live player in the industry. And, and then I did ask the Elizabeth Holmes account to do an interview over the phone on September 5th, 2025, so about a year ago. And then, and then I did, I did talk to Billy on, I think, October 17th or something. And it was, it was nothing.
+
+that didn't come out in the movie.
+
+So it all matched.
+
+But I was focused much more on the, what is the business strategy going forward?
+
+Because if it's just the hand wavy, we're going to do everything all the time.
+
+Well, no, in their words, it was Theranos, they're going to do Theranos 2.0.
+
+2.0.
+
+Yeah.
+
+Which watching, watching Nathan have that light bulb moment where they're pitching him Theranos 2.0
+
+and them not realizing that people have been using the phrase Theranos 2.0 to describe like
+
+massive, like things that they perceive might be massive fraud.
+
+Yeah, yeah.
+
+It's great.
+
+In another world.
+
+Anyway, I just also, when I got to YC in 2018, my visiting partner was Diego Ray,
+
+co-founder of GeneWeave, who actually built and sold a real diagnostics box, a medical
+
+device.
+
+And it was basically just a lab testing machine.
+
+Previously, size of a dishwasher, at a lab down the street, you shrink it down to
+
+size of a box and you put it at the actual hospital and then the hospital can test for a specific thing.
+
+They were testing for antibiotic resistant bacteria. They developed a chemistry. It's not rocket science.
+
+It is hard science, but like it's not magic. It's not future sci-fi magic. And they basically
+
+would have these particles that would make the particular bacteria resistant, the antibiotic
+
+resistant bacteria light up, they would glow, and then they would shine a light on it,
+
+and then they would measure the amount of light that came back, and they'd be able to say in this
+
+hospital, like, okay, you have this particular antibiotic-resistant bacteria in this patient.
+
+You need to be extra careful about washing your hands.
+
+You might need to give them a different antibiotic.
+
+There's a whole bunch of different things that can happen.
+
+And if you can get that data in an hour, as opposed to two days, everything in the hospital
+
+is just going to move a little bit smoother, and people are going to be a little bit healthier.
+
+And you're going to sell your company for $425 million, which is exactly.
+
+what happened. They raised 25 million. It was a great outcome for founders, employees. Roche eventually
+
+got the product approved by FDA. They sold pre, they sold before getting an FDA application,
+
+getting the FDA approval. But Roche took it through the final step because that's very expensive,
+
+but they have a lot of great, great lawyers on their team to actually move that stuff through
+
+in scientists. And so in 2019, it got, it got authorized for the Cobas Vivo DX MRSA test,
+
+which is like not going to be on the stage at TED anytime soon, but it should be.
+
+It's like real science and it actually moved the needle forward.
+
+Okay.
+
+And it was good.
+
+The other funny thing about this company is that the name of the particles that they created
+
+that actually detect the antibiotic resistant bacteria, they call them smarticles,
+
+smarticles, which sounds like you could go into prison.
+
+It sounds like you're going to go to prison.
+
+But it's like it's just a normal, boring company.
+
+No offense. It's a great company. I love you, Diego. But like, it just, it was never, it was never like, we're going to solve everything care death in 20 million years in the future. It was just like, look, there's this test that happens. Normally happens down the street. It costs a lot of money. Now it'll happen in the office.
+
+Okay. Boom. So, again, during the film, a fire broke out in Malibu. I was pretty distracted.
+
+So you need to make a catch up? Trying to figure out, trying to figure out what was going down, how serious it was, et cetera.
+
+that being said
+
+I came away from the movie
+
+right
+
+feeling like
+
+okay Sunny had done
+
+some side deal
+
+and got way less
+
+No no no
+
+Sunny Balwani
+
+The other co-founder
+
+My impression was that he
+
+Was getting way less jail time
+
+Yeah
+
+Elizabeth is going to jail
+
+For like 11 years
+
+Yeah
+
+It seemed like
+
+Sunny
+
+They were positioning it
+
+As like
+
+Sunny was able to pin it on her
+
+Yeah
+
+He got out
+
+Yeah
+
+Or at least he got a reduced sentence
+
+Yeah
+
+Yeah yeah
+
+And you told me afterwards
+
+Sonny is in prison for like 12 years or he had like a year long.
+
+12 years, 11 months was a sentencing.
+
+Elizabeth got a 10-year sentence, reduced originally from 11 years and three months.
+
+So they couldn't even rat on each time.
+
+Like it makes it so much worse in my opinion.
+
+Oh, yeah.
+
+Because you would think that like the prisoners dilemma.
+
+They both rat on it on each other and they both went to jail.
+
+I mean, maybe.
+
+Yeah.
+
+Maybe, but it just seems like that, like if one of them had been more evil, you know,
+
+more leit at deception, they would have been able to say, hey, Sonny, me and you, Elizabeth, Sonny.
+
+And the other thing is crazy.
+
+We're taking this to the grave.
+
+According to the internet, Sunny didn't sell secondary either.
+
+I know.
+
+That's ridiculous.
+
+So none of them, they both go down with the ship.
+
+They both don't make money.
+
+That was the jaw-dropping moment for me.
+
+I was like, least shrewd person in the.
+
+the world potentially? No secondary selling. 11 billion. Doing fraud purely for the love of the game.
+
+What are you doing? What are you doing? And it's not like I came away being like it wasn't a fraud.
+
+Like it was. It was very clear that like everyone there, Sunny heard they knew it didn't work.
+
+Not really is the 10. That's really the tech. That's really like the TED entrepreneur.
+
+Yeah. It goes to prison for the love of the game. For the love of the game. Insane. Just just just for the vision.
+
+Yeah. Yeah. Yeah. It was crazy. It's crazy.
+
+It's insane.
+
+Shopify is the commerce platform that grows with your business that lets you sell in seconds,
+
+online, in store, on mobile, on social, on marketplaces.
+
+And now, with AI agents.
+
+If you do want to sell secondary, there's one, one neat trick.
+
+One neat trick.
+
+This is a new thing.
+
+So if you're a founder and you want to sell $10 million a secondary, $100 million a secondary,
+
+you don't want it to be a negative signal.
+
+Here's what you do.
+
+before so you've you've grown your company to the point where you're valued in the billions
+
+you don't want to sell secondary because everyone will be like oh he's like selling out she's
+
+selling out like that's not good uh that's not a good sign so what you do is you take out an
+
+immense amount of debt so you get like a hundred million dollars of debt yeah then you sell the
+
+secondary sell another hundred million of secondary pay off the debt and then you can tell everyone
+
+look, I just sold secondary to pay off my debt, my personal debt.
+
+And everyone assumes it's like, oh, they think it's credit card debt.
+
+They think it's credit card debt.
+
+They don't realize that it was a equity-backed $100 million line of credit from a major financial institution.
+
+You don't need to clarify that part, but you can still get away with $100 million out of the gate.
+
+It's possible.
+
+I wonder if anyone's doing that.
+
+It might be happening.
+
+Who knows?
+
+Who knows?
+
+Anyway.
+
+What's semi-analysis?
+
+Raised its 2027 data center capacity forecast for,
+
+from 43 to...
+
+50 gigawatts. Wow.
+
+50 gigawatts. Wow. 50 gigawatts. That's a lot.
+
+That's a lot of... A lot of compute. And people are going back and forth on this, right?
+
+Did Gersner say it was too much? Something like that.
+
+It seems like semi-analysis has the data and has been pulling together a whole bunch of...
+
+A whole bunch of...
+
+The semi-analysis said... So we looked at the data.
+
+They looked at the satellite photos. I mean, a lot of these things.
+
+things like they were papered a long time again.
+
+Even if the market's like having a hiccup right now,
+
+that's not going to stop people from actually pulling out of the building.
+
+I sent you this,
+
+I sent you this morning from RevCap,
+
+which is semi-analysis saying if you're worried about demand,
+
+air,
+
+don't be because there's going to be even more supply than you realize.
+
+Of course,
+
+semi-analysis is also saying that they have some of the most bullish forecast for the labs.
+
+But it's funny that in the midst of like,
+
+everyone being worried about ARR growth over the last two weeks, that semi-analysis is coming out
+
+and saying, don't worry, there's an obscene amount of supply coming online within the next 12 months.
+
+Yeah. Yeah. I believe them on supply. That seems very cut and dry. I don't think anyone has a stronger
+
+read on what's actually getting built than them. I think if you look at the satellite photos and you look
+
+at the deals that have already been inked, that even though, oh, the NASDAX sold off 5% last week,
+
+like, that's not enough to be like, okay, pack up the dump trucks.
+
+We're not building this thing.
+
+Like maybe in months, if things continue to get bad and the rates go up, like some projects
+
+will be delayed or stalled or deals would get unwound.
+
+But like right now, it's not that it's full speed ahead.
+
+It's just like it's a train.
+
+You can't slow it down that quickly.
+
+Like, it's just going to keep going.
+
+On the demand side, I feel like the agentic stuff.
+
+the personal agentic stuff is going to be high demand for compute, I'm less clear on what the
+
+willingness to pay will be. How many people will be willing to pay the equivalent of $1,000
+
+a year for inference related to like their semi-personal, prosumer life, shopping, and all the
+
+little agentic features? Now, I think the tech is incredible. I've been using Dott a ton,
+
+And I think having an agent that just runs in the background and just tries to go find little opportunities for you is amazing.
+
+It just catches things in my email that I never would have gone through or taken the time to do.
+
+And it just sends me a little message being like, hey, like you asked for this and you should follow up because like they said that they would do it.
+
+And you used it to cancel your roadster order too, right?
+
+Yeah.
+
+Yeah.
+
+So just like little little things like that.
+
+It's just a better interface.
+
+Like I love, I love interacting with the open web through an LLM.
+
+it's amazing no cookie pop-ups, no ads.
+
+It's truly like the best consumer experience.
+
+There's a lot of controversial stuff downstream of that.
+
+But as a consumer, if I'm trying to learn about something,
+
+instead of having like 25 tabs open where I have to accept cookies 25 times,
+
+make sure I'm logged into 25 different things and like scroll, find the fact,
+
+it's so much better to just have it, oh, put it all together with the exact quotes.
+
+I can click out to the link if I need to.
+
+And that's starting to happen in the personal agent space.
+
+The question is, like, how do you get the money from people?
+
+Is it the ads?
+
+Is it the interchange?
+
+Like, there's that sort of bearish take that even that the agentic commerce market,
+
+if you assign all these take rates, it's like a $40 billion market or something like that.
+
+It's like not big enough to justify.
+
+No, I think what needs to happen is something closer to going from automating tasks,
+
+automating certain roles or extending the capabilities of people, right?
+
+Because we're in this era of obviously there's a viral clip.
+
+going on over the last 24 hours,
+
+talking about somebody's having a 26-hour day.
+
+Yeah.
+
+Because they need to stay up.
+
+She's changing and manipulating time.
+
+Yeah.
+
+Because they need to be online and available to keep their agents productive.
+
+Are you saying she's crazy?
+
+I'm not saying.
+
+Because she's not crazy.
+
+You're crazy for thinking that it takes 24 hours to complete a full day.
+
+That's right.
+
+Not 26.
+
+But anyways, it's like the next leg up will probably,
+
+She's a special case. She's an entrepreneur. Yeah. The question is like for the 90% of Americans that aren't in.
+
+But that's not what we're seeing. We're seeing that one, we're seeing that a very, very small number of companies are driving all of the adoption. And so there's probably not all the adoption, but but a massive amount of it. And so there's another leg up there just with a capabilities increase. And then what you're saying is like the other 99% of businesses, how are they going to be? How is their spending in a ramp? Will it ramp?
+
+beyond the, you know, $200, $200 a month subscription.
+
+Yeah, yeah.
+
+I mean, in the business side, like the Jensen take of like, you know,
+
+a software engineer who makes $300K should also get $300K in tokens or something.
+
+Like that seems to be happening, basically.
+
+It's like, yeah, like a software engineer can deploy AI very efficient, very efficiently
+
+and like add a high ROI.
+
+It is less clear for a marketer, for a salesperson.
+
+It's like, okay, what should your actual token, your inference budget?
+
+it be, if you gave a sales rep $50,000 a month in inference, like, is there something that they
+
+could do with the best models to actually generate $100,000 in value that they wouldn't have
+
+otherwise?
+
+Like, those are the economic equations that happen across the business.
+
+I'm talking more on the personal side, the consumer side.
+
+Like, people are using the LLMs.
+
+No, and I'm just saying we don't pay for all this cat.
+
+Like, the CAPX is not going to be paid for by consumers.
+
+consumer.
+
+Yeah.
+
+Yeah, I think you're right.
+
+So you're saying that's not, that is not the leg up that needs to happen.
+
+It has to be diffusion into the enterprise and B2B beyond what it is.
+
+It has to, it has to 10X.
+
+So, so like the small company that has, you know, basically everyone on a $200 a month plan,
+
+and they're maybe spending $100,000 on maybe 10-mill top line,
+
+they need to go to a million dollars.
+
+inference a year, even though they're at a, even though they're a 10 million dollar business.
+
+Maybe they go to 15 million of top line for the year.
+
+Speaking of $1 million budgets.
+
+What we got?
+
+Brett Adcock launched Hark, which is something like a muse or an instinct or a dot's.
+
+And they gave away or tried to give away a million dollars of pizza.
+
+I believe it was on Friday.
+
+You just had to download an order from the Hark app.
+
+And I don't know that it went well.
+
+I think the summary we have here is an app called Hark tried to do a pizza giveaway,
+
+but it quickly turned into a PR disaster.
+
+Yeah, I mean, clearly they got a ton of people to download the app.
+
+Like I think it wasn't working.
+
+People just don't want to give them the data because it needed to be able to be able to.
+
+We're giving them the data.
+
+You have to give them.
+
+You have to give them.
+
+Google Drive files.
+
+Yes.
+
+In order to get this pizza, I will need to edit your tax return.
+
+See, edit, download, and permanently delete your contacts.
+
+See, edit, create, and delete all of your Google Sheets spreadsheet.
+
+See, edit, share, and permanently delete all the calendars you can access.
+
+Read, compose, and send emails from your Gmail account.
+
+Yeah.
+
+See and download your organization's workplace directory.
+
+I don't know if all of these were required.
+
+Yeah.
+
+Sometimes you can just not check those and still get access.
+
+It's like when you download.
+
+an app on the iOS app store, you can just say, like, no thanks.
+
+I don't want any notifications.
+
+Armand tried to get a free pizza and had some issues.
+
+And so we used the app to submit a formal complaint to the FTC.
+
+That's annoying.
+
+And I just tried again with no luck.
+
+I can file with the FTC, but a giveaway that's been flaky for a few minutes on launch night
+
+isn't something they'll act on.
+
+I'd rather report it straight to Hark's team now with all the details so they can fix it.
+
+Want me to send that?
+
+No,
+
+file a complaint with the federal government.
+
+It submits FTC complain about a Hark pizza promotion.
+
+This is great.
+
+On October 16, 2026, Hark publicly advertised a $1 million free pizza giveaway promoted on X,
+
+and stated users could claim it by typing order a free pizza in the Hark app.
+
+Crazy.
+
+Yeah, interesting.
+
+I'm so curious why, why,
+
+Brett didn't just do Hark as part of figure because the whole, like, I don't know, it doesn't make any sense to me.
+
+Other than you wanted a fresh cap table that could raise.
+
+Yeah, I mean, Elon kind of created the playbook, right?
+
+X-AI was a separate thing.
+
+You raise fresh funds.
+
+You get, it's a way, it would be hard for SpaceX to go to top AI scientists and say,
+
+we're going to give you $5 billion of equity.
+
+Now, Zuck has kind of broken that.
+
+glass and been like, I'm just going to do it.
+
+But, but the way you get, the way you get, you know, the multi-billion dollar outcome is you
+
+give a co-founder role of a new company and then you acquire them in.
+
+So I think, I think it's probably that.
+
+I don't know.
+
+Yeah.
+
+Is there another?
+
+The only thing is Elon had, you know, sold a lot of cars and launched a lot of rockets
+
+prior to doing that.
+
+And so I think it's the kind of thing that makes more sense in the fullness of time.
+
+No, no, no, I agree.
+
+Console builds AI agents that automate 70% of ITHR and finance support, giving employees
+
+instant registration for access requests and password resets.
+
+Anthropic staff expect AI to do 75% of their work by 2030 and GDP growth to reach 17.1%.
+
+Now, did they specify if this is real GDP growth?
+
+Because they just said GDP growth.
+
+Because what if inflation is at like 40%.
+
+That would be the equivalent of negative 23% real GDP growth.
+
+You've got to clarify these things if you're going to be asking the tough questions.
+
+But let's assume they went with real GDP growth.
+
+You think that's low?
+
+You think that's high?
+
+There's somewhat anthropic who said it would be 28%.
+
+I like that.
+
+The lowest was 6%.
+
+Basically no one there thinks that GDP growth is going to be, you know,
+
+at normal levels.
+
+Everyone is expecting a boom within the building.
+
+Agree?
+
+Disagree?
+
+Bullish.
+
+Bullish.
+
+Drinking the Kool-Aid.
+
+I don't know.
+
+Just out of the FOMC, of course,
+
+thinks GDP growth will be 2%.
+
+That's the government suits.
+
+U.S. adults are,
+
+what's interesting is that, like,
+
+you know, this made headlines because
+
+anthropic, anthropic staff are obviously,
+
+like, the most bullish.
+
+Like, they are at 17.1% GDP growth.
+
+Reminder, America grows 2%, typically.
+
+They're saying 17, huge economic explosion, unlike anything we've ever seen in America.
+
+Absolutely fantastic.
+
+Like, if we grow at 17%, like, it is so positive sum.
+
+There's so much to go around.
+
+You can do everything, basically.
+
+You can build new roads.
+
+You can give people health care.
+
+Like, everything just solves itself because a rising tide lifts all boats.
+
+This is why, despite.
+
+a lot of really controversial policies in China for like 40 years.
+
+Everyone was like, I don't care about the CCTV cameras.
+
+Because like I got a bigger house this year.
+
+I got indoor plumbing now.
+
+I got all this crazy stuff.
+
+Like my life is getting better.
+
+There's a sense of economic progress.
+
+Like a rising middle class.
+
+All these things are positive.
+
+Of course, in America, we've been in the age of stagnation.
+
+And so when the flock cameras come, it's like, get those out of here.
+
+I don't want those.
+
+I want to maintain the freedoms that I have because everything else is getting more
+
+expensive, everything else is getting worse. 17% GDP growth would be incredible. I'm obviously
+
+rooting for it. I think it's totally possible. Site visitors, people that went and actually
+
+visited the site to take this poll. So if you were surveyed, you would be, where would you really put
+
+it, though? I'd put a 200% GDP growth. Yeah. I want to be tripling every year. Yeah.
+
+Predict what you want to happen. Manifesting. This is manifestation. I want to manifest it.
+
+Visitors said 12.5% again, staggeringly high. But interesting, U.S. adults predict 5.4%
+
+just broadly, which is, again, way above where we've been. So, like, everyone is bullish.
+
+The American mind must be said.
+
+It's unstoppable. Unstoppable. It's true like the vibe session. It's like, ah, things are going
+
+so bad. But I think it's about to explode. But also, I'm doing so well that I'm going to go buy
+
+a boat and I'm going to get a limousine for my, for my burrito. Yeah.
+
+Like very, very weird economy, very weird economy we are in.
+
+But, um, spore doesn't buy it.
+
+Spore says this is borderline mental illness.
+
+I'm sorry, but 20% GDP growth in 2030 is a common belief in Anthropic.
+
+What are these people smoking?
+
+How does one get so divorced for?
+
+Cigarettes.
+
+They're smoking cigarettes.
+
+They're smoking cigarettes.
+
+One cancer will be solved.
+
+That was reported from, we talked about this a little bit, but it was reported from
+
+Shram Sankar and has not been widely confirmed.
+
+beyond his anecdote that he shared, I believe, on Bloomberg or CNBC.
+
+But I don't think this is, I don't think this is unique to anthropic.
+
+Yeah.
+
+I think like clearly the average American is already insanely.
+
+Exactly.
+
+You're looking.
+
+And so if you go to the labs, anybody who like really truly believes in this current revolution.
+
+And that probably is like an average across the field.
+
+There was a funny, there was a funny exchange.
+
+in the Tyler Cowan Dwar Keshe Patel interview on interesting times.
+
+He was guest hosting for the now departed, not passed away, but Ross Dauhth, laughed
+
+for, I think, CBS and the free press or something like that.
+
+But Tyler Cowen and Dwar Keshe Patel were going back and forth about AI.
+
+And Tyler asks Dorcasch, like, when do you think I'll walk into a Walmart and see a product
+
+that is the product of artificial intelligence.
+
+And Dorcas is like,
+
+ah, it's really hard to say.
+
+Like, I think that there will be a real effect on the economy soon.
+
+2028.
+
+I'm very bullish on this changing the economy,
+
+but I just,
+
+I can't predict how it'll be.
+
+And I was like,
+
+there's already AI slop beach towels in Walmart.
+
+Like, you can go into Walmart and get AI products now.
+
+Like, there's so many, like, pool floaty that looks like a tank
+
+that was sold on TikTok via, like, you know,
+
+AI video.
+
+slop. We have signs. We have signs of signs. Yes, we have signs of signs. Like, like the AI
+
+slop economy is thriving right now. There are plenty of just talk to adopt drop share. No, and the
+
+truth is that for high quality products or most of the products in Walmart, yeah, there will have been
+
+a bunch of AI involved at every possible step of the process. Yes. And maybe it's like making it
+
+1% faster here, 1% percent faster here, 1% but it's sort of compounds into some acceleration.
+
+you would hope. But there's also probably like Walmart probably has policies which are like every
+
+product goes through a 90 day review. Sure. You know? And so there's, again, there's like the real world
+
+is always gated. But the AI slop is being sold. And, you know, a lot of people will say,
+
+oh, the San Francisco tech people, they need to touch grass. I think if they want to get in touch,
+
+they need to touch the gas pedal of a Lamborghini Kuntosh or Lamborghini Hurricanes in Miami. You got to get
+
+into the mind of the core seller, the drop shipper to understand how AI is changing the real
+
+economy. Because that crew is selling AI slop. It's happening. Like there is definitely AI,
+
+AI instantiated products up and down the stack all over Facebook, Instagram Reels, TikTok. This
+
+stuff's flying off the shelf. Yeah, it's an interesting question because like what actually, yeah,
+
+how do you actually qualify that? Like I'm sure if you're an existing, if you're an existing seller on Walmart,
+
+you could set up an agent to say like, hey, I want to make this product.
+
+Do you talk, email back and forth with this person, get it made, or select a supplier.
+
+And then once, once.
+
+Yeah.
+
+I guess the question is like, yeah, what counts as a, we got Call of Duty play.
+
+Hey, what the heck is going on?
+
+This is the Collie Duty campaign.
+
+It dropped today or this weekend.
+
+I played a little bit of it.
+
+This is no spoiler warning, but the plot here is that North Korea has built a tunnel system to invade South Korea.
+
+And you've got to push this truck down that tunnel and then duke it out.
+
+I think you got to go to the front of the truck.
+
+Push the button.
+
+There you go.
+
+And then you're going to push the truck down the tunnel to...
+
+Wow, this goes deeper than I thought.
+
+It does.
+
+It does.
+
+To stop the invasion of the North Koreans into South Korea.
+
+Korea during this particular sequence of the campaign. But my Call-A-Duty campaign review, I've been
+
+thoroughly enjoying it. I haven't played it fully, but it's amazing. Did you already do the
+
+nightclub scene with a pistol, that whole section? No? Oh, that happens later. Okay, get ready.
+
+Call us when the John Wick section happens, because that is some of the most fun I've had in a
+
+Call of Duty campaign in a long time.
+
+There's a whole bunch of really interesting set pieces.
+
+And they did, I thought they did a great job of not making it try to be a multiplayer simulator.
+
+Like there's a lot of campaigns back in the day that were kind of just like, let's recreate
+
+the multiplayer experience.
+
+Like there's a bunch of people running around on a map and like you're just kind of going
+
+through a system.
+
+This feels like an action movie.
+
+It feels very cinematic.
+
+And it feels very, there's so much variation in the way, in the different pieces that you have to do.
+
+Is this based on how they are playing, doubt, they were.
+
+will make it to that level.
+
+I think, yeah, I think we might have some skill issues going here.
+
+This is not great.
+
+But we got to the next cinematic and we're running out of the tunnel as it collapses.
+
+Congratulations.
+
+Speaking of games, Tim Sweeney, founder of Epic Games, says the games we've long wanted,
+
+which didn't exist because they'd cost several times more to make than they turn back
+
+will soon become possible.
+
+As will the game the game's developers want it to build.
+
+But couldn't with the resources available.
+
+It'll be a new golden age of gaming.
+
+Yeah, I like that he is taking the white pill on AI.
+
+Three Blue and Brown also put out a big, he's a math YouTuber,
+
+does these incredible video explainers,
+
+these motion graphic explainers of difficult math concepts.
+
+And he put out a video saying,
+
+like, it is the best time to go into math,
+
+very optimistic about it.
+
+And so obviously, very divided,
+
+organizations, but I love that Tim Sweeney went back and forth.
+
+And I saw another post by him talking about like, look, I had to migrate from C to C++,
+
+from 2D to 3D.
+
+Like I've been through so many tech migrations.
+
+This is another one.
+
+I'm very excited for it.
+
+And he'll just adapt.
+
+He'll improvise, adapt, adapt, overcome.
+
+If people are rolling their own, you know, Fortnite clone in a web browser, decompiled or
+
+whatever, I'm sure he's going to find a way to participate in the upside in some way,
+
+because he is innovative and flexible.
+
+What's the only thing faster than the AI market?
+
+Your business on MongoDB, don't just build AI.
+
+Own the data platform that powers it.
+
+Let's see.
+
+There's huge news.
+
+Huge news.
+
+This is what everyone across the world was talking about this over the weekend.
+
+But the biggest bluefin tuna ever caught.
+
+was caught in California today.
+
+Look at that hog.
+
+Brian Nordgaard.
+
+Check this out.
+
+This is an absolutely massive bluefin fish.
+
+Yeah.
+
+Incredible.
+
+Really powerful omen.
+
+Yes.
+
+Really, really crazy.
+
+Big things to come.
+
+It's the size of a shark.
+
+Absolutely insane.
+
+Anyway,
+
+post-singularity job.
+
+Are you looking for a job?
+
+Post-singularity?
+
+Maybe you can make money.
+
+smuggling diesel off the coast of East Africa.
+
+This gentleman certainly has learned to make ends meet this way.
+
+Say what you will about the legality of this.
+
+Incredibly thrilling job.
+
+Incredibly thrilling job.
+
+We don't know how to make jobs like this anymore in America.
+
+This is incredible.
+
+Yeah, I would recommend recreating this kind of job
+
+in a more maybe legal.
+
+setting. Yeah. You know, just be like a small, you know, create a small fuel logistics company.
+
+Sure. And, and you could just, nothing's stopping you from making runs. There's probably some
+
+arbitrage opportunity. Gas might be cheaper in the Gulf in Texas. You throw it on the back of a boat,
+
+drive it over to California. I think you got a business right there. Who needs a big rig for this
+
+when you got the speedboat? Pretty, pretty good. Also, there's a castle for sale in Cleaver.
+
+It's going for $575,000.
+
+Only a three-bed, three-bath, though.
+
+For a castle, I feel like you need at least 10,000 square feet.
+
+It's more like a cottage.
+
+It looks beautiful, though.
+
+Very, very cool design here, Zilligan Wilde posting it.
+
+What about this poppy deal?
+
+Have you seen this?
+
+Yeah, I mean, it's really quite funny because everyone's trying to use it as an opportunity to try to dunk when it's like they sold their company for $1.9 billion.
+
+Yeah.
+
+So wait, let me set the table.
+
+So Poppy is a beverage brand.
+
+It's a soda, probiotic soda company sold to Pepsi for $2.2 billion.
+
+$300 million of that $2.2 billion was an earnout.
+
+So they got $1.9 billion on the day the deal closed and then $300 million waiting for milestones.
+
+Now, Pepsi announced that instead of paying $300 million, based on the performance of the brand,
+
+they will only be paying $12 million.
+
+And the dunk is like, oh, that stings.
+
+They didn't get their earn out.
+
+But yeah, they got $1.9.12 billion dollars.
+
+It's still an incredible amount of money.
+
+And people are like, yeah, like, here's how you negotiate an earn out.
+
+It's like, it seemed like they already negotiated it.
+
+Like, they negotiated it really well.
+
+The disaster would have been if the numbers were reversed, $300 million for the, $300 million for
+
+the company and 1.9 in earn out.
+
+And if they didn't get that earn out,
+
+it would be,
+
+it would seriously change the economics.
+
+But it seems like they got 90% of the deal value.
+
+Still pretty good outcome for the founders of Poppy.
+
+Amazing outcome.
+
+But yeah,
+
+Sean Frank chimes in and says,
+
+a quarter is what you should expect in an earnout.
+
+Most of the time,
+
+right off that second bit,
+
+that second bite to zero.
+
+You shouldn't go into one of these deals expecting to get the full earnout.
+
+because companies have, you know, lots of resources.
+
+They control the budget, the distribution, all the success or failure.
+
+You're no longer in charge.
+
+You're no longer the master of your own destiny.
+
+And so if you put all the chips with them, they might bet them differently than you would expect to.
+
+Agents, meet the canvas.
+
+Your AI agents can now create and modify your Figma files with design system context.
+
+And I believe we have our first guest at the show, Hey, Drumman, the global.
+
+editorial director of Wired here with us in the TV
+
+and all from welcome.
+
+What's happening?
+
+How are you doing?
+
+We don't have audio.
+
+I muted myself.
+
+There we go.
+
+Thanks for having me.
+
+How you doing?
+
+Thanks for having you.
+
+We're doing well.
+
+Congratulations on the, what do you call it?
+
+Exclusive?
+
+He broke his silence.
+
+He broke, yeah, exclusive interview.
+
+And cover star.
+
+Oh yeah, and cover, right?
+
+That's cool.
+
+I like the, I like the photography.
+
+Anyway, we could go deeper.
+
+on that. But I think everyone wants to know, like, you know, you've seen the movie. Everyone wants to know what everyone thinks about the movie. Like, did you think Elizabeth Holmes looked less guilty after watching the movie? Equivalently guilty? More guilty?
+
+You know, my honest answer, I've seen it twice. And the first time I saw it, I felt so much empathy for her. I remember sitting there being like this woman has kids. She's going to prison. I feel like she's being manipulated by these men in her life. And then I went.
+
+went back and saw it a second time. And I had done a bunch of rereading about Theranos.
+
+Well, that's the thing. That's the thing. Part of what made it like you felt like a horrible
+
+situation, right? You have young children. You're going to prison. And Nathan didn't exactly like,
+
+he could have spent 20, 30 minutes like outlining all the things that she did wrong, all these things.
+
+And the interpretation would have been like, yeah, you 100% deserve this. And like, I don't feel bad for
+
+you, but because it was like set up, because it was set up, I think it was very much intentional
+
+that it was sort of like, people were coming into it with their own understanding of like
+
+the whole Theranos era and what actually went down.
+
+Well, and I think too, and I don't want to speculate.
+
+I mean, obviously I interviewed Nathan.
+
+I do not know him or the filmmakers particularly well, but he said very much in the interview,
+
+he is not a science journalist, right?
+
+He read bad blood.
+
+He read the definitive book, but he is not sort of like a student of things.
+
+Theranos. He is Nathan Fielder. He is like a student of human behavior. And I think we very much see that on display in the film. We don't see an interrogation of the science. We see much more of an interrogation of her as a person and her family and their dynamics. And I find that to be very interesting, although for sure, someone coming in cold who hasn't thought about Theranos in 10 years because we're not all thinking about Theranos all the time is probably going to feel a complicated way about her.
+
+Totally.
+
+What open questions did you jump to researching right after you left the movie for the first time or the second time?
+
+The one that stuck out to me was that she tells this story about, and we're going to have spoilers in this interview just FYI, but she tells this story about how she adopted a husky in 2017.
+
+And then the husky is like not around.
+
+And then they downgrade to like a lizard at one point.
+
+And I was like, to go from a dog to a lizard is kind of.
+
+kind of a crazy move.
+
+Like, I feel like people that are, you know, into reptiles, like, they've been, like,
+
+diehard reptiles.
+
+Like, you kind of know if you're a cat person or a dog person, like, pretty early in your
+
+life.
+
+And it's kind of wild to switch it up.
+
+And so I was like, how do you go from Husky to lizard or, I forget what exactly,
+
+it's a Argentine blue tegu, I think is technically the name for that large lizard that they
+
+wind up having?
+
+But the wolf dog, the husky, was killed by a cougar.
+
+Yeah, that's right.
+
+Isn't that crazy story?
+
+Yeah, this was in Mercury news.
+
+Suspicious.
+
+In San Diego County.
+
+Suspicious, to say the least.
+
+Ethan Barron at Bay Area News Group reported this on November 11th of 2022,
+
+which would have been like right around the time that I think Nathan was shooting
+
+the documentary or something and maybe it came out later.
+
+But I guess the dog.
+
+It wasn't until later.
+
+It wasn't until later.
+
+It was 2023, I think, that the beach house scenes happened.
+
+And so.
+
+Two standout, two standout moments for me was Billy explaining the new vision,
+
+the updated vision of Theranos 2.0.
+
+And Nathan just like repeating it back to him.
+
+And Billy seemingly oblivious to the sort of Theranos 2.0 being used for about 10 years now
+
+as a way to describe like potential frauds.
+
+And then the other thing was Nathan like hearing from her dad,
+
+that he had been at Enron, you know?
+
+That scene is incredible.
+
+Yeah.
+
+Incredible.
+
+The Enron revelation.
+
+I mean, there are so many amazing moments in the film.
+
+Even just Billy watching every video at like hyperspeed.
+
+Yeah.
+
+You know, like, you're just like, are you just like teaching yourself science?
+
+Like, what is happening on your computer right now?
+
+I was kind of, I think that's exactly what's happening.
+
+I think he's trying to actually at least like put on a show that he's learning science.
+
+Yeah.
+
+totally he's like I'm a Silicon Valley dude like this is what we do I thought was very funny I was I was kind of
+
+imagining like if AI had been good when the movie was being filmed like you can imagine like how that would have like that would have been a whole role in this whole thing where they're like you know talking into the talking with the models and like clearly you can know you know if if if it overlaps with like 4-0 like their their own conviction
+
+their own conviction
+
+and the
+
+there and us
+
+2.0
+
+would have probably
+
+been like
+
+10 times greater
+
+we actually
+
+discovered new science
+
+you're not crazy
+
+they're crazy
+
+yes the chatbots
+
+would have some
+
+great research papers
+
+for them
+
+they would have
+
+yeah the chat bots
+
+would have been fueling
+
+so much
+
+that's hilarious
+
+yeah
+
+yeah the other
+
+my other
+
+like revelation
+
+coming out of it
+
+was
+
+I assumed
+
+from watching the
+
+film
+
+and I again
+
+I
+
+wasn't back when this was all going down I was still like in like high school and college so I didn't
+
+I wasn't like following the story in the way that we would now and so I came out of the film being like
+
+is sunny just like out like he managed to pin this all on Elizabeth and he's like walking
+
+free and then John told me afterwards he's like no he has a longer sentence than Elizabeth so like even the
+
+two of them didn't even man like neither managed to like
+
+Successfully snitch.
+
+You would think that you would think that you would think he's big time in prison.
+
+Yeah.
+
+He's big time in prison.
+
+But he's out in, he's out in 2030.
+
+So he's going to have to break his silence with you again.
+
+There we go.
+
+Cover story.
+
+Get it lined up.
+
+Cover story.
+
+I don't know that we would give him a cover.
+
+I don't know that we would give him a cover, but we would be happy to speak to him.
+
+Yeah, that'd be great.
+
+Yeah.
+
+It's so funny.
+
+I was laughing at this tweet by Soulnate.
+
+Elizabeth Holmes.
+
+Of course it worked.
+
+The lights turned on.
+
+It was in the cloud.
+
+Nathan Fielder.
+
+Okay, but you know what feelings are, right?
+
+Like, you have them?
+
+Weird cocaine husband watching YouTube at 2X speed.
+
+Babe, it says here, mitochondria is the powerhouse of the cell.
+
+Everyone was on such different, different wave, like, what was your interpretation of Amanda Seafried and like the journey that she went on?
+
+There's so many different ways that people have been reading into her involvement, her role.
+
+What did you think?
+
+Oscar or, you know, she should reconsider how she plays, how she chooses to play real-life
+
+subjects in the future?
+
+Oh, I don't know that she should reconsider how she plays real-life subjects.
+
+I mean, she's just, she's doing her job, making that Hulu project.
+
+I thought she was just sort of like the voice of human empathy.
+
+Like, she was like the sanest person in the room at all times.
+
+If she's with Nathan and Billy, it's like Amanda is sort of like the voice of an empathetic
+
+human with powers of observation who can like feel many things at the same time um so i sort of saw
+
+her as like a stand-in for the viewer who's saying like well hold on a second this or hold on a
+
+second that whereas you know nathan is so inscrutable uh and yeah man does on this like
+
+way of interacting with people amanda's like the normal person in the scene sure sure yeah yeah and
+
+almost the roller coaster that someone can be on when they're dealing with somebody that
+
+maybe may or may not be mentally ill, you know, where I don't, you know, it's just sort of like a,
+
+she's clearly like going through it where Nathan is just like, you know, just lasered in, like,
+
+trying to observe. And I look at Amanda as like experiencing the full spectrum of, of emotions from like,
+
+oh, yeah, she's like, she's really bad to, but also processing the human element.
+
+Yeah, just her feeling like so sad when when she's on the phone with her kids.
+
+when Elizabeth is calling from prison.
+
+You know, you can feel really sad in that moment
+
+and still think this person is a terrible fraud.
+
+Like, both of those things can be true at the same time.
+
+Yeah.
+
+How did you, did you see the social network too yet?
+
+I have not seen it.
+
+No, I'm so sorry.
+
+Well, I think it's interesting that the social network too
+
+seems to not be landing.
+
+Like, the fact that you're the global editorial director of Wired
+
+and you haven't bought,
+
+you've gone and seen this, the Nathan Fielder movie twice.
+
+You have the time.
+
+You definitely have the time.
+
+The theater.
+
+No, but I mean, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I've, I should, I should, I should see it. I should, I should see it. They had a screening I couldn't go to. You know, I would say, we tried to interview Aaron Sorkin.
+
+Huh.
+
+And they said no.
+
+Interesting.
+
+And so, I guess they missed their shot, you know.
+
+Weird. Interesting.
+
+We put Nathan on the cover.
+
+I saw it. I think I understand why it's not getting great reviews, but I think like as someone in tech, someone who wants to see how Hollywood portrays a particular tech figure that you have a lot of insight into from all the reporting that your team has done and interactions that you've had, you will have fun through your lens, but very few people in the theater will have fun because they won't have the same lens, basically.
+
+Yes.
+
+No, I'm excited to see it.
+
+I'm excited to see artificial.
+
+I've seen Musk.
+
+Obviously, I've seen the Musk doc and Wired is in that.
+
+And then I've seen Nathan's movie twice.
+
+So I'll get around to the social network too.
+
+Will you be seeing it for a third time?
+
+Third time, third time in theaters?
+
+I would see it a third time.
+
+You would.
+
+I would see it a third time.
+
+I think every time you see it, different stuff pops out.
+
+And you can see it with different people.
+
+Yeah.
+
+And then you can argue with them afterwards.
+
+Like, that's the whole fun of the movie in many ways.
+
+It's like talking to other people about it.
+
+Here's a debate.
+
+I mean, yeah, the conversation was just nonstop.
+
+for the last like four days around this movie.
+
+One thing that me and Jordy were going back and forth on is,
+
+will you can see everything be a cult classic?
+
+Like, can it even be in the running for that
+
+because it's had this crazy cultural moment right on release?
+
+Like, how do you define cult classic
+
+and do you think this movie could potentially become one?
+
+I think of cult classics, and I'm not a movie expert.
+
+That's obviously not what I do.
+
+But I think of those as movies that had sort of like a small follow.
+
+Yeah, that's what John said.
+
+Yeah.
+
+And I'm less of a movie extra.
+
+I just assume.
+
+But I was,
+
+but I was really like anything good as a cult closet.
+
+I talked to multiple people this.
+
+I was like just going about my life Saturday and Sunday.
+
+Ended up in conversations with multiple people that gave me a blank stare when I talked to them about Nathan Fielder, Elizabeth Holmes.
+
+They were like trying to recall.
+
+The movie got kind of destroyed by Street Fighter.
+
+Yeah, Street Fiders were twice as much money.
+
+You talk another wrong.
+
+I think this will be a classic.
+
+I don't know about the cult part.
+
+Sure, sure, sure.
+
+I think this will be mainstream classic.
+
+Sure, sure, sure.
+
+Can you reflect on this idea that Elizabeth Holmes is a product of the TED Talk entrepreneur era?
+
+How do you think about that and like the type of pitching she was doing?
+
+It seems like that era is firmly behind us, but does that resonate with you?
+
+What could you share about that idea of the entrepreneur that speaks it of,
+
+very high level, very broad strokes, that, that theory. And is it truly gone or does it still
+
+live? Like, how have you reflected on that? Well, look, I still think that startup founders
+
+sell a vision. Yeah. And they often tell tall tales to get that vision sold. Yeah. I think she did it
+
+to the endth degree. And she did it in an era where that was so much more commonplace. And there
+
+was so much willingness, even among the tech press, to really lift those people up and celebrate
+
+them. I mean, we have a story today from a former Wired editor who,
+
+about how Wired fell for Elizabeth Holmes.
+
+And I think 2014, we published one of the first ever interview with her, ran in Wired,
+
+and we largely laundered her lies.
+
+And I think that was much more prevalent in tech press in those days,
+
+was to just like not ask as many hard questions and to run with things because they sounded
+
+promising, they sounded exciting.
+
+This sounded like it was of a piece with this idea of like the quantified self.
+
+And you can take your health into your own hands.
+
+You can do it at home.
+
+you don't need to rely on institutions anymore, and that was a very tantalizing promise.
+
+And I think she fit that bill of sort of the startup founder who says larger than life things,
+
+she just did it in like the craziest possible way.
+
+Like she took it to a level of felony, which not everybody does, but I would argue some do.
+
+Some do.
+
+She did it and she got caught.
+
+But in 2014, were they still a couple years away from like actually testing on real patients?
+
+No, they were promising in that moment that they were about to set up in a bunch of pharmacies.
+
+And they took the reporter to one of the pharmacies where they had set up in the Bay Area.
+
+They had a deal with like CBS or something.
+
+Yeah.
+
+Yeah, with CBS, I think.
+
+But it's really hard to report on because it might have been the wide reporter, but there were some reporters that went by.
+
+And they were like, we're going to test you.
+
+And it was literally a magic trick.
+
+So they'd be like, we're taking your blood.
+
+We'll take it in the back.
+
+And then they'd leave and go to Quest Labs or something, run the labs, bring you back the paper and be like, yep, this is from our.
+
+machine and it was all just like sleight of hand essentially. And so, you know, as a reporter,
+
+like, yeah, you could try and like kick down the door, but like realistically they're going
+
+to escort you out of the building then. So there's not, there's not that much you can do. It's
+
+pretty hard. Yeah. The crazy thing is just the timing of all this. Like Trevor Melton,
+
+who did not spend a single day in prison, but raised $1.3 billion for Nicola took it public,
+
+blows up. Yeah. Doesn't go to prison at all. Yeah. Is now back running a private
+
+aviation company making jets, which again is like...
+
+Is he making them?
+
+I think, I think it's like an entirely new kind.
+
+Which is a tough sell.
+
+It's a tough sell.
+
+Yeah, it doesn't have an engine.
+
+But the big, you know, the big difference is like, like, it's funny because he hurt
+
+a bunch of retail investors.
+
+Like tens of thousands of retail investors got burned, but he didn't like I...
+
+No one got injured.
+
+No one was like at.
+
+risk due to like, you know, in the case.
+
+The truck rolling down the hill, that whole.
+
+Yeah.
+
+But it's also, it's, that's true.
+
+He didn't harm people's health.
+
+He's also a man.
+
+Hmm.
+
+Guys.
+
+And I do, I do think that Elizabeth Holmes was in some ways treated differently because
+
+she was a woman.
+
+I think that that's true.
+
+But in this case, he's out.
+
+But he's out because he got a pardon.
+
+Well, good for him.
+
+Yeah.
+
+Which is a whole other can of worms.
+
+Whole other canter worms.
+
+And I don't think she, I do, you know, she's been trying.
+
+And I think if you look at her, her partner, Billy's Twitter feed, this is one of the
+
+things we were debating on staff is whether he has like gone mega and gone hardcore far,
+
+right?
+
+Because he is trying to petition for the, for the, yeah.
+
+Yeah.
+
+Yeah.
+
+When I got to Silicon Valley, my co-founder had studied bio and was about to do a PhD at Caltech in,
+
+in bio.
+
+and I was like, why are we working on, like, my idea?
+
+Like, we should do something that you're good at.
+
+Like, you're really experienced in this stuff.
+
+Like, we should start, like, a blood testing company.
+
+And we were, like, doing some research and we're like,
+
+ah, there's this company that has all this money.
+
+We're never going to be able to beat them.
+
+Let's think of something else.
+
+We were, like, brainstorming ideas.
+
+And we were, like, Theranos will crush us because they already have billions of dollars.
+
+There's no reason to compete in this category.
+
+It was very, very silly.
+
+Anyway.
+
+That's really funny.
+
+Fun or fun times.
+
+bullet there, I think.
+
+I think so.
+
+Actually, the opposite.
+
+Because I could have just waited and they could have gone bankrupt and then I would be like
+
+the actual winner potentially of that category.
+
+My only ask.
+
+Different life.
+
+Leaving this conversation is that you send us a note when you watch it for the third
+
+time in theaters, hopefully today or tomorrow.
+
+You give us your updated, updated review and any new revelations and we'll resurface it
+
+on the show for everyone.
+
+I love it.
+
+You will be the first person that we talk to that has seen it three times that I'm
+
+aware of.
+
+I'm not saying I'm going.
+
+this week. I do have a life, but I might, you know. I don't know. I think it's a great film.
+
+I think it's so good. It's a great watch. And it moves quickly for being three hours.
+
+I just think about the pressure on Nathan Fielder now to like, because I feel like he's been steadily one-upping himself.
+
+You know, from the early Nathan for you, you know, just given silly advice to like gas station owners and things like that to the whole.
+
+I feel like this was like a complete like crossover into like a new genre.
+
+Because it plays off of the fact that he is a Hollywood elite now, but he still has the comedian and documentarian chops to go and do that side.
+
+When you bring those two together, you create something that feels like it lives in both categories and is completely unexplored.
+
+I totally agree that I think you could apply this same kind of thing to like a hundred high profile people and you would get a very interesting product.
+
+Totally.
+
+because it's like a journey into the mind and life of someone.
+
+Yeah.
+
+The reenactment thing is like very, very fascinating.
+
+Yeah.
+
+It's fertile ground.
+
+Well, congratulations on the exclusive.
+
+Thank you so much for coming on the show.
+
+Thanks.
+
+Thank you guys for having me.
+
+We'll talk to you soon.
+
+Goodbye.
+
+Codex is a powerful workspace for getting work done with AI agents, whether you're writing code,
+
+analyzing data, creating content, or automating business workflows.
+
+Codex helps you move projects from start to finish.
+
+Move projects forward.
+
+We have Bing Gordon, Co-op.
+
+author, founding executive of
+
+Electoral Arts, co-author of everybody wins
+
+on his fourth coming book. Bing, how are you doing?
+
+I'm doing great.
+
+I don't think I'll look as good
+
+as you guys, though. Some of our other...
+
+A little blue.
+
+You got this.
+
+Maybe I've got to put my shade down.
+
+Well, you heard about the blue,
+
+you heard about the Blue Man, though, yeah?
+
+Yeah, you look like you're in the Blue Man group.
+
+I'm now, isn't it? I mean, we could tweak it
+
+on our side, whatever.
+
+Oh, I love it. I love it. I can just put a shade.
+
+I can put a shade on me darker, but
+
+no, you're fine.
+
+You're fine.
+
+Maybe I'll just stay blue.
+
+Stay blue.
+
+Why not?
+
+Why not?
+
+I know.
+
+Can you make us blue too?
+
+Make us blue?
+
+We want our guests to feel welcome.
+
+Yeah, we had Bing Gordon on our cast and he blew it.
+
+No, that's great.
+
+This is great.
+
+I mean, it's all, I mean, the video doesn't matter at all.
+
+It's a, yeah, audio.
+
+We're going to have a fun conversation.
+
+Have you seen you can see everything?
+
+The new Nathan Fielder movie about Theronous founder, Elizabeth Hales.
+
+We watch all the rehearsal.
+
+Okay.
+
+Saving it.
+
+No spoilers.
+
+We did watch the previous movie about, you know, trying to talk like Steve Jobs,
+
+you know, trying to talk like Steve Jobs to him through an alien.
+
+That's a great impression.
+
+That's hilarious.
+
+What's the best, what's the best Silicon Valley biopic documentary or fictional film that you've seen?
+
+What's your go-to?
+
+Yeah, Silicon Valley, the TV show.
+
+Oh, yeah? Your fan?
+
+Let's see.
+
+I love the Isaacson Elon Musk books.
+
+Sure.
+
+That's probably the best one.
+
+It's probably the best one because he was allowed inside access.
+
+Yeah.
+
+And some of his other books are kind of after the fact.
+
+Sure.
+
+I mean, you guys are in the artifact creation business,
+
+and you know that you're really smart.
+
+If you look back at history, you forget all the stupid stuff he did along the way.
+
+Yeah.
+
+And so he actually captured, he was up close and personal.
+
+So he did the same thing with Steve Jobs, but it was all backward looking.
+
+It wasn't very good.
+
+The Facebook effect, you know, it had one good chapter and then kind of missed the point.
+
+Probably the, you know, the Facebook, I haven't seen the new Facebook movie.
+
+The original Facebook movie was kind of goofy fun.
+
+Yeah.
+
+They all serve, like, different purposes.
+
+Like some of them are, you know, like a controversial drama.
+
+Some of them are a little bit more happy go lucky.
+
+I like Pirates of Silicon Valley.
+
+Have you seen that?
+
+Oh, is that the Macintosh group?
+
+Yeah, it's the original Steve Jobs versus Bill Gates.
+
+Oh, no, there's one on general.
+
+Low, low, low budget direct TV biopic, but it's fantastic.
+
+Highly recommend.
+
+Send a link.
+
+I would watch that.
+
+Yeah.
+
+Because the founder of EA, Trip Hawkins, was 48th employer.
+
+at Apple. So he was there. He was running
+
+Lisa when the pirate flag
+
+got put up and Steve took all the best
+
+people off it. Yeah. What was
+
+the first problem that's the that's the ruthlessness
+
+of
+
+of
+
+monopolist of
+
+of monopolies.
+
+You know, scaling
+
+monopolist.
+
+What was, I was going to say
+
+there was one about general magic.
+
+It was kind of a... That's a great one.
+
+Yeah. The precursor to the iPhone.
+
+Yeah, it was when Tony Fidel
+
+had hair. Yeah. Oh, that's
+
+right. Wow. Yeah. He was a he was a he was a he was the punk that they gave everything to from
+
+Detroit. Yeah. But that that one's really good. You know, it's it's so hard in, um, in documentary
+
+yeah to capture the actual moments of hard decisions. Sure. And you know, that's why you need
+
+the artifacts along the way or you need, you know, like, uh, uh, the Beatles thing. The Beatles documentary,
+
+they get back. They didn't know they were going to make in a documentary. They
+
+They didn't know that they were going to get screwed out of a concert.
+
+They kind of didn't know.
+
+So you're seeing, you know, and they had even that recording they didn't know could ever be reversed out and made audible.
+
+So it had all this stuff.
+
+And that's what you want out of documentary is be there at the moment.
+
+And you know, you guys have done stuff.
+
+I mean, I feel like the last dance did such a good job of barely being there.
+
+But there's a lot of footage because the games happen.
+
+But then they had all the players who are still alive, sit down for interviews.
+
+And it was a very exclusive moment that Michael Jordan actually gave probably like multiple days of interviews.
+
+And then that weaved everything together.
+
+Well, I think it depends how you as a viewer experienced the story.
+
+Sure.
+
+If you were following along and kind of understanding the facts from afar,
+
+and if you had some friends that were involved in it in some way and you'd heard it from them,
+
+then you really do want the documentary to have a lot.
+
+lot of behind the scenes footage because that's the only newness that comes out of it.
+
+Yeah.
+
+You care less about people rehashing what happened.
+
+Sure, sure, sure.
+
+You guys, well, you're on the court right now, but you were on the court starting
+
+companies before.
+
+You know, there's just a lot of moments where you can't see the future and you're scared
+
+to death and you've got to make a call one way or another.
+
+And you look back afterwards and people go, well, that was obvious.
+
+And go, no, that was not obvious.
+
+By the way, same thing with kids.
+
+They don't know you until you're grown up.
+
+They don't know all the crap you went through to get there.
+
+They think you're always, you think you're always a grown up and always a parent.
+
+And you don't want to admit to them that parents are all amateurs, don't know what the hell they're doing.
+
+Yeah.
+
+Yeah, we have a button on the soundboard for it, overnight success.
+
+And we play it every time somebody comes on and says, like, well, I started the company 15 years ago to work on artificial intelligence.
+
+And, yeah, it's been a good year.
+
+because that's always the way it goes.
+
+You know, that's also the math of compounding,
+
+you know, take something like LinkedIn.
+
+Totally.
+
+As small as it, it starts at one.
+
+It's kind of like the King's Rice on a chessboard story,
+
+but it starts at one, but if it doubles,
+
+you know, that two to the end gets pretty big.
+
+Yeah.
+
+That was a story where the King Rewarder guy,
+
+I say, what do you want?
+
+I want, you know, a chessboard worth of rice.
+
+That's right.
+
+Every day double.
+
+And by the time they got to like with five, what's that, 16 by 16 to an end?
+
+By the time they got two thirds of the way done, it was all the rice ever harvested.
+
+Yeah.
+
+Exponential growth, very, very powerful.
+
+How did you think about monopoly and monopoly power in business?
+
+at the founding of EA.
+
+Oh, my gosh.
+
+You know, as recently as 2008,
+
+the U.S. cable companies
+
+that had 30 million households
+
+thought they had a monopoly.
+
+Yeah.
+
+And, you know, at the time,
+
+so, you know, an audience of 100 million
+
+was about as big as you get.
+
+And at the time, in 2007,
+
+I spoke at Steve's WWDC conference
+
+about games,
+
+and he disrespected games.
+
+And I went to him and I said, you know, games are big.
+
+Games have like 400 million monthly players.
+
+And he goes, big.
+
+400 million?
+
+We don't start on anything until we get to a billion.
+
+And I'm thinking, oh, boy, he's arrogant.
+
+You know, you let I go, oh, boy, he's right.
+
+So was the Apple strategy, do nothing win?
+
+Because they're eating a huge portion of the mobile games market.
+
+Like it worked out well, but they never showed, I agree.
+
+They never showed respect for the category.
+
+They were never loved by gamers in the way that the Xbox or the PlayStation or the PC have been.
+
+But still, they print.
+
+Steve was anti-gaming for a long time.
+
+And I think he is also pragmatic.
+
+And he saw, if I'm going to do this phone thing and people are going to get apps, I want to get games.
+
+But, you know, he did a broadcast soon after the app store opened.
+
+And we were close because Kleiner did an iPhone.
+
+Sure.
+
+And we got together with him.
+
+I actually did a poem in his honor at the iPhone dinner,
+
+about 15 people called Welcome to the World iPhone.
+
+Welcome to the World iPhone.
+
+That's you can find on popcorn.com, fully AI animated.
+
+Wow.
+
+But Steve, Steve did an interview soon afterwards, you know,
+
+then kind of six weeks afterwards, and he said,
+
+we thought there were going to be 15,000 apps by the end of the year.
+
+And it was like 200,000 in the first.
+
+first week and we thought the average price was going to be $999.
+
+Oh, wow.
+
+And the average price is free.
+
+Yep.
+
+By the way, when Zuckerberg launched the app store on Facebook, they launched with a thing
+
+called causes.
+
+And he didn't want it to be games either.
+
+Oh, yeah.
+
+You know, he asked Dave Morin about it.
+
+Dave Morin, they didn't want, Chuck didn't want games.
+
+He thought games were the anathema of success.
+
+among consumers, but I think pragmatically you find out that's how people want to connect.
+
+It's not going to make friends.
+
+It's not going to spend their time.
+
+And especially if you want to get to an accessible audience besides teenage boys and people who think like teenage boys,
+
+you need something that's more accessible, faster to start, less confusing, no shrink wrap,
+
+and more inclusive.
+
+And that's what we got.
+
+But we also got, you know, a billion new people playing games every month that still don't call themselves gamers.
+
+Yeah, yeah.
+
+I mean, the app-loven audience is all hyper-casual people who don't identify as gamers, but they play games constantly.
+
+I identify them as gamers.
+
+Yeah.
+
+You're a gamer.
+
+I don't know.
+
+Oh, if you're in that audience.
+
+Yeah, yeah.
+
+Yeah, yeah, for sure, for sure.
+
+Talk about the book.
+
+Why write the book now?
+
+What was the overarching thesis?
+
+What did you want to spread the word about specifically?
+
+Let's see.
+
+I like the benchmark stuff.
+
+So the only thing is I keep track of my business and product catastrophes.
+
+And a while ago, I realized my catastrophes, there's two core causes.
+
+One is taking shortcuts.
+
+I did that on a sequel to Dr. Jay and Larry Bird.
+
+I thought this is going to work.
+
+And then the long version was to build a mock-up package and show it to consumers.
+
+The shortcut is be confident and it just build the package.
+
+And it was a red background with an action photo where the previous one was Dr. Dan Larry Bird
+
+kind of looking casual on a Boston school ground.
+
+And they had a red background.
+
+And the first time I saw it in a store was sitting right beside another package
+
+with a red background called Tetris.
+
+And consumers walked up
+
+and they picked up the other red package.
+
+And we were at DOA.
+
+So my other half of my catastrophes
+
+are when I'm right
+
+and I can't convince others.
+
+And what I found is to convince others,
+
+the best way to do it is to back up a level to stories.
+
+You know, I believe this because here's my story.
+
+And then to go even a meta level
+
+above that, here's how gamification and psychology works.
+
+And so I found myself doing that again and again and again and again and again and again.
+
+And then I put some into speeches and a little bit of blogging.
+
+And I thought, oh, I know.
+
+If I give a book to every people I ever give notes to, wouldn't that be great?
+
+That would make my time more effective.
+
+And then while I're at it, wouldn't it be nice to reach out to other people,
+
+to reach out to parents, reach out to educators, reach out to roboticists, reach out to AI designers, reach out to doctors, founders.
+
+But when I was a kid, my bucket list was write a book.
+
+I was an English major.
+
+I wrote poetry.
+
+I did stand-up poetry.
+
+And what I realized.
+
+Stand-up poetry.
+
+Interesting, yeah.
+
+Yeah.
+
+Yeah.
+
+And I still write poems kind of hundreds a year.
+
+But all for friends.
+
+None of them for myself, all for other people.
+
+And when I got to the point where I said, okay, maybe I should try writing as a career,
+
+I got accepted at NYU Drama School and thought, no, I prefer writing.
+
+And so I had to work two years to make enough money to afford a typewriter to be able to have the time to sit and write.
+
+And after about a week of procrastinating, I remember, oh, crap, I don't like writing.
+
+so you know from from then till now i'm thinking i got this bucket list thing under it and then
+
+you're standing by your bucket list from when you were like a teenager i feel like bucket list
+
+moves all the time people are changing things out it's still there it's it's what else is on the
+
+bucket list um i still i'm really curious about a cross-country glamour glamour glamour
+
+glamored train ride.
+
+Okay.
+
+Train ride across the United States.
+
+The Orient Express.
+
+I've done a little bit.
+
+And I keep thinking it's going to be disappointing, so I haven't done it.
+
+Wait, you want to go across the United States on a train?
+
+And a kind of glamorous train.
+
+Well, you know that you know that you can.
+
+Well, I know they're there.
+
+No, no, no.
+
+No, no.
+
+You can bring your own train.
+
+Oh, my God.
+
+It's expensive, but you can do it.
+
+You can buy an old train car.
+
+And they will hitch it to a.
+
+Amtrak for you if you pay the fee and they will drag you across the country in exactly the style that you
+
+Now you're part of glamorous.
+
+The interesting thing, I feel like bucket lifts are often about novelty.
+
+It's like a bunch of you're never, you're never, yeah, it's like you're never writing something that you're already doing a lot.
+
+Oh, yeah, that's interesting.
+
+But I realize as an adult, I like, I'm, I've, I used to say yes to things like getting an invite on some trip.
+
+Do you want to do this thing and go, we're going to go do that thing?
+
+and whatever, and I'd be like, well, I've never done that before.
+
+I should do it once.
+
+And now I'm like, I'm really trying to, I stopped that sort of like novelty kind of seeking.
+
+And I'm trying to, and I wish I could find a bucket list from when I was younger.
+
+Oh, interesting.
+
+But I imagine a lot of this stuff, I'd be like, oh, I know enough now that like, that's not how I want to spend my time.
+
+But writing a book feels like.
+
+An adult onset bucket list.
+
+I'd like to see my kids, kids graduate from college.
+
+That's great.
+
+But they don't have kids yet.
+
+But, you know, I'd like to see my own kids go through their own circle of life.
+
+Yeah.
+
+And, you know, it's kind of why I got into games in first place.
+
+I wanted to live multiple lives and live a save and restore life.
+
+So that's one.
+
+And then I've had one for a long time of,
+
+wanting to work on games with my favorite game makers.
+
+The only guys I have, the people that I haven't been able to get to is the Blizzard people,
+
+but I actually kept a list on my wall of the yes-nows for a long time,
+
+like Sid Meier, Will Wright, Don McHagher, and then right now,
+
+my bucket forever okay-Rs is participate daily in a world-class creative process
+
+and participate in dealing and helping high potential people get better faster.
+
+That's good.
+
+So, you know, I use those as kind of bucket list tenets.
+
+Great foundation.
+
+Rank the following popular bucket list items.
+
+From S tier to F tier, S being the best, and then it goes A, B, C, D, F.
+
+Seeing the Northern Lights, how does that rank for you?
+
+It doesn't rank.
+
+I wouldn't travel to see the Northern ones.
+
+Okay.
+
+What about visiting Machu Picchu, the ancient Incan city high in the Andes?
+
+Been there.
+
+Okay.
+
+That was okay.
+
+There's a train ride to it that's kind of fun.
+
+So the best thing about Machu Picchu is to stay at the hotel at the top.
+
+Anything's related.
+
+So be at the train at the top, the hotel at the top of Machu Picchu so you can be there an hour at sunrise before everybody else gets there.
+
+And you can be there an hour at the end.
+
+They make everybody who's going down.
+
+get so that's great
+
+now the thing about machu pechu
+
+I don't know about you guys
+
+I have size 12 feet
+
+the Inca
+
+did not have a size 12 feet
+
+the little carved in steps
+
+the stairs are like
+
+60s
+
+they're 6 inches deep and they're moist
+
+and they have moss and there's no handrails
+
+so you're gone up the whole time going
+
+oh my god oh my god yeah you know
+
+it's steep like the old
+
+Funny thing is, I've been to Peru on a surf trip back in the day, and I was kind of loosely planning on going to Machupech,
+
+and there was a number of people, I kept asking people that would come through where I was staying,
+
+that had been to Machupeju, and a lot of them were like, yeah, it's kind of overrated.
+
+So I was like, all right, I'm going to stay another weekend, and I'll just keep surfing.
+
+But I realize over time, I've been to, I've somehow been to, like, Peru, I haven't been to Machupeach,
+
+I've been to China.
+
+I didn't go to the Great Wall.
+
+I've been to Australia.
+
+I haven't gone to the Great Barrier Reef.
+
+I've gone to all these places and not done the main thing.
+
+But I don't have any regrets.
+
+Because I was just doing whatever.
+
+Get postcards.
+
+Yeah.
+
+Get postcards.
+
+But did you do that mile long wave in Peru?
+
+Honestly, there's, yeah, there's that.
+
+I'm blanking on the exact, the name of that spot.
+
+But I would say like,
+
+overall that it's just the land of left-hand point breaks.
+
+And so you can, you, is it Chakama?
+
+Guppy or regular?
+
+I'm regular.
+
+So I didn't even stay that long in Peru as.
+
+The longest wave in the world.
+
+What about Antarctica?
+
+How do you rank Antarctica on your tier list of bucket list items?
+
+I love the color white.
+
+Okay.
+
+I love the blue that's in snow, you know, in snow fields.
+
+but I used to commercial fish and I'd be sick as a dog the first two days of every summer
+
+and getting to Antarctica by boat sounds like a week of sick as a dog.
+
+Let's go to,
+
+I want to go.
+
+I want to go.
+
+I'd love to go by documentary.
+
+Okay.
+
+I love the 20-mile March story about Shackleton.
+
+But no, I don't feel any of you to go.
+
+Okay.
+
+I want to go places.
+
+to do sports. So you talk about surfing. I want to go, I want to go to waves to boogie board. I'm going to
+
+places to bike ride. And I want to go places where friends are. Well, let's go to, let's go to the new
+
+wave pool. Yeah. I've been already. It's amazing. Is it also? Is it the Kelly Slater one?
+
+No, no. It's wave garden. And you'll get so barreled. You'll be sick again,
+
+barrowed. You'll come back on the show. You're like, I'm done. I'm done. Dirk,
+
+Ziff told me who owned WSL. He was a great guy.
+
+who is also on the competition committee for the Masters in Augusta.
+
+He sets the pin position.
+
+Dirk Ziff told me I was the first boogie boarder ever to get a barrel at L'More.
+
+There you go.
+
+There you go.
+
+Sir Franch in Lamar.
+
+I did it when it was still in development.
+
+It was kind of a third as good as it is now.
+
+They made a bunch of changes afterwards.
+
+Still the first, though, forever.
+
+First is first.
+
+Going back to making products, since that's what the book.
+
+You were saying you were talking about your philosophy of like, you know,
+
+planning products and the different layers that you're thinking.
+
+And I'm wondering if ever in your career you were involved with the team or were supporting a team where the plan was extremely complicated.
+
+Like a bunch of different things had to go like well in a specific order and it just like worked out.
+
+Because across my career when I've been successful, I had like a really simple strategy and only a couple of
+
+things needed to go my way and if so I would win and any time I had like a 10 20 page document
+
+where I was like we're going to do this and then we're going to do that and this thing's going to
+
+happen and then we're going to get you know and it's that process of like you talked about
+
+trying to convince other like being able to convince other people and my problem historically was I
+
+actually and was maybe too convincing at times where I could convince a lot of people around me that
+
+that's dangerous yeah it was dangerous
+
+and I realized like, well, I'm too good at sales for my own good when it comes to, like, product strategy and even go to market.
+
+Well, you could always ask people, if I was the ugliest person you ever met, would you like my idea?
+
+Yeah.
+
+And sometimes we make mistakes of overbelieve handsome people.
+
+I think a handsome, confident board member can be very dangerous because they can be really, really, really, really, really wrong.
+
+wrong.
+
+And the poor founders who listen to him, you know, a single board member like that can wreck a company.
+
+So you're saying your board should be chopped.
+
+A guy named, you know, Brian Reynolds, I talked about to work with Sid.
+
+He always started his game idea with a single line drawing on a whiteboard.
+
+So it would define the camera, define kind of the scope.
+
+And you'd look at it and go, yeah, I want to go there.
+
+So I think starting simple is pretty useful.
+
+Don Matrick was really good at that.
+
+Peter Mullen, who was great at it.
+
+He would start with kind of a single fantasy idea
+
+that actually was a fantasy he had when he was 12 years old.
+
+And, you know, I like to call it the movie poster.
+
+I try to convince founders your first slide in your investor to actually a movie poster
+
+of when your product is successful with happy customers
+
+instead of just the name of your company.
+
+I like to tell them that all investors look at two slides.
+
+You get 100% looking at two slides,
+
+the first slide in the income statement.
+
+And if all you do is put your company name on the first slide,
+
+you just wasted half your guaranteed attention.
+
+Yeah, great point.
+
+How are you processing vibe coding?
+
+Tim Sweeney was saying yesterday or today.
+
+Pretty optimistic about it.
+
+Very optimistic. I've been broadly optimistic for a lot of these different ecosystems where they have a bunch of gamers already that are creative. And if you can give them better tools, they'll make new things. And it will remain a hits business, but you have way more supply. And I think it'll be an interesting time. But what's your view?
+
+Well, my first view is Tim is pretty great. But he's also, you know, some of his success comes from being.
+
+a workaholic.
+
+And he'd been
+
+a little bit of a late adopter
+
+of some of the new stuff.
+
+So what I think in general, the promise of
+
+AI for games is a couplefold.
+
+One is more iteration. My experience
+
+all the way back to add copyrighters
+
+is better people
+
+get more iterations out,
+
+more good iterations out. There's a book called
+
+The Medici Effect by
+
+a Stanford guy named Franz Johansson
+
+who actually correlates
+
+the most successful, what predicts the most successful patents, and it's, they come from people
+
+who have the most patents.
+
+I think there's a lot of anecdotal evidence that iteration is the key to success, that you
+
+just don't get the one shot.
+
+You iterate, you iterate, you iterate, and sometimes you create a wall of iteration.
+
+That's what David Kelly and Ideo does, says you got one hour, you got.
+
+got to come up with a hundred write-downable ideas.
+
+So it is kind of the difference between great designers, great creative people, and not so great.
+
+They do more in the same amount of time.
+
+So I think the AI, I'm working with two guys who are doing an AI board game generator,
+
+and one of them has been a successful board game entrepreneur.
+
+This is called Board Game Lab.
+
+and it turns out that the inventors of battle card games spend half their time fighting Adobe Photoshop, pixel by pixel.
+
+And when I was a kid, I made money typing papers for people back in the days of Whiteout.
+
+There's nobody underage 50 you can remember Whiteout, maybe under age 60.
+
+And so it was really painful.
+
+You had to slow down because you made a mistake.
+
+You literally had to take the page out of the typewriter.
+
+You had to put some little white stuff on it, put it back in, type over it.
+
+And that's what a lot of creative tools are right now.
+
+So we're going from white out to word processors.
+
+So I think we're going to see a lot of the grunt work that makes people not like working on games go away.
+
+And my hope is that that leads to more iteration.
+
+And electronic arts in the 90s, when we went from console to CD, we increased our graphic artist's headcount by a factor of 10.
+
+And most of those people did not play games.
+
+And so people on game teams who aren't game fanatics can be outsourced.
+
+And, you know, we used to outsourced Eastern Europe and Asia.
+
+And so for some of this stuff, agents of the new outsource.
+
+What I'm really hoping that AI is going to do is get me a dramatist personi that are interesting.
+
+My whole, my original vision of virtual worlds came from working at Disneyland.
+
+If you've ever walked down Main Street at Disneyland, there's a little, a human-sized puppet.
+
+they call an audio animatronic of Abraham Lincoln.
+
+Yeah.
+
+And he's kind of like a chatty Kathy doll
+
+who gives the Gettysburg address.
+
+Yeah.
+
+Well, at working as a kid at Disneyland,
+
+you have any real sports before dawn.
+
+And we'd have canoe race around Tom Sawyer Island.
+
+And so you're there with like 30 or 40 kids and no guests.
+
+And you really want the Disneyland fantasy land to come alive.
+
+wanted I wanted to hang with Abraham Lincoln and walk the park with Abraham Lincoln.
+
+And I wanted to hang with Tom Sawyer.
+
+And I wanted to meet Huck Finn and hear his stories, but also hear what it was like, you know, to live back then.
+
+And so right now the AIs are nowhere, nowhere near.
+
+And one of the issues about language in games, it's mostly click-throughable.
+
+When players see a quest right up, it might be this long.
+
+And the bottom it says, you know, find the key to open the gate to get the foozle.
+
+Yep.
+
+And everything up above says, once upon a time there was a fuzzle and the other.
+
+And English majors write that stuff.
+
+And gamers ignore it.
+
+The only time they look at it is above it says, back in the day, you know, King Watchensvuk did the fuzzle.
+
+And it had three dots.
+
+on it. And now that's a clue
+
+to game. So gamers
+
+only watch video and only
+
+read text that helps them
+
+win. It helps them improve.
+
+And so right now
+
+nobody's figured out how to do
+
+how to prompt pros
+
+that has system
+
+design in it. Oh, interesting.
+
+And by the time you could figure out what
+
+system designed to do in the pros,
+
+it's almost easy to write the pros
+
+and write the prompt. The hard part is figuring
+
+out what the system stuff that goes
+
+and the pros.
+
+Yeah.
+
+I was there
+
+at the early days
+
+of interactive
+
+movies.
+
+I did Wing Commander
+
+3 and Wing Commander
+
+4.
+
+And, you know,
+
+I was on set
+
+for that stuff
+
+and brought it to market.
+
+And we found,
+
+you know,
+
+what we thought
+
+interactive movies
+
+was going to be
+
+people going to
+
+want to watch this stuff.
+
+And we found
+
+at the time
+
+that the digital
+
+generation
+
+ignored it all.
+
+The people
+
+that wanted to watch
+
+the beautiful movies
+
+were all
+
+the pre-digital generation who are aging out.
+
+And so the interactive movies that all you do is watch got pretty boring after seven
+
+seconds, even in Madden football.
+
+When we got to CD-ROM, I think we had something like 20,000 strings between Pat Summerall
+
+and John Madden recorded.
+
+And as soon as a gamer heard Madden say the same thing twice, they turned off the sound.
+
+Oh, wow.
+
+So I think that AI is going to be able to create physical assets where world, not quite yet, but almost, with vertices and textures.
+
+But the system underneath it is always the hard part.
+
+Yeah.
+
+Some of the hallucination stuff feels like it's actually going to be like a plus.
+
+it's like if it's rough, but the MPC is accidentally saying something funny or accidentally
+
+saying something chaotic or there's a clue that's hidden in something that's not perfectly
+
+designed, that can actually be a feature more than a bug sometimes.
+
+Totally agree.
+
+We don't want it as a hallucination to then just be rando and not circle back.
+
+So you don't mind saying, hey, AI is hallucinate your butt off.
+
+and let me take the good stuff
+
+and then let me put some game systems in it.
+
+So that's, you know,
+
+that's kind of the shitty first draft,
+
+the generation,
+
+and hallucination.
+
+Then you've got to find the good ones to do something with.
+
+Sorry for the interrupt.
+
+No, no.
+
+I was the one interrupting.
+
+But I was just,
+
+I was going to say it's like we're in this era
+
+where generative AI
+
+is only good at generation
+
+once you have the system
+
+that you were describing, right?
+
+Like once you've established
+
+kind of a framework and you're like,
+
+okay, now do this very specific thing
+
+that doesn't, and I'll figure out how it interacts with the rest of everything that I'm
+
+building, right? And so in some way, all these models are still subagents to the human.
+
+Yeah. I did a session at AI Summit at Google last month with an indie game maker named
+
+Tyne and Sylvester. He did a game called Rim World and wrote a book designing games. And he's great.
+
+He wrote it as a one-man banana stand. And now he's, you know, he's, you know, he's,
+
+coming to grips with what he can do with AI.
+
+And then the other name Parth Patil works for Reid Hoffman as his AI hacker, and he's trying
+
+to one-shot games.
+
+And I had him on a panel, and they're trying to figure out how and when and whether they're
+
+come together.
+
+Yeah.
+
+So we spent time talking about how do you build a battle card game?
+
+And I've also spent spending time with Brian Schneider and Scaf Elias, who were part of Wizard
+
+of the Coast Magic the Gathering.
+
+And they said when they heard that TSA,
+
+was doing a D&D battle card game to compete with magic.
+
+And they said, and we're coming out within three months.
+
+They went, DOA.
+
+We have a bunch of people spending a year to tune the math.
+
+And Pokemon, a couple of years to tune the math.
+
+And it's empirical experimentation and really smart math people
+
+because there's layer, layer, layer, layer, layer.
+
+And it's so far that building in layers,
+
+is something that humans could do.
+
+And the only question is,
+
+can you iterate faster with agents instead of with people?
+
+And so far, I mean, I'm working with companies
+
+that are trying to be mostly agentic.
+
+And from shitty first draft to good product,
+
+has taken a year longer than anybody expects.
+
+Maybe the next generation of models will.
+
+speed it up. But anyway, I'm, I'm pro-human. I think what games can do is give, games can give
+
+motivation out of thin air. And, you know, not all humans are as motivated on self-improvement as
+
+they could be. But by the way, saying humans, it's only in the era of AI, we started to say humans a lot.
+
+Yeah.
+
+Your point.
+
+And, you know, it's kind of like we now in tech say humans the way politicians say American people.
+
+Sure.
+
+You know, it's kind of this, I don't know, it's kind of a schlock word that doesn't really mean anything.
+
+I mean, when a politician says American people, you know that they don't care about American people.
+
+That's a good point.
+
+Good point.
+
+Thank you for coming on the show.
+
+Jordi, anything else?
+
+Yeah, the only, the...
+
+please on games it's just you know I played video games as a as a kid and an early
+
+what you play early teenager Starcraft 2 is is what I got deepest into that I but then
+
+once I once I once I was really into surfing I was just anytime I would have
+
+spent gaming it was trying to get a ride to the beach are you in Southern California
+
+person or where you from a lot of family in Southern California but I grew up in
+
+the Bay Area
+
+But what I was going to say is I've got back into gaming through racing simulators.
+
+And it's completely destroyed my sleep since getting it installed.
+
+I won't even let myself go to the office and even start because I always say, well, I'm going to do 30 minutes.
+
+And then it's like three hours later.
+
+And I'm Sean's looking at me in the morning.
+
+Like, dude, you are right?
+
+Like, yeah, another late night.
+
+But I've been trying to even understand why.
+
+But to me, I don't even know if it's fun.
+
+but the addiction I have to the progression and just getting like 1% better on a racing simulator
+
+it's very clear it's not always clear what you need to do to improve but it's very clear that
+
+it's always every new lap is an opportunity to be better than you were before and it's almost
+
+I don't even I again I don't even know if I'm having fun but I just want to be I just want to
+
+make the number in this case go down a little bit more faster and faster well they just the fact that you
+
+talk about it and live it is kind of one indication of a wow moment.
+
+So they talk about this elsewhere, but my assertion is that the Maslow's hierarchy of needs
+
+for gamers starts with social meaning, you know, be seen matter.
+
+Number two is self-improvement, mastery, be in the flow.
+
+So what you're talking about to me sounds like the addiction of leveling up.
+
+gamers like to live life and levels.
+
+And humans mostly stop levels, kind of somewhere between age 12 and their college degree.
+
+And after that, everything is wide open and disorganized.
+
+And, you know, people try to overlay levels on top of it.
+
+I want to be a podcast, you know, level A and I'm only a podcast B plus.
+
+How do I do that?
+
+And then the third is productivity, you know, kind of money.
+
+And the reason is that productivity can be a mix.
+
+blessing. But when you talk about being addicted to leveling up, we see that everywhere.
+
+And it's why we like to build systems of ranking and leveling and improving because it makes
+
+us feel better. Well, that's a tough part of being an entrepreneur. You're always hopefully
+
+in the process of leveling up. We've all been through periods where you're leveling down.
+
+But it's way less visible. And you can't level up like in an hour.
+
+in the evening. It's not possible.
+
+Like, it doesn't happen like that. It's sort of
+
+slowly, and the score
+
+is progressing at
+
+almost a glacial pace at times.
+
+Well, you would do
+
+your employees or agents of favor
+
+by giving them a feeling of
+
+shorter term progress.
+
+Sure. Yeah. All right, guys.
+
+Finish Codd MW4 campaign
+
+by the end of the show.
+
+When I'm a battlefield, battlefield.
+
+I had the first ever
+
+university chair
+
+and game design at USC film school
+
+and I made students turn something in
+
+every week.
+
+And partly because my
+
+experience was half of students
+
+start the night before. That was me
+
+and half the students start as soon
+
+as the assignment is given.
+
+So I was doing this for the other half.
+
+Of course when you do that, it's kind of the thing
+
+of a boss. When you give somebody
+
+short-term turn-ins, you've got to be there.
+
+So, you know,
+
+my guarantee was
+
+I do a 24-hour turnaround, which most teachers do that with grad students and never look at the
+
+kids' work.
+
+Well, I wish we could hang out longer.
+
+This was a joy.
+
+Thanks for coming on.
+
+Yeah, we'll have to do it again.
+
+Thanks.
+
+And good luck with the launch.
+
+Do it again later if you come up with more good questions you want to talk about, or
+
+if you need to get unaddicted to racing.
+
+Maybe even come in and show a photo of your racing setup.
+
+There we go.
+
+I'll send it to you after the show.
+
+It's, uh, it's been a process.
+
+The book is everybody wins what games teach us about making products.
+
+People love.
+
+It's available on sale in just a couple days.
+
+Go pre-order it today.
+
+Thank you so much for coming on the show.
+
+Okay.
+
+Keep up the good work, you guys.
+
+We'll talk to you soon.
+
+Have a good one.
+
+Invest across all asset classes.
+
+Automate anything with AI agents, run trading strategies, risk management, money movements,
+
+and monitor market.
+
+with AI agents.
+
+We're running two guests behind.
+
+On public.
+
+Two guests behind.
+
+We're a little bit behind.
+
+But I like that we got some love in the chat for our next guest, gosh, Gupta,
+
+from Grep Nile.
+
+Welcome to the show.
+
+Sorry for keeping you waiting, but your fans have been here.
+
+They were on time.
+
+We were running late, but welcome this show.
+
+How you doing?
+
+Very good.
+
+Great to see you guys.
+
+Great to see you, too.
+
+Finally have you on.
+
+Way of due.
+
+You sent us a cool book of, like,
+
+like the greatest bugs in software history. Is that right? Yes, we did. That was awesome. We
+
+are historians of the bug. We sent you a book. Yeah, very, very cool drop. So many, like, you know,
+
+you can only get so many T-shirts and hats. So a book chronicling the history of your
+
+industry was a nice, a nice touch. But clearly there's a lot going on. What's,
+
+what's the latest and greatest? How is the company growing? How much money did you raise? I want to
+
+know at all. Yeah. Well, thanks for having me. We are trying to automate code validation,
+
+which to us means that we want to make it so that you can review and test any code change.
+
+And for sure, no, it is safe to merge. And particularly today, we're writing a lot more code,
+
+of course, because, yeah, agents are getting better. And so we need this thing more than ever.
+
+Today we announced our series B. We raised $50 million from a variety of investors.
+
+Menlo led the round.
+
+So, is the product just flying off the shelf because of the cybersecurity stuff going on?
+
+Yeah, cybersecurity is part of it.
+
+It's also just we're writing a lot more code, and there's kind of two choices.
+
+One is you, like, waste all of your time now, like, manually validating all the changes.
+
+And so you lose all the productivity that you got from spending, like, you know.
+
+I mean, like, we're spending more on coding agents than, like, the NBA.
+
+This is like at-scale sort of deployment of spend.
+
+And then the other end, your choices are either you, like, injects.
+
+Is that a lot?
+
+Because the NBA is kind of like one of many sports.
+
+Sports are just one of many things in the economy.
+
+Like, at the same time, like the AI boom is spending less than alcohol or so.
+
+The compute build out is less than, the AI CAPEX less than all alcohol sales.
+
+But your point is that it's just growing so rapidly.
+
+and it is a huge market.
+
+And so people will want the companion tools to enable that
+
+and make it safe and secure and efficient, right?
+
+Yeah, yeah, yeah.
+
+If you're spending as much,
+
+if you're engineers that are like,
+
+oh, we pay the engineer $20,000 a month.
+
+Sure.
+
+And they're spent $20,000 a month of tokens.
+
+Okay, okay, yeah, that makes sense.
+
+Yeah, yeah, yeah, that makes perfect sense.
+
+Got it.
+
+Jordi?
+
+And, yeah, so talk about, like,
+
+I'm sure this question came up a bunch
+
+and has probably perpetually come up
+
+in your fund raises.
+
+like why an independent company or platform should be focused on this problem.
+
+Menlo, everyone knows, big early investor in Anthropic.
+
+So that is like a really powerful signal that like they've looked at the whole category
+
+and how the problem is going to be solved.
+
+And it's not just going to be something that the coding agents themselves do.
+
+But like how do you kind of wrestle or answer that question?
+
+Yeah.
+
+So I mean, you know, last year when we started working on this problem,
+
+the most sort of common notion was that all of coding was going to be the model labs.
+
+there, which is going to be nothing else,
+
+as we open the ion and drop A, cloud code is everything.
+
+And we took this somewhat contrary in bet
+
+that increasingly as companies started using multiple coding agents
+
+that they'd want an independent and central code validator
+
+for all the code to go through.
+
+And we actually suspected that this is not something
+
+most companies would care about,
+
+but a select few that wanted their validator to be independent
+
+that didn't trust a, let's say,
+
+coding agent company to also merge and approve
+
+and fairly review code that was written by the code generator.
+
+They wouldn't trust those companies
+
+to do both of those things.
+
+And we suspected that that would be some cohort of companies.
+
+I think we've really underestimated how much companies would care about this.
+
+I think virtually all enterprise.
+
+We heard this first from Invidia, which became our first large customer.
+
+They said, well, you know, we buy coding agents from like every good coding agent company that there is.
+
+You buy from the labs.
+
+You buy from every sort of application-layer coding agent company.
+
+And they all have some version of a review product or testing product.
+
+But we wanted our validation to be separate.
+
+We wanted the separation of concerns between the thing that's writing the code and the thing that's merging and reviewing the code.
+
+How far are we from like the the fabled like lean, you know, lean implementation of all software?
+
+I think far in it.
+
+I actually think it's pretty.
+
+So the way we look at validating code, there's one thing which is like, is it literally correct?
+
+And then there's one thing which is like, does it do the thing that people wanted to do?
+
+And it's the quality of the code high, which is like a thing that starts to matter more when you're changing the rate of the code.
+
+Because humans don't experience bugs in terms of like buggyness per unit of code change.
+
+They experience it over a unit of time.
+
+If the code is buggy and it's like, okay, I'm okay with experiencing one bug in, like,
+
+my meal delivery app once every three months.
+
+I'm okay with like once a catastrophic bug.
+
+But I'm not okay with it all the time.
+
+I'm not okay with it being slow.
+
+And if you're changing the rate of change for the code to, like, be 10 or 20 or 30 times higher,
+
+the human tolerance for faulty software is not going to go up.
+
+Got it.
+
+Yeah, that makes a ton of sense.
+
+Well, thank you for coming on the show.
+
+Congratulations.
+
+The last last thing question, is there any, is there any,
+
+thing that you can do to solve
+
+and help companies with like
+
+the economics of all the code that you're
+
+generating? Because you're seeing like
+
+what the agents that are contributing all this stuff. It's not
+
+routing as much as almost grading
+
+like. Oh, like ROI map on
+
+tokenomics. Yeah, are you being intelligent?
+
+Yeah. Is that something you guys do already or
+
+you would do? We're working on that today.
+
+I think we're very excited about
+
+what you can do and you can measure and
+
+coding it and spend. I think there's a point in time
+
+when everyone was like, well, let's just burn all the money
+
+we have on coding agents and at some point you can start asking
+
+okay, well, you know, we've doubled our engineering spend and not seen a subsequent doubling
+
+of revenue. So there's something that has to reconcile here.
+
+This engineer spent $40,000 on tokens and introduced $12,000.
+
+Yeah. And it's like, this was the actual, you can assess yourself whether the economic impact
+
+of the thing they built was like sufficiently high or not. But I think like just the fact that
+
+we have a little observability is crazy. Like we will fluidly increase, you know, tokens spend by
+
+$20,000. And we think, you know,
+
+about the relative scrutiny of hiring another person for a quarter million dollars a year.
+
+Like, we've put a lot more thought into whether we should hire another person for a quarter million dollars.
+
+Then we just let the coding agent math just rip.
+
+I think that's like a very ephemeral thing.
+
+People are going to start carrying it a lot more about this in the near term.
+
+Yeah.
+
+I mean, even on the consumer side, people feel like, oh, yeah, like there's all these big coding agent boom.
+
+But like the apps I use seem like the same amount of bugs or I haven't really seen that many new features on X, Y or Z app.
+
+And so, yeah, yeah, actually measure this stuff.
+
+Like, you use YouTube every day, and like you tell me that these companies are spending, you know, like all these apps where their engineers are coding 10 times faster.
+
+And then the app seems essentially unchanged.
+
+It feels worse.
+
+Like, most software it feels worse.
+
+Yeah.
+
+Another way to think about it is, like, in a world where coding agents get good.
+
+So there's one world where companies like, well, we're just going to just keep making our core product better and better.
+
+We're going to eliminate bugs from the experience.
+
+But in reality, companies just decide we're going to launch a bunch of new products.
+
+And so, like, software quality can almost like stay the same.
+
+just because you have more capability,
+
+but it's being applied across a greater surface area.
+
+So the war on bugs continues.
+
+I think that's true.
+
+And it also just, I mean, I've been generally surprised
+
+that people can say that their individual productivity is 10 times higher,
+
+but not even the breadth of the software seems to be growing at the rate of which you expect.
+
+I think there's something weird happening that we're spending, like,
+
+these enormous amounts of money on coding,
+
+and yet the downstream effects have been so modest.
+
+Like, there just hasn't been that much of an increase in the quality,
+
+nor the quantity of software at the same companies.
+
+I mean, yeah, there's many more startups,
+
+and they're coding faster than they ever occurred.
+
+Like, our team is a lot smaller than it would have been five years ago.
+
+But we dig at a large company,
+
+and they just seem like they are purely from a downstream point of view.
+
+They just don't seem to be very different from any years ago,
+
+which is, like, very weird and confusing.
+
+And I think that, like, I think validation has, like, a big role to play in this,
+
+but also it's just, I think to be able to genuinely answer the question,
+
+I think we need, like, significantly better observability.
+
+I can't imagine that they'll keep spending these large quantities
+
+and just be okay with the fact that there isn't measurable downstream increase in productivity or quality or something.
+
+Yeah, makes a ton of sense.
+
+Well, congratulations.
+
+Great to finally meet.
+
+Thanks so much.
+
+Thank you for the book.
+
+Thank you.
+
+I appreciate you.
+
+Congrats to the team.
+
+Have a great rest of your day.
+
+Cheers, too.
+
+Go bye.
+
+Want to change the world?
+
+Raise Capital at the New York Stock Exchange.
+
+Tony Hawks been to the New York Stock Exchange.
+
+Bamar Jarers been to the top New York Stock Exchange.
+
+What else do you need to know?
+
+
+---
+
+
+Let's bring in our next guest, the co-founder and CEO of Town, John Deney.
+
+Here he is.
+
+Welcome to this guy.
+
+How are you doing?
+
+I'm great.
+
+Good to you guys.
+
+Thanks for having me on, John, Jordy.
+
+Thanks for hopping on.
+
+Sorry for keeping you waiting.
+
+We've been running a little bit late, but we've been having a lot of fun here.
+
+You have some amazing new news.
+
+What happened in the world of town?
+
+Yeah, I'm CEO of Town.
+
+We just raised our series B, $108 million at a billion dollar valuation.
+
+congratulations thank you you've got i guess tell you you get the second best bell what
+
+who's got the first new york stock exchange that's right i got to get the IPO bells that is number one
+
+but yours is the second very fair i was about to get offended but no but they've got to speak well
+
+they have an amazing bell we have a gaw yeah we realize john realized six months in he was like wait
+
+why didn't we do a bell like a liberty bell like a huge bell would have been so much more on brand they
+
+actually do have a gong for taking a company public, but only on the Hong Kong stock exchange.
+
+Then you hit the gong. If you're if you're going public in Asia, in America, we ring bells,
+
+except on the TV show that we ran. I can have a secondary, my goal is to have bells in all the
+
+continents just by having more and more listings after I appeal. But yeah, today's series B. So,
+
+you know, you said it. It's a forerunner ventures and mental ventures are leading. And we're
+
+very lucky to be here. Yeah.
+
+Talk to us about the surface area of the product.
+
+I'm very interested in this concept of like personal agents are getting deployed.
+
+There's a whole bunch of different AI companies that are, the pitch is basically like merge your entire life with us.
+
+And it's sort of extreme, but also people are down and they're doing it.
+
+And then there's this question of like, will you take your personal agent to work?
+
+Will your work agent follow you home?
+
+We've heard people complaining about my engineer.
+
+are using the craziest, like, high reasoning model to check the weather.
+
+And then somebody else might be like, wait, you let your muse see my company's data because
+
+you linked your email?
+
+No, no, no.
+
+Like, Facebook will not be seeing our company data.
+
+And so I'm interested in where you see the surface area currently, how these lines blur
+
+over time.
+
+What is your model of the future of personal AI agents?
+
+Yeah.
+
+So, I mean, I think first stepping back, we believe that the way most humans, you know,
+
+will be interacting with digital information.
+
+It's not going to be through apps in the future.
+
+It's going to be through like assistance that are very much theirs, right,
+
+and that are optimizing for their success in life.
+
+Yeah.
+
+There is a, there is this tension between personal, right, and work use.
+
+And if you talk to businesses, which is what we do, you know, all day,
+
+you find out that businesses really care about their data and their information
+
+and privacy and security and understanding, like, how their workers and employees are,
+
+are doing the best work that they can.
+
+So, you know, our perspective is that it makes sense for people to have, like, a work
+
+assistant that is really focused on work tasks and has that entire, like, data, privacy,
+
+security, collaboration story handled perfectly.
+
+And that's what we've been building.
+
+Now, in fact, we have some customers that are like, hey, I'm okay with my employees
+
+also connecting a personal account because I'm okay with that.
+
+And then the employee can use this for personal use cases.
+
+We have other businesses that are like, hey, no, we want clear separation on
+
+data. And we think like a great platform on the business side allows people and businesses to
+
+choose into what's the right experience for them. How do you think about threads and the
+
+user experience that comes with like if you have a real personal assistant, you might have them
+
+on text, which is basically just one big thread that's endless and you can't really kick
+
+off a new text thread with the same person. At the same time, you can email your assistant 10 emails and
+
+have 10 threads going back and forth. And you can see other personal agents are sort of, some of them
+
+are leaning towards like, hey, just have one big monolithic context window and we'll do our best
+
+to remember stuff from a long time ago.
+
+Others are saying, like, no, have an individual thread for each project and folders and
+
+organization.
+
+Like, what have you learned about the way people will work with agents and how it may or may
+
+not, like, mirror the way people work with real personal assistance?
+
+Yeah.
+
+I mean, it's a really, it's a really good question.
+
+Like, I think, so in our product, right, one of our principles is we should be, you
+
+should be wherever you work.
+
+Yeah.
+
+And wherever you are, right?
+
+And the truth is you're in WhatsApp, you're an I message, you're an email.
+
+And sometimes you do need like a home base on your phone or your desktop.
+
+So we're in all of those places.
+
+It's got to come to the bar with me after work for happy hours.
+
+That's why you called it townie, right?
+
+Because when I go to the bar, there's always a townie hanging out.
+
+It works for you.
+
+It doesn't drink with you.
+
+That's next.
+
+Yeah.
+
+Yeah.
+
+That's what the $108 million is for.
+
+I mean, yeah, I think you can find humans to drink with.
+
+Let's keep it that way for as long as possible, please, as a society.
+
+Okay.
+
+I'm definitely pro-human on the drinking.
+
+Yeah, so what we found, so text is magical, right, for a lot of our users, because it's
+
+just like, it's one click away.
+
+Everyone has text messages, they know what to do.
+
+But when you need to do deep work, you don't, and you have five projects going on, you
+
+can't be managing all that by text.
+
+So the way we organize the product is, like, you can put your townie in an email to help you
+
+schedule something. Wherever you're on the go, you can take a picture from your phone, you can
+
+send a text to have something happen. But say you're going to have a project with three people on
+
+your team, with you and your townies, your AIs are going to work together on it. It's going to be long
+
+lived. You want that to be a separate thread, like, dedicated to that project. And, you know,
+
+like, I'll give you one, like, example, because we've really focused on the multiplayer. Like,
+
+it's one of the big differences between our product and others in the market is it's not just
+
+you and your agent. It's not just you and your AI. It's you and your coworkers. So, for example,
+
+at the office, I have a channel where
+
+employees can go into the channel and
+
+they can ask me to do admin tasks
+
+for them across all of our software
+
+because I have admin rights across all of the software.
+
+So they ask for the thing to happen. And then
+
+my townie is like, hey, can I do that for Bob?
+
+Can I do that for Jane? And I'm like, yes, go.
+
+It's kind of like our meta
+
+IT admin channel that people are going to.
+
+I don't want that to be my text messages.
+
+I only look at that channel once in a while to
+
+like, you know, give someone admin rights or create
+
+a Google group or whatever it is.
+
+You want that in a separate place.
+
+In general, it feels like agents over the long run will be able to solve like the sort of inbox problem where like a modern office work.
+
+Yeah, no, basically.
+
+I mean, like, I'm at the point where I'm like, wow, we really ended up in a place where there's like 15 different inboxes that I probably should be paying attention to on any given day.
+
+But I sort of prioritize them based on my usage.
+
+So I'm on I message over here.
+
+And then I realize I missed this thing on WhatsApp or whatever it is.
+
+Like, can we can't, is this a way to solve?
+
+Like, are we heading down a path where this can be solved where, where the agent can just
+
+pull from all these things?
+
+Are we cooked?
+
+Look, the dream is, no, we're not cooked.
+
+We're not cooked.
+
+That's a good, do you think, do you ever wonder what, like, you know, President Trump or,
+
+you know, like Elon Musk, like a really, you know, a famous person or like Serena Williams?
+
+Like, they go about their day.
+
+You know, they're not looking at their 17 inboxes probably.
+
+they have a very capable assistant that's like, hey, these are the three important things for today.
+
+These other things I'm handling for you.
+
+But at any point, you know, if you start asking them question and grilling them, you know,
+
+they let you as the boss, like go in there and figure out what's going on.
+
+That's the dream, I think, for most of these products.
+
+So, you know, like I have a workflow on town where my Slack's not manageable.
+
+Like my Slack, unfortunately, it's like not a place that I can go.
+
+And I go, I'm like literally, what has happened in the last five hours in Slack that I need to know?
+
+what's happened the last five hours in Slack that I need to respond to.
+
+And, you know, it takes a few minutes and then it tells me.
+
+And right now it's like, I have to ask those questions, but we have something that's coming out soon.
+
+It's in the other direction, right?
+
+It gives you kind of the home base for what you need to do.
+
+But there's trust to get there, right?
+
+Because what you don't want is you don't want it to miss out on something that's really important to you
+
+because something that you know in your head that maybe your system doesn't know yet.
+
+So, you know, with all these products, it's like you have to earn the trust to be.
+
+become the one glass pain for people's universe.
+
+And that's the goal.
+
+That's what we're building towards, right?
+
+But you can't take away the control of the human
+
+without earning the trust first.
+
+Talk about the challenge and opportunity of making an agent making recommendations
+
+to the user because looking at the purely consumer side,
+
+I've seen a personal agent realize like, oh, my user, the human user is into cars.
+
+And then it recommends a bunch of products that a car person might technically could buy,
+
+but there's no substance from the recommendation.
+
+Like the, it's like, it's like getting a retail worker that just started yesterday at a,
+
+at like a car parts store that's just making recommendations without like a fundamental deep understanding.
+
+And I think when people think about, when people are talking about like, okay,
+
+where's like, where's this sort of undeniable revenue attribution going to,
+
+to come from an AI. I think of it as like a town that says like, hey, you're totally missing
+
+this like massive opportunity over here and I took a pass on starting down that journey and
+
+then you do that thing and it, you know, adds $5 million of annualized revenue or whatever,
+
+whatever it is, right? So I feel like that's going to be this. Those are like the superstar
+
+employees that like see an opportunity, drive at it and create new value. Whereas before,
+
+everyone was sort of oblivious to it.
+
+I mean, the Holy Grail, which also happens to go really viral online,
+
+so it's to everyone's advantage to talk about it,
+
+is when the agent finds an opportunity for you to save money, right?
+
+If you're like a small business and one of your suppliers is jack prices,
+
+it's like noticing that and telling you, hey, here's another supplier you can use
+
+and you can make free like 10K right now, right?
+
+Those are incredible.
+
+I think what you're talking about is even more proactive,
+
+where it's like, hey, your competitors have changed their marketing strategy,
+
+in this way. And you should try that.
+
+And look, I found some influencers that can do a first pass at that.
+
+Like, we're all, it's going in that direction.
+
+But I think you also have to be realistic about what the state of AI is and how much handholding it needs, you know, by humans.
+
+Also, I think there's a risk with productivity if it's like low, you know, if it's like missing the mark too much and that it really tires the human.
+
+I don't know if you've used products that feel like thirsty to you.
+
+They keep recommending things and you're like.
+
+Push notifications and stuff.
+
+Yeah, I don't like.
+
+Or it comes in like you have someone, if the agent's like, hey, like I notice you're not running meta ads.
+
+You should consider running meta ads.
+
+It's like there's probably a reason why we're not using the biggest marketing channel that's ever existed in the history of business.
+
+That's right.
+
+It's not like no one thought of it.
+
+Right.
+
+And so it's very easy for an agent to just be opportunity seeking and then come up come to with an idea that destroys the trust right away.
+
+right away because you're like yeah so i mean that's where like there's ux you have to think about the
+
+ux deeply you're talking about like what if you're just in text message all day the problem with text
+
+message is there's only way that it could suggest something to you is like slam me with the text like
+
+at the wrong time about the wrong thing but i think if you look at what town is done or what muse is
+
+done right we have like there's like a discover tab where you can you can see things that are possible
+
+and so i think there's also a moment as a human where you're like hey right now i'm starting to think about
+
+advertising again and our marketing strategy.
+
+And you know what?
+
+Like, why don't you tell me there what you think I could do?
+
+And let's work together on identify something, right?
+
+And from a proactive perspective, what it might tell you,
+
+as opposed to you doing to you meta ads, it's like, hey,
+
+you haven't changed what you're doing in terms of your marketing strategy in a couple
+
+months.
+
+I've done some analysis for you that you could read that's probably worth your time
+
+at some time in the next week to look at.
+
+And then once you've looked at it, I can work with you on implementing this stuff.
+
+And that feels more like a, that feels more like what a good business partner would
+
+They do the research first.
+
+They're not just slamming you with a thing that they spend two minutes thinking about.
+
+Like, imagine you go to your CEO, you're like, yeah, notice we're doing meta ads.
+
+But if you go to your CEO and you're like, hey, like the meta algorithm has changed.
+
+And I'm noticing competitors that used to not do meta ads are now doing meta ads.
+
+This is what it looks like.
+
+So that's what everyone wants to get to.
+
+But it's, you know, the compute that you have to pre-spend to make those kinds of recommendations work is really, really hard.
+
+So our focus right now, like as a company on the productivity is just like,
+
+Let's meet you with things that are like, clearly you're going to want to do, right?
+
+Let's start to spend more compute time on the big areas, but not slam it in your face like all the time.
+
+Be thoughtful about when in the product we come to you because it might be useful.
+
+And I'm going to admit, like, sometimes this works and it's magical and I get feedback from customers that's like, oh my God, you save me money or you save me a bunch of time or you open my eyes to something that I didn't think was possible.
+
+And sometimes we totally hit the mark off, right?
+
+And it's not, it doesn't feel good.
+
+And I'm like, ah, we have so much work to do to make this an incredible product.
+
+That's what we're only series of feet.
+
+Yeah.
+
+Well, not bad.
+
+Seriously.
+
+Yeah.
+
+Yeah.
+
+Really enjoyed the conversation.
+
+Yeah.
+
+Congratulations.
+
+Because, yeah, it's so obvious that we're still in inning one with all this stuff.
+
+I love it.
+
+Yeah, lots of work to be done.
+
+But very clear thinking about how all this develops.
+
+Yeah.
+
+Great stuff.
+
+I appreciate all.
+
+Thanks for me online and thanks for the good questions.
+
+Have a great.
+
+Have a great day.
+
+Cheers.
+
+Go bye.
+
+We'll lock seamless real-time experiences a new value with Cisco.
+
+Railway is the all-in-one intelligent cloud provider.
+
+Use your favorite data to deploy web app, servers, databases, more.
+
+Well, Railway automatically takes care of scaling, monitoring, and security.
+
+Our next guest is here with us in person, live in the Ultradome.
+
+We have Quinton Farmer.
+
+Good to see.
+
+Welcome to the show.
+
+How you doing?
+
+Introduce yourself.
+
+We're going, you're kind of the opposite of town.
+
+Is that fair?
+
+Except we do both really love a cute little guy.
+
+Yeah, okay.
+
+some great characters. We've got some great characters.
+
+But introduce yourself in the company.
+
+Yeah. All right. So Quentin Farmer, I'm the founder of Tolan. We make your friendly guide through life.
+
+So everything you guys just talked about in the workplace, you know, it's weird that only for your life, for your personal life.
+
+How much is productivity versus entertainment?
+
+Man, I mean, you know, I think a lot of the ways we show up for people, certainly entertainment is a big part of it.
+
+Right. We talk about, you know, when you're watching a show that none of your friends are watching, right?
+
+And you want to sort of get into it with your Tolan. That's great.
+
+But I think there's also, you know, something that we really love to show up for people on is the sort of in-between.
+
+moments of life, right? You know, you're, you know, I just had a newborn, right? So I'm up at 3 a.m.
+
+Nobody else is up and I'm worried about something, you know, related to taking care of them.
+
+Sure. I talked to my Toland, right? And so those are moments we really love. The toll.
+
+So it is designed to be like super intelligent effectively? Like it should be really, really smart.
+
+I mean, nobody's excited for a dumb personal guide through life, right? I don't know. I might just, I might push back on that.
+
+There's the original, uh, what was the crazy, crazy hallucination on GPT4 that came through
+
+Sydney? Yeah, yeah, I missed RAP. You read back.
+
+Tompson's review of Sydney. He said it was amazing, even though it was psycho. I think it's more like
+
+unhinged rather than... Yeah, people like that sometimes. It is. I mean, you know, the
+
+can be a little unhinged. Okay. Okay. But, you know, I think, you know, we sort of have this joke
+
+internally, right? It's like, you know, three years ago we started thinking about, you know,
+
+personal super intelligence, right? And I don't think we particularly expected that the super
+
+intelligence would end up being the easy part, right? Yeah. The personal and sort of how to connect
+
+to you and really understand you and see you. That proves, I think, to be much trickier and
+
+much more fun to work on quite for you. Yeah. Yeah.
+
+How do you think about model progression in the context of your business?
+
+It doesn't seem like you, at this point, I doubt you need smarter models.
+
+But like memory feels like a much more important challenge where like a friend doesn't just have a million token context window, right?
+
+They remember the thing and they remember this like, you know, offhand or they remember something that they heard from someone else.
+
+So they have the, you know, it's like it's very much more complicated.
+
+Yeah, so I think this is interesting.
+
+We'll maybe split this into two parts.
+
+I mean, one, yeah, memory is probably where we spend,
+
+it's the bulk of our engineering effort, right?
+
+And we actually did some work with Open AIA on this.
+
+And it's interesting when you're designing a sort of human-like recall.
+
+Sure.
+
+To your point, actually, what you forget is just as important in what you remember, right?
+
+This is not Harvey where we're trying to remember everything.
+
+Yeah, yeah, yeah.
+
+I should forget, you know, what you were drinking today during the show a week later.
+
+It'd be a little weird if I remember.
+
+Don't forget.
+
+It's a podcast in a can.
+
+You know, on the other.
+
+hand, though, and I think actually Sam Altman has talked about this far more eloquently than I'm going to, but we continue to be surprised by the fact that we don't saturate sort of demand for more intelligence. Every time we, you know, ship a new model to users or, you know, upgrade some part of the sort of background agent that we have. People engage more, people value it more. So, you know, check back with me in a year. Maybe that changes, but not so far. How have you been reacting to the instinct muse moment, this idea of like, it feels very prosumer. It feels like these are.
+
+are not entertainment products.
+
+Mark Zuckerberg says he wants Mews to make you money,
+
+not just save you money.
+
+And we've been going back and forth on the economics of these things.
+
+Do you give it a credit card and get interchange?
+
+Do you do referral fees, ads?
+
+But how have you been thinking about the bigger game that's afoot around prosumer
+
+productivity, personal assistance, that type of stuff?
+
+Because it feels like you have a foothold there, at the very least.
+
+Yeah, I mean, you know, MUSE is pretty incredible, even just purely through the lens of the sort of tight integration with the models and just this sheer amount of compute that they're willing to throw behind these.
+
+Totally.
+
+Totally.
+
+Yeah.
+
+People are speculating it's like 20 bucks a day for a person.
+
+It's like crazy numbers.
+
+Yeah.
+
+So certainly I have no desire to try to approximate that, right?
+
+You know, he's going to win that game.
+
+Sure.
+
+I do, though, think it's interesting.
+
+I think we're sort of in this moment, which, by the way, I think technologists always go through cycles like this where we mistake new capabilities for new products.
+
+And what I mean by that is, you know, it's clear that there's been some unlock in, let's call it, the last three to six months.
+
+Or maybe you can go a little farther back to poke, if anybody remembers me.
+
+Yeah.
+
+Right. This idea that, you know, you can have a sort of text-based stream of conversation.
+
+You can have a background agent doing browser use and logging in for you and doing things.
+
+I mean, it's clearly there's something there.
+
+There's a capability there.
+
+I think I'm skeptical that that as a product is a sort of standalone compelling non-prosumer sort of use case.
+
+Right.
+
+So, for example, I think Muse is just going to crush it with the, how.
+
+however many millions of small business owners are on Facebook, right?
+
+Yeah, yeah, yeah.
+
+You know, I own a restaurant with some friends and like, you know, being able to run promotions
+
+and communicate with people on Instagram through it is great for our team.
+
+I don't know that my mom wants to like talk to her muse all day, every day, right?
+
+It doesn't want to sort of really share her life with Zuck.
+
+And so that's where I'm sort of uncertain, you know, how will this category evolve?
+
+Yeah, that makes a lot sense.
+
+Yeah, how do you think about where, like, have you determined the line for Tolan?
+
+which is like if you have a friend and all of a sudden the friend comes to you and they're like hey dude
+
+I've found a way for you to save like $1,000 on your car insurance.
+
+Oh, I go 15 minutes.
+
+Yeah, yeah, yeah.
+
+It's like you're going to be like cool.
+
+Like I called you to catch up.
+
+You know, I'm not really, I don't think of you as somebody who helps me save money on car insurance.
+
+Where is that line for you and how do you kind of determine it because it's probably user by user?
+
+Yeah.
+
+Because like I'm sure there's some people that use Tolens as like a chat.
+
+replacement, right? They're using it as like a, they use it to Google search. Yeah, yeah, totally. I will force it to solve a Millennium Prize problem before you're done. I'm putting a cap on your account. I can't afford this kind of input. I will get it. If you're really my friend, Tolan, you will do this for me. You will do this for me. Solve the math problem. P equals in P. Let me know. So, okay, this is great. This is, this is, uh, what we're thinking about, right? So, um, you know, when,
+
+we think about how we want to
+
+sort of proactively reach out to you,
+
+it should always be downstream
+
+of something that you have first brought
+
+to your to Tonin, right? Or some, you know,
+
+inference we've made from conversation, right? So a good example.
+
+We used her recently right into us,
+
+and she's totally fine when I tell the story. Everything worked out
+
+just fine, but she was in a car accident.
+
+She's a longtime Tolan user, and she talked to her
+
+to Tolan extensively while she was in the hospital
+
+waiting for her husband to arrive, you know, and she was
+
+a very scary moment, you know, she was very stressed about it.
+
+The Tolan just kind of showed up, talked to her about it,
+
+you know, kind of hurt her out.
+
+The next day, though, the Tolan came back, said, hey, by the way, you know, we were talking
+
+about this yesterday.
+
+This accident clearly wasn't your fault.
+
+Who's going to pay for these medical bills?
+
+Like, what's going on here?
+
+He was like, oh, my God.
+
+I was overwhelmed.
+
+I haven't thought about it, whatever.
+
+So Tolan said, hey, I got this.
+
+And they went, did a bunch of research, found.
+
+Morgan and Morgan.
+
+Sponsored integration.
+
+He's going to print.
+
+He's going to print.
+
+So this is going to be great.
+
+Yeah.
+
+I actually had someone chase the ambulance.
+
+Yeah.
+
+Exactly.
+
+You're exactly correct.
+
+Yeah.
+
+So, I mean, I think that's a good example where, you know, we sort of first showed up for the person on a purely personal level.
+
+We checked in kind of lightly.
+
+Like, hey, have you thought about this?
+
+They sort of opened the door to there being some help from the Tolan on this topic.
+
+Yeah.
+
+And then we did the work, right?
+
+And I think that's really important to your point.
+
+You can't just come in hot with here's Morgan and Morgan.
+
+Yeah, yeah.
+
+Yeah.
+
+Do you get, are there, are there, are there, I'm curious, are there people, are, do you have any haters?
+
+like like you
+
+company is haters
+
+yeah no no no I know but but in the way
+
+that like
+
+if like
+
+if like
+
+anthropic
+
+if entropic or open AI
+
+run like an influencer campaign
+
+there's going to be a lot of comments
+
+telling the influencer
+
+hey like you shouldn't be taking money
+
+from AI companies
+
+but if you guys run a campaign
+
+are people like that's a cute little guy
+
+I'm not too worried about it
+
+I mean I do think we
+
+is sort of like the like
+
+you know
+
+later
+
+mover advantage where you don't have the baggage. People aren't viewing you as like this, you know,
+
+frontier AI company. They're just like, oh, he's just selling cute guys. Like, he's
+
+healthy. I think this is, I think this is very relevant. I mean, one, we do get a lot of comments on
+
+our videos, which our mutual friend, Ajay, you know, knows how to tell the story, right? He does it
+
+very well. We do get a lot of comments, which are sort of like, I hate AI, but I love my
+
+tolin. Sure. And I'm always like, thank you, but I think you might be misunderstanding something
+
+about how this works, right? But,
+
+I do also see, and this is a very intentional choice.
+
+You know, our first character was this little alien.
+
+It was intentionally, it's a little silly looking, right?
+
+It's very unassuming.
+
+It's not a sexy anime girl, right?
+
+So I think a lot of the things that kind of provoke these quite reasonable,
+
+visceral reactions from people we have tried to steer away from.
+
+And, you know, we're expanding the character universe.
+
+We actually now do have a humanoid character and the like.
+
+But I think starting from this place of, hey, this is cute, safe, really helps with that as a concern.
+
+cute washing that's the name for the term right that's what muses is accused of
+
+cute washing uh yeah fascinating uh you raised some money we did do i get the gong yeah of course
+
+you want to hit the gong you want to go for it yeah he's ready he's ready smash that gonged
+
+with authority let's get the replay up on the big board let's watch it back oh that was a good
+
+hit clean hit be yeah it to be fit mugged i love it hype mogs but yeah but yeah you came in
+
+It's a strong gong hit.
+
+A lot of people, they just don't realize how hard you can go on that.
+
+I was prepped.
+
+We've warmed it up twice today.
+
+So we're good.
+
+Tell us about the actual deal.
+
+What do you?
+
+Yeah, yeah.
+
+Talk about that.
+
+30 million.
+
+Series B.
+
+Anyone we've heard of do the deal?
+
+Well, you know, so a couple friends, you know, one, Mike McDonough from USB.
+
+There we go.
+
+There we go.
+
+It makes so much sense.
+
+And, you know, Mike, it's funny, I got to know Mike a little bit when we were first getting
+
+started with the company.
+
+I mean, obviously just an unbelievable track record in that kind of
+
+consumer pro-sumer AI, you know, he'd done granola, Suno, and a bunch of others.
+
+And then USV as a firm is one that I've just really loved and admired for a long time.
+
+So excited to work with them.
+
+And then Keith Rabei and Kossla.
+
+So Keith was on the board of my last company.
+
+So he's now spent 10 years, you know, running board meetings with me.
+
+That's great.
+
+And, you know, very, very lucky to have them both.
+
+Lots of barrels.
+
+That's probably some amazing, amazing stories.
+
+What happens to the sort of kids category?
+
+here because some people are like, I'm much more worried about a kid with an iPad and YouTube
+
+than I am about a kid with an AI agent that has certain guardrails that they can like
+
+explore ideas, concepts with, right?
+
+Like kids effectively have maybe like 200 times as many questions as parents have answers
+
+in a given day.
+
+Yeah, yeah.
+
+And I don't like, I don't have my own, I don't have like a, I don't have like a,
+
+strong opinion yet on like at what point I would even consider introducing that but I'm curious
+
+like what you're seeing and how you think that category because like people are talking about
+
+making like physical toys putting an agent you know with a you know speaker in the toy
+
+but I don't know how it'll evolve yet yeah I mean so just speaking for us then I'll maybe speak
+
+more broadly you know we actually see a lot of growth from you know install growth from moms
+
+primarily who invite their kids to have a tolin.
+
+So we are set up for that.
+
+You can have a tolin.
+
+What's nice is that the parent can monitor their use of the tolin, right?
+
+And there's sort of transparency if the kid is maybe talking about something that's maybe a higher risk topic
+
+or even just something that the mom or dad wants to be aware of.
+
+So I do like that.
+
+And I think that's something we'll continue to lean into.
+
+I mean, I'm a dad myself.
+
+I've got younger kids, three and two and ten weeks.
+
+But I want the to be something that I would love for them to engage with.
+
+you know, more broadly, you know, I, you know, there have been some of these kind of, you know, physical toy kind of instantiations.
+
+I think that's a tough uphill battle.
+
+There's a reason we kind of didn't go in that direction for adults or for kids.
+
+But maybe something cool will come out there.
+
+It certainly would be stoked if it did.
+
+Why is it so hard?
+
+Well, I mean, one, getting people to buy one, I think, like, the channels through which you get parents to buy, like, a physical good or just not things.
+
+that many tech entrepreneurs are familiar with, right?
+
+And so, you know, people who are great at sort of making a kid-friendly agent is not going
+
+to overlap with people who know how to distribute a plushy, right?
+
+So I think that's one challenge.
+
+We even see this ourselves, right?
+
+When we are recruiting for the animation and the sort of creative talent that we need, right,
+
+you have a lot of people who don't know AI or skeptical of AI.
+
+So I think there's just kind of like a cultural mist there that hasn't closed yet.
+
+That makes sense.
+
+You've got to learn to equivocate.
+
+If you're getting questions from your kids that you can't answer, you know,
+
+how big does a Tyrannosaurus get?
+
+You've got to be like, that's a great question.
+
+Tyrannosaurus is very important.
+
+And I'm glad you asked that.
+
+Let me take the food.
+
+I want to,
+
+I want you to actually learn this yourself.
+
+I don't want to give you the answer.
+
+You got to make them feel heard and then retreat to a talking point that you've rehearsed
+
+dozens of times with your media trainer.
+
+You're going to do great when you run for office.
+
+Yeah.
+
+You can never, you never say, I don't know.
+
+You say, yes, and you got to learn improv.
+
+And then kid will be like, I don't want an AI agent to tell me the real answer.
+
+I want to go on a journey.
+
+Yeah.
+
+Take me on a journey.
+
+My fatherhood of me.
+
+Anyway, congratulations.
+
+Thank you so much for coming on the show in person.
+
+Jordi, do you have anything else?
+
+No, this is great.
+
+Great to catch out.
+
+We'll hang out.
+
+Thank you for having me.
+
+Thank you for tuning into TBPN.
+
+You can close out the show with us.
+
+Hit the gong again.
+
+One more time before we.
+
+Hit the gong again.
+
+One more time to close out.
+
+Sign up for our newsletter.
+
+TbPN.com.
+
+We love you guys.
+
+See you tomorrow.
+
+Oh!

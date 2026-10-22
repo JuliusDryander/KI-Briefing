@@ -1,0 +1,3046 @@
+=== PODCAST-TRANSKRIPT: TBPN ===
+Titel: TBPN Live - The Internet Is Finished, Early iPhone Duo Reviews, SpaceXSITesla Merger Talks | Nikesh Arora, Aidan Smith, Akhil Iyer, Max Junestrand
+Quelle: https://podscripts.co/podcasts/tbpn-live/the-internet-is-finished-early-iphone-duo-reviews-spacexsitesla-merger-talks-nikesh-arora-aidan-smith-akhil-iyer-max-junestrand
+Datum: 2026-10-22
+Länge: ~91k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+We are live from the TBPL and Fridome, the Temple of Technology,
+
+gorgeous finance, the capital of capital.
+
+We got bad news for you, and then we have good news.
+
+The bad news is John is not here with us today.
+
+He is under the weather.
+
+Keep him in your thoughts and prayers.
+
+We've never actually taken sick days ever, normally when we're sick.
+
+sick. We just keep going, but John is really down and out. And we feel like a ship without a sail.
+
+Yeah. A lighthouse without a light. And we miss him dearly, but the show must go on. We have a great
+
+show. I got a big shoes to fill. Huge shoes to fill. John is wearing an entire, all of John's
+
+clothing. He put his clothes on. Trying to keep it together. But funny.
+
+enough the suit doesn't actually look as comical as one might think I was hoping that it would
+
+look even more exaggerated it kind of just looks like Nathan fielder yeah not a workout related
+
+illness this time just flu season so stay safe out there but big day today in technology
+
+of course all the new vulnerabilities that we're finding out about you're unfortunate
+
+it was texting friends and family this morning trying to make sure that everyone outside of
+
+X is well aware.
+
+But we have Nikesh Aurora coming on in just 30 minutes from Palo Alto Networks.
+
+He's going to break it down.
+
+Going to break it down for us.
+
+So, yeah, we'll cover a few things, but wait to get into a lot of it with him.
+
+And then we have Aidan Smith from flapping airplanes coming on.
+
+They have a new $800 million round, followed up by Akeel from Watchtower Labs.
+
+on a launching out of stealth, and then we have our buddy and friend of the show Max from Ligora coming on for a humble $550 million series E.
+
+Yeah.
+
+Time is money, save both.
+
+Easy-use corporate cards, bill payments, accounting, and a whole lot more.
+
+You nailed it.
+
+You just missed the button.
+
+Yep.
+
+But we're working through it.
+
+Yeah, having some technical...
+
+There it is.
+
+There it is.
+
+Oh, okay.
+
+We're having some difficulties here.
+
+Yeah.
+
+Yeah.
+
+I'll figure it out as the show does it.
+
+John makes it look so easy.
+
+Yeah.
+
+It makes it look so easy.
+
+But it's in our form, right?
+
+It truly is, yeah.
+
+It truly is.
+
+Some of the stuff, you can't even really be taught it.
+
+It's just kind of natural, I think.
+
+Totally.
+
+You're born with it.
+
+Yeah.
+
+Well, let's pull up this video of John shortly before coming down with an illness.
+
+Wow.
+
+Wow.
+
+Season got started and he wasted no time clip farming.
+
+majestic.
+
+I hope he's watching this.
+
+I think he's sleeping.
+
+Anyways, let's go into Ph.P. Land.
+
+Tyler, you want to kick it off?
+
+Yeah, I mean, so,
+
+PHP, obviously, like everyone knows, right, as you do.
+
+You know.
+
+Sorry.
+
+So something like 70% of all websites run on PHP,
+
+and basically there's this big probability
+
+that was found in August,
+
+and now it's kind of coming out.
+
+There's a patch coming out.
+
+I think it may have just come out.
+
+It didn't come out immediately when the actual news of the vulnerability happened.
+
+Yeah, so this was discovered with 5.6 back in August.
+
+And so for the last couple months,
+
+all the different companies involved have been trying to inform as many as people as possible.
+
+Yes.
+
+Trying to make sure that a lot of companies can get ahead of this before the disclosure.
+
+the big issue, I mean, my personal point of view is like you're probably going to be fine using services from public companies, right?
+
+Companies that would have been in the loop over the last couple months.
+
+The bigger issue is the rest of the internet websites that people have been.
+
+Yeah, I think there's going to be this kind of long tail of people that maybe are not that online, but they're running their own server from their local business that they've had up for 20 years or something.
+
+I think that that's a scenario that is maybe a little bit more scary.
+
+where you just have to really stay up on this stuff.
+
+Yeah, I've been thinking about all the different places that people have input private information,
+
+things like social security numbers.
+
+I'm thinking like old, even like local government websites, right?
+
+All these different things.
+
+Feels like we're very close to, or effectively it's unavoidable that a lot of this stuff is going to leak out.
+
+So that's the bad news.
+
+Yeah, we've seen a lot of government websites, like temporarily,
+
+down. I think Finland, they had some internet services that they like just took
+
+offline. Yeah, took offline. Netherlands, France, similar. But hopefully, you know,
+
+throughout the day, those will come back up because it seems like the main patch has now come
+
+out. So the issue dubbed PHP to Shell represents a class of problems in the way PHP manages
+
+a computer's memory. It can be exploited in many ways, some requiring just a few seconds, by hackers
+
+who would use it to run unauthorized software on any unpatched web server. It is the
+
+most severe security issue that PHP has faced in more than a decade. According to Volker
+
+Deush, a security engineer with a nonprofit foundation that manages the PHP project, he likened it
+
+to heart bleed a similarly widespread vulnerability that forced a global race to protect hundreds of
+
+thousands of servers more than a decade ago. When security patches are released, it marks the starting
+
+shot in a race between defenders and hackers. Defenders have to test and install the software patches
+
+while hackers study the patches as a guide to find new vulnerabilities,
+
+looking to see what has changed and then devising ways of attacking those areas.
+
+But today's AI tools can do this work much quicker than any human,
+
+potentially making the process more risky, security experts say.
+
+Some dude on Twitter could take the patches and run AI against it
+
+and post some exploit script, said Ty, the chief executive of Caliph,
+
+the security company that first discovered the issue,
+
+all hell will break loose.
+
+Is that good?
+
+The big bug.
+
+Ryan Austin, a researcher of Caliph, uncovered the flaws with help from GPD5.6
+
+Seoul, one of OpenAI's most advanced models from a couple months ago.
+
+During an audit of PHP source code in August, open AI funded that and other audits, part of an effort by AI companies to help open source projects, address software vulnerabilities now being uncovered by AI systems.
+
+The class of bugs had been hiding in Ph.P source code for years.
+
+A security researcher had flagged it as a problem area decades earlier,
+
+but the flaw had been considered too difficult to exploit and was largely forgotten.
+
+A.I. found a way. Austin figured out how to control the code that was running in the computer's memory with as few as a few dozen requests to a server running PHP.
+
+On smaller system, the hack takes just seconds. A more complex one, it can take hours.
+
+On August 11th, Dung called PHPs leadership, there's a serious issue here, he said.
+
+I had this moment of, oh, God, what are we doing now?
+
+Dush said, how do I communicate this?
+
+And then you calm down, you let the adrenaline flow through, and you get to fix it.
+
+Soon an informal working group had formed among security researchers and software engineers.
+
+They collaborated with software distributors and security companies figuring out ways to patch PHP2 shell
+
+and prevent it from being exploited.
+
+Researchers from Google's whiz cybersecurity team soon reached out with new exploits,
+
+which they had discovered independent of Caliph.
+
+They were findings from OpenAI's research team, too.
+
+AI is enabling well-meaning security researchers to find thousands of software bugs,
+
+overwhelming projects like PHP with a flood of issues that need patching.
+
+But PHP 2 Shell was viewed as a priority and AI's proficiency at hacking prompted worries
+
+that criminals could exploit PHP 2 Shell.
+
+We need to figure out how to, we need a nickname for that.
+
+It's getting a little long.
+
+Heartbleed that other.
+
+Yeah, that name goes hard.
+
+Yeah, you're not, Ph.P.2 Shell doesn't sound very scary.
+
+Yeah, it just sounds like some mumbo-jumbo.
+
+Keeping the secret,
+
+PHP2 Shell is the most severe AI vulnerability that was ever found,
+
+and one that was likely too complex to have been discovered without AI,
+
+said Ami Lutwak, Wiz's co-founder.
+
+Dung and the other researchers kept its existence,
+
+closely guarded secret while they worked on fixes for fear that an AI-aided hacker might
+
+find and exploit it before they were done. Really crazy that this was kept like a relative
+
+secret for this. Yeah, well, actually, I think the original release of this was supposed to be
+
+tomorrow and then details started to leak, I think, a day or two ago. And so actually pushed it out.
+
+Right at the area and it started to leak. But yeah, while they were working on it, it is,
+
+it's great that they were able to kind of hold on to this. The patching effort was massive.
+
+There are close to 200 files being fixed and developers wrote,
+
+over 10,000 lines of code during the process.
+
+Should have called Gary Tan.
+
+He could have ripped that 10,000.
+
+G-Stack could have done that in a day.
+
+In a day.
+
+In a day.
+
+Maybe hours.
+
+Eventually, a patch was set October 22nd.
+
+Then the inevitable happened.
+
+News of the patch leaked out Tuesday in a post in Hacker News,
+
+fitting for it to go out on a site called Hacker News.
+
+Just under two days before the patch release,
+
+Dush's team decided to rush out the patch.
+
+On Tuesday, they warned the world to say,
+
+standby and expect a critical security update on Wednesday. It was a good balance to inform
+
+defenders and not give attackers too much time to develop exploits. So game time. A bunch of different,
+
+I think the prime minister of Japan has been posting about it. And Nakesh, our guest coming on in
+
+roughly 15 minutes, said, that's how you know it's serious. Yeah. Greg, Brockman, had a good
+
+post about this. One interesting
+
+kind of tidbit that people are pointing out,
+
+I can read it here. As vulnerability
+
+discovery ramps, we will need new
+
+defense solutions, potentially including
+
+authorized defenders such as government,
+
+scanning the internet for vulnerable hosts
+
+in either notifying or in extreme
+
+cases patching those systems remotely.
+
+Which is very interesting. I mean, you can imagine
+
+some kind of service that basically
+
+they just, whenever anything happens,
+
+they are like have some side of
+
+right access into your systems
+
+and can update them. Yeah.
+
+Prime Minister posted, we have an urgent request for everyone to take action regarding
+
+PHP, which is used on many websites.
+
+The PHP security team has issued a warning about two critical vulnerabilities.
+
+Please check if you have publicly available websites that use PHP and prepare to apply the
+
+fix patch that will be released tonight at 11 p.m. Japan time.
+
+It is difficult to apply the fix promptly, temporarily suspending websites and similar measures
+
+can be considered an effective way to reduce risk.
+
+And Levels I.O. reached out to a friend.
+
+He said, I notified a friend working at a big tech company about the Ph.P.
+
+Vulnerability as their entire infrastructure runs on PHP.
+
+He answered, thanks.
+
+I'll try to patch it in a few days as I'm out of office now.
+
+And this is the modern tech company.
+
+Imagine the traditional company is running PHP.
+
+People won't update fast enough and the vulnerability will be out in the wild.
+
+Once the patch hits, as anyone can reverse engineer it based on the patch.
+
+Considering this, there's going to be so many sites hacked.
+
+and so much user data exposed, I think.
+
+Yeah, not great.
+
+Also, I mean, we haven't covered this yet,
+
+but there was actually two prolabilities.
+
+There was a second one from E Mudra,
+
+which is basically the TLS certificate, right?
+
+You know, that has the little lock on the browser.
+
+Some of them had, like, very trivial private keys.
+
+I think one of them was literally just number four.
+
+And so, you know, for contacts, the private keys are supposed to be,
+
+I think, hundreds of digits long, these, like, you know, numbers,
+
+and it's just number four.
+
+Not great.
+
+It is fascinating, though, that...
+
+But no one would expect.
+
+number four. That's true. I looked up, I think that had been like live for like a year and a half.
+
+And no one, seemingly no one like really did anything with it. So maybe it kind of a white pill,
+
+actually. Yeah, no one expects the number four. Yeah. It's actually the smartest possible thing
+
+they could have done. Yeah. The most secure.
+
+Opening I released a codex skill to help check whether your website is affected.
+
+They point your codex at a GitHub repo that was just created. And it will guide you.
+
+you through it. So check that out or use your favorite agent.
+
+NSA cyber is flagging concern as well.
+
+And again, this is the kind of thing that you want to be staying in tune with throughout the day
+
+because there's going to be more updates.
+
+Yeah.
+
+Critical Instructor for the AI era
+
+Unlocked seamless real-time experiences and new value.
+
+Let's just go.
+
+Wow.
+
+Nailed it.
+
+That one was smooth, I think.
+
+Yeah, I'm trying to get it.
+
+You're picking it up.
+
+You're natural.
+
+What else is going on?
+
+Sarah Guo says today's example of why AI people are legitimately stressed about internet resilience in the face of agentic cyber attacks in 2020.
+
+In 2006's ongoing volpocalypse.
+
+Emudra's intermediate CA private keys turned out to be tiny numbers like 4 and 56.
+
+We covered this already.
+
+She says to make this more real, you think you're on IRS.gov.
+
+There's a padlock next to the URL and all, but it's actually a scammer in intercepting the connection, harvesting your SSN or bank details, then maybe forwarding you so you never notice.
+
+Good news is the browsers already blocked the bad search.
+
+Bad news is a long tail of servers, containers and devices that still trust them has not.
+
+One bad key generation script from 2025 is still forcing a hard.
+
+Heartbleed scale. Cleanup, more to come. We have plenty of internet-wide security cleanup to do.
+
+Yeah, so I think this is really important for kind of the long tail of services, websites, stuff like that, like we talked about earlier.
+
+I think, you know, if you're worried about, within the coming days, like, if you're, I don't, it doesn't make sense to be too worried about, like, long into Instagram or whatever and having that be leaked.
+
+Yeah, so you're saying, get on reels.
+
+Yeah. Anytime that you might have been doing, like, productive things on the internet, stick to reels.
+
+Yeah, let everything clear up, hit the reels in the meantime, then, you know, poke your head out every now and then.
+
+Zoomer cybersecurity advice, everyone.
+
+Our friend, moving over to updates on Trevor Milton's new Jet startup, I don't even know if it should be called a startup just because the company's been around for decades at this point.
+
+But a friend of the show, Preston Holland was able to actually go to the event.
+
+I was quite bearish on this strategy.
+
+Trevor Milton's obviously been pardoned.
+
+He doesn't have a record anymore.
+
+He's free to do and build whatever he want.
+
+I just think the strategy of...
+
+Yeah, so he did nothing wrong.
+
+I'm not going to say that.
+
+Definitely not going to say that.
+
+But he is a free man.
+
+And again, I think the strategy of going into private aviation
+
+where you have super discerning buyers
+
+is just not probably a good business strategy.
+
+Yeah.
+
+I still think you can make some argument where, you know, there's some kind of stigma discount that you can get on the plane because, like, if other people are worried about buying from him, that's a buying opportunity for me, right?
+
+Others are fearful.
+
+Buy when others are fearful.
+
+So I think this could, you can, there's some argument here.
+
+I think it makes sense.
+
+I think that that's typically about investing, not, you know, relying on a machine for, you know.
+
+These are investments, you could say in a way.
+
+Right?
+
+Yeah.
+
+Yeah.
+
+Depends on how much you value your time versus your life.
+
+But anyways, Preston got a good picture at the launch.
+
+The wings of the plane were propped up by posts.
+
+So is that normal?
+
+No, maybe this is part of the innovation.
+
+Yeah, that's true.
+
+But yeah, very, I shouldn't say it's a huge surprise, right?
+
+You would think that they'd have more confidence
+
+that the wings of the demo aircraft would be able to just support
+
+themselves, right, considering they're meant to support the entire plane in the air. But coming from the push the truck down the hill guy,
+
+can't say I'm that surprised.
+
+Okay, hit me. Let me tell about Figma. Agents, meet the canvas. Your AI agents can now create and modify your Figma files with design system context.
+
+Well done, Tyler. Getting a hang of it. John, take all the time you need.
+
+The main complaint with the iPhone duo, people are getting their hands on the iPhone duo.
+
+There's some reviews coming out.
+
+And there seems to be a lot of complaints.
+
+The big one being app optimization, let's pull up this image.
+
+If we can scroll down, you can see how apps that you might use frequently, like Instagram or Google Calendar or Spotify,
+
+this looks like a Rivian app.
+
+Also, internet speed check.
+
+Anyways, not dialed yet.
+
+I do think that I don't think this is necessarily going to be a huge issue.
+
+I think this kind of thing will get fixed pretty quickly.
+
+Are you talking about the big sidebar?
+
+That's kind of taking a lot of that.
+
+So it's like, hey, we made a phone whose entire value prop is that it's a bigger screen.
+
+And then as of right now, and again,
+
+I expect this to get fixed.
+
+I don't know.
+
+It's really using the extra real estate.
+
+Yeah.
+
+The, yeah, the core value prop is not being delivered on yet.
+
+Mark German says the iPhone duo reviews are some of the most brutal I've seen from an Apple product in a long time, Vision Pro aside.
+
+But I've been around long enough to remember the iPhone 5, 6 plus, and iPhone X.
+
+The app optimization issue is a non-issue and will be resolved in weeks.
+
+The one big difference I'd add, the iPhone 5 and iPhone 6.
+
+plus gave developers one week of turnaround time, though they've had a month plus and hands-on
+
+development opportunities with the duo.
+
+So I don't know what Google and Instagram and Spotify are doing if they've had the ability to
+
+Yeah, they've had a month.
+
+They've had roughly a month.
+
+But maybe they're just bear on bearish on the duo.
+
+Well, I think for like Instagram or whatever, they probably assume that people are going to be doing kind of they're going to have the like wider.
+
+so you can do kind of dual-wheeled reels.
+
+Yeah.
+
+You watch two-o-one.
+
+So they're probably optimizing.
+
+Yeah, I do want to see what it looks like on Instagram when you have the two screens.
+
+Yeah.
+
+And so I think these are starting to be delivered on Friday, I believe, the 23rd.
+
+So we'll start to get some.
+
+Yeah, but somehow people have them out in the wild now.
+
+So, MKB-HB-Rew, yeah.
+
+I assume that he can get it early.
+
+Let's pull up this video from MKB-B-H-D.
+
+It is bad. The photo quality, that selfie camera. Yeah, that is very first-gen. And it is bad. The photo quality is trash. It looks a little better on like a FaceTime call with video than just straight up taking pictures with it. But yeah, Apple clearly has done the math. Like they've assumed people won't use this camera very much. And they've accepted the trade-off of image quality versus having this big dramatic, uninterrupted inner display. We'll see that selfie camera.
+
+Yeah, I think that's a reasonable trade-off.
+
+And the camera is effectively invisible?
+
+Yeah.
+
+Which is extremely impressive.
+
+Yeah.
+
+So this makes me more bullish on this.
+
+Yeah, it seems like a pretty good experience.
+
+Yeah.
+
+I did not get one, but...
+
+Do you want to?
+
+I could imagine other people enjoying it.
+
+You're not going to get one?
+
+I could...
+
+Would you get one if we needed somebody on the team?
+
+I could, yeah.
+
+To make a sacrifice and do it?
+
+A sacquence.
+
+I would sacrifice.
+
+I mean, because you're going to have a massive oral loss.
+
+That's true, yeah.
+
+So you need to be prepared for that.
+
+You can't be seen pulling this thing out.
+
+Cracking it open.
+
+I mean, John really does need to do it.
+
+He's the newspaper guy.
+
+Yeah, yeah.
+
+I think he's got to do it.
+
+So I don't think you should have to.
+
+Okay, let me tell about Railway.
+
+Railway is the all-in-one intelligent cloud provider.
+
+Use your favorite agent to deploy web apps, servers, databases, and more,
+
+while Railway automatically takes care of scaling.
+
+monitoring and security.
+
+It's time to talk about SpaceX,
+
+S-I, Tesla.
+
+SpaceX had their Q-3 earnings call yesterday.
+
+It is one of the cooler earnings call experiences,
+
+even like the countdown,
+
+like the imagery that they have,
+
+just show why the company ultimately trades
+
+in a somewhat detached way from business fundamentals.
+
+But they talk about,
+
+about the progress that they've made over the last quarter with Starship.
+
+Starship specifically the stat that stood out is that one starship that was not even full
+
+is launching the equivalent of 10 Falcon 9s worth of Starlink satellites.
+
+Right.
+
+So it just shows shows how big the the payload capacity can be.
+
+And again, they're just like going.
+
+as down the line as fast as possible to get to not just reusability but rapid reuseability.
+
+So that's what they're telling people to watch out for over the next quarter.
+
+A lot of the call was focused on the terrestrial compute buildout.
+
+Elon compared SpaceX and the team there to the other sort of like cloud or NeoCloud players.
+
+as this is like the New York Yankees playing in the Little League.
+
+So not mincing words.
+
+And yeah, the big numbers that stood out,
+
+they're talking about two and a half to three gigawatts online
+
+by the end of this year and pacing to get 10 online next year.
+
+That being said, he did leave possibility for getting to 20 gigawatts next year.
+
+The logic there being like they are building out more, like they're trying to get enough effectively infrastructure in place to support 20 gigawatts even if they don't actually have the power yet.
+
+And then, I mean, he kept hinting or vaguely circling around some kind of merger, right?
+
+Yeah.
+
+I mean, Tesla, SpaceX, that's like a lot of the news about right now.
+
+Yeah.
+
+Before we get into that, we can talk about, let's pull.
+
+up this clip of him talking about AI demand.
+
+Our belief is that the value of compute per what will increase over time, not decrease.
+
+The reason for that I think it should be obvious to people really is that as you improve the
+
+AI software, as the models get better and better, they're able to, you get more useful
+
+intelligence per what?
+
+And the value of that compute is proportionate to the useful intelligence per Y.
+
+And that's why you see things like even old computers like H-100s renting for more than they
+
+rented when they were new.
+
+And I think that's likely to continue.
+
+I think we're going to face a shortage of superintelligence compute.
+
+And that shortage is going to remain for a long time.
+
+So I think the smart move is to do short-term contracts and to essentially to place the bed on useful
+
+intelligence per watt increasing rapidly, which obviously is done.
+
+So that's what's happened so far.
+
+And also if you look at, say, how are our short-term contracts renewing?
+
+Are they renewing at higher dollars per watt or lower?
+
+And we see them renewing at higher dollars per watt, not lower dollars per watt.
+
+We are also, frankly, hounded relentlessly by every hyperscaler and by dozens of smaller companies
+
+to rent more of our compute.
+
+So we could round out our compute several times over.
+
+if we said yes to everyone.
+
+That's just the situation here.
+
+That's why I posted that sort of video meme
+
+of the Monty Python cheese shop sketch
+
+where the guy goes into a cheese shop
+
+to get some cheese,
+
+and they actually have no cheese.
+
+And so he goes to like, what about this kind of cheese?
+
+What about that kind of cheese?
+
+And they really just don't have any cheese.
+
+So we've actually tried to offload some of our efforts to
+
+To have no cheese
+
+And we get the cheese shop's getting
+
+Yeah, I mean so presumably those short-term contracts talking about are the anthropic ones, right?
+
+It's interesting that he keeps saying like short-term contracts
+
+Because I think
+
+Yeah, people were people
+
+That's how people have been making the bear case around their compute
+
+business is like, okay, like this is a, you know, temporary solution for companies like
+
+Anthropic and Google that are compute constrained, but these contracts will roll off and
+
+the demand will shift somewhere else. And what he's saying is like, no, this is
+
+intentional. We're doing this because we want to basically every year raise prices,
+
+raise prices because the expected value of the compute will go up.
+
+I mean, or at some point like use that compute internally for for GROC models, right? This is a
+
+It's kind of also like the meta maybe case where like, oh, they'd have this big buildout, and like maybe they're making good use of it now.
+
+But at one point, people were like, oh, you should just resell it, become a neocloud.
+
+Yeah, so he definitely talks about Grockbot in the earnings call as well and says he expects most of their compute to be to go towards Grockbot eventually.
+
+And talks about the growth there.
+
+The big line that stood out, which was funny, this was came at the very end of Elon's segment before he,
+
+passed the mic to
+
+Shotwell. Let's listen
+
+to it.
+
+I mean, in a nutshell, what this
+
+implies for
+
+SpaceX
+
+annual recurring
+
+revenue by the end of
+
+27 is somewhere
+
+between $500 billion and a trillion.
+
+Let's go.
+
+I mean, in it...
+
+He literally nods and then
+
+it's amazing.
+
+Big, big, big numbers.
+
+I guess in this case, it's funny.
+
+Normally people would say annualized revenue run rate,
+
+but he said annual recurring revenue.
+
+But in this case, it actually could be.
+
+Maybe it's not.
+
+Yeah, it is annual recurring revenue
+
+if they start continuing to stack these annualized deals.
+
+People are saying that Musk just saved the neocloud trade
+
+with that line.
+
+Our belief is that the value of compute per watt
+
+will increase over time.
+
+not decrease.
+
+Yeah, I mean, this is what like semi-analysis has been saying for a long time, right?
+
+The things just kind of keep going up.
+
+Yeah.
+
+Brett over at Arc is talking about the merger.
+
+This seems inevitable at this point.
+
+Elon's pretty clear that it's going to be up to the shareholders on either side to decide.
+
+He believes it's the right move.
+
+And again, people, one of the biggest challenges of having SpaceX,
+
+and Tesla, both as public companies, is like, you can't drive all of that investor demand to one
+
+place. And so you're trying to balance, like, supply and demand for both assets. And again,
+
+these are like, this is a portfolio of existing products as well as like, but the companies,
+
+both companies are valued on their future potential, right? Yeah. So combining them does make a lot
+
+a sense. I can imagine this as, as, it's not hard to imagine it as a sort of first $10 trillion
+
+company. Brett has a point of view on, on the merger, he says on SpaceX versus Tesla very
+
+crudely, Robotaxy is a bigger opportunity than Starlink, but orbital compute is a much
+
+bigger opportunity than Robotaxi. An optimist requires more baking time than orbital compute.
+
+an optimist's success is predicated on access to gobsmacking amounts.
+
+Not a lot of people using that word these days.
+
+Maybe it's time to bring it back.
+
+Yeah, yeah.
+
+amounts of super intelligence.
+
+The forced usage of super intelligence by our industry has been pretty brutal to watch.
+
+It's really, I cringe a little bit every time.
+
+On our modeling, compared against the no merger case, even if merged at the current share
+
+price ratio, Tesla shareholders would be 1.6 better off in 2031, while SpaceX shareholders would be
+
+two times better off. On a longer time frame, Tesla shareholders would be 5x better off having merged,
+
+whereas SpaceX shareholders would have been indifferent, would be more indifferent 1.3x better off.
+
+So the fair premium depends heavily on your time frame. On longer time horizon, SpaceX shareholders
+
+should be asking for a discount. On shorter time horizons, Tesla shareholders should be asking
+
+for a premium, but everyone is better off with a merged entity.
+
+A 30% premium paid on Tesla's share price today would effectively split the difference
+
+on the 2031 time frame.
+
+Tesla acquired at a 50% discount would equilibrate return different credentials on the 236 time horizon.
+
+Elon responds.
+
+Interesting.
+
+It just says, interesting.
+
+This is obviously his way of drawing attention to
+
+to things without giving them an endorsement in any way.
+
+So lawyers hate-
+
+So many things here make sense, right?
+
+Lawyers hate this one simple trick.
+
+They don't want you to know this.
+
+Yeah, the big thing is that Elon owns so much more of, you know, SpaceX that he wants SpaceX to have the highest possible evaluation.
+
+And Tesla to have the lowest possible valuation at the time of the merger.
+
+That being said, I think as soon as these companies are,
+
+are merged, there's going to be way more attention put on just the, not even just
+
+Robotaxy, but the car business.
+
+Like, we know the car business is ripping, like, anecdotally.
+
+The Tesla is that, the Tesla that you want to buy is probably has a multi-month wait
+
+time.
+
+And I, yeah, I can't even, like, the sort of virality of autopilot is, like, taking off
+
+in a way that I think would be getting way more attention from Elon.
+
+were this merger not on the horizon.
+
+Yeah, definitely.
+
+What else?
+
+Hero Onada says, I know Elon stocks get totally different treatment, but this is Oracle, September 2025, huge claims of future revenue, revenue extremely low quality business about to become recklessly levered.
+
+So he's given the bare case here.
+
+not Elon's first time making huge claims of future revenue.
+
+I think the interesting thing is like even if he's off by five years on on these sort of revenue targets,
+
+like shareholders are still going to do pretty well.
+
+But yeah, very, very clear that they will be levering up in a way that no Elon company has before outside of XAI.
+
+Yeah.
+
+Let me tell you at MongoDB.
+
+Please do.
+
+What's the only thing faster than the AI market?
+
+Your business on MongoDB.
+
+Don't just build AI.
+
+Own the data platform that powers it.
+
+Let's talk about Unitree.
+
+They have a new robot called the H2X Kung Fu Legend Guardian.
+
+This video is pretty impressive.
+
+Is there sound?
+
+What did the car?
+
+scenery to you.
+
+I think we need at least five of those to take Tyler out.
+
+And even in John's...
+
+Even in John's sickly condition,
+
+I think you'd need at least 100 of these to take John out.
+
+Yeah, I mean, so we don't actually see the robot fighting a person.
+
+So, presumably, you know...
+
+No, but what I've said, I do think humanoids...
+
+I can see humanoids having...
+
+I've talked about this on the show a couple times,
+
+but I can see...
+
+All right, we can pause.
+
+Does the loud robot sounds, please?
+
+Thank you.
+
+I can see humanoid having more product market fit in the home
+
+as for security use cases early on.
+
+Sure.
+
+Because if you have a break in,
+
+just having a human-sized robot like interrupting the thief
+
+is much easier than trying to have it do your dishes, right?
+
+Yes.
+
+Because you just need some physical deterrent.
+
+But I do wonder if that only was,
+
+works in the short term where like, because right now, if I see a human-ed robot, I know it actually
+
+can't beat me up, like the current ones.
+
+You don't know that.
+
+I haven't seen any videos of people fighting robots where they lose.
+
+I'm just saying if you're a criminal and you have five minutes to...
+
+Yeah, yeah.
+
+But if you know about human-ed robots, if these criminals have done their, you know, homework.
+
+Saying if they studied.
+
+Yeah.
+
+If they studied it.
+
+Well, it's time for our first guest of the show.
+
+or dear friend of the show
+
+Nikesh, here he is.
+
+You'll probably notice that this is not John.
+
+So sorry to disappoint.
+
+John is out today.
+
+He's sick.
+
+Maybe he has a bunch of old websites
+
+that he needs to update.
+
+Maybe he's gone buying a watch again.
+
+Yeah, maybe that.
+
+But anyways, thank you for taking the time
+
+to jump on today.
+
+I know you're slammed,
+
+but fortunately,
+
+you would have had a pretty
+
+long heads up on this.
+
+But how are you processing the recent news?
+
+Look, this is not new news.
+
+This is something that has been forecasted
+
+by almost everybody in the cybersecurity industry
+
+or the frontier in the LEM industry, right?
+
+They've all said that we are going to see
+
+more vulnerabilities that will be discovered.
+
+And this is a public vulnerability, as you know,
+
+is probably half the internet
+
+where people are using PHP.
+
+So this is kind of like a log 4J moment.
+
+This is a vulnerability that is serious.
+
+I think I just saw the Japanese Prime Minister tweet about it.
+
+So the heads of states are getting involved.
+
+This is serious.
+
+The NSA put out a notice as well.
+
+So it's a serious vulnerability.
+
+We're going to see more of these, not less.
+
+I think this is something that we've been predicting as an industry.
+
+There's a lot of old wood that needs to be chopped before we get to a better state.
+
+It's probably the next 6 to 12 months.
+
+You'll see more of these.
+
+Getting more tactical right away.
+
+How should different types of companies...
+
+be responding.
+
+Look, we ran a scan when we found out.
+
+There's 22 million places where this vulnerability process.
+
+Even if you tin it down, it's about 9 or 10 million.
+
+So this is not going to go away tonight.
+
+A lot of people have to do a bunch of patching.
+
+There's a bunch of patches that have been made available.
+
+We've also made a virtual patch available.
+
+So if you have a pallet of firewall, you don't have to do the patch.
+
+You can just basically, we are already pushing the content patch
+
+until you're automatically secured against the Ph.P. Vulnerability, as long as you took our advice and put the power of the firewall in the middle of your traffic.
+
+And so that should take care of your better.
+
+I think there's a lot of patching that's going on right now as you speak.
+
+A lot of gateways are getting these patches put in there so that bad actors can't get to your vulnerabilities.
+
+What should everyday people do, friends, family, things like that?
+
+What advice are you giving?
+
+Like, you're cooked?
+
+It's over.
+
+You have no choice but to go back and find that PhB Patch is out there and go patch
+
+your situation, ASAP.
+
+Hopefully the bad actors are not chasing you down just yet.
+
+Bad actors are probably going out for higher price targets or higher economic value targets,
+
+but this is going to happen.
+
+I think we will see people get aggressive and get this sorted, but I'm more concerned about what comes next, right?
+
+This is just one.
+
+I think there's more to come.
+
+And the problem is when you start seeing big things like this,
+
+happen, you start finding people who are trophy hunters. They're going to say, well, where can I find
+
+the next PhP and prove to the world that I'm as smart as the last guy?
+
+Interesting. So you're saying, like, effectively people that want to be the person that
+
+discovered a vulnerability at the scale because they get some status associated with that.
+
+Dude, it's a street cred. If you're a hacker, isn't that a street cred that I found that one?
+
+Like, literally, you know, the moment this happened, I had four people mess with him.
+
+He's like, I found it or I found him. Like, dude, this is not a good thing.
+
+Yeah, yeah. And now the issue is like it's so much, you know, while historically it may have taken somebody five, ten years to find a vulnerability this significant now that if they just have some, you know, meaningful access to compute, they could do it on a much shorter time horizon.
+
+Yeah, well, I'm made to understand that the models that are in the offing that are about to come upon us in the next two, three months, all already have more capabilities than the ones that are publicly available, both, you know, two defenders like us are publicly available.
+
+both two defenders like us are publicly available to everybody,
+
+both in open source and in closed models.
+
+So you're going to see more and more capability.
+
+So what isn't found today where the current models will definitely be found
+
+three months from now with the next model.
+
+So the question is, how are you getting ready for it?
+
+And my recommendation to everyone is,
+
+take this stuff seriously because that's the easiest door for the bad actors to get in.
+
+Now, understand your vulnerability, scan them.
+
+There's tons of services out there.
+
+We have some.
+
+Other people have some.
+
+Scan your vulnerability.
+
+patch what you can, whatever you can patch, make sure there's a virtual patch in place.
+
+Yeah, so is the advice moving forward just, like, in effect, like, be more online or something
+
+so you can be more aware of this stuff?
+
+Or is it, you know, stop self-hosting and try to move on to these bigger platforms that can take
+
+care of the stuff for you?
+
+You can't, like, big, big architectural shifts on what is basically 25 years of the Internet
+
+that has been existence.
+
+I think what you can do is you can start putting sort of fences around some of the stuff.
+
+that you understand is highly critical.
+
+Look, there's going to be damage that's going to happen.
+
+Hopefully, it is not sort of permanent.
+
+You got to make sure that whatever could be permanent damage to your business or whatever infrastructure that you have.
+
+There you have to pay attention and make sure those crown jewels are protected ASAP.
+
+I think time will take its course and will get better at this stuff.
+
+But people need to pay attention to critical vulnerabilities and stuff that is sitting at the core of the infrastructure.
+
+What is, can you imagine a more?
+
+effective, like, you know, assume that we're going to have one of these a month for the next
+
+12 months. What should what should governments do to make sure that more people are aware?
+
+Just because I can't imagine most people that are affected, you know, 0.001% of people affected
+
+by this follow you or NSA's. More people should follow me, right? I'm ready. Let's go.
+
+spend that X count up right yeah yeah got to get those numbers up no but like what is like is this is this
+
+have you imagine any any type of like one it's like general awareness but it's not about this one issue
+
+like how do we make sure that business owners and people including websites and services are going to be
+
+it's almost like you need it to be like this needs to be something that you're putting on your calendar
+
+and staying on top of in a way that just people haven't had to do ever.
+
+Well, we've got to give credit to our friends at Open AI Anthropic and Jem and I
+
+because they've done a very good job of creating awareness.
+
+I think more people know mythos than know the word cybersecurity,
+
+which is great because now suddenly people are paying attention.
+
+I think there is still a gap between awareness and action.
+
+So, you know, I was at a conference the other day with 180 CEOs,
+
+and there was a huge session.
+
+Sam spoke in the use session about cybersecurity.
+
+And there was people obviously who are being made aware that this is a problem.
+
+And some people take that seriously, go back and act on it.
+
+Some people think they've got more impressing priorities to go deal with.
+
+And this just gets delegated down.
+
+And I think part of it is you've got to take this seriously because this is the sort of biggest risk of our times right now from a cyber perspective.
+
+These AI models are going to get more and more powerful, as you know.
+
+And as they get powerful, you've got to go out and make sure you go ring fence this stuff.
+
+And there's no magic pill.
+
+There's no an easy button on this.
+
+This is just grind hard work.
+
+You got to go through infrastructure.
+
+You got to go clean it up.
+
+I got to put the patches in place.
+
+And it's going to happen.
+
+You will see, I think, the general expectation is we will see some big breaches as a consequence of some of these things.
+
+And look, we just found a PHP vulnerability.
+
+We all have to fix it.
+
+We haven't seen somebody take some business down because it's vulnerability.
+
+Some of that stuff's going to happen, right?
+
+Because you make it easy.
+
+Yeah. What about the long tail of government websites?
+
+I thought that's being fixed by the chief design officer of the United States.
+
+Our friend Joe Gavia, isn't he fixing all the websites?
+
+He better. He better. I want to, as much as I like beautiful government websites,
+
+I kind of want him to focus on this now.
+
+Well, we can add the list of stuff to do. They need to look pretty and be safe.
+
+Yeah, no, but I mean, my concern is like you look at the long tail of websites.
+
+where people have, you know, input information, stored information.
+
+It's, you know, things like personal addresses, you know, bank details, all these different things.
+
+To me, I worry less about, you know, somebody's random WordPress website, which is a glorified, you know, resume builder that probably doesn't get traffic anymore anyways, versus, you know, these places that actually do have consequences.
+
+Yeah, look, this thing happened in the last, I think, less than six hours ago.
+
+Well, it's been people have known about it for the last 72 hours.
+
+Maybe some people claim they've known about it for a month.
+
+But people have known about it.
+
+The patches came out this morning.
+
+People have to get busy and start fixing this stuff.
+
+So I'm pretty sure there's lots of places people are focused on this.
+
+We pushed patches out in our product.
+
+Other cybersecurity companies have also been pushing patches across their product.
+
+So we are all trying to secure the estate that is being protected by all of us.
+
+But yes, a lot of people ought to go back and go fix this stuff if they're not using the right cyber tools or they haven't bashed the pHB issue.
+
+What about what about these the actual process when a vulnerability is discovered? This one was discovered in August.
+
+Talk about the dynamic where like you want to let the maximum amount of people know about the issue so they can fix it.
+
+But the more people that you let know about it, the greater likelihood that there's a leak and it gets into hands of bad actors.
+
+What are best practices around navigating this?
+
+There's clear rules of engagement in the industry.
+
+The clear rule of engagement is if you find something,
+
+the first rule is you've got to tell the person whose code it is.
+
+You've got to go back and tell them that, listen,
+
+I found something wrong in your infrastructure product or your software product.
+
+Here's a chance to go fix it.
+
+So you find it in SaaS software.
+
+You call the company.
+
+You find it in stuff like this.
+
+You go call the authors or the owners of the protocol to make sure that they have a chance
+
+to take a look at it.
+
+fix it because you finally want them to patch it, right? You don't want to boo an aftermarket
+
+patch because that would just create all kinds of collateral damage and consequential damage.
+
+So you start by exposing it to the people who are the owners. The owners will take a look at
+
+it. They'll find out a way to patch it. It's a lot easier if it's a software patch, to be honest.
+
+The best problem to find is one where I can push the patch. So if I'm running a SaaS company
+
+and you find something in my software, I can push the fix. It's gone. Nobody finds out.
+
+There was vulnerability. You push to fix. It's fixed. It's fixed.
+
+nobody's going to get in.
+
+The next set is where you have a piece of software, I use it, you can patch it, but I have
+
+to deploy it because I don't have the ability to push yourself, which is kind of this case.
+
+They can put the patch out there, but they can't push the patch, right?
+
+We have to all go take it, embrace it and deploy an infrastructure.
+
+That's the second, which makes it a little harder because not everybody's aware of them using
+
+this protocol, not every long-tailed website in the world is going to be aware of this has
+
+happened.
+
+Even though this has got widespread awareness, I'm sure.
+
+there are lots of people who have no idea this is going on.
+
+So there's that problem.
+
+I think the hardest ones are when you find availability in a box as a piece of hardware.
+
+Now it's even worse because you have to go build a batch and I can't even push it.
+
+I can't deploy it.
+
+The customer has to go test it, then deploy it.
+
+So that's kind of the degree of complexity of getting these perpetrated or diffused.
+
+But as I said, there's a certain protocol.
+
+You tell the owners, then you go inform certain parts of the government,
+
+depending on how critical, how important it is.
+
+And then you go talk to the industry and let the industry know,
+
+for example, we found out with 48 hours of spare,
+
+allowed us to go build all the tooling that is needed to go push the patches out.
+
+So there's a protocol.
+
+The problem is time is time lines are compressing, right?
+
+This is you don't have that much time, go fix these things.
+
+That's going to happen worse and worse.
+
+So I think there will be a time where you won't have the luxury of weeks
+
+to be able to go figure out if this is real or not.
+
+You'll find out in the morning when you wake up that somebody found a big vulnerability.
+
+and they posted it out there for everybody to see.
+
+It's scary.
+
+Do you think that...
+
+It's the sound of revenue, Jordy.
+
+What's that?
+
+It's the sound of revenue for the cyber security.
+
+It's a sound of revenue.
+
+No, it's a good time to be in your business, even though it's scary.
+
+Do you think that, you know, historically, like, cybersecurity specialists or IT people were, like, some of the last hires that a scale up would make?
+
+Not anymore.
+
+Yeah.
+
+think it's, do you think it's time for like, you know, the, the, somebody in that sort of category
+
+to be like the 15th hire if you're a company that's scaling up quickly?
+
+Look, I think, especially if you're building an AI business, I think that needs to be
+
+part of your early hires, because AI as a technology has not even built the hooks that are
+
+needed to make sure you can observe it and you can secure it.
+
+So you need to be very clear that as you're building the capability, I'm sure you heard recently one of the AI companies got breached because they hadn't thought about security at all as a concept.
+
+So there are many AI companies that are out there that are being built that are not putting any harnesses or any guardrails around how this stuff's going to happen.
+
+On top of that, the complexities that these AI models have their own brains.
+
+They're all reasoning models so they can actually be deceptive on purpose.
+
+if they want to.
+
+So it's not just normal cybersecurity.
+
+You actually have to build capability.
+
+It says, how do I make sure this agent acts
+
+the way it's supposed to act without,
+
+even if nobody's looking at it?
+
+On the topic of personal agents,
+
+what new security challenges are you seeing
+
+or are your customers thinking about now
+
+that clearly consumers want to be able to use, Mews?
+
+You mean you haven't given your bank account details
+
+and the details on access to your email and everything to your personal agent yet?
+
+I can't say I have, but people are.
+
+You know, you can get, if you want to give all your data to a new AI agent,
+
+sometimes they'll offer you a free slice of pizza in exchange.
+
+Wow, amazing.
+
+It's definitely a trade to make.
+
+But, but yeah, how are.
+
+I'm curious, why haven't you given it, you or Tyler,
+
+or why haven't you given access to your bank account, the ability to send wires and
+
+respond to your emails just to your personal agent yet?
+
+It's funny because I used to get so annoyed that I'd have to go in and go into a branch
+
+and approve a wire or take a phone call and do a wire.
+
+And now it's like so obviously a feature.
+
+And now you're happy.
+
+Yeah, yeah, yeah.
+
+Now you're happy.
+
+Did you have to take the phone call?
+
+You wonder, oh, my God, please call me before you send that wire.
+
+Yeah, exactly.
+
+No, but how are your, like, are Fortune 500s?
+
+Like, it seems like they're basically just saying, like, sorry, no.
+
+Like, we've made our products, like, extremely efficient and we care more about security than saving you, you know, 20 seconds.
+
+Like, certain companies...
+
+I think the big challenge that you have, and we can abstract that beyond just a personal agent part, right?
+
+Look, first of all, we know that the personal agents are still, we're not fully tested in terms of what they're able to do.
+
+And I don't think we're any amount of us is ready to give access to a personal agent where it could indulge in a non-reversible act or something that you care about, right?
+
+If it books the wrong restaurant, fine, okay, I'll deal with it.
+
+I'll have to go figure it out myself.
+
+If it possibly books the wrong airline ticket, it's inconvenience, it's irritating, you'll never do it again.
+
+But you're willing to take the financial outcome of that.
+
+But if you send a $100,000 wire, you don't really want that to happen.
+
+So there are certain, that I'd say, boundaries right now that person.
+
+agents where people do not want to get them access to certain actions or tasks.
+
+I said, this is giving AI arms and legs.
+
+You don't want to do that just yet.
+
+I think on the enterprise side, people are not ready at all.
+
+I mean, I heard that a bunch of banks don't want you connecting their bank accounts to personal
+
+agents because who's got the liability, right?
+
+If $100,000 vanishes from your bank and you had empowered your personal agent to do it,
+
+the banks are saying, listen, don't look at me.
+
+I'm not going to take the liability of their wire transfer going out because your agent did it.
+
+So I think there's a bunch of stuff that needs to get resolved,
+
+a bunch of trust that needs to be built and comfort that needs to build,
+
+explainability, auditability before those things become commonplace.
+
+Yeah.
+
+Are your customers increasingly asking you about, like, open source models as defense,
+
+or are they focused on trying to get into these invite-only frontier lab programs
+
+where they can get the models?
+
+How are you thinking about, like, open source?
+
+I think there is an argument which is in favor,
+
+of open source and open weight on two counts.
+
+One, open source and open weight models
+
+allow you to inspect the chain of thought.
+
+So if you're trying to deploy an enterprise model,
+
+you want to be able to see
+
+why is the model wanting to do something?
+
+Because every company has some obligation
+
+of explainability and auditability and verifiability.
+
+It's not okay to go to your board to say,
+
+I don't know.
+
+AI did it.
+
+That doesn't work as a defense.
+
+You pretty much will get fired.
+
+So if you're going to deploy AI in a responsible way in a company,
+
+I think you have to be able to inspect the chain of thought.
+
+And the only models that allow the inspection of chain of thought today
+
+are fundamentally open source open weight models.
+
+I think that's a bigger argument in the favor than other arguments that we've heard.
+
+I think the second argument you're seeing right now is that open source models are effectively free.
+
+But I think that's a bit of a fallacy because even if you go get yourself an open source model and train it
+
+or open weight model and modify the weights to your product or your,
+
+application, you still got to go find compute.
+
+And right now, the gating factor is compute and the cost of compute, which is kind of you're
+
+seeing that on the cost of tokens, which is the current metric in the frontier labs and
+
+seeing that it is a metric on the open source side.
+
+So I don't know if there's much of a difference in the models when you deploy them fully
+
+into your infrastructure or the cost of deploying an open source model is marginally
+
+lower than the cost of tokens we're going to have to pay are a friend of the frontier
+
+labs.
+
+But I think as compute costs rationalize or normalized, you'll see that difference a bit more stark.
+
+Last week, everyone was worried about AI demand.
+
+This week, everyone is excited about how much, how many gigawatts are coming online in 2027.
+
+The two things, it's kind of interesting to me that someone can be worried about demand last week and then excited about new supply coming on the market.
+
+I think there are different people, though.
+
+Yeah, they are. They are. Hopefully they are. Or they're schizophrenic.
+
+But how are you, how are you processing that, right? Like people want to basically attach a number to the, you know, tie revenue potential for new gigawatts in 2027 to current spot prices. And I think if you want to do that, you have to assume massive capability increases, which I don't think there's any reason not to. But what, what, what,
+
+What's your view?
+
+I think if you have to look at it two different ways, right?
+
+Look, there seems to be more demand than supply at the moment.
+
+If you try to get yourself compute today, whether you get it from a hyperscaler, you get
+
+it from some of the neoclods, it's expensive.
+
+It's a lot more expensive than it was two years ago.
+
+So that's clear, you only see expensive computing people willing to pay that price if there's
+
+a shortage of supply.
+
+So clearly there's demand.
+
+There's no indications out there that tell you that the demand is about to abate.
+
+I think we're in the flip-bone version of the mobile phone revolution, if that's the right analogy,
+
+or we're sending emails to each other, we're excited, and the Internet has just come about.
+
+So I think we're in that stage of AI in terms of the diffusion of the technology and the capability of the technology.
+
+So there's no doubt in my mind you will see insatiable demand in the next time to come,
+
+and you can decide where you want to put a pin.
+
+The challenge right now the market is trying to get a sense of this is the economics of this are different, right?
+
+But people are trying to figure out, is there enough money that some of these people can find
+
+to be able to fund that capacity build out that is needed to satisfy this demand on this side
+
+and how many business models are going to survive?
+
+And that's fine.
+
+That's normal in any technology cycle of this scale and this degree of enthusiasm.
+
+I won't call it bubble.
+
+The degree of enthusiasm is seeing around it.
+
+And all kinds of business models are being tried.
+
+Some are going to survive.
+
+Some are not going to survive.
+
+I think the concern the market has is which ones are going to survive, which ones are more stable
+
+in the long term, which are not.
+
+And where will the profit pools move?
+
+The profit pools today are solely in the hands of the infrastructure players.
+
+You see the memory guys and the chip guys are getting the profit pools because that's the
+
+one that's the gating factor.
+
+Tomorrow is going to be shell power and land because you suddenly say we've got enough chips
+
+but we can't seem to find enough data center side.
+
+So profit pools might start balancing between infrastructure and them.
+
+And eventually if some of the larger AI businesses have to succeed in the long term and sustainable
+
+business models, they have to be able to.
+
+have to be able to partake in the profit pools, otherwise they end up just being a passed
+
+through to the profit pools of infrastructure. So I think all this stuff will evolve over the next
+
+three to five years. However, I think there's no question that there is going to be insatiable
+
+demand for the next three to five years. And that's what you've got to balance.
+
+We'll leave it at that. We know we're over. Thank you for jumping on. And thank you for all
+
+the work that you and the team are doing. And we enjoy listening to the sound.
+
+You can say thank you for your cyber service. Thank you for your cyber service.
+
+Thank you. Nice to see you guys. Yeah, great to see you. Good luck out there.
+
+Dialing it in. Boom, there he is. He brought the milk as that as usual. It's a big, is that a bigger jug this time?
+
+No, it's actually empty. Last time, here you'll recall, I came with a lot, and,
+
+Well, we finished it coming up to this round.
+
+The new shipment is coming in.
+
+We're going to have a few more gallons for the beat.
+
+There you go.
+
+Aiden, it's great to see you.
+
+Tell us about as much as you can about the progress you've made since the last round.
+
+What's the one simple trick that the big labs hate that you've discovered?
+
+No, I'm just kidding.
+
+What's new?
+
+What's new?
+
+Well, so much.
+
+I mean, first of all, when the seat was raised,
+
+it was three guys in a trench coat.
+
+We're like 25 now.
+
+The team is incredible.
+
+I'm so grateful every day to work with these folks.
+
+I mean, the town's entity is off the charts.
+
+It's very nice to walk in every room and be like the worst guy in the room at half the things.
+
+It's been a real privilege.
+
+It's good feeling.
+
+And part of having great folks means that you develop really great IP,
+
+and you're able to do things that I frankly would not have thought possible before I thought I'm done.
+
+The most credible place in advancement, if you look on the internet,
+
+is the system's work we've done.
+
+If you see our megachronal work,
+
+you'll probably be delighted if you know anything about GPUs because I guess my comaturer Ben
+
+basically invented the mega kernel for yeah like he wrote the paper you should go go read it
+
+he wrote the paper and in the time since he wrote that paper they've gotten kind of popular you
+
+might have seen on Twitter lots of people saying oh mega girl this make a colonel that what I've gotten
+
+to see is Ben reinventing the mega kernel again and this time there isn't really a paper but
+
+there is a lot of evidence in our reports and I guess in the receipts of the actual models we're training
+
+and the work we're doing as a company, showing that when you do not just think of a mega kernel as a singular entity for given model and one way to speed up a given workload, but as an actual framework and a way to speed up arbitrary workloads and even, you know, create a control flow of really diverse kinds of models and architectures and optimizers and things.
+
+You can actually run things on GPUs that people thought really were not possible.
+
+And so this is kind of at the heart of a lot of our alpha.
+
+We're really a systems first AI lab.
+
+We view our alpha as being that we actually just like think about how GPUs work.
+
+and then we built everything on top of that.
+
+Our post-training team sits in the same team as the people who write the kernels,
+
+and I think that the kind of architectures that we've converged on really reflect that.
+
+Very cool.
+
+What's the news today, if for anyone that can't read?
+
+Well, the big news is the billion-dollar series A.
+
+Was it a billion or 800?
+
+I thought I read 800.
+
+You may have seen in the news that was 800.
+
+There was a lot of demand.
+
+The price actually went up a little bit.
+
+Wow, best went up.
+
+Price went up.
+
+We would like to take more money, but frankly, we have a lot to do with this money first.
+
+Good problem to have.
+
+We never have enough place.
+
+What, how are you, like, over time, do you see, do you see flapping airplanes as being, like, sort of chip agnostic?
+
+Like, would you work in the sort of TPU ecosystem, or is there enough work to do in the NVIDIA ecosystem?
+
+I mean, there's lots of great chips out there.
+
+Frankly, we think that GPUs are uniquely powerful.
+
+actually. And we think that a lot of the AI work into the future will really be especially
+
+effective on GPUs because GPUs have this ability to be really dynamic. Like I said, a lot of
+
+our compiler work is cool because it means you can run these workflows which are not just like
+
+Matmo, Matmo, Matmo, but are a lot smarter and more creative. And I think that as kind of our
+
+size starts to take off, you'll see that the power of the GPU is that it can adapt with
+
+the intelligence of the underlying architecture and things. What is your like current relationship
+
+with a lot of these terms like data efficiency or, you know, continual learning?
+
+Do you think these terms are still, like, useful in a sense?
+
+Or is it all just kind of like describing the same thing, which is like make the model better and faster and cheaper to run?
+
+Well, it does all gesture towards just make better models.
+
+But I think there is something really credible to that.
+
+And I think that we really do need fundamental advances in data efficiency.
+
+Because there's when you break down the economy, the section of it that's making a lot of progress right now,
+
+all this really highly verifiable software side of stuff where there's infinite data.
+
+And then there's the rest of it.
+
+This just, you know, $30 plus trillion of other labor and things that, frankly, the model today,
+
+suck at and don't even seem close to penetrating.
+
+And I, as a developer, I'm really excited because I see that my individual confidence writing
+
+code is no longer that useful.
+
+But I still can lift boxes with the best of them.
+
+I actually kind of would rather refute you where my job is not a ditch digger.
+
+I hope neither you are either.
+
+And I think that we want to build algorithms that really...
+
+Box lifter, ditch digger here.
+
+That's really offensive.
+
+Now, continue.
+
+Yeah, I think that AI really should be a tool to let people go and think about things they want to think about and empower people.
+
+And it's sort of a shame that AI's first come for these things, which are more intellectual and gratifying versus these more banal things, which we seem to have not cracked in this really, really strange Morvex paradox kind of way.
+
+How are you, like, how frustrated are you with how current models are just not, they can, they can do tasks, but
+
+they don't, they can't generate like new ideas, right?
+
+When you look at any AI output, it's always because there was a smart or a funny human
+
+that put a couple ideas together, had some sort of unique vision, and then they told the
+
+model to do it.
+
+Like, where, how far away are we from, from models that can, then, in your view, that can
+
+generate, I don't know if there's any truly novel ideas in a bunch of domains, but
+
+there's still just like this main, that's the frustration that I have.
+
+Because I've, I've been delighted every single day by AI outputs in different ways,
+
+but it was always because of a smart human.
+
+And as great as humans can be, I want to like scale that generation of new ideas.
+
+Yeah, I mean, I think the big labs are making great progress on this.
+
+The models are getting a lot smarter.
+
+We certainly have made immense progress on very creative ideas in places like mathematics or
+
+places where you really can kind of just go search.
+
+this tree of possible idea space.
+
+You might say there's no such thing as a new idea of mathematics.
+
+It's all just axiomatic.
+
+Well, actually, no, there's lots and lots of things where if you piece these things
+
+together in creative ways and kind of redefine your terms and come up with new ways to go,
+
+you have these new ideas in essence.
+
+I, however, am really bullish on new algorithms unlocking models that think in very different
+
+ways.
+
+I think that one thing that brings a lot of flappers together is that we all are a little
+
+bit odd in that we don't just think this one linearly linear way.
+
+This is the only thing that can be true.
+
+Here's how this stuff works.
+
+We actually kind of willing to go off the beaten path.
+
+Likewise, I think that models can be pushed in this direction if they're trained on more limited data.
+
+If you look at why all the models talk the same way, I mean, the cloud glitch and all the Chinese models maybe being an especially notable version, it's because they're trained to the same data.
+
+I mean, frankly, even like one cloud to the next cloud, it's still just a lot of the same traces from last time, the good rollouts, the things that save you a lot and compute, but mean your model just becomes more and more pigeonhole into this thing, which is kind of a parody of itself.
+
+But if you really do build data-difinal algorithms and you can train models that are as smart as you and I with the same amount of data that you and I have, then they can think in a little bit weirder ways. They can make inferences off of more limited data.
+
+Do you think different architectures can solve this kind of like ever-increasing spikiness of the models, right? This is kind of what Diori said earlier. But like the models are obviously incredible in math and, you know, still at writing jokes. I think there's been almost no progress.
+
+Is that an architecture problem?
+
+This kind of like spikiness?
+
+Is it inherent to doing a ton of post-training
+
+after you do this big pre-train?
+
+As you describe, I think it's more of an algorithm's problem
+
+for some of these things where really you're able to optimize the model
+
+in the place that are optimizable.
+
+There's this kind of street lighting where,
+
+oh, I can see this is right or this is wrong.
+
+Let's push that down.
+
+Let's push that up.
+
+And so the model becomes really, really well calibrated
+
+on what correct math is or what code that works looks like
+
+and still can't escape the cloud basin
+
+where it tells you about how load-bearing that is.
+
+I think that there is some evidence of this being an architectural thing.
+
+And so far as architectural advancements have made models generalized better,
+
+like if you go and look at the literature for the five years,
+
+you'll see that as you've made all these little tweaks to the architecture to make it better,
+
+the models generalized better, have more interesting properties,
+
+maybe are more interpretable.
+
+There's all kinds of nice things downstream of that.
+
+And I sincerely hope that substantial revisions in our architectural work
+
+will actually make that even more of the case.
+
+But as far as the frideness of modern models,
+
+I think that's mostly downstream of the post-training.
+
+Yeah, essentially the thing that the line is,
+
+that stood out to me is like models that think different because the like right now every model is just like
+
+thinking like the most logically that you possibly could right and and that's like so great for all these
+
+tasks and then when you think about like the great moments and like human creativity and the and the arts
+
+and even like marketing and advertising it always came from somebody seeing something a slightly
+
+different way and maybe doing something that wasn't at all logical and so
+
+It's interesting to, like, have this.
+
+I think we're going to have to sort of like carve out and identify what, what intelligence,
+
+what is this category of intelligence that's not logical, but creates amazing outputs and can can lead us to amazing things.
+
+I guess you're talking about thinking differently, you know, models that don't take your jobs, models that Steve jobs.
+
+Yes.
+
+Good one.
+
+Good one.
+
+What, uh, are you guys going to hire?
+
+some new people. You've got some... Oh, absolutely. If you're looking to this and you're a creative
+
+researcher who thinks a little bit more oddly and frankly, just believe in yourself, does not believe
+
+the end of history has come for AI. Reach out. We are always hiring wonderful folks. I have
+
+been impressed at the bar for talent has just gone up over time and that every day I get to come in
+
+and spend time with some of the greatest folks I know. Soon you're going to be the dumbest person
+
+in the room in the room in every room of the office and you're going to be the happiest, happy as a guy.
+
+I would love to be dumber than you in that room. So please come. Make you feel that. Amazing.
+
+Great to see you. Great update. Excited to see more of your guys work. Awesome progress.
+
+Cheers.
+
+CrowdStrike secures AI and stop breaches.
+
+Well said, Tyler. Well said. Let's bring on our next guest. Here he is. What's going on?
+
+Welcome to the show.
+
+Hey, Jordi. How are you? A long time no C. I think a year and a half ago in a little bit of a different capacity. So great to see you. Tyler. Welcome, I guess, to your first.
+
+Yeah, welcome to the show. Yeah, Tyler's filling in today, but he's doing a fantastic job, and we're excited to have you on the show.
+
+Thank you, you as well. Thanks for having me.
+
+Well, let's get right into it. Introduce yourself and the company, and you already know that we have a gong that we will inevitably hit.
+
+That's right. Yeah, so I'm Akeel. Originally from Buffalo, was fortunate to serve in the Marine Corps for a while, left active duty, and over the last 18 months have helped build Watchtower Labs.
+
+with an awesome team.
+
+And to the gong,
+
+are coming out today
+
+with our $35 million round.
+
+We're not in capital,
+
+Sarah Ed's Conviction,
+
+trade founders,
+
+and Incuitals.
+
+So we're excited.
+
+Not just getting started here.
+
+We're certainly not the prior speaker
+
+nor the one that's upcoming,
+
+but we're excited we're at right now.
+
+Amazing.
+
+Talk about the company,
+
+what inspired it,
+
+and where you're going.
+
+Absolutely.
+
+Yeah.
+
+So actually about the time
+
+I came on the first time a year and a half ago. We were just starting to have a conversation
+
+with some senior military commanders who, like many, recognized that the federal government
+
+in the military world could be supercharged and accelerated by superintelligence.
+
+And we were fortunate to come on a problem, which was specifically, how do you help military
+
+planners and decision makers anticipate and think about the future?
+
+Using not just AI, but simulation and a combination thereof and make it easy for planners to think
+
+about it as easy as possible, knowing that the complexities can abound. What happens in the Middle
+
+East, what happens to our supply chains, et cetera. And the ask was, let's specifically focus on
+
+logistics and supply chain constraints, because in this day and world, a lot of the constraints
+
+associated with what you can do in the future are bound by our supply chain challenges. And so we
+
+went off and built a platform that can help military planners think about the future, simulate
+
+a distribution of outcomes going into the future and ultimately help them make better decisions
+
+in both conflict, competition, and crisis.
+
+What, how do you, how do your customers actually like how we're moving into a world where you can
+
+simulate an infinite number of possible futures like how does the process of like prioritization
+
+work and and can we can we move to a world where where where
+
+a black swan is impossible because it's already been simulated and modeled and prepared
+
+for it to some degree. Yeah, you know, my prior pass in the military always tells me that black swans
+
+are possible. I mean, there's just so many things, right, that could happen. The most important thing
+
+is allowing planners and folks to just think about it. There's a classic General Eisenhower quote
+
+from World War II, right, which is plans are nothing but planning is everything. The actually
+
+most important thing is being able to congregate around some sort of tool with real people to think
+
+about what all the potential options could be. There's a running joke in the military generally that
+
+when you plan for a future operation, you usually present three options. It reminds me of some of
+
+the Simpsons vignettes. You present three options. And really, most people just worked on the first one
+
+because they didn't have enough time to work on options B and C. And so you present option A is
+
+the best one. But if you have a simulation tool that make and uses natural language to reduce
+
+the barrier to create those, you can actually have realistic courses of action A through Z that think
+
+about a bunch of disruptions. Think about a bunch of what if factors. Again, think about what's
+
+happening in the role. Think you just had Nikashan, there's a cybersecurity attack somewhere.
+
+What does that actually do to our ability to flow logistics to a certain place? Do I know what's
+
+going to happen? Maybe, maybe not, but I at least need to plan for it. How much do you, for
+
+Frontier models accelerate the ability to make good plans.
+
+Like I can imagine on some level, like, you know, the models of a year ago can, like, find information very well.
+
+And, like, current models can do some incredible, you know, math problem or whatever.
+
+But, like, maybe they're actually not that much better at, like, finding, you know, a bunch of, like, data online or somewhere.
+
+Are the new frontier models, like, constantly making these, you know, plans much better?
+
+Or is it kind of leveled out?
+
+Yeah, it's an awesome question, Tyler.
+
+It's something that our AI team spends so much.
+
+time on. And with the added complexity, right, that we're working with the government. So think about
+
+the types of models that are deployed to the networks that they have, the inability to access
+
+data. You actually have to do a lot more, like the models can do a good deal, but let me give
+
+you an example, you know, our engineering team. They worked on, they worked on co-pilot at Microsoft
+
+saw some of the challenges early on with deploying, you know, AI in that, in that world.
+
+We've spent a lot of time developing an in-house simulation tool.
+
+to be able to connect a frontier model, be able to build a harness that is most effective for it,
+
+and then actually run that simulation. And then on the back end, be able to output something
+
+that is interpretable by your everyday users. And so I guess the short answer to that question,
+
+Tyler, is it is definitely accelerated in some places, but it is staggered a little bit
+
+because of what the infrastructure can provide and some of the uniqueness of the customers
+
+that we're deploying with. How have you been building out the team?
+
+like how much of the company is in D.C. area versus the rest of the country.
+
+You know, most actually, Jordy is not in D.C.
+
+We also, most of our core engineering team, you know, a year and a half ago was Bay and
+
+mostly Seattle-based.
+
+And then as we started to get with our customers and users, we absolutely built out.
+
+So actually, we have D.C. now, obviously, the Bay in Seattle and Hawaii as well.
+
+So not a bad place to be at certain times of the United.
+
+That's a talent play right there.
+
+If you want to work in Applied AI from Hawaii, you don't have that many options outside
+
+of Watchtower.
+
+That is very true.
+
+I have some friends that I'll pass this too, that I'm sure would love to join.
+
+But amazing progress since the last time.
+
+Congrats on the new round and looking forward to the next one.
+
+Absolutely.
+
+Thanks, Jordi.
+
+Thanks, Tyler.
+
+Cheers.
+
+ShopFi is the commerce platform.
+
+that grows your business and lets you sell in seconds online, in store, on mobile, on social,
+
+on marketplaces, and now with AI agents.
+
+Nailed it.
+
+Here he is.
+
+Hey, guys.
+
+How's it going?
+
+Dude, great to see you.
+
+We always have a ton of fun when you come on.
+
+It's like you're...
+
+The time sequencing is getting shorter and shorter.
+
+We should just schedule tomorrow already, just in case a new round happens between now and then.
+
+Yeah, I guess tell us about the progress that you made in the last like two weeks or however long it's been.
+
+Well, what's been really fun is, you know, I went on this adventure with our CFO to meet another type of investor in this round.
+
+Yeah.
+
+We ditch the VCs.
+
+We didn't want to date them anymore.
+
+And we met with the institutional investor, with fidelity, with, you know, barren capital, with capital.
+
+with Capital Group.
+
+And it's been a really enlightening experience in terms of, you know,
+
+what do these really long-term shareholders look for?
+
+And I think it's helped us not only internally, but also externally,
+
+sharpen that story and think about how we play the long game here.
+
+We want to be the partner and the platform where all legal work runs on,
+
+and that needs to be taken in a very long view.
+
+And so I think that has been a fun new example.
+
+experience for the company as we start to grow up.
+
+I, uh, a buddy was telling me a funny story, which he's brought on some of these, uh,
+
+kinds of investors that, that you were just describing and they don't have the same, um,
+
+they've taken a slightly different approach to communication post investment where
+
+they'll reach out like multiple times a day being like, Hey, do you have five minutes to chat on,
+
+on like this thing and like they're very like, you sort of lose that like, you know,
+
+founder first.
+
+like service mindset at times.
+
+And it, and it just transitioned.
+
+So like, I'm a shareholder.
+
+I'm going to call you any hour of the day.
+
+And you're going to, you're going to answer all my questions.
+
+Yeah.
+
+I mean, it's fun, right?
+
+Like when we were talking to VCs for the previous rounds, it was a lot about them
+
+selling us.
+
+Yeah.
+
+Like, you know, why should we pick you over them?
+
+And this time around, you're talking to people who have access to the entire public markets
+
+and basically every investment that they want.
+
+So it's a bit of a reverse.
+
+Totally.
+
+reverse out.
+
+How is a legal AI market different than the coding market?
+
+Because I think everyone watching and everyone in tech is well aware of how companies adopt
+
+these tools, how they deploy them across organizations, willingness to use a bunch of
+
+different tools.
+
+I mean, I was an engineer.
+
+I think I was the worst engineer, and that's why they made me CEO out of our founding
+
+trio.
+
+But we look to software engineering a lot for our inspiration, right?
+
+And I think the main difference is that in engineering,
+
+the individual practitioner is like just always trying new things.
+
+And they're sort of like leaned in to an extent where it doesn't matter if it's wrong.
+
+You can vibe code it.
+
+And, you know, the products get better over time and that's okay.
+
+In law, you're not allowed to vibe draw.
+
+You can't vibe research. It has to be correct. And the verifiability of the product is very different. You can compile the software code. You can write the tests. And if it passes all the tests, we're good. In law, it doesn't really work that way. Because you don't know that you're wrong until you're very wrong, or unless a senior person in the organization can take a view on that work. And so the degree of adoption is accelerating exponentially.
+
+But it's doing so at a more, you know, careful rate.
+
+And sort of the degree of let's totally live this out to an agent is moving slower in legal than it's moving software.
+
+I think that's for a good reason.
+
+It sort of hurts us when, you know, some uncareful lawyer uses chat GPT and it hallucinates a case and it makes it into the financial times.
+
+That's not good for what we're doing either.
+
+And so I do think that the change management is just larger in this practice than it's
+
+been with software engineers.
+
+How are small law firms or single person operations adopting AI differently than some of the
+
+bigger firms?
+
+Because it feels like the big firms are like, all right, we have these amazing businesses,
+
+we have tons of associates, we maybe have, you know, it's constantly trying to find
+
+that balance between having enough people but not having too many.
+
+But generally, like, rates have outpaced inflation and it's been a great time to be a lawyer.
+
+Whereas, and so when they adopt AI, they're like, well, we need to show that we're forward
+
+thinking and that we really care about innovation and all these things.
+
+But that's quite a bit different than, like, an independent lawyer who's just like
+
+Well, it's helping the small firms and small in-house teams take on substantially more work and do substantially more complex work than they were able to before.
+
+Take a big litigation as an example.
+
+If you have a big litigation matter, typically you would need an army of associates to help you come through all of that documentation and actually take on that case.
+
+Now, a smaller firm can do that with the help of software.
+
+And it's been one of the fastest growing parts of our business.
+
+In this next quarter, more than half of our incoming business is also from enterprise.
+
+So from legal departments like Salesforce and BMW.
+
+And what's exciting about that is those internal legal teams want to do more.
+
+And they're seeing more claims.
+
+They're seeing more litigation.
+
+They're seeing more M&A activity.
+
+And now there's an opportunity to review every type of contract.
+
+And so what's been fun for me is it's like,
+
+everybody gets to come in on the fund.
+
+Like the Lagora party tent is very large and we can fit everybody under it.
+
+And those maybe smaller practitioners now have access to the same tools that the bigger guys do.
+
+And so it's really a battle of your intellect and of your experience and your expertise and all the other traits that make up a great practitioner rather than do you have access to an army or, you know, an army or, you know,
+
+tools that are otherwise locked behind very large paywalls.
+
+That makes sense.
+
+How do you think about our last guest was on talking about simulation, using AI to simulate
+
+different scenarios for military planning.
+
+How much do you guys think about simulating litigations?
+
+Is that something that?
+
+I think it's super interesting.
+
+And I actually love the work that happened on the Navier-Stokes math problem of opening.
+
+I think that is a great example of what if you take really smart bottles, you hook them up,
+
+you allow them to communicate, and you throw them at a really hard problem, and you just like let them cook.
+
+Yeah.
+
+Can you do the same in litigation?
+
+Super interesting question.
+
+And can you, especially in the state.
+
+There's so many different factors.
+
+It's like, okay, you have the two parties of litigation.
+
+You have each lawyer on each side and all of their history.
+
+You have the judge in a certain jurisdiction.
+
+and then all of the precedent associated with it.
+
+And it feels like you can get to the point
+
+where you can throw $50,000 of computed something
+
+and be able to make decisions that are going to cost millions
+
+or even billions of dollars.
+
+Right.
+
+If it's about the company litigation,
+
+you're willing to spend a lot more than $50,000 to make that work.
+
+And the growth that we've seen this year
+
+has also been fueled by rapid expansion
+
+inside of enterprises to new teams.
+
+So we've been very, very focused on law.
+
+That's why we got Jude Law.
+
+But it's also now getting moved into compliance, into tax.
+
+And we're getting pulled into new adjacencies
+
+inside of the enterprises because they're getting jealous
+
+of all the fun that the legal teams are having.
+
+How much utility have you guys gotten out of benchmarks?
+
+A lot of times we see these new models come out,
+
+especially some of the open source models,
+
+and they always have very good benchmarks on the legal scores.
+
+And I'm wondering, do you find these to be very, like, benchmarks or something?
+
+Or do you find those, like, public legal benchmarks, like, actually do apply very well to these kind of internal tasks?
+
+I don't find that the external benchmarks are very good.
+
+Like, here is our version.
+
+I don't know if you can see my screen.
+
+We just published our own benchmarks on this.
+
+And I think it's been a really interesting exercise of building up this internal library of use cases
+
+together with the law firms and practitioners that we've worked.
+
+with. So we built up over 5,000 real sort of life tasks. And what you can see is it's a very
+
+jagged frontier. Like different models are good at different things. And so if you want to optimize
+
+across this entire, you know, figure, you basically need to work with different models under the hood all
+
+the time. And you need to be able to swap them out really quickly, especially when the underlying
+
+model layers is moving so quickly. We need better benchmarks in legal. Part of this is, you know,
+
+our IP and being able to route the models very effectively is like super core to the
+
+Lagora IP under the hood.
+
+And it also allows us to make the car much more efficient.
+
+Like for every token, we are significantly more efficient than any of the frontier labs
+
+and our competition because of how we route with the models and we deliver the same,
+
+if not better performance.
+
+I believe you raise the money.
+
+Hit the gong and then I'll have one more question.
+
+It's time.
+
+What was the number?
+
+What was the number?
+
+We need the number.
+
+550 on 8-8.
+
+Let's go.
+
+Oh, thanks.
+
+A powerful number.
+
+We need a bigger sales gong in our office now.
+
+I feel a bit like gonged by you guys.
+
+Yeah, yeah.
+
+Well, we have all the, our supply chain is dialed.
+
+But great to see you.
+
+Amazing progress and looking forward to your next appearance.
+
+We'll get it on the schedule for next week.
+
+Thank you.
+
+Cheers.
+
+Thanks for coming on.
+
+Oh, that was a little slow.
+
+Codex is a powerful workspace for getting work done with AI agents.
+
+Whether you're writing code, analyzing data, creating content, or automating business workflows,
+
+Codex helps you move projects forward from start to finish.
+
+Matthew Zeitland says the American capital markets are the eighth wander of the world.
+
+And he's quoting the economist.
+
+And it says, in the past year, American markets have digested the largest ever initial public offering, SpaceX.
+
+equity raised by a public company, Google, or a foreign firm, S.K. Hinex, private funding round,
+
+Open AI, and private debt deal, Broadcom, as well as most of the biggest bond issue in history.
+
+Amazon, there was the first $1 trillion exchange traded fund or ETF, Vanguard, a record-breaking
+
+cash pile, Berkshire Hathaway and Stock Buyback Program, Nvidia, and consummation of the largest
+
+ever leveraged buyout, EA. Then there was the enormous mergers and railways.
+
+Union Pacific and Norfolk Southern utilities next era and Dominion energy and media
+
+Paramount and Warner Brothers discovery the last of which led this week to the largest ever
+
+junk bond offering beating a record set only last week by SoftBank new markets have been
+
+created out of thin air for compute or become much bigger for predictions worries about massive
+
+corporate scandals first brands and hedge fund blowups situational awareness which would have once
+
+occupied investors' attention for months are steamrolled by the relentless totalizing an
+
+extraordinarily flexible machine that is American finance.
+
+Let's go.
+
+Want to change the world?
+
+Raise capital to New York's dock exchange.
+
+David Winner says, way better ad read.
+
+You did not sound like a bot that time.
+
+It's all about the inflections and emphasis.
+
+So thank you for the live coaching.
+
+I'm getting better.
+
+Yeah, truly it's been such a,
+
+the other crazy thing about a lot of these deals is like they weren't even the current thing at the time.
+
+Like it was the kind of thing where it would be maybe get a mention on the front page of the journal
+
+or just be buried in the business section.
+
+Big news today, somewhat unexpected.
+
+Open AI models are coming to Google Cloud to frenemies now, I guess, in many ways.
+
+OpenAI and Google strike major AI distribution deal.
+
+OpenAI will bring its frontier AI models, including GPD6 Astro and Codex to Google Cloud in the coming weeks.
+
+Enterprise customers will be able to purchase them through Google Cloud Marketplace using existing cloud spending commitments.
+
+The agreement follows OpenAI's expansion to AWS after its exclusive.
+
+Microsoft distribution arrangement ended.
+
+In other news, OpenAI acquired orchestra,
+
+bio, a platform that helps biopharmar teams coordinate
+
+the complex process of drug development.
+
+Rehendra goes to Open AI, absolutely massive news,
+
+and super excited for the team over there.
+
+Ken Griffin had some comments
+
+yesterday, he said, we're almost certainly in an AI bubble, but that sounds way more bearish
+
+than what he was actually saying. In his comments, he's talking a lot about disruption due to
+
+AI, but also said it would be a golden age of entrepreneurship.
+
+Let's go. So not all bad.
+
+public, invest across all assets.
+
+You missed the button, buddy.
+
+Oh, you hit it.
+
+Automate anything with AI agents, run trading strategies, risk management, money movements,
+
+and modern markets with AI agents for investing on public.
+
+I don't know if this is a serious comment or not, but let's see.
+
+Brian Johnson says, I have an AI agent that logs every negative comment someone makes
+
+about me online.
+
+It then creates a profile of the person maps all of their social connections and finds
+
+all their emails.
+
+tomorrow morning my AI agent will send out an email blast to everyone's extended social network
+
+detailing the horrible things they've said about me and he says just kidding it's not just
+
+to their social network but to the extended network of everyone they know as well I'm for real
+
+just kidding on all of this I thought he would do it I thought that was actually kind of an
+
+interesting experiment just sort of narking on everyone
+
+narking on on on on it's probably millions don't you think it would be
+
+millions of people?
+
+Yeah.
+
+I mean, if you include every Instagram comment, there's, I think there's a long tail of these
+
+things.
+
+Yeah.
+
+Yeah.
+
+Pucco Capital says some years ago I just stopped logging into Netflix and never really
+
+thought about it again.
+
+Honestly, surprised, it's still worth $275 billion.
+
+I read this and I agree.
+
+I think I still pay for Netflix.
+
+I never use it.
+
+I would, it's interesting.
+
+to think about how much you would pay for YouTube.
+
+Yeah.
+
+Versus Netflix.
+
+Like, my willingness to pay for YouTube would probably be in the thousands of dollars a year.
+
+And I would probably take $1,000 in exchange for never being able to use Netflix ever again.
+
+Yeah, I agree.
+
+I mean, so much of the content stuff is hard because now, like, 10 years ago, whatever, you don't have all the competing streaming.
+
+platforms with like, oh, actually my favorite show is on this. So maybe for this month, we'll get
+
+this. And our family, we can move over for a little bit to try this one. I have not used Netflix
+
+in a long time. I think that's a show. I think that's a show. We made it. Oh, WAPP raised
+
+$200 million in Series D funding from Sequoia and Shopify. Very cool to see Shopify coming in as a
+
+strategic and yeah I think that in many ways WAP is the Shopify for a whole new category of
+
+work on the internet and I think Stephen and the team have been pretty consistently underestimated
+
+by a lot of the market but are extremely serious operators and and have shown like
+
+massive ability to like be flexible and evolve with their customers yeah which yeah the
+
+work that they're doing in various forms, whether it's clipping or courses, is constantly,
+
+constantly evolving.
+
+So, yeah.
+
+But that's it.
+
+We did it.
+
+We made it through.
+
+We made it through.
+
+I've always said that if, I wouldn't be podcasting if it wasn't for John, but
+
+nor would I.
+
+Nor would you, nor would any of us.
+
+But, uh, but I'm glad we can do it.
+
+It's good.
+
+It's good.
+
+we can. We're not going to do it again. That's John's last, that's John's last six day,
+
+sick day for the year. So as we head into flu season, just remember John, you already use
+
+your day up. It's over. Any, any final words? You remember what John says?
+
+Follow us on Apple Podcasts, Spotify, YouTube. Subscribe to our newsletter. What else is there?
+
+I think that's it, right?
+
+Can't forget.
+
+Oh, how many days?
+
+Oh, yeah.
+
+What are we at?
+
+64 days.
+
+We're right there.
+
+We're in the final stretch now.
+
+We're in the final innings.
+
+That's it, folks.
+
+Leave us five stars.
+
+Wow, really delayed flash.
+
+We love you guys.
+
+See you tomorrow.

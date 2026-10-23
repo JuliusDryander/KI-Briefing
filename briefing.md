@@ -2,95 +2,76 @@
 
 | Thema | Zentrale These | Person(en) | Quelle |
 |-------|---------------|------------|--------|
-| Cybersicherheit & KI | Eine mit KI entdeckte, schwerwiegende Sicherheitslücke in PHP bedroht einen Großteil des Internets und verdeutlicht die zunehmende Geschwindigkeit und Komplexität von Cyberangriffen und -verteidigung im Zeitalter der KI. | Nikesh Arora (Palo Alto Networks), Tyler | TBPN |
-| KI-Compute & Infrastruktur | Die Nachfrage nach KI-Rechenleistung ist unersättlich und treibt massive Infrastrukturinvestitionen voran, während Elon Musk eine Fusion von SpaceX und Tesla als Weg zur Konsolidierung von Investorenkapital sieht. | Elon Musk (SpaceX), Brett (Arc) | TBPN |
-| Quantenbedrohung | Quantencomputer werden voraussichtlich bis 2030 die derzeitige Kryptographie brechen, was eine sofortige Umstellung auf quantensichere IT-Infrastruktur erfordert. | Arvind Krishna (IBM), Nikesh Arora (Palo Alto Networks) | All-In |
-| KI-Marktdynamik & SaaS | Die KI-Marktdynamik wird von einem Wettlauf um Rechenleistung und der Präferenz für Open-Weight-Modelle aufgrund von Kosten, IP-Schutz und Geopolitik geprägt, was zu massiver Konsolidierung und Disruption im SaaS-Sektor führen wird. | Nikesh Arora (Palo Alto Networks), Arvind Krishna (IBM) | All-In |
+| Cybersicherheit & KI | Die Internet-Sicherheit wird in den nächsten zwei Jahren durch eine Flut von Cyberangriffen, die durch KI-gestützte Entdeckung von Schwachstellen ausgelöst werden, erheblich beeinträchtigt, wobei KI jedoch als "guter Akteur" bei der Identifizierung und Behebung dieser Probleme dient. | Matthew Prince (Cloudflare) | TBPN |
+| Pharma-Reshoring | Warp Sciences baut in den USA robotische Labore, um die Arzneimittelentwicklung durch KI und Robotik zu beschleunigen und wissenschaftliche Fähigkeiten aus China zurückzuverlagern, um die heimische Pharmaindustrie zu schützen. | Kevin Williams (Warp Sciences) | TBPN |
+| Hochleistungs-Energiesysteme | Stelius entwickelt in den USA Hochleistungs-Energiesysteme, darunter Megawatt-Mikrowellen zur Drohnenabwehr und kompakte Fusionssysteme, um Amerikas Führung in diesen strategischen Technologien wiederherzustellen. | Richard Starson (Stelius) | TBPN |
 
 # 🎙 Deep-Dive: Die Kern-Analysen
 
-## 🚨 AI-gestützte Cybersicherheit & PHP 2 Shell
+## 🛡️ Cybersicherheit & KI: Die neue Normalität der Bedrohung
 
-Nikesh Arora (Palo Alto Networks) und Tyler diskutieren eine schwerwiegende Sicherheitslücke in PHP, die mit KI entdeckt wurde. Diese Schwachstelle, PHP 2 Shell, wird als "Log4J-Moment" bezeichnet und betrifft einen Großteil des Internets. Die Diskussion hebt hervor, dass KI die Entdeckung und Ausnutzung von Schwachstellen beschleunigt, was einen Wettlauf zwischen Hackern und Verteidigern auslöst und Unternehmen zu sofortigen und proaktiven Sicherheitsmaßnahmen zwingt.
-
-**Konkrete Details aus dem Gespräch:**
-- Die PHP 2 Shell-Schwachstelle wurde mit OpenAI's GPD5.6 Seoul entdeckt und ist die schwerwiegendste PHP-Lücke seit über einem Jahrzehnt, vergleichbar mit Heartbleed. (Tyler, TBPN)
-- Sie betrifft etwa 70% aller Websites, mit geschätzten 22 Millionen potenziellen Schwachstellen. (Nikesh Arora, TBPN)
-- KI-Tools beschleunigen den Wettlauf zwischen Hackern und Verteidigern, da sie Patches schneller analysieren und Exploits entwickeln können. (Tyler, TBPN)
-- Eine zweite Schwachstelle betraf TLS-Zertifikate von E Mudra mit trivialen privaten Schlüsseln wie "4". (Tyler, TBPN)
-- Nikesh Arora erwartet in den nächsten 6-12 Monaten weitere, noch komplexere AI-entdeckte Schwachstellen und betont die Notwendigkeit von Patches und "virtuellen Patches" (Firewalls). (TBPN)
-- Für KI-Unternehmen ist Cybersicherheit eine der frühesten Einstellungen, da AI-Modelle selbst zur Täuschung fähig sein können. (Nikesh Arora, TBPN)
-
-**🇪🇺 Europa-Relevanz:**
-- Ab Aug 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein (AI Act) – die AI-gestützte Entdeckung von Schwachstellen erfordert eine schnelle Anpassung der Sicherheitsstandards und eine proaktive Risikobewertung.
-- Das Kritis-Dachgesetz in Deutschland wird nach dem Berlin-Anschlag auf das Stromnetz (Jan 2026) neu verhandelt, was die Notwendigkeit robuster Cybersicherheit für kritische Infrastrukturen unterstreicht, insbesondere angesichts AI-beschleunigter Angriffe.
-- EVP Henna Virkkunen prüft im Digital Fitness Check (Konsultation bis 11. März 2026) die Wechselwirkung aller EU-Digitalgesetze, um die Umsetzung zu vereinfachen – dies könnte auch die Reaktion auf solche "Volpocalypsen" betreffen.
-
-## ⚡ AI Compute Demand, Infrastructure & SpaceX/Tesla Merger
-
-Elon Musk (SpaceX) und Brett (Arc) diskutieren die unersättliche Nachfrage nach KI-Rechenleistung und die damit verbundenen massiven Infrastrukturinvestitionen. SpaceX plant einen erheblichen Ausbau seiner Rechenkapazitäten, während Musk eine Wertsteigerung von Compute pro Watt prognostiziert. Die Möglichkeit einer Fusion von SpaceX und Tesla wird als strategischer Schritt zur Bündelung von Investorenkapital und zur Schaffung eines potenziellen 10-Billionen-Dollar-Unternehmens erörtert.
+Matthew Prince (Cloudflare) beschreibt eine drastische Zunahme von Cyberangriffen, die durch KI-gestützte Schwachstellen-Entdeckung ausgelöst werden. Er betont, dass KI dabei nicht der "Bösewicht" ist, sondern ein entscheidendes Werkzeug, um diese "Monster in den Schränken" des Internets zu finden und zu eliminieren. Die Branche stehe vor zwei Jahren intensiver Bedrohungen, die das Internet letztlich sicherer machen werden.
 
 **Konkrete Details aus dem Gespräch:**
-- SpaceX plant, bis Ende 2026 2.5-3 Gigawatt und bis Ende 2027 10-20 Gigawatt Rechenleistung online zu haben. (Elon Musk, TBPN)
-- Elon Musk prognostiziert, dass der Wert von Compute pro Watt über die Zeit steigen wird und dass SpaceX's jährliche wiederkehrende Einnahmen (ARR) bis Ende 2027 zwischen 500 Milliarden und 1 Billion Dollar liegen könnten. (TBPN)
-- Die Nachfrage nach Compute ist so hoch, dass SpaceX "gnadenlos von jedem Hyperscaler und Dutzenden kleinerer Unternehmen" um Rechenleistung angefragt wird. (Elon Musk, TBPN)
-- Eine Fusion von Tesla und SpaceX wird als "unvermeidlich" angesehen, um Investorenkapital zu bündeln und das erste 10-Billionen-Dollar-Unternehmen zu schaffen. (Brett von Arc, TBPN)
-- Modellierungen zeigen, dass Tesla-Aktionäre bei einer Fusion langfristig (2036) 5x besser gestellt wären, während SpaceX-Aktionäre 1.3x besser gestellt wären. (Brett von Arc, TBPN)
-- Hero Onada warnt vor einem "Bärenfall" und vergleicht Musks große Umsatzansprüche mit Oracle im September 2025, wobei er eine hohe Verschuldung der Unternehmen erwartet. (TBPN)
+- OpenAI und Google (Wiz) entdeckten eine kritische RCE-Schwachstelle (Remote Code Execution) in PHP, einer Programmiersprache, die von etwa 70% des Webs (z.B. WordPress) genutzt wird.
+- Cloudflare implementierte für alle Kunden, auch kostenlose, proaktiven Schutz, um Zeit für Patches zu gewinnen.
+- Die NSA hat die Empfehlung ausgesprochen, ungepatchte PHP-Server offline zu nehmen, da Angriffe nach einem Leak des Exploits von Tausenden auf Millionen pro Minute anstiegen.
+- Eine indische Firma nutzte extrem unsichere Passwörter ("4" oder "136") für kritische Root-Key-Server, was Konsumenten zu Browser- und Betriebssystem-Upgrades zwingt.
+- KI hilft Angreifern, sich in kompromittierten Umgebungen schneller zurechtzufinden, aber die "guten Jungs" (OpenAI, Anthropic, Cloudflare) verfügen über mehr Ressourcen und nutzen KI zur Verteidigung.
+- Matthew Prince prognostiziert für die nächsten zwei Jahre nahezu wöchentliche Veröffentlichungen großer Schwachstellen, die das Internet langfristig sicherer machen werden.
 
 **🇪🇺 Europa-Relevanz:**
-- Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt, verglichen mit 70% in den USA, was die Notwendigkeit massiver Investitionen in Rechenzentren unterstreicht.
-- Die EU mobilisiert mit InvestAI €200 Mrd. für KI, davon €20 Mrd. für 4-5 KI-Gigafactories mit je ~100.000 Next-Gen-AI-Chips, um die "AI Infrastructure Gap" zu schließen.
-- Schwarz Digits investiert €11 Mrd. in ein Rechenzentrum in Lübbenau (Brandenburg) mit bis zu 100.000 GPUs bis Ende 2027, um die deutsche Rechenpower zu stärken.
-- Kanzler Merz fordert eine F&E-Quote von 3,5% des BIP und will mindestens eine KI-Gigafactory nach Deutschland holen, um die Souveränität und Sicherheit zu gewährleisten.
+- Ab Aug 2026 müssen High-Risk-KI-Systeme in der EU vollständig compliant sein – die schnelle Entdeckung und Behebung von Schwachstellen durch KI-Modelle (wie von OpenAI/Google) könnte den Wettbewerbsdruck auf EU-konforme Anbieter erhöhen, ihre Systeme ebenfalls proaktiv zu sichern.
+- Das EU AI Office wird ab Aug 2025 operativ und überwacht GPAI-Transparenzpflichten; die Rolle von KI bei der Entdeckung von Schwachstellen könnte in den Code of Practice für GPAI-Anbieter (wie OpenAI, Anthropic) aufgenommen werden.
+- Der Digital Fitness Check (Konsultation bis 11. März 2026) von EVP Henna Virkkunen prüft die Wechselwirkung aller EU-Digitalgesetze, einschließlich der Cybersicherheitsaspekte, die durch KI-gestützte Angriffe und Abwehrmaßnahmen entstehen.
 
-## ⚛️ Quantum Threat & Post-Quantum Cryptography
+## 🧪 Pharma-Reshoring: KI und Robotik für die Arzneimittelentwicklung
 
-Arvind Krishna (IBM) und Nikesh Arora (Palo Alto Networks) warnen vor der bevorstehenden Bedrohung durch Quantencomputer, die voraussichtlich bis 2030 die derzeitige Kryptographie brechen werden. Sie betonen, dass die Umstellung auf quantensichere IT-Infrastruktur sofort beginnen muss, da der Prozess komplex und zeitaufwendig ist und gestohlene verschlüsselte Daten in der Zukunft entschlüsselt werden könnten.
+Kevin Williams (Warp Sciences) stellt sein Unternehmen vor, das in den USA robotische Labore für die Arzneimittelentwicklung aufbaut. Das Ziel ist es, die wissenschaftlichen Fähigkeiten, insbesondere im Bereich der präklinischen Auftragsforschung (CROs), aus China zurückzuholen und die heimische Pharmaindustrie vor einer Deindustrialisierung zu schützen, ähnlich wie es in anderen Sektoren geschehen ist.
 
 **Konkrete Details aus dem Gespräch:**
-- Quantencomputer werden die heutige Kryptographie bis 2030 brechen; gestohlene verschlüsselte Festplatten könnten dann entschlüsselt werden. (Arvind Krishna, IBM, All-In)
-- Post-Quantum-Kryptographie ist bekannt und der Code geschrieben, aber die Implementierung ist "zu langsam". (Arvind Krishna, IBM, All-In)
-- Meilensteine für Quantencomputer sind Fehlerkorrektur (Ansprüche bis 2027) und Skalierung der Gate-Berechnungen (von 10.000 auf 10 Millionen bis 2029). (Arvind Krishna, IBM, All-In)
-- Nikesh Arora betont, dass Unternehmen ihre IT-Stacks *jetzt* auf Quantensicherheit umstellen sollten, da der Prozess nicht über Nacht erfolgen kann und Milliarden kosten wird. (All-In)
-- AI-Modelle können zwar neue Quantenalgorithmen entdecken, diese aber nicht effizient auf klassischer Hardware ausführen. (Arvind Krishna, IBM, All-In)
-- Die Umstellung auf quantensichere Infrastruktur wird Milliarden kosten und kann nicht in einem Jahr erfolgen. (Nikesh Arora, All-In)
+- Warp Sciences nutzt KI und Robotik, um die Wissenschaft zu beschleunigen, indem Labore 24/7 betrieben werden und große Datenmengen für das Training von KI-Modellen generiert werden.
+- Das Unternehmen ist eine "Next Generation Preclinical CRO", die Infrastruktur für andere Arzneimittelentwickler bereitstellt, anstatt selbst Medikamente zu entwickeln.
+- Der 3- bis 5-jährige Prozess der Moleküloptimierung (Potenz, Löslichkeit, Toxizität) wird derzeit weitgehend nach China ausgelagert.
+- Warp Sciences ist vertikal integriert und beschäftigt Chemiker, Robotiker, Maschinenbauingenieure und KI-Forscher.
+- Das Unternehmen hat 215 Millionen Dollar in einer von Lightspeed geführten Runde eingesammelt, mit dem Ziel, die Produktion hochzufahren.
+- Die Nachfrage wird durch einen bestehenden Milliardenmarkt und neue KI-Bio-Startups, die eine höhere Experimentierkapazität benötigen, angetrieben.
 
 **🇪🇺 Europa-Relevanz:**
-- Die EU-Banklizenz dauert 12-18 Monate, was die schnelle Implementierung neuer Sicherheitsstandards wie Post-Quantum-Kryptographie erschwert; Kanzler Merz arbeitet an einer "entschlossenen Vereinfachung" der Finanzregulierung.
-- Das EU SAFE-Programm für autonome europäische Sicherheit und Verteidigung muss die Quantenbedrohung berücksichtigen, um langfristig wirksam zu sein und die Sicherheit kritischer Infrastrukturen zu gewährleisten.
-- Der Bundeshaushalt 2026 sieht €17,1 Mrd. für Forschung und Entwicklung vor, einschließlich einer „KI-Offensive", die auch die Forschung an quantensicherer Kryptographie und deren Anwendung umfassen sollte, um die digitale Souveränität zu sichern.
+- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen, auch für KI-Technologieunternehmen und -Anwendungen, was die Finanzierung ähnlicher Bio-Tech-Startups in Europa unterstützen könnte.
+- Die EFI-Kommission empfiehlt 2026, "Europäisch zu denken statt nationaler Kleinstaaterei" bei der KI-Entwicklung und -Anwendung, was eine koordinierte EU-Strategie zur Rückverlagerung kritischer Industrien wie der Pharmabranche nahelegt.
+- Der Deutschlandfonds (KfW-gestützt, €30 Mrd. Garantien) zielt darauf ab, bis zu €130 Mrd. private Investitionen zu mobilisieren, u.a. für Startups in DeepTech, KI und Biotech, was eine Finanzierungsquelle für europäische "Warp Sciences"-Äquivalente darstellt.
 
-## 📈 AI-Marktdynamik, Open Source vs. Frontier & SaaS Disruption
+## ⚡ Hochleistungs-Energiesysteme: Verteidigung und Fusion als strategische Imperative
 
-Nikesh Arora (Palo Alto Networks) und Arvind Krishna (IBM) analysieren die sich schnell entwickelnde KI-Marktdynamik. Sie prognostizieren, dass Open-Weight-Modelle aufgrund von Kosten, IP-Schutz und geopolitischen Faktoren dominieren werden. Diese Entwicklung wird zu einer massiven Konsolidierung und Disruption im SaaS-Sektor führen, da KI viele der 500-5000 Software-Vendoren, die Unternehmen heute nutzen, ersetzen kann.
+Richard Starson (Stelius) stellt sein Unternehmen vor, das in den USA Hochleistungs-Energiesysteme entwickelt, um Amerikas Führung in strategischen Technologien wie gerichteter Energie und kompakter Fusion wiederherzustellen. Der Fokus liegt auf Verteidigungsanwendungen, insbesondere der Abwehr von Drohnenschwärmen und dem Schutz kritischer Infrastrukturen.
 
 **Konkrete Details aus dem Gespräch:**
-- Nikesh Arora empfiehlt in der Experimentierphase die besten Modelle, in der Produktion jedoch task-spezifische Small Language Models (SLMs) oder Open-Source/Open-Weight-Modelle wegen Auditierbarkeit und Kosten. (All-In)
-- Arvind Krishna argumentiert, dass Open-Weight-Modelle aufgrund von Wirtschaftlichkeit (1-2$ vs. 20-50$ pro Mio. Tokens), IP-Schutz (Chain of Thought) und Geopolitik (chinesische Modelle, bald westliche Alternativen) dominieren werden. (All-In)
-- Entwickler neigen dazu, die teuersten Lösungen zu nutzen, wenn keine Kontrolle besteht, was die Notwendigkeit von Kostenoptimierung in der Produktion unterstreicht. (Arvind Krishna, IBM, All-In)
-- Die Entwicklung von KI ist unaufhaltsam; Nationen, die versuchen, die Entwicklung zu stoppen oder Arbeitsplätze um jeden Preis zu schützen, werden verlieren. (Arvind Krishna, IBM, All-In)
-- Die USA und China sind bereit, kapitalintensiv zu sein, während Nationen, die sich auf "soziale und linksgerichtete Philosophien" konzentrieren, die Arbeitsplätze um jeden Preis schützen, verlieren werden. (Arvind Krishna, IBM, All-In)
-- Die durchschnittliche Firma nutzt 500-5000 Software-Vendoren; AI kann viele davon ersetzen, was zu massiver Konsolidierung im SaaS-Markt führen wird. (Arvind Krishna, IBM, All-In)
+- Stelius konzentriert sich auf Hochleistungsmikrowellen (HPM) und kompakte Fusionssysteme, die in den USA entwickelt, aber über die Jahre vernachlässigt wurden.
+- Hauptanwendung ist die Abwehr von Drohnenschwärmen (Counter-UAS), da dies kostengünstiger ist als der Einsatz teurer Munition.
+- Die Systeme können auch zur Gegen-Elektronik (Frying electronics) bei Drohnen, humanoiden Robotern und Satelliten eingesetzt werden.
+- Megawatt-Klasse-Mikrowellen (100 Kilowatt bis 1 Megawatt) bieten eine Reichweite von 1-2 Meilen für die vollständige Abwehr und Störung auf größere Distanzen.
+- Stationäre Megawatt-Systeme sind für den Schutz kritischer Infrastrukturen wie Rechenzentren und Grenzen konzipiert, die zunehmend Ziele für UAS sind.
+- Stelius hat einen 2-Millionen-Dollar-Vertrag für System-Pilot-Einheiten und eine 5-Millionen-Dollar-Pre-Seed-Runde abgeschlossen.
+- Kompakte Fusion wird als "Sleeper"-Geschäftsbereich betrachtet, der die Zukunft von Hyperschall, Überschall und Raumfahrt revolutionieren könnte.
 
 **🇪🇺 Europa-Relevanz:**
-- EVP Henna Virkkunen betont die Notwendigkeit, "doing business in Europe easier" zu machen, was die Kosten- und IP-Vorteile von Open-Weight-Modellen für europäische Unternehmen relevant macht, um wettbewerbsfähig zu bleiben.
-- Die EU AI Champions Initiative mobilisiert €150 Mrd. private Investitionen, wobei Virkkunen fordert, dass "Majority owners should come from Europe" – dies könnte die Nutzung von Open-Weight-Modellen fördern, um Abhängigkeiten von nicht-europäischen Anbietern zu reduzieren.
-- Der Deutschlandfonds (KfW-gestützt, €30 Mrd. Garantien) zielt darauf ab, bis zu €130 Mrd. private Investitionen in DeepTech, KI und Startups zu mobilisieren, um die europäische Wettbewerbsfähigkeit zu stärken und dem "Brain Drain" entgegenzuwirken.
-- Das EFI-Gutachten 2026 empfiehlt "Europäisch denken statt nationaler Kleinstaaterei", um die KI-Entwicklung und -Anwendung in Deutschland und Europa zu stärken und der Fragmentierung entgegenzuwirken, insbesondere angesichts der globalen Dynamik von Open-Weight-Modellen.
+- Der Berlin-Anschlag auf das Stromnetz (Jan 2026) hat die Debatte über kritische Infrastruktur (Kritis-Dachgesetz) und hybride Bedrohungen neu entfacht, was die Relevanz von Stelius' Schutzsystemen für Rechenzentren und Energieinfrastruktur unterstreicht.
+- Das EU SAFE-Programm zielt auf autonome europäische Sicherheit und Verteidigung ab; die Entwicklung von Hochleistungsmikrowellen könnte eine europäische Antwort auf die Bedrohung durch Drohnenschwärme sein, die auch in Europa relevant ist.
+- Der Deutschlandfonds enthält erstmals ein Modul für Verteidigungs-Startups, was eine Finanzierungsquelle für europäische Unternehmen darstellt, die ähnliche Technologien wie Stelius entwickeln.
 
 ## 📌 Weitere bemerkenswerte Segmente
 
-- **Legal AI (Ligora):** Max (Ligora) berichtet über eine $550 Mio. Series E. Der Legal AI-Markt unterscheidet sich vom Coding-Markt durch die Notwendigkeit von Korrektheit und Verifizierbarkeit, was zu einer vorsichtigeren Adoption führt. Kleinere Kanzleien können mit AI komplexere Fälle übernehmen. (TBPN)
-- **Militärische Simulationen (Watchtower Labs):** Akeel (Watchtower Labs) hat eine $35 Mio. Runde abgeschlossen und entwickelt eine Plattform für Militärplaner zur Simulation zukünftiger Szenarien, insbesondere in Logistik und Lieferketten, um "Black Swans" zu reduzieren. (TBPN)
-- **Vertical Integration:** Arvind Krishna (IBM) und Nikesh Arora (Palo Alto Networks) diskutieren die Rückkehr zur vertikalen Integration (Beispiel IBM Mainframe, Nvidia) als Strategie zum IP-Schutz und zur Profitverschiebung, wobei persönliche AI-Agenten durch Kontext und Memory einen "Moat" schaffen. (All-In)
+**MC Lader (Cognition Industries):** Cognition Industries führt eine neue Initiative ein, um branchenspezifische KI-Lösungen anzubieten, indem sie Teams aus ehemaligen Gründern für 14 Schlüsselindustrien (z.B. Finanzdienstleistungen, Gesundheitswesen, Energie) einstellt, um die Diffusion von KI durch maßgeschneiderte Go-to-Market-Strategien und Produkte zu beschleunigen.
+
+**Brian Manning (Owner Space Systems):** Owner Space Systems hat sechs Satelliten gestartet, um den weltweit ersten kommerziellen Satellitennavigationsdienst (Pulsar) zu implementieren, der GPS modernisiert und dessen Schwächen (Jamming, Präzision) behebt, insbesondere für autonome Systeme und kritische Infrastrukturen. Das System ist unidirektional und kann unendlich viele Nutzer in einem abgedeckten Bereich unterstützen.
 
 # 💭 Zum Drüber Nachdenken
 
-**Trumps Kraftwerks-Zwang entlarvt Europas Rechenzentrum-Illusion**
-Kontext: Die US-Diskussion um ein 50-Staaten-Verbot für Rechenzentren, auch wenn unwahrscheinlich, zeigt die politische Brisanz der Energiefrage. Gleichzeitig warnt Tim Höttges (Telekom), dass Europa nur 5% der KI-Hochleistungschips nutzt. Während die EU €200 Mrd. für InvestAI mobilisiert und Schwarz Digits €11 Mrd. in Lübbenau investiert, bleiben die EU-Strompreise 2-3x höher als in den USA, und Deutschland hat die höchsten Industriestrompreise in Europa.
-Die Frage dahinter: Kann Europa seine KI-Ambitionen überhaupt erreichen, wenn es nicht einmal die grundlegende Infrastruktur zu wettbewerbsfähigen Preisen bereitstellen kann?
+**Europas KI-Regulierungs-Dilemma: Sicherheit durch Standards oder durch Speed?**
+Kontext: Während US-Firmen wie Cloudflare, OpenAI und Google KI nutzen, um Cyber-Schwachstellen in Rekordzeit zu finden und zu patchen, ringt die EU mit der Umsetzung des AI Act. High-Risk-KI-Systeme müssen ab Aug 2026 compliant sein, doch der Digital Omnibus könnte die Deadline bis Dez 2027 verschieben. Die Frage ist, ob Europas Fokus auf umfassende Standards die schnelle Reaktion auf neue Bedrohungen behindert.
+Die Frage dahinter: Riskiert Europa, durch regulatorische Trägheit zum "digitalen Hinterhof" für Cyberangriffe zu werden, während die USA mit KI-Geschwindigkeit verteidigen?
 
-**Der AI Act wird zum Papiertiger, wenn China die Open-Weight-Modelle diktiert**
-Kontext: Arvind Krishna (IBM) betont, dass Open-Weight-Modelle aufgrund von Kosten, IP-Schutz und Geopolitik dominieren werden, wobei die besten Open-Weight-Modelle heute aus China kommen. Er erwartet westliche Alternativen in 6-12 Monaten. Gleichzeitig kritisiert US-Vizepräsident JD Vance den EU-Ansatz als „authoritarian censorship". Die EVP Henna Virkkunen verhandelt den Digital Omnibus, der die High-Risk-Deadline des AI Act verschieben könnte, um die Industrie zu entlasten.
-Die Frage dahinter: Riskiert Europa mit seiner umfassenden Regulierung und langsamen Anpassung, den Anschluss an die globale KI-Entwicklung zu verlieren und sich von nicht-europäischen Open-Weight-Modellen abhängig zu machen, die es nicht regulieren kann?
+**Trumps Kraftwerks-Zwang entlarvt Europas Rechenzentrum-Illusion**
+Kontext: Stelius entwickelt Megawatt-Mikrowellen zum Schutz von Rechenzentren vor Drohnenangriffen in den USA, während in Europa die Debatte um Rechenzentren durch hohe Strompreise (2-3x US-Niveau) und NIMBY-Widerstand (Frankfurt, Irland, Amsterdam) erschwert wird. Tim Höttges (Telekom) warnt, dass Europa nur 5% der KI-Hochleistungschips nutzt. Projekte wie das €11-Mrd.-Rechenzentrum Lübbenau (Schwarz Digits) sind Leuchttürme, aber die EU-weite "AI Infrastructure Gap" bleibt.
+Die Frage dahinter: Wie will Europa seine kritische KI-Infrastruktur schützen und ausbauen, wenn es weder die Energie noch die Akzeptanz für die notwendigen Rechenzentren hat?

@@ -1,0 +1,4142 @@
+=== PODCAST-TRANSKRIPT: TBPN ===
+Titel: TBPN Live - Matthew Prince on PHP2Shell, iPhone Duo Early Reactions, Meta Unveils New Class C Stock | Matthew Prince, Kevin Weil, MC Lader, Dillon Baxter, Richard Starson, Brian Manning
+Quelle: https://podscripts.co/podcasts/tbpn-live/matthew-prince-on-php2shell-iphone-duo-early-reactions-meta-unveils-new-class-c-stock-matthew-prince-kevin-weil-mc-lader-dillon-baxter-richard-starson-brian-manning
+Datum: 2026-10-23
+Länge: ~118k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+excited to be joined by Matthew Prince. Let's bring it in. Sick day. Whatever that means.
+
+Here he is. I was out yesterday. I'm a little rusty. Thank you so much for taking the time,
+
+Matthew. How are you doing? I'm good. I mean, it's been a busy week and especially
+
+busy morning getting getting the news of this out. But really proud of the team of Cloudflare and what
+
+we're doing to help help make sure that the internet stays safe. Yeah, what actually, what is the timeline
+
+here? What happened? When did this start in your world? Because I think a lot of
+
+people found out about it from your post yesterday or from a number of other posts that went out just
+
+yesterday. But it seems like your team is not asleep at the wheel. You've known that this is going
+
+to be the year of cybersecurity risk. You've been doing a lot of things. So take us through your
+
+timeline of what... But wearing my tinfoil hat, you guys were having some big party yesterday?
+
+We were having... We had our customer conference as well. So it was...
+
+Customer conference.
+
+Victory laughs. Sounds like a victory last to me.
+
+There's, there you go.
+
+We had a good time.
+
+Yeah.
+
+But so we were about two months ago.
+
+Okay.
+
+Open AI originally reached out to us to let us know that they, in combination of using their models,
+
+but also some of the work that some security researchers had done,
+
+had found a vulnerability in a piece of software called PHP.
+
+Ph.P is a programming language for the web.
+
+It's a very popular programming language.
+
+About 70% of the web uses it popular CMS services like,
+
+WordPress are built on top of PHP.
+
+And the problem with this vulnerability is it was called an RCE or remote code execution vulnerability.
+
+And what that means is that you can send some basic just requests to a server and then
+
+essentially take that server over, be able to run your own code on that server.
+
+So you could read all the files on the server.
+
+You could spy on anything.
+
+If someone who's typing in usernames and passwords on a website and you'd taken over the
+
+server, you'd be able to see those usernames and passwords. You could take it over to do other
+
+criminal things like make it part of a botnet, launch denial of service attacks, distribute
+
+child pornography. And so the ability to take over a server is extremely bad. And this vulnerability
+
+allowed that to happen. Not that long afterwards, WIS, which is a subsidiary of Google,
+
+also discovered a second vulnerability in PHP, which they also disclosed.
+
+to us. And I think in this case, you know, Google's team and Open AIs team did exactly the right thing.
+
+They quietly worked with industry leaders like Cloudflare to say, hey, we found this problem.
+
+How can we clean it up? And it wasn't just us. You know, they went to Automatic, which is the
+
+creator of WordPress. They worked to the PHP Foundation, which maintains PHP. They reported it to
+
+the United States government. And over the last two months, there's been a concerted effort by
+
+lots of organizations to say how can we get in front of this particular risk.
+
+And so at Cloudflare, we implemented for all of our customers for free,
+
+quietly behind the scenes without really letting anyone know a level of protection.
+
+And that was true for even our free customers,
+
+because we think it's important to make sure that the Internet stays safe no matter what,
+
+that help protect against that.
+
+And that's effectively like a Band-Aid.
+
+You know, if you break a bone, you want to actually get the bone fixed.
+
+But in the meantime, you might put a sort of a bandage on it.
+
+Cloughler provided that bandage to help buy some time.
+
+But anyone that's running a web server today, you need to be, if it's running PHP,
+
+you need to be updating that.
+
+It's critically important.
+
+The NSA has issued guidance that if for some reason you can't issue the patch,
+
+it's actually better to take your server offline than it is to run it naked right now.
+
+And we went from seeing, you know, before, you know, it's clear that some detail
+
+of the vulnerability got leaked, which if you're reporting to that many people, the fact that it was kept secret for as long as it was.
+
+Yeah, I was going to say, isn't that somewhat, yeah, isn't that somewhat of a miracle that there's been going on for two months,
+
+and it required coordination between people and tons of different countries at different organizations, like, honestly, some, you know, restore some faith in humanity that people could keep that big of a secret, that private.
+
+And it was, and I think they did.
+
+And it was just in the last, you know, 36 hours that we started to see an uptick where clearly something had leaked.
+
+Interesting.
+
+And that then prompted the Ph.P Foundation to release the patch.
+
+The problem is the minute you release the patch, it gives enough detail that – and people can figure out how the exploit happened.
+
+So we went from hours before the patch was released, we were seeing thousands of attacks across our network.
+
+At this point, we're now seeing millions of attacks per minute.
+
+across our network where people are trying to compromise servers.
+
+And again, Cloudflare's protection is helping.
+
+But the real key is if you're running a server right now, get it updated with the latest
+
+version of PHP.
+
+It's free.
+
+It should only take a few minutes to do it.
+
+If you're using managed software like WordPress, often it will do it for you automatically.
+
+But that's the most important thing that you can do to stay safe right now.
+
+What about in the consumer realm?
+
+Are there, I've been sort of, you know, I've run into.
+
+other people who have been like, oh, I've heard about this. Do I need to update my iPhone or update my
+
+Chrome tabs? Is there anything that breaks out into the consumer world? Or is all of this just for
+
+webmasters, people who are actually serving web services, running servers, or does anything
+
+bleed over into consumer just yet? People are saying cycle your social security number.
+
+Oh, yeah. Rotate your social security number. I saw that.
+
+Yeah, I think, I mean, I think that in this particular case, you know, the PHP vulnerability
+
+really applies to businesses and people running web servers.
+
+So there's not as much for the consumer.
+
+But, you know, it would, as if Tisto and the chain smokers in common and NAA and one of
+
+the worst vulnerabilities, the web has ever seen, wasn't enough for one week.
+
+We also had other vulnerabilities that were disclosed a week.
+
+There was a no-JS vulnerability.
+
+That's also something that probably consumers don't have to care about.
+
+The one of the consumers should care about more is that there was a, it was discovered that one of the key root servers that powers the encryption behind the internet.
+
+They're supposed to be secured with these very long, complicated pass phrases.
+
+They're supposed to be 328 bits at a minimum.
+
+Instead, an Indian company that was running some of these root server, root key servers, instead of using 328 bits, they used,
+
+literally the number four.
+
+Yeah.
+
+So their password was less secure than your ATM pin.
+
+Yeah.
+
+And the problem with that is that because of that-
+
+Can we give them the benefit of some 4D chess?
+
+Because...
+
+Who would think to guess that?
+
+No one...
+
+No one would think if you were going to try to brute force it,
+
+you would make a number at least in the four digits.
+
+Yeah.
+
+And then go from there.
+
+They had, they had, I think, I can't remember
+
+six or eight of their these key, these root,
+
+these key root server certificates, the most secure password they used was the number 136.
+
+So they did, you know, they, again, almost to your ATM pin at that point.
+
+They call that security through obscurity.
+
+No one was.
+
+And they just rage quit the product category.
+
+Did I see that?
+
+Yeah, they did.
+
+So, which I mean, again, again, again, again, it is how you can't fire us, we quit.
+
+How you can never be trusted is, is stuff.
+
+But this is actually one where consumers do have something because these certificates, if somebody could get in the traffic flow, they could pretend to be Google, they could pretend to be your bank, they could trick you into doing a bunch of things.
+
+And so what the industry has done is as soon as this happened, your browser, your operating system, distrusted these particular certificates.
+
+Sure. But until you upgrade your browser, until you upgrade your operating system, then you might still be trusting these certificates and your browser could be spoof.
+
+So I think that right now is a great time when your phone says, hey, do you want me to upgrade overnight?
+
+The answer is yes.
+
+Yeah.
+
+When your browser is harassing you to like, you know, upgrade, like just do it.
+
+Takes a few seconds.
+
+You're going to be much more secure.
+
+And I wish I could say that like this was a, you know, unusual week and we're not, we're never going to see another week like it.
+
+New normal.
+
+I think we're going to see a lot more weeks like this.
+
+I think the next two years are going to be, you know, incredibly, incredibly, incredibly fraught with,
+
+what, again, are these new tools that we have that have infinite patients to go look for vulnerabilities,
+
+finding real problems across the Internet? And it's going to feel scary. It's going to feel like
+
+the sky is falling. It's going to feel like there's nothing we can do. And I think there are
+
+going to be stories that characterize AI as the bad guy. AI is not the bad guy here. AI is the good
+
+guy. The AI didn't create these vulnerabilities. AI found them. And I think the question is, like,
+
+if you're living in a house that's got deadly months,
+
+living in every closet, but you don't know they're there,
+
+are you in a better place or a worse place than if you start, like, going through the closets and finding the monsters and killing them?
+
+Like, it's going to be a lot more frightening to go through and kill the monsters, but you're probably going to get a lot safer.
+
+And so I think we're going to see some very scary stories, but, um, scary monster music.
+
+We're going to see some very scary stories.
+
+But the good news is that, you know, you're, um, open AI, anthropic.
+
+the frontier labs, and then in partnership with companies like Cloudflare are actually
+
+killing the monsters off, and I think the internet is going to get more secure.
+
+How are attacks evolving?
+
+Like, are you seeing like swarms in a way, in a way that's like, like, swarm is obviously
+
+like this sort of like, it's a, it's a real thing, but it's also like kind of an idea.
+
+It's a concept.
+
+It sounds like something out of like the matrix.
+
+Yeah, like something.
+
+Is it that different than, then.
+
+historical efforts when there's this kind of vulnerability because I imagine you can just like get
+
+effectively a directory every possible website that that might have this vulnerability and then run a
+
+program. Yeah, there's something called a rainbow table. It's basically like every possible password.
+
+Yeah, but that was easily mitigated. But yeah, a four loop with every possible. Are you seeing,
+
+are you seeing like rogue swarms of like powered by open weight models that are that are driving a lot of
+
+this or is it just, hey, there's vulnerability that impacts 70% of the internet?
+
+Yeah.
+
+I mean, so first of all, you don't need AI to take advantage of the vulnerability in this
+
+case once it's been discovered.
+
+So the people who are trying to exploit this now, they're not using models to exploit it.
+
+They're just running, they're running, you know, fairly simple scripts that are just, you
+
+know, trying to check every single server, every single IP address online to see if it's
+
+vulnerable to take it over.
+
+What I think has changed is the rate at which attackers can figure out what they do when they find themselves in an environment.
+
+So about a year ago, there was a very, very, very popular plug-in that plugged into Salesforce that got compromised by a Russian hacker.
+
+And it was so broadly deployed that it effectively gave the Russian hacker access to a huge portion of sales.
+
+forces infrastructure and Salesforce's customers.
+
+But what was interesting was when you actually studied what the attacker did, they clearly,
+
+they weren't in enterprise sales.
+
+So they didn't really know how Salesforce worked.
+
+And so they kind of bumbled around, like not quite knowing what to do or the fact that
+
+they'd stumbled on what was an incredible treasure mine.
+
+And as a result, what could have been just a disaster of a hack wasn't nearly as bad.
+
+What we're seeing now is if that same hack happened today, the attack, the attack,
+
+hackers are using AI to say, okay, I found myself in Salesforce, what stuff should I go,
+
+you know, looking for or stealing or trying to do? So the ability to very quickly, you know,
+
+figure out, I'm here, what, what can I take advantage of, you know, is, that is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is, is,
+
+things that are happening there. But I think the good news is that, you know, the cost of running
+
+that type of attack, you know, an agent swarm like that is still extremely expensive, hundreds of
+
+thousands, if not millions of dollars for that. And so an organization like, you know, Open AI,
+
+that's got those resources, the good guys have more resources than the bad guys. And so for now,
+
+I think you're actually seeing kind of a very naive use of AI by at least the sort of typical
+
+cybercriminal. I think it's probably different when you're looking at nation state actors.
+
+I think that if you look at China or Iran, the NSA in the United States, that's a different
+
+case. But right now, I think that AI is actually helping the good guys more than it's helping
+
+the bad guys. We're finding the monsters that are hiding in the closets.
+
+Yeah. What advice would you get? So over the last week, we had open, like an open code,
+
+ran into issues and reported being, like, attacked for basically days on.
+
+and obviously the attackers were going after the...
+
+It was token theft.
+
+Yeah, effectively token theft.
+
+The modern version of...
+
+Railways had massive issues over the last 24 hours.
+
+I know of another big inference provider
+
+that has been under attack and like viscerally feeling that
+
+for the last three, four days.
+
+Wow.
+
+And that people, that everyone would know.
+
+And this is, and what this is probably,
+
+a lot of these are symptoms of.
+
+are the attackers were like, wow, we could do a lot more if we had more compute, if we had more
+
+AI models. And so stealing tokens, you know, hacking inference providers, that's giving them
+
+access to tools. You know, you'd see this before. Like it's, for a long time, Cloudflow was an
+
+Octa customer, and Octa kept getting hacked over and over again. And the reason, and Octo's an
+
+identity provider. And the reason why was they were going after us and they were going after
+
+Coinbase, which was another one of their, one of their customers. And again, I think
+
+attackers are trying to find their way to whatever is valuable that they can get to online.
+
+And I think right now, the ability to have more inference, more tokens is something that attackers are very much longing for.
+
+And so they're going to go after a bunch of those providers.
+
+And then, you know, to your question of what to do, like, you've got to just stay up on all of the security patches that are out there.
+
+You know, I don't know the details of, like, the railway attack.
+
+But my hunch is it's probably based on one of these, you know,
+
+latest vulnerabilities that was out there.
+
+And so it's just, you know, you talk about like an ODA loop,
+
+which is like how quickly you can adapt versus your attacker.
+
+And so at Clefla, we're just sort of saying,
+
+how can we make that ODA loop faster and faster and faster and faster
+
+so that we can adjust incredibly quickly?
+
+And part of that is using AI tools and using things that can actually,
+
+you know, proactively, you know, have a swarm of defenders
+
+that are looking out for the swarm of attackers.
+
+And that's exactly what we're doing at Cloudflare and what we're doing for all of our customers.
+
+Do you think that ski resorts are ready for this new wave of cyber vulnerabilities?
+
+I'm joking, but I'm joking.
+
+People have been talking about bringing down the grid.
+
+If you bring down a ski resort, if you're out getting a couple laps and the lifts signs to a halt,
+
+your first thought might be, oh, is this kind of like a ransom attack?
+
+Or the snowmaker turns on when it's not below free?
+
+and just sprays water all over everyone.
+
+It could be horrible things.
+
+I mean, and I think that, you know, I have some insight into,
+
+into a certain ski resort operator called bail and, and, and some of the board meeting
+
+conversations with the activists.
+
+And, and one of them, an alternate person for the slate, a guy named Bryce Roberts,
+
+who's a great VC.
+
+I think you've had him on.
+
+Yeah, we love Bryce.
+
+He, he's up to be a candidate on bail.
+
+And he said, have you guys thought about AI at all, like in terms of that?
+
+Because it's something like, you know, 30% of questions to AI are about trip planning.
+
+And like literally everyone in the room scratched their head and said, oh, no, we haven't thought about that at all.
+
+There's a lot of, there's a lot of industries that need some serious modernizing and a lot of management teams that need some serious modernizing.
+
+And I might point at Vale as being one of them.
+
+Yeah.
+
+Last question for me.
+
+It seems like the balance between attackers and defenders is going to be increasingly, increasingly influential.
+
+infrastructure driven, and I feel like this might change the discussion a little bit, maybe not
+
+on a national level, just around the AI data center build out, because there's a certain
+
+amount of just, if you have a bigger data center with more GPUs, running more inference to
+
+secure systems, and you're going up against a smaller data center with a similar model
+
+or a distilled model that's three months behind, like you want as many advantages as possible.
+
+And I'm wondering if you think that, like, raw compute power becomes an important
+
+discussion in like the geopolitics of cybersecurity.
+
+Yeah, you know, I mean, maybe at some level.
+
+And I think that, again, I think I'm encouraged that it's the good guys that have more
+
+resources than the bad guys.
+
+And that's, I think that's going to help the defenders stay in touch.
+
+But you've got to have great partnerships between companies like OpenAI and Anthropic
+
+and companies like, you know, Cloudflare and others in order to make sure.
+
+sure that this is going forward.
+
+At some level, the whole thesis of Cloudflare from the beginning was that if you got
+
+enough internet traffic flowing through a system and then you could use machine learning
+
+to look for patterns and attacks and threats, that you could see things and stop things.
+
+And I think we're really good, whether that's an attacker working for North Korea or it's a swarm
+
+of agents at identifying those things and staying in touch with it.
+
+And I think that's why we're seeing such just real demand for our services and more and more people signing up for Cloudflare.
+
+And again, I think it's important to us to say that you don't have to pay us in order to stay safe online.
+
+We want to make sure that everyone has the resources regardless of what their budget is.
+
+And so, you know, we continue to be committed to this.
+
+And again, I wish I could say that this was like a really unusual or bad week.
+
+But I think for the next two years, we're going to basically have kind of a week like this on average, almost.
+
+every week where big vulnerabilities are getting released. We already know about a number of substantial
+
+other vulnerabilities that will come out over the coming weeks or months. And the good news is that
+
+we're ahead of them and we're protecting them. And if you want to make sure that you're protected,
+
+using a service like Cloudflare is one of the best kind of bandies.
+
+Yeah, you're not making a prediction. It's like you see the pipeline so you know this is going
+
+to happen. And then it also like the more high profile this trend gets, the more motivated people
+
+are going to be to find the next one.
+
+And at least one of the security researchers
+
+that at least claims to be involved
+
+said that it was found originally by type prompting
+
+find bad vulnerabilities in PHB.
+
+No way.
+
+That's really it.
+
+Someone's claiming that who claims to be involved.
+
+Who knows.
+
+But yes.
+
+But it's again, and it's going to feel really scary.
+
+We're going to find a lot of monsters in a lot of closets.
+
+But the monsters were there already.
+
+Yeah.
+
+Like, they were, they were, they were just waiting to come out and kill us when we weren't expecting it.
+
+I would rather we actually be turning it over and, and do it.
+
+So I think, do you think there has to be, there has to be some groups that are really upset because they had found these vulnerabilities and have been exploiting them.
+
+People are talking about.
+
+They're like, they didn't want.
+
+No, it's got to be.
+
+They're, I mean, I've talked to folks at the NSA that are like, this sucks.
+
+I was using this to spy on the nation's enemies.
+
+And so, and that's, and that's, again, I think that that's a.
+
+Um, I think that's a, that's, that is consequence of modernity.
+
+Yeah, that's all good news.
+
+Yeah.
+
+Because, because we're finding the monsters.
+
+We're killing the monsters.
+
+It's going to feel very, very scary.
+
+Yeah.
+
+It's going to feel like the sky is falling.
+
+But I think, you know, we're going to come out of this.
+
+And two years from now, I think it's going to be almost impossible to write buggy code.
+
+Like at least, at least in terms of, you know, the sort of classic divide by zero or off by one or, you know, you know, unconstrained like memory.
+
+Yeah.
+
+glitches. There will be business logic code that people will get wrong or machines will get wrong.
+
+But already we see how many of the errors AI is helping us correct.
+
+And so even though I think we're going to have a couple of years of really, really, really bad stories.
+
+I think that the real trend, the real story that's not going to be popular to say, but it's true,
+
+is the Internet's going to get a lot more secure and we're all going to be better off because of these tools and how they're helping protect.
+
+That's amazing. That's amazing.
+
+I have one last question.
+
+Just a couple more years of the most bullish headlines for Cloudflare.
+
+There was a lot of debate throughout the year over the pros and cons of these staged rollouts.
+
+Like Mythos goes super viral, definitely draws people's attention.
+
+But a lot of people are like, ah, I want to use that for my business.
+
+And then Fable comes out, and it's sort of nerfed in cybersecurity.
+
+And then Daybreak comes out.
+
+And there's different ways, glasswing.
+
+There's different ways to get into these programs.
+
+Looking backwards, it feels.
+
+feels like I like the idea of, you know, everyone gets amazing AI, but I also like the idea of everything getting patched before the negative things affect me. I don't necessarily want to need to, you know, inference the most advanced model just to like use the web myself and write, hack into the service that I'm using to patch it before I give it my social security number, etc. Like, are you happy with the current flow of intelligence breakthroughs staging out, getting to you a couple weeks early before.
+
+something else happens? Is the current model sustainable? Is it correct or does there need to be
+
+a rejiggering there? Yeah, I mean, I would say that, you know, from our perspective at Cloudflare,
+
+we have loved the partnerships that we've had with Open AI, Anthropic, the other leading
+
+frontier labs. I think we've gotten trusted access to a lot of the models ahead of time.
+
+And then we've been able to use that to help, you know, protect more of the web and work in coordination with that.
+
+But I do think that it's a tough problem.
+
+Like when I meet with European, you know, banks or leaders and they're like, well, why don't we get any of these things?
+
+I mean, they feel very vulnerable.
+
+And it's a tough, this is a, it's a tough thing to figure out exactly what you do.
+
+In this particular case, there are a lot of people who are like, well, why don't you tell me about this Ph.P bug earlier?
+
+And it's hard to get that perfectly right.
+
+The more people you tell, the more access that you give, the more risk there is that it falls into the hands of someone who will do real harm with it.
+
+And so, you know, it's a game of trust in a lot of ways.
+
+And I remember when Cloudflare was a small startup, you know, we were always like, why aren't you telling us about the new security vulnerability?
+
+We trust us, trust us, trust us.
+
+And now, we're a much bigger company.
+
+And we do get those things.
+
+And I get calls from startups like, well, how can I get it too?
+
+Sure.
+
+And I think it's, it's tough.
+
+I don't know that there's a perfect answer.
+
+I will say that the fact that this, you know, was disclosed almost two months ago,
+
+that it gave a lot of organizations the ability to get in front of it and patch it.
+
+That's going to have mitigated what could have been just an unmitigated disaster.
+
+And I, and again, I, you know, hats off to the team at Open AI, the team at Google and Wiz.
+
+for how they handled this.
+
+And I think it,
+
+there will always be people who will say you could have done something a little bit better.
+
+But I think this is,
+
+this is,
+
+we're not going to be perfect.
+
+And this was pretty darn good.
+
+Well,
+
+what is your third final,
+
+what is your answer to our third final question?
+
+What is your most mutual friend of arts tech to me a minute ago asking me to ask you,
+
+what is your most outlandish prediction for the internet in a decade?
+
+The business model is going to change fundamentally.
+
+So, you know, we're we're about to have this massive tragedy of the commons problem.
+
+So, you know, if current trends continue in five years, automated traffic, agent traffic, is going to be a thousand times human traffic.
+
+And to give you some sense, the internet almost collapsed when during COVID traffic doubled.
+
+So a thousand X, it's going to be, you know, somewhat, there's a lot more servers, there's a lot more servers, there's a lot more.
+
+routers, there's a lot more bandwidth that has to get provisioned in order for that,
+
+in order for that to work. And the question is, who's going to pay for it? Because if I,
+
+you know, go to my, you know, chat GPT agent right now and say, hey, where should I have lunch?
+
+It might check a thousand different menus across a thousand different restaurants. And that's
+
+burning resources from all of those different places. And yet it only is going to send me to
+
+to one of them. And so my hunch is that something's got a change in terms of how the internet works. So my
+
+hunches is probably some version of micro payments that every time you access a resource,
+
+your agent pays, you know, a 10,000th of a penny to be able to see the menu. And then there's
+
+probably some sort of a trade where if you are willing to tell the restaurant what it is
+
+that you're looking for, what your agent is doing, you're willing to reveal something that
+
+price goes down, maybe even is free. In some cases, the site might actually pay you to come
+
+to come visit it.
+
+Yeah.
+
+But that will then and lead to this kind of going to be the next version of advertising,
+
+which is how do you advertise the agents?
+
+If I know that an agent is coming to my travel site and they're specifically, you know,
+
+on behalf of their user looking for, you know, a Hawaiian vacation to a five-star resort.
+
+And I know that there's, you know, a five-star resort on Maui that that has as availability
+
+and a good price, like matching that together, I think it's going to be a resource.
+
+And that's going to be, I think, a big part of how we solve what is otherwise, you know, just in a massive tragedy, the comments problem.
+
+Because otherwise, like, why wouldn't your agent check literally every website on Earth to come back and say, you know what, for lunch today, you should go to Wendy's.
+
+Yeah.
+
+So, and that's, like, that's not a good use of time.
+
+So I think that's going to be the most interesting thing to figure out.
+
+And I think the most interesting question, certainly of the next five years, I think we'll probably have to figure it out before the end of the decade is.
+
+is what's going to be the future business model of the internet.
+
+And that's what we're spending a lot of time.
+
+But that's exciting.
+
+I love that.
+
+That's very exciting.
+
+I had a funny moment the other day.
+
+I was doing some research on this car, and I went to check the source.
+
+Like, I was doing it in chat.
+
+I went to check the source.
+
+And it was on, like, recipes 365.
+
+And clearly someone had used AI to just, like, generate content for, like, a specific niche.
+
+And I'm realizing, I can't, I can't lean on this source.
+
+Hey, they're cooking up the recipe for a great car.
+
+now. At least you're looking at the sources. I mean, we're seeing that fewer and fewer people
+
+going back to the original sources. And like for like journalism, like journalism matters.
+
+Like what you guys do matters. And and, and, and someone's got to, someone's got to pay your bills.
+
+And in your case, like it's open AI. And, but I think that's probably going to be the case in all,
+
+in a lot of cases. Like how you still, you're still going to need reporters that are going out there and
+
+and meeting people and feeding it. And we've got to have some system that,
+
+that allows the people who are doing that work to get compensated because I think you guys deserve to eat.
+
+Thank you. Well, thank you so much for coming on.
+
+Great to see you. Good luck out there.
+
+What's the only faster than the AI market, your business on MongoDB, don't just build AI, own the data platform that powers it.
+
+Tyler had to beat there. I know. He really warmed up yesterday. By the end, he was dialed.
+
+Well, let's check in with the markets if we can pull up this video.
+
+Okay.
+
+Okay. Yeah. The show yesterday was good.
+
+But I think, I think Tyler got a little bit of a, yeah, we'll watch this.
+
+RJC says, just another day.
+
+Yeah. I like how Matthew Prince is like, it's really important that you guys do serious journalism and make sense of what's going on.
+
+What's real? What's fake? You got to tell people. And we're like, let's pull up an AI slop video.
+
+This is iconic the muse mascot, of course, dancing and firing off a pistol.
+
+This is the latest Alexander Wong, I assume.
+
+It's great.
+
+The meme has just grown so much.
+
+This is the benefit of funny mascot, anthropomorphization of AI.
+
+It was debated for a week there.
+
+Alex Wang said, no thank you.
+
+I am going full anthropomorphization.
+
+Let's anthropomorphize these AIs.
+
+Yeah, the show yesterday was good.
+
+Tyler did a good job.
+
+But I think he had the deck stacked in his favor.
+
+You had a stack lineup.
+
+You got Nikesh Aurora on, Aden Smith from flapping airplanes,
+
+Akiolaire, Max from Ligora.
+
+He was dialed.
+
+It was easy mode for Tyler.
+
+I want to see Tyler do a show with just Jordi,
+
+tier list of a mansion where Jordy doesn't want to say his true opinion
+
+because he knows the guy that owns the house.
+
+That's what makes a great co-host.
+
+If you want to elevate from sub host to co-host,
+
+I think that's what you got to do.
+
+You got to put the screws to Jordy
+
+when he doesn't want to give his true take
+
+and get him to crash out.
+
+That's what I want to see.
+
+But no, fantastic job.
+
+Yeah, you didn't get me to crash out.
+
+No, no, no.
+
+But you know who did crash out.
+
+You got to ban.
+
+Who?
+
+Who?
+
+Trevor Milton.
+
+Trevor Milton.
+
+Oh, yeah.
+
+You crashed out in the...
+
+You crashed out.
+
+I crashed out.
+
+And he responded.
+
+Yeah.
+
+So we had a...
+
+We talked about Trevor Milton's new jet company.
+
+He had a...
+
+I mean, an announcement, a launch, an event.
+
+Where he put the plane on its wheels?
+
+Yeah, so the plane, the plane was a, like a full-scale mock-up.
+
+Okay.
+
+It was not meant to be a real plane.
+
+They have a real plane separately.
+
+This is a build of the new plane.
+
+Yes, yes.
+
+Okay.
+
+And anyway, so we posted the video, and what did Trevor actually say?
+
+He was firing off in the comments.
+
+He responded.
+
+to our video saying haters are going to hate, we already have more than 50 on order slash
+
+LOIs by real buyers.
+
+It might be the most successful jet launch to date.
+
+Keep on talking smack.
+
+It makes us work harder and we love the trolling hate.
+
+Living rent free in your head.
+
+He was also going back and forth with some other people in the comments.
+
+A lot of people were saying definitely not buying a plane from Trevor Milton.
+
+and he responded, we wouldn't sell you one.
+
+And I go the other way.
+
+I think finally a plane exists for the thrill seeker.
+
+Flying private is such a luxury, but we know that once you get to a certain level of wealth, you've got to put it all on the line.
+
+You've got to climb Mount Everest.
+
+You've got to be risking it all in the track, skydiving.
+
+You've got to be into extreme sports.
+
+So a plane that's a little rough around the edges is going to bring you back down to earth.
+
+It's going to give you some thrill, some excitement, get your heart.
+
+racing and for a certain buyer that's going to be very attractive.
+
+So I think that's actually probably a risk to the upside in this case.
+
+So another others are fearful.
+
+You got to be grief when others are fearful on these planes.
+
+Okay.
+
+Another media company, the VIP seat said we were there for the unveil, posted about how
+
+before the presentation was and he started attacking everyone on X.
+
+And Trevor says, you're the only clown who would be dumb enough to allege that literally
+
+the entire NBAA
+
+has been raving about us
+
+about us by the thousand and landed almost a
+
+billion in orders.
+
+What else
+
+did he say? A billion in orders. Keep
+
+posting your Tesla
+
+want to be comments and we'll keep building an
+
+incredible plane that you only wish you could fly.
+
+Your hate fuels us. Living rent-free
+
+in your head.
+
+So he's living rent-free
+
+in a lot of heads.
+
+The plane was supported by a post.
+
+And again, this was a
+
+mock-up. But when Trevor Milton responded to the picture of the post and said, you're literally
+
+misleading the world, see the real picture, at least report honestly LMAO. And he posted a picture of a different
+
+picture of the plane. Different picture of the plane. But most importantly, understand the aesthetics
+
+of what he just did. This is elite posting because he should have photos of this plane saved
+
+to his camera roll. He didn't. He went to what appears to be Google images or something.
+
+found a horizontal, a landscape picture of the plane, took a screenshot of it in portrait mode
+
+to make the image of the plane extremely small, didn't crop it out so you can see his battery level
+
+and the time at which he took this screenshot. That is just a level of unc posting that you
+
+very rarely see on the internet these days. Most people, even if they go for the screenshot,
+
+they'll do the courtesy crop before they share the screenshot and maybe they won't crop out
+
+the little...
+
+Maybe not a perfect crop.
+
+Yeah.
+
+Occasionally some of the chrome, some of the extra buttons might get in there, a little
+
+watermark might sneak in, but you're still doing the person the courtesy of cropping it
+
+down so they can see the image basically full screen if they want.
+
+He didn't do that.
+
+He drops the portrait screenshot of a landscape photo.
+
+That's elite unk posting.
+
+I don't know how else to describe it.
+
+I was somewhat confused because the picture was posted by Preston Holland.
+
+And he said, you're literally misleading the world to see the real picture.
+
+picture, at least report honestly, LMAO.
+
+And I was very confused by this because it seemed like he was implying that that wasn't
+
+how they presented the plane.
+
+But I went and checked and saw actual video of the plane in the post.
+
+And so he seems to be alleging that this poster, the VIP seat slash Preston, is
+
+misleading the world when in fact that is just a real picture of the presentation.
+
+Maybe.
+
+The wing had a post.
+
+It could be a conspiracy where someone went to the presentation, took a video of the plane
+
+without the post, took that video, loaded it into After Effects, Cinema 4D, Houdini, an advanced
+
+3D modeling software, modeled a post, composited that into the video, and then uploaded the final
+
+product after blending it in perfect.
+
+We got eyewitness reports.
+
+Zach Debo says, Trevor is like the kid in school who always tries, studies all the time,
+
+and just never passes the test.
+
+And Trevor says, except I did, and built the first time he did pass the test.
+
+except I did and built the first ever production hydrogen and better electric semi-truck from the ground up that went from idea to priloduction five years before Tesla.
+
+Yeah, the priloduction.
+
+That is another elite misspell.
+
+Priiladuction five years before Tesla.
+
+Build six companies, three successful and three not broke the world speed record for light jets as a pilot.
+
+That's sick.
+
+Can we fact-check that?
+
+We got to fact-check that, but if that's true.
+
+And launched the most advanced light jet in the world.
+
+Incredible history and achievements.
+
+What have you done?
+
+and Zach just replies your chop, dunk,
+
+which I thought was a little funny and a little rude.
+
+Trevor can come on the show.
+
+Give him the benefit of the show.
+
+Trevor can come on the show,
+
+but I really think that he should spend time with Nathan Fielder.
+
+Oh, yes.
+
+It needs to be coming to your.
+
+You can fly anything.
+
+Because Nathan's a pilot.
+
+Nathan can fly it.
+
+That's literally the perfect.
+
+You can see everything too.
+
+Oh, hopefully.
+
+Trevor, you're welcome on the show.
+
+But we do have to live with you for two weeks before.
+
+You come on the show.
+
+So for the record setting flight, I think he was he was on board.
+
+Oh.
+
+He was not the pilot.
+
+Wait, what?
+
+He said he's the pilot.
+
+Dude, this guy is constantly.
+
+That's the little fib.
+
+He's constantly.
+
+I'm not going to go and say he's lying.
+
+I'm not going to say he's lying, but he's veering towards fibbing, at least on a couple
+
+occasions, just in this one Instagram thread.
+
+Stretching the truth a little bit.
+
+I want to see him behind the sticks.
+
+Yeah, stretching the truth.
+
+Stretching the truth twice.
+
+How much can you actually?
+
+How much can you actually push a plane when you're the pilot?
+
+Can you just, like, floor it and go a little bit faster than you should?
+
+Is that an option?
+
+Can you go up high and then go down and put the engines on max and just like,
+
+it's dangerous, but you can actually break the speed of sound in a Gulfstream if you try,
+
+if you're, if you're risk gone.
+
+Is that possible?
+
+No idea.
+
+We'll find out because we're going to make Tyler do it.
+
+Anyway, let's move on to CrowdStrike.
+
+Your business is AI.
+
+Their business is securing it.
+
+CrowdStrike secures AI and stops breaches.
+
+Meta is introducing new Class C stock.
+
+The plan is to distribute one Class C share for every existing A or B share at the start of the next year.
+
+So it's basically a two-for-one stock split.
+
+It's not a fundraising opportunity.
+
+It doesn't make Zuckerberg richer, and it doesn't dilute anyone's ownership percentage,
+
+but it does have a bunch of interesting knock-on effects.
+
+And basically, there's two wildly different narratives.
+
+I sent you both of these posts, and I was like, it's the same story,
+
+but the New York Times and Semaphore have completely different rationality.
+
+for what's going on. So I wanted to get to the bottom of it. We'll do this quickly before
+
+Kevin Wheel joins at 1145. So this is not the first time they proposed this Class C stock.
+
+It happened in 2016, Meta, which was then called Facebook, of course, proposed creating non-voting
+
+class C shares. The reasoning back then was that Mark Zuckerberg said, hey, I'm doing the Chan Zuckerberg
+
+initiative. I'm giving away a lot of my money. I'm doing a lot of philanthropy. I want to do both.
+
+I want to be able to run meta as the sole decision maker with the super voting stock and be able to not be fireable and be able to have control over the company that I founded and I want the super voting.
+
+But I also want to be able to sell down my economic position or donate it to Chan Zuckerberg.
+
+They can sell it to fund philanthropic initiatives, build hospitals, do a bunch of great stuff.
+
+And so he tried to do this, actually got challenged by shareholders.
+
+there was a Delaware trial that was scheduled,
+
+but Facebook withdrew the proposal in September of 2017 before that trial.
+
+And after the trial, Zuck was like,
+
+I don't even need to sell because my stock's ripping.
+
+He actually said this.
+
+He said the share price appreciation in META has allowed me to fund everything
+
+with the Chan Zuckerberg initiative, which is probably true.
+
+Because at a certain point, you're just like,
+
+I have to deploy $50 billion in nonprofits.
+
+It's like there's only so many projects you can do before stuff gets unwieldily.
+
+And so he was probably in a pretty good place.
+
+But it was still an interesting motivation and didn't go through.
+
+So the goal, the overarching goal hasn't really changed in the last decade.
+
+The goal is to allow Zuckerberg to sell or donate or pay taxes with the economic portion
+
+of his meta stake without losing control over the company that he founded two decades ago.
+
+So in the intervening years, things have come up.
+
+tax bills, philanthropic opportunities, AI buildouts, and Zuck needs to manage his control against
+
+these issues as they arise. And so the NYT tells the story as basically entirely tax-related,
+
+which is interesting because there's obviously a lot of different things going on.
+
+So the New York Times said, Mr. Zuckerberg has been negotiated with Meta's board since July.
+
+Over dinner with board members on September 9th, he effectively gave them an ultimatum.
+
+If a deal wasn't struck, he would sell his home in Palo Alto, and the listing would be public.
+
+So I assume what he was doing here was like all the other meta board members have huge homes in Palo Alto.
+
+And if he sells his, it's going to tank their real estate prices.
+
+So he's saying, I'm going to.
+
+I'll do it.
+
+I'll do it.
+
+I assume that that was the veiled threat.
+
+Do you think he's trying to have his cake and eat it too?
+
+I think he is, actually.
+
+I think that's exactly what's happening.
+
+I think this might serve multiple purposes.
+
+Yes.
+
+But the market will probably say, yeah, go ahead.
+
+Have some cake.
+
+Eat it too.
+
+I don't think they'll, I don't think they'll care because for a long time, you bought
+
+meta class A shares.
+
+So he has class B, which have 10 voting, 10 votes per share.
+
+You bought Class A shares, which have one vote per share.
+
+Now you're going to get Class C that has zero votes per share.
+
+Never mattered because you were never going to get more than 50%.
+
+The votes never really, like they never really sold meaningful voting stock.
+
+And so when meta goes to the market, investors just say, what is the economic opportunity?
+
+What is the economic return?
+
+And so in theory, you can go to the market with something that's preferred, plus a board seat.
+
+We do this all the time in Silicon Valley.
+
+We say, yeah, we're selling 20% of the company.
+
+You get a board seat.
+
+You get information rights.
+
+You get pro rata.
+
+You get a million things.
+
+It's so much value, and we're only going to charge you $100 million for that or whatever a startup selling for.
+
+Meta will do the same thing.
+
+Sure, the shares might be slightly less value.
+
+because they have zero votes instead of one vote.
+
+Realistically, the buyers of this are only interested in the financials.
+
+They don't care about the votes.
+
+So it doesn't really matter.
+
+So what's your takeaway?
+
+You think he wants to scratch two inches at once?
+
+Yeah.
+
+I mean, I do think he cares about the billionaire tax.
+
+And I do think that it's completely rational to get out of California before it hits.
+
+And I'm surprised that this is even a discussion.
+
+I thought that the reason he bought that Florida home was that he was going to claim residency outside of California as of 2026.
+
+It seems like this was mostly going over throughout the year.
+
+But if the tax passed, it would be retroactive.
+
+He would still be on the hook for it.
+
+But at least he could challenge it in court.
+
+But it's funny because it would be-
+
+It would be litigated.
+
+And then during that time, he would leave.
+
+And so that you would have this, like, worst-case scenario, that one-time 5%.
+
+But the interesting thing is that, like, the Google co-founders have done the exact same thing.
+
+They've done a stock split.
+
+And they've maintained control, voting control, while relocating to Florida, avoiding the
+
+billionaire tax potentially. But
+
+no one really cares because Sundar's the face of the company.
+
+The interesting thing is like
+
+the board, the way the New York Times frames it is like the board
+
+wanted Zuck not to sell his Palo Alto home
+
+because it would be a negative signal to the employees.
+
+No, not the fake reason I was joking about.
+
+No, no, no. What are you laughing at?
+
+I'm just laughing at Trey. He wants both birds in the bush to be in his
+
+hand.
+
+Yes.
+
+But let's say you're a board member.
+
+Do you care if Mark Zuckerberg can't spend more than 180 days a year in the headquarters where all the researchers are, where they're building MSL, where they're, you know, building muse?
+
+Does he need to be on site?
+
+I think he has to just want to be.
+
+Like, he is the only, not the only, one of a very, very small group of people running a company at that scale.
+
+is like truly in founder mode.
+
+Yeah.
+
+No founder, no elite founder that I've ever met says, yeah, I love working remotely.
+
+I love being away from my team for half the year.
+
+And he probably travels at time.
+
+So it's much more like the board is probably like, yeah, kind of do whatever you want.
+
+Yeah.
+
+Like live wherever you want.
+
+But you can imagine he's the one being like, I want to be in the office as many days as
+
+possible with the team.
+
+That was not the NYT report.
+
+The NYT report was that he wants to avoid getting diluted past 50.
+
+percent losing control of the company because he has to spend 186 days a year in Florida and can't
+
+be on site in Menlo that often and would have to be more remote. And he's like, look, if it's
+
+between being in the arena in the in the in the Menlo office a ton and losing control because
+
+of this tax, I'm choosing I'm choosing Florida. 3.05. Yeah. Mr. Worldwide. He's being Mr.
+
+worldwide, potentially. That was at least the debate, the way it was put to the board,
+
+and now it's a non-issue because they are going to issue the Class C stock. So if he does get hit
+
+with a 5% tax, he'll sell the economic stake, not the controlling stake, and he'll be able to
+
+stay in TBD labs in the building. I don't know why you're watching. But it's interesting because
+
+both of these, both of these rationales are completely justifiable from like the PT lens of framing,
+
+which is like, of course, leave California if they're going to tax you and you can just go to Florida.
+
+And then also, like, of course, issue a bunch of equity if you have a really, if there's a new technology that you can actually invest against.
+
+You can't make an omelet without breaking a few eggs.
+
+Yes, George.
+
+Yes, without issuing some new equity.
+
+But this is the critique of Google.
+
+They have $100 billion in cash.
+
+They don't spend it.
+
+They're just returning to investors.
+
+They are stagnated.
+
+They're out of ideas.
+
+Now we're in the era of there's tons of new ideas.
+
+There's tons of new ways to deploy capital at a high rate of return, go and invest.
+
+There's a debate over meta's ROI on AI CAPEX.
+
+But like, at least the company is thinking, like, let's go big.
+
+Let's not be the stagnation company.
+
+And let's not just buy back our stock and pay out cash to shareholders.
+
+Let's go pursue the next great thing.
+
+Let's go try and do something bold.
+
+And so both of these stories are framed.
+
+At least a lot of people are, oh, it's bad.
+
+but I see them both as like, yeah, totally rational and very good for a leader to be doing that in tech.
+
+Anyway, we have our next guest here.
+
+Console builds AI agents that automate 70% of IT, HR, and finance support, giving employees instant resolution for access requests and password resets.
+
+We have Kevin Williams, the founder of Warp Sciences, launching Warp Sciences.
+
+Get that gone ready.
+
+Kevin, how are you doing?
+
+Hey, guys.
+
+Welcome back.
+
+Good to see you again.
+
+Good to see you again.
+
+It's been far too long.
+
+It's been too long.
+
+Congratulations.
+
+We've been busy.
+
+Yeah.
+
+Seems like it.
+
+Cooking.
+
+Huge acceleration.
+
+Talk about the vision, the mission of the company, what you're building and introduce the company to us.
+
+Yeah, I'd love to.
+
+So Warp uses AI and robotics to help the world discover new medicines faster.
+
+Okay.
+
+We're building robotic labs to do science at scale, and we're doing it here in America.
+
+There are two big things that we believe.
+
+The first is that robotics and robotic labs are going to accelerate science.
+
+Partly because you can just run more experiments when you have labs operating 24-7,
+
+but also because these kind of labs can generate data at huge scale
+
+to train amazing AI models for science.
+
+The second thing, we need to re-shore scientific capabilities from China
+
+so that we don't lose our pharma industry the way that we did solar, drones, and manufacturing.
+
+And there's one solution to both of these things,
+
+which is we are building a next generation preclinical CRO, a contract research organization.
+
+We're doing it here in America.
+
+It means we don't develop drugs of our own.
+
+We're building the infrastructure for everybody else who does so that they can go faster.
+
+Yep.
+
+What's happening, like over the last year, I heard some number about how much, like, U.S. and sort of allied,
+
+farmer companies and allied countries are spending on, like, Chinese, licensing Chinese,
+
+pharmaceutical advancements, like, what more can you share on that front? Just how much of, like,
+
+the drugs coming down, our pipelines were actually made outside of the country.
+
+I mean, almost all of them had big parts of their programs that happened in China. It very much
+
+rhymes with what we did with the manufacturing industry, where in the early days, it's like a bunch
+
+of sensible local decisions where you're like, oh, well, this is low-skilled labor. It can happen
+
+more cheaply elsewhere, so we'll move it out. And then over time, it becomes not just low-skilled labor,
+
+but there's innovation that happens and suddenly our muscles atrophy, there's grow, and all of a sudden
+
+we can't manufacture a lot of the things we need. There's this amazing quote from Andy Grove from
+
+like years ago when he was running Intel. He said, abandoning today's commodity manufacturing can
+
+lock you out of tomorrow's emerging industry. It happened exactly in manufacturing, and it is on the way
+
+a happening in pharma and we can't let it.
+
+So with manufacturing, I remember the story of American deindustrialization as driven by two
+
+factors.
+
+One is what you said, lower labor costs abroad.
+
+But two is it's dirty, nimbism.
+
+I don't want the smoky steel mill in my backyard.
+
+Let's put it halfway across the world where I don't have to see it or worry about it or think
+
+about the pollution.
+
+With CROs, is nimbism a factor whatsoever?
+
+I feel like no one would care, but how has that played into it or has it been a non-factor?
+
+I don't think that's a huge factor here.
+
+I think it's been much more of the first that you identified.
+
+It's the cost and it's this feeling of, oh, well, maybe this won't be so strategic.
+
+And then, of course, it turns out that it's massively strategic.
+
+We don't want to lose the ability to turn ideas into medicines here in the United States.
+
+Yeah.
+
+So then on the labor cost, it feels like by leaning into higher volume tests, testing,
+
+driven by robotics, you can be more competitive on the economic side. So I would imagine that within,
+
+I don't know what your timeline is, a year or two, like on a cost per experiment, you would be
+
+competitive internationally very quickly, correct? Yeah. And so just to step back, because I bet a bunch of
+
+people don't know how these processes work. So let's say the three of us go start a biotech company.
+
+We're going to develop new medicines. We're going to try and cure a particular form of cancer.
+
+You usually start with some biological target, right? We might say it's usually,
+
+a protein. So we might say, you know, maybe because of Jory's grad school research, we've got,
+
+you know, you either want to like, you either want to like, you either want to accelerate or inhibit
+
+some protein. And you've got that idea. You find a molecule that maybe sort of does it, but it
+
+probably is toxic or it's not soluble so the body, you know, can't process it the right way,
+
+or it's not potent. So instead of taking, you know, a tiny amount of it as a pill, you have to take
+
+a kilogram of it, which all of these things disqualify it as a drug.
+
+And so the next step in the process is we would go through three to five years of making
+
+variations of that molecule to try to optimize it, to make it more potent, to make it more soluble,
+
+to make it less toxic.
+
+So there's this like three to five year process, and that entire process is outsourced to China.
+
+And that's the problem.
+
+And that's what we're bringing back.
+
+And the only way you're going to bring it back to your point about economics is
+
+if you do it a different way. You've got to use AI and robotics, and that's what we're doing.
+
+Talk about, like, how you see demand over the next couple years. I can imagine in the same way
+
+that we're seeing an explosion of new cybersecurity vulnerabilities. We might see an explosion of new,
+
+like, pretty promising, even like concepts or ideas for new drugs. Do you imagine you're going to
+
+very quickly be, you know, even as you're expanding capacity, like turning away a lot of opportunities
+
+just because of how many opportunities there are?
+
+Yeah, I think this is the exciting thing about where we are.
+
+This is a real existing industry.
+
+Billions of dollars are going right now overseas to these players
+
+to help develop every drug that you ever see or take.
+
+So there's already a big market for it.
+
+And every player would prefer to have that done in the U.S.
+
+where they have strong IP guarantees and everything else.
+
+And to your point, you've got lots of exciting new players in AI.
+
+Every one of the Frontier Labs is getting involved, which I think is amazing.
+
+And you've got all kinds of new startups that are using AI to do bio.
+
+I think that's only going to accelerate.
+
+So there's not just a big market today.
+
+There's a big and growing market going forward.
+
+On the robotics side, what is the opportunity to pull stuff off the shelf?
+
+I'm assuming there's like a ton of companies working specifically on that and you can sort of acquire existing robotic tools or I imagine a big part of this will be building your own.
+
+But what do you think your view is?
+
+Yeah, there'll be some of each.
+
+There is a lot happening.
+
+I mean, this is one of the reasons why this is like the why now for this company is robotics is just at the beginning of the S curve that we've seen AI, you know, broadly go on.
+
+And so the capabilities are increasing at an incredible rate.
+
+For us, we're going to be super pragmatic.
+
+If there's something that we can build that, or that we can buy that helps us go faster,
+
+helps us automate more of the process, then for sure we'll do it.
+
+But I don't think that it's all out there ready to be bought.
+
+I think this is going to have to be a build from the ground up,
+
+which is why we are totally vertically integrated.
+
+We have chemists on the team.
+
+We have roboticists.
+
+We have mechanical engineers.
+
+We have AI researchers.
+
+And I think that's the only way that this company is going to be successful.
+
+Can you talk about the shape of that S curve?
+
+My intuition is that we saw sort of a fast takeoff in software vulnerabilities because
+
+you can run PHP in a virtual machine and you can hammer it with a ton of different
+
+exploits that you're inferencing pretty quickly, inferences pretty fast, and everything
+
+can be done in this closed loop that happens so, so quickly.
+
+And right now in bio, maybe it's a week to run an experiment, get it back.
+
+Maybe you bring that down to a day, maybe an hour, but even if there's a few minutes of timeline, you're looking at an order of magnitude slower than software.
+
+So I would assume a little bit slower of a takeoff, but am I wrong about my intuition there?
+
+I think this is exactly why, even as we're seeing AI completely remake software engineering.
+
+And you're seeing AI do things like solve Navier Stokes and make progress on the remand hypothesis.
+
+we haven't seen the same level of sort of mastery in the physical sciences
+
+in chemistry and biology and material science.
+
+It's exactly the reason that you say.
+
+And that's one of the reasons that it's so important that we develop robotic labs, right?
+
+It's both we need to reshor this from China.
+
+And this is the way that you generate data at scale that will allow us to build the next
+
+generation of incredible scientific AI models.
+
+right? And because there's nothing, there's, I can't think of very many things more important than seeing that kind of acceleration that we've seen in software and math. Yeah. But in biology, in chemistry and drug discovery instead. And it might be multiplicative. Like if you shorten the time for the loop and then you're applying the models faster, you actually get an exponential there that you see results very quickly. Exactly. I mean, the, the thing that's going to come when AI is able to develop and to design more drugs is then we're going to need to test way more drugs. And that,
+
+will, I think, invariably require a physical component.
+
+Yeah.
+
+But that physical component also generates really valuable data.
+
+And so there's absolutely a loop here.
+
+How did you, how did you, did you ever explore the idea of what Ravi Gupta is doing,
+
+where he acquired a business?
+
+Like, you're able to raise a lot of money.
+
+You have a stored career in Silicon Valley.
+
+Is there, did you ever go down the path of like, maybe we should buy a CRO that already
+
+exists or buy some company and and turn it around or expand it in some way versus build everything
+
+from scratch. Did you do the build versus buy analysis before embarking on this journey?
+
+Yeah, it's a really good question. And we did. We talked about it. I just think it's,
+
+it's very tough to sort of remake and re-outfit a business that has worked a particular way
+
+for decades. Sure. Like I said, I think this is a very, most ROs aren't hiring AI researchers
+
+and roboticists.
+
+Yeah.
+
+So I think you just need to build from scratch with the idea that you're looking to automate
+
+this from day one and that you're trying to find these different, these loops and scaling
+
+laws in the process to get there.
+
+Well, I want to hit the gong.
+
+How much did you raise?
+
+Tell us about the fund raise.
+
+We raised, oh, wait, go for it.
+
+We raised $215 million.
+
+You're usually on for product releases and stuff.
+
+That might be your first gong hit on the show.
+
+Yeah, I was going to say, I think it's my third.
+
+or fourth time on the show.
+
+I know.
+
+First gong.
+
+Yes.
+
+Yeah.
+
+We raised $215 million.
+
+Lightspeed lead.
+
+Amazing.
+
+We had folks like IvyP, Mayfield, Lux, Menlo Ventures,
+
+scribble ventures, a bunch of amazing folks.
+
+And then a bunch of angels that I have worked with and worked alongside Fiji Simo,
+
+Brian Armstrong, Mark Chen, amazing.
+
+Alex Sorky, Sarah Fryer.
+
+So it's just we get it.
+
+We get it.
+
+We feel really lucky.
+
+We got a lot of amazing people with us.
+
+Well, now we got to go build, right?
+
+Yeah, now the important tart.
+
+Of course, of course.
+
+But we're glad we have the money to go ahead.
+
+I'm so happy you're doing this.
+
+Yeah.
+
+It's really, really important work.
+
+And I can imagine your phone's going to be ringing off the hook.
+
+This feels like squarely, this just feels like the need right now as so much of the industry is now focused on, hey, how do we, how do we apply this technology in a way that hopefully we'll get a better response from people than, you know, short AI videos.
+
+and things like that.
+
+Yeah. For sure.
+
+I mean, the response today has been awesome, but now we've got to put our heads down
+
+and go build, and I hope we get to come back and talk more when we do.
+
+Yeah, I can't wait.
+
+Congratulations.
+
+We'll talk to you soon.
+
+Thank you guys.
+
+Have a good rest of your day.
+
+Goodbye.
+
+Invest across all asset classes, automate anything with AI agents.
+
+Run trading strategies, risk management, money movements, and monitor markets with
+
+AI agents for investing on public.
+
+Our next guest is joining in just a minute.
+
+But we have some big news.
+
+The iPhone duo will allow you to scroll reels and TikTok concurrently.
+
+It was long speculating.
+
+I was thinking, look, when I started seeing some of the images come out, I thought I thought it was duo on arrival.
+
+But seeing this, I think there's a...
+
+Zogginjetti ordered one.
+
+Just for this feature, right?
+
+No, yeah.
+
+It's frame right.
+
+No, his thesis was that he will actually be less addicted to scrolling content.
+
+because it's more inconvenient to actually open it up
+
+and that you will use it.
+
+It'll have some dumb phone-like features,
+
+and then when you open it up, I don't know.
+
+What do you think?
+
+That doesn't make any sense because there's still a screen on the front,
+
+so you can use it while not opening it.
+
+But it's a smaller screen, and it's a less convenient screen.
+
+So you'll be like, ah, I don't really...
+
+Why is it less convenient?
+
+No, because it's smaller and it's, like, more square.
+
+It's not as, like, easy to just have in your hand like a phone.
+
+That's what I...
+
+I don't know.
+
+Daniel Storm has a callback.
+
+Texting is really nice on the duo.
+
+Do either of you get this reference?
+
+So this is texting in an Excel sheet.
+
+This is from a music video from like the 90s,
+
+maybe 2000s when they're,
+
+I actually don't know the full reference,
+
+but this is from,
+
+I think it's a Nelly video where someone,
+
+if you scroll down,
+
+you can see someone texting on a Nokia.
+
+Keep going, keep going.
+
+You'll see the phone.
+
+Keep going.
+
+Ball Knowledge Elite.
+
+There.
+
+That's one. This is a screenshot from a music video, I believe in Nelly video, where the female character in the music video is supposed to be texting where are you at, holla, when you get this, but is just in a spreadsheet. Because the crew was like, we need to show her texting and they chose an Excel spreadsheet, which is kind of a crazy feature for this Nokia phone back then. Who knew that you could be doing DCFs on a, on a new phone. Yeah, that's crazy. Pretty crazy advanced technology.
+
+I don't even think Excel works well on an iPhone.
+
+No.
+
+So like the stagnation is absolutely brutal.
+
+Yeah, it's insane.
+
+Anyway, we have MCLater from Cognition Industries, new initiative from Cognition
+
+joining us.
+
+Here we go.
+
+Welcome to the show.
+
+The new head of Cognition Industries.
+
+Thank you so much for taking the time to join us.
+
+Please, since this is your first time on the show, kick us off with an introduction on yourself.
+
+And then I'd love to take everyone through Cognition Industries and the strategy.
+
+Yeah, definitely. Well, thanks for having me on. So I'm a long-time fan of the show and also a friend of Dylan of the show with whom I worked at Uniswap.
+
+So really excited to be here.
+
+Thanks for having me, guys.
+
+Yeah, so I've been in Frontier Tech for a long time.
+
+I'll tell you a little about my story.
+
+I was president of UNISWOP, started a Cable Coin Company, sold to Coin Base.
+
+And then as I was thinking about what was most exciting in the world,
+
+I felt like the cognition was one most powerful and exciting companies be part of.
+
+I'd known Scott for a couple years.
+
+He'd actually been like a beta tester of UNOSWAT products.
+
+And they asked me to come start.
+
+Yeah, he was a...
+
+Yes, we had some of the biggest market makers in the world and this one guy in a basement.
+
+And that was Scott Wu, who now has a very big company, not in a basement.
+
+Wow.
+
+And he asked me to come start cognition industries.
+
+Okay.
+
+So what is cognition industries?
+
+I thought cognition was the cognition industries of cognition.
+
+But it seems like there's a new initiative, new group, new sub-company.
+
+What is the structure?
+
+What is the mandate?
+
+Group of industrialists.
+
+Yes.
+
+There are plenty of industrialists in the world who are all trying to figure out how they can change their businesses with AI, right?
+
+as well as small startups and emerging, emerging companies.
+
+And what that looks like is a little different for every company.
+
+And so what we found is that you guys talk about diffusion on this show all the time.
+
+And so what we found is that this diffusion needs partnership.
+
+It needs everything from partnership and what security means for a financial service company versus a health care company
+
+to how you can reimagine vertical software in a completely different way and build totally new products.
+
+Now you have software abundance.
+
+So I'm hiring a team of former founders to lead Egypt.
+
+industry vertical and really reimagine what could be possible in an industry that they've been
+
+building and selling in for a long time now that you have thousands of agents at your disposal
+
+and the world's largest distribution ready to drive change. So, I mean, that makes so much
+
+sense. There was this recent report in the Bank of America hired a ton of people just to patch
+
+like mythos-related bugs. And there were, and there's clearly unique needs in all different
+
+industries. You're hiring a bunch of founders in each category. I think that's a brilliant
+
+strategy, very modern. But what will they be doing? Are you, like, what is going to be replicated
+
+across cognition versus siloed in a particular vertical? Is it product changes? Is marketing?
+
+Go to market? What needs to live within a specific pod versus be shared across the entire
+
+organization these days? Yeah. So we'll start with go to market because there's a lot just like showing up
+
+like you understand and know an industry, right?
+
+And I think that's really important, right?
+
+So if we're kind of in this era of enterprise adoption,
+
+where it's like the world's best university appeared next to your company
+
+and you welcomed in all the interns,
+
+but you didn't like give them projects and, like, direction on what to do.
+
+And so we're now showing up and saying,
+
+look, I want, you know, our team in cognition industries
+
+show up and be like someone built a business in telco.
+
+They built a business in healthcare.
+
+They have a sense of what providers versus payers
+
+versus life sciences companies want to need.
+
+And we'll start to build out,
+
+starting with go-to-market, sales and marketing, and then really packaging the primitives of Devin
+
+to build industry-specific products. But it's not a separate standalone, like, conglomerate or something
+
+like that. We are not competing. It is all like serving customers and helping them grow,
+
+not like building a separate. Yeah, I'm sure some people shuddered and thought, I don't want
+
+cognition in my industry. I can hear some of the customers. But yeah, I just feel like the biggest
+
+thing is like right now AI is exciting to most people. Also,
+
+very confusing to most people, especially outside of tech.
+
+And so if you don't have that vertical approach, any customer that you're speaking to is
+
+probably getting pitched like a million AI for XYZ industry, like verticalized products.
+
+The product itself might be inferior, but that person is leading and saying this is, this
+
+is our focus.
+
+This is what we do, right?
+
+And so I think it makes sense to have somebody that can lead that and actually speak the language
+
+and bring experience from the industry.
+
+Yeah. How does how does how do you think about the long tail of industries versus like the ones that are going to drive power law results? I can imagine that finance technology enabled firms are huge buyers. The long tail of like florists is probably like a smaller opportunity. But how deep do you want to go down the long tail?
+
+Yeah, it starts with businesses where software is central to the business.
+
+I haven't thought about florists yet, actually.
+
+There's a bunch that we haven't prioritized yet, but florists definitely wasn't even
+
+below the line list.
+
+Cognition for florists.
+
+Super intelligence for flowers.
+
+Yeah.
+
+Yeah.
+
+Dog walkers, other niche businesses we can think about.
+
+Oh, I got the most niche one.
+
+Which one?
+
+Ski resorts.
+
+We need to secure our ski resorts this winter.
+
+I'm actually worried about cyber attacks on ski resorts.
+
+Yeah, you don't want to be stuck on the chairlift.
+
+Yeah, a bunch of people on a chairlift.
+
+and gets taken down.
+
+I can't imagine the average ski resort is like that secure.
+
+So that's the most niche category that I can throw at you.
+
+There you go.
+
+But that even has a system that's probably operated by software.
+
+So there's something.
+
+So you just go after this aspect.
+
+No, I'm not joking.
+
+I'm not joking.
+
+Imagine the kind of software like the ski resort is running.
+
+I guarantee you it's not like they haven't,
+
+they're not staying on top of every little detail.
+
+You need to get to the bottom of this.
+
+I want to know who the biggest.
+
+software vendor is in the ski industry because I imagine that there's a company that vends software
+
+to multiple ski resorts and there's probably some business that's been built there and they might
+
+be a great customer even if it's not direct to the ski resort. I don't know. But I'm sure,
+
+but I'm thinking about like energy as like a massive. I don't know how you're thinking about that
+
+as like a category, but I mean, especially this week, everyone's worried about the grid being
+
+taken down and sort of that as an attack vector. And it just feels like there's so,
+
+much code that needs to be written to
+
+modernize even in that
+
+one category.
+
+Totally. I mean, this week is just thinking about
+
+all the critical infrastructure and services that
+
+people rely on that have security exposure.
+
+So energy is a priority of vertical.
+
+We're starting with 14, and it's basically
+
+the 14, yeah. You can think of that
+
+as the 14 largest industries in
+
+the global economy, but also where software
+
+is pretty central. So
+
+financial services, health care,
+
+energy, auto,
+
+travel. I
+
+could go down the whole list. I won't give you the full 14.
+
+Give me the full 14. We love
+
+business. I'm waiting with baited back here.
+
+I love it. Also,
+
+number, number 15.
+
+Number 13 will shock you. Kind of stings
+
+to be number 15. You almost made the cut, but
+
+hear cognition saying, look, you're going to have to wait.
+
+2027.
+
+Okay, okay.
+
+Adon's are just getting faster and more powerful.
+
+Yeah. Yes.
+
+We'll get to florists and skiers are soon enough.
+
+What is the ideal shape of
+
+of one of those teams? I mean, it sounds like you're going to be
+
+overseeing.
+
+14 teams pretty quickly.
+
+Do you have a two-pisa team philosophy?
+
+Do you have a, you know, you want a CEO-type role, a leader in each of those industries,
+
+or is it like six generalists or maybe 6D generalists or 600?
+
+Like, how do you see the shape of each pod evolving?
+
+Yeah, well, I'm starting with obviously with the leaders.
+
+And I think that that will be a little bit dependent on the different industries.
+
+So, for example, in some industries, like airlines is one example.
+
+There are opportunities to build new software that different companies all use but maybe want to update
+
+and you can think of an initial kind of new product that could have much more of like a new application out of the gate.
+
+Whereas like financial services, Cognition has a lot of existing customers and that's like a lot more collaborative.
+
+And then of course different financial services need different things.
+
+So initially I'm looking for people who like I said ship product and sold into an industry
+
+are opinionated about what AI now makes possible and are excited to come to do that with really the full force of
+
+cognition. So we'll still work with the deployed engineering team that's already present,
+
+existing cognition customers with sales, with marketing. We're using the whole force of the
+
+company to deliver for customers. But pretty small teams within cognition industries and just
+
+like killer, killer, killer former founders and operators who have a perspective.
+
+You said former founders are acquires on the table. Are we going to see some deal making?
+
+Open to it. Open to it. Do you have anybody in mind? Do you want to let me know?
+
+I don't know.
+
+Yeah, I mean, we talked to some founders who, I mean, I can imagine someone who's built a product in a particular category,
+
+but wasn't quite able to find product market fit and be the leader in that category,
+
+wanting to partner up in a really positive way.
+
+I don't know.
+
+It seems like there will be talent that would fit this role very, very quickly.
+
+I don't know.
+
+What do you think, Jordy?
+
+Yeah, I mean, every category you're going into, you're going to be going up again.
+
+like a vertical player in that space,
+
+and I think a lot of them would much rather partner with you and Scott
+
+and the rest of the team than go head to head for two decades.
+
+I agree.
+
+It's a great pitch.
+
+It's a great pitch.
+
+And that's part of what brought me here.
+
+I mean, I had a, I just sold a stable coin company.
+
+I was thinking about what to build an AI and financial services.
+
+I've been building business in fintech and financial services for a while.
+
+And it is intimidating to be going up against.
+
+In this particular moment, for this next 12 to 18,
+
+months when things are moving so fast.
+
+And look, I still think amazing new companies
+
+will come out of the next year.
+
+But if you don't have the thing that you're
+
+so passionate about that's like taking off
+
+to come to come do it across
+
+a bunch of different companies and still have like
+
+a vision for new products come to life,
+
+that was exciting to me. And hopefully
+
+12 to 14 new people
+
+for the next six months until we get to
+
+ski resorts. I love it.
+
+Number 15. Congratulations.
+
+And you did. Thank you so much.
+
+Great to meet. And congratulations.
+
+Congratulations on the new role and keep us posted as you start knocking down these categories.
+
+Yeah. Talk to you soon.
+
+Thanks so much.
+
+Goodbye.
+
+Cheers.
+
+Want to change the world?
+
+Raise capital at the New York Stock Exchange.
+
+Stop making excuses.
+
+Our next guest is Dylan Baxter from Plant Switch, the co-founder and CEO, raising a series B to expand compost zero into coffee cups, paper coding.
+
+There he is.
+
+Dylan Baxter, welcome to TBPN. How are you doing?
+
+I'm doing great, guys. Thanks. How are you all?
+
+We're doing great. Dude, you solved straws.
+
+Yes.
+
+We went through like, we went through like, we went through basically, it feels like 60% of my life,
+
+straws had just completely, they were over, the category was dead.
+
+We were just all going to, you know, sit there.
+
+Well, they were great.
+
+They were great.
+
+For 50 years.
+
+What is the history of the plastic straw?
+
+When is that invented?
+
+How long has that been around?
+
+Pop quiz.
+
+Pop quiz, do you know your industry?
+
+Been a while.
+
+It's been a while.
+
+It's been a while.
+
+It's been a while.
+
+How long have you been around?
+
+I've been around 29 years.
+
+What?
+
+Probably longer than me.
+
+No, the company.
+
+Oh, no.
+
+You started this.
+
+Company has been around since 2020.
+
+2020, okay.
+
+He was just a boy.
+
+What he?
+
+Maybe, maybe, you know.
+
+No, it's cool.
+
+Introduce the company.
+
+I jumped right in.
+
+I couldn't help myself. I'm so excited that you did it.
+
+Yeah.
+
+Oh, thanks. It's a beautiful intro. So I started the company back in 2020 to try to fix the
+
+straw problem amongst many other problems and disposable plastics. And it's been one of those things
+
+that's been kind of a consensus of, hey, we need to get away from plastic, both environmentally,
+
+which was the original push for the paper straw. Everyone had the paper straw on the turtle's nose.
+
+Yep. And then you had to suffer through paper straws for a decade.
+
+But then looking out beyond that, we're starting to learn that microplastics are this huge issue.
+
+And we're finding them on our brain and our hearts and our reproductive organs.
+
+And so we're trying to replace plastic throughout packaging.
+
+Everyone is every major company.
+
+The question is, if not plastic, then what?
+
+No one wants paper.
+
+No one wants wood.
+
+Many of the other substrates.
+
+I would want mahogany personally.
+
+Yeah, wait, wood sounds pretty good, actually.
+
+Yeah, until you get a splinter when you're eating your salad.
+
+Oh, so the mahogany splinter would do me in, potentially.
+
+Mine would be sealed nicely.
+
+Yeah, you want a nice varnish on there?
+
+Yeah.
+
+Anyways, continue.
+
+It's an expensive fork, but you got expensive taste.
+
+That's fine.
+
+I like the metal straws occasionally, but yeah.
+
+It's the official wood of business, so maybe just for important meetings.
+
+What about an incanel or something?
+
+Incanal straw.
+
+So you went with plant-based alternatives.
+
+What was the actual build-out?
+
+I mean, are there copackers for this, or did you have to set up manufacturing on day one?
+
+So we set up a fully vertically integrated production site.
+
+So we do everything from the raw material to the finished goods, which is, you know, I think we're the only ones that are doing that for a whole portfolio of products today.
+
+So we started off developing the material.
+
+And we got to something that felt and function like plastic, but biodegraded like a plant.
+
+So you can throw our material.
+
+We don't recommend it, but in the ocean or in your backyard, it's going to biodegrade naturally with no microbeats.
+
+plastics. And so truly zero waste really just goes away like a plant does. But is that like a multi is
+
+that like a few years? I remember I would get biodegradable airsoft BBs as a kid. And I would find
+
+them years later. Making some progress. Okay. But there's a there's a little greenwash in there,
+
+I think. But ours has been tested to biodegrade in just a few months in most environment. Oh, that's pretty good.
+
+Okay. That's solid. So what's the what's the sales?
+
+strategy. Are you going to
+
+like restaurant supply
+
+conferences? How do you actually get
+
+this into the stores that I've seen these
+
+sold at?
+
+So originally we just wanted to make the material
+
+and then sell it to manufacturers because it can work
+
+on their equipment. That didn't
+
+work. We tried, we had a bunch
+
+of big enterprise deals we were working on and nothing
+
+never really got to the finish line.
+
+And so that's when we said, you know, screw it. Let's just
+
+go fully integrated. We'll do it ourselves.
+
+We'll do it ourselves.
+
+We'll make a whole food packaging business.
+
+Yeah.
+
+Let's learn everything there is to know about food packaging, which I never really expected
+
+to do.
+
+And now we've gotten, you know, pretty decent at it.
+
+So we sell through food service distributors.
+
+We work with companies like Walmart.
+
+We work with event companies like Live Nations and Legends Global.
+
+And then we're partnered with distributors like Imperial Brady and Bunzel, where then they
+
+go sell into the restaurants for us, which a bit more of an efficient way to do it.
+
+So we had to take a little crash course in the last few years of how to build a food packaging
+
+business on top of a material science business.
+
+Yeah.
+
+How has the business been scaling?
+
+I see the product everywhere.
+
+But I also live in Southern California, which is probably like one of your bigger markets.
+
+Yeah, definitely one of our bigger markets.
+
+It's been scaling like crazy.
+
+The straws and the cutlery, which are what we got started with.
+
+You know, we're starting to see those everywhere, which is a lot of fun.
+
+But then with the Series B, we've now developed the technology for this new product and
+
+technology, I think, is going to be by far the biggest.
+
+one in the most game-changing product, which is our new coffee cups and lids. Most people don't
+
+know, but every coffee cup you have has a plastic lining on the inside. So every time you're
+
+drinking, it's leaching microplastics into your drink. Gross. Yeah, not great.
+
+Known that for a long time, but there's really no, there's no other option. It's like, I'd rather
+
+have microplastics than not have coffee. What about like a ceramic cup? That doesn't have plastic.
+
+Yeah, bringing the aura loss from bringing a mug into a coffee shop is just,
+
+Again, I'd rather have the microplastics.
+
+Yeah, if a plastic fork gets...
+
+If people can do it, the problem is, like,
+
+realistically, people aren't going to do that.
+
+Yeah.
+
+If a plastic fork gets stuck up at sea turtles nose,
+
+this company goes to a trillion dollars.
+
+I'm not getting it.
+
+It's going to be crazy.
+
+No, the thing that I appreciate is like, this...
+
+It's such a bad, it's just an unmitigated upgrade.
+
+Well, the thing that I appreciate is, like,
+
+the solution came after all of the sort of, like, drama.
+
+that was happening like at this point like closer to it almost a decade ago it feels like
+
+maybe like eight or nine years ago was like the peak of of um of this sort of like focus on
+
+we need to switch away from plastic but then again there was that gap of like five years where
+
+you were just using paper straws i'm it still shocks me that like more people maybe a bunch
+
+of people did try to go after this category and just didn't come up with with great solutions but uh you
+
+clearly did and I'm not surprised that the business is ripping.
+
+Thank you.
+
+When, uh, when can we, when am I going to order air one of your, your coffee cups?
+
+Oh.
+
+Um, I'm under NDA, so.
+
+Well, what, what are you, so you raised a million dollars.
+
+Top secret coffee cups.
+
+What, what, what are you using the capital for? Is it, uh, building more manufacturing
+
+capacity, hiring more people? What's the use of funds?
+
+Yeah.
+
+So a couple things.
+
+As we got in, so we had the kind of base technology.
+
+Now we've developed the ability to extrusion coat paper, which opens up this massive new category.
+
+Yeah.
+
+So we have to fund manufacturing to get into this new lane.
+
+And then we're also expecting a huge boom in sales with some of the distribution partnership.
+
+So this will help with some of the working capital.
+
+Yeah, that makes sense.
+
+Well, I'm glad you have the money.
+
+$8 million raise.
+
+Let me hit the gong.
+
+Thank you.
+
+Thank you for your service.
+
+on the show. Thank you for getting rid of paper straw.
+
+He did it. He did it. This is an American hero right here.
+
+Somebody had to do it. Thank you for everything you've done. Have a great day.
+
+Codex is a powerful workspace for getting work done with AI agents, whether you're writing code, analyzing data, creating content or automating business workflows.
+
+Codex helps you move projects forward from start to finish. Our next guest is...
+
+Our last guess, solves...
+
+from Skelios.
+
+Stras.
+
+Founder, the CEO.
+
+Our next guest,
+
+Fix, made a new microwave.
+
+Okay.
+
+Tell us about it, Richard.
+
+Thank you for joining TBPN.
+
+How are you doing?
+
+I'm doing excellent.
+
+Gentlemen, thank you so much for inviting me.
+
+It's hard to imagine a better place to launch a deep tech company than CBTN.
+
+I've been a huge, huge fan of the work that you are doing and excited to be with you.
+
+Take us through it.
+
+Introduce the company and the product.
+
+Let's do it.
+
+Yeah.
+
+So we started Stelius with the vision to build the future of high energy power systems in America.
+
+In the United States, we actually pioneered all of those technologies from directed energy to HPM,
+
+high power microwaves to compact fusion.
+
+But many of those industries were allowed to atrophy over the years.
+
+And we're bringing them back.
+
+We are innovating, making them better, more compact, more powerful, and making sure that we're
+
+building those systems here in the United States, full vertical integration with domestic production
+
+and making those systems affordable and readily available, essentially, for our warfighter,
+
+for the country. And eventually, with our fusion business, we want to make sure that America
+
+leads in compact fusion and next generation energy sources.
+
+So you are making microwaves to...
+
+microwave people?
+
+Hopefully, hopefully not people.
+
+No, but defense, defense is like the first category that you're focused on.
+
+What are the different applications?
+
+Yeah, yeah, great question.
+
+No, I just want to be, I just want to be clear.
+
+It is an important question to clarify.
+
+Yes.
+
+High power microwave, so megawatt class, gyrotrons, glistrons,
+
+they have a wide range of applications.
+
+The vast majority of them today are driven by defense.
+
+If you've got thousands of drones flying at you that are extremely cheap to produce,
+
+you want to be able to take them down without expanding extremely expensive munitions.
+
+And megawatt-class microwaves are uniquely conditioned and capable of taking down those large swarms of drones.
+
+So that would be the biggest application.
+
+Counter electronics, frying electronics on drones, on humanoid robots, or satellites as well.
+
+There's space domain as well.
+
+Yes, they can be used for area denial for anything, and they are non-lethal to humans, but this is not the driving force.
+
+Yeah, yeah.
+
+Interesting.
+
+What about with drones, like, obviously you're still, you know, developing and improving the technology, but what about, like, range and how much area can you cover if a drone, you know, a drone swarm is, or the operator is aware that this technology is out there? I'm assuming they would, you know, spread out the drones over a really wide area. So, like, what are the different tradeoffs? Obviously, microwave.
+
+of tech would be a part of a broader system of sort of drone denial, but like where is it
+
+shine? This is exactly right. It's one of the components of a layered defense system, right?
+
+So if you've got an area of, let's say, a few hundred meters that a swarm is approaching you,
+
+you can configure the beam to take them down simultaneously. And this is the range. The range,
+
+that we're targeting is one to two miles for completely denial and then disruption at
+
+further distances and jamming at further distances. This is where going into megawatt-class
+
+micro-ways is so important. So basically with solid-state technology or with lasers, it's really
+
+hard to go above tens of kilowatts, hundreds of kilowatts. The devices that we're building are more
+
+configured for 100 kilowatts to a megawatt class of operation. And so the more power you've got
+
+the longer range and more defensive capabilities you build. So what is powering that look like?
+
+I mean, a megawatt, are you, is this like a shipping container size diesel generator that's on a
+
+truck and then that sits next to the array of microwaves? Yeah, it's a great question. So for 100 kilowatt
+
+class devices, they can be mobile on mobile platforms. For megawatt class devices, there are more
+
+stationary. They will be protecting things like forward operating bases, data centers, borders.
+
+And as we all know, data centers are becoming a big target for UAS.
+
+and we had some interesting discussions in the process.
+
+Yeah. Data centers all over the world.
+
+And I mean, even going back to like, I don't know, maybe 10 years ago, there was a drone attack
+
+on some oil and gas infrastructure in the Middle East.
+
+Exactly.
+
+Exactly. And even in the recent conflict, one of the first targets that was hit was a data center in the Middle East.
+
+Is this not useful for high-flying drones?
+
+Like if there's a drone that's more than a mile in the air and then it maybe it's disabled as it's coming down, but then it's just falling and it already has a warhead.
+
+You need a different solution for that type of attack?
+
+You would need a layered solution.
+
+You would need a layered solution.
+
+but the more we advance on the power spectrum and frequency,
+
+eventually we will be able to protect higher and higher.
+
+Sure.
+
+Altitudes, longer ranges from bigger and more shielded UIS systems.
+
+Yeah, yeah, that makes sense.
+
+So, yeah, it's all part of the ensemble.
+
+And, I mean, we've talked to tons of companies that do everything from, like, kinetics using 5, 5, 5, 6 rounds to the Anvil technology from Anderol and running,
+
+a drone into, you know, all sorts of different technologies are going to be used in concert here.
+
+Sorry, Jordy, do you have another question?
+
+Yeah, talk about the progress to date.
+
+So we're just getting started.
+
+This is why I'm so thrilled to be with you guys.
+
+Hopefully it will be the first of many exciting announcements.
+
+So we started around June, signed a $2 million contract to build a systems pilot units.
+
+And then fairly quickly, we're.
+
+extremely lucky to raise the round that covered very, very quickly.
+
+How much did you raise?
+
+It was 5 million precede.
+
+I need to give a lot of shout out.
+
+If I basically start maybe all of the people who supported that,
+
+it would take a little bit of a while.
+
+But huge thank you to all of our supporters,
+
+Jamie Gal from Wave Function,
+
+Cupid Capital, Manaventures,
+
+Shervin de Chavar, and so many others
+
+who supported us and believe in this mission and vision.
+
+This is the community of support and the output of support that we're seeing around the mission
+
+of building high power microwave systems, directed energy systems.
+
+And also, a lot of people share our vision that America must lead in compact fusion,
+
+which is kind of a sleeper for us.
+
+We're just getting started on the research and the design of a compact fusion system.
+
+But once it succeeds, it will change the game in how we move things and from hypersonics to supersonic to spaceflight.
+
+This is the future that I hopefully will be announcing with you guys in a few months or a year or a couple of years.
+
+Very exciting.
+
+Can't wait.
+
+Thank you so much.
+
+Yeah, really great to meet you and congrats on all the progress.
+
+Have a great rest of the day.
+
+Thank you so much.
+
+Appreciate you.
+
+Richard.
+
+Cheers.
+
+Cisco is the critical infrastructure for the AI era,
+
+unlock seamless real-time experiences, a new value with Cisco.
+
+Our next guest will be going in just a second
+
+with Brian Manning,
+
+who's owner space systems returning to the show,
+
+I believe he's here in the waiting room.
+
+So let's bring Brian in to the TVP and LTRU.
+
+Brian, how are you doing?
+
+Hey, it's not good to be here.
+
+Welcome back to see you again.
+
+Congratulations on the progress.
+
+Great setup, great setup today.
+
+What has changed since the last time we talked?
+
+It was maybe six months ago, five months ago.
+
+What's new in your world?
+
+Yeah, a whole lot of things.
+
+I think I was sitting a little further over the last time on a stool, but it was a pretty
+
+empty, empty warehouse still.
+
+Now he's got a chair.
+
+Yeah, right?
+
+There's a little out of screen, but there's an actual satellite sitting over here.
+
+The next one that we built, we actually launched six satellites earlier this week to start
+
+actually deploying the world's first commercial satellite navigation.
+
+navigation service. You're really built to bring GPS into the modern technology era effectively
+
+and announced this morning a $250 million funding round at a $2.45 billion dollar phase that.
+
+Thank you.
+
+That's what I'm for. So yeah, a lot of things moving and grooving here.
+
+Deep SpaceX lineage with your personal experience and Steve Jervison, a SpaceX board member leading the round.
+
+what can you tell me about how you're co-designing your satellites to work with the SpaceX product portfolio?
+
+I was not aware that Starlink satellites sometimes go on specific rockets that are designed just for those.
+
+It's not all just free gap capacity.
+
+There's a lot of code design that happens there where the capabilities of the rocket are designed alongside the capabilities of the satellite.
+
+Like what have you designed around?
+
+What have you leaned into?
+
+What are you expecting to come down the pipe to unlock new capability?
+
+How does that back and forth work these days?
+
+For sure.
+
+Yeah.
+
+So the satellites we just launched went up on a Falcon rocket so they went up with SpaceX.
+
+But as we're growing, part of the reason we have the factory here is that we're growing from the point where we're launching satellites as a ride share, where we only want like a small fraction of the rocket to the point where we're launching enough satellites to grow from, you know, up to the full-teachery.
+
+250 that we actually want the entire rocket.
+
+Got it.
+
+And so one of the things, though, that we're doing is making sure that we're designing it,
+
+that it can go on any rocket that's out there.
+
+And I think SpaceX in many ways really set the standard with, like, the five-meter
+
+faring.
+
+Got it.
+
+But that's been the standard of size for most rockets around the world.
+
+We are looking forward to the starship future also and how to make sure that we are
+
+future-proofing ourselves to make sure that we can fly on Starship as it becomes ready
+
+for commercial companies.
+
+So with that standard five-meter faring, what are the trade-offs that you're making?
+
+to fill that efficiently, get the most performance out of your satellites.
+
+Is there a sweet spot number of satellites that you want to fit into a full ride when you're at that
+
+stage?
+
+What are the tradeoffs that you're making?
+
+A sweet spot is cram as money in there as possible.
+
+It's like you're paying for the whole rocket until you use it.
+
+I was an hockey player, so I remember the statement if you paid for the whole stick,
+
+you know, you got to keep it on the ice and use the whole stick.
+
+But it's kind of the same with the rockets that the rocket price doesn't go down.
+
+if you only fill half of it.
+
+Yeah, yeah.
+
+So that's one of the things,
+
+you know, our current generation satellites,
+
+you know, we can fit, you know, in the neighborhood of 30 into a rocket.
+
+Our second generation satellites that we're moving to as we go from kind of ride shareable
+
+to full rocket, you know, we can fit, you know, 50 to 60.
+
+Whoa.
+
+And so that means you effectively cut your launch prices in half as we go there.
+
+And it is taking a lot of lessons from, you know,
+
+what SpaceX did with Starlink.
+
+How do you flatten satellites out and pack them in very efficiently to use up
+
+every ounce of volume and mass that that thing can carry.
+
+So what does that mean on the manufacturing side?
+
+Because all of a sudden, it seems like if there's a particular ride that you're booked on,
+
+you've got to make sure that all 50 are done by the time launch happens.
+
+Do you have 50 manufacturing lines?
+
+Do you have like an assembly line for this or multiple, multiple lines?
+
+Like what has scaling manufacturing look like at the company?
+
+Yeah, so I'm actually sitting in the middle of the assembly line right now
+
+Where we're starting to ramp up to even a couple satellites a week
+
+Okay
+
+And as much as like you hear 50 satellites and in space that sounds like a really big number
+
+I came out of the automotive world where
+
+I mean it's like oh does that do you do we on the prototype line next week?
+
+Like it's just it's such tiny volumes and so a lot of things we've done here is taking
+
+Lessons on how do we build satellites more like you know cars
+
+And you know what level of testing and
+
+Very much following, you kind of mentioned, how do we mirror SpaceX?
+
+How do you follow the SpaceX algorithm?
+
+And step one is get rid of dumb requirements.
+
+How do we make sure that we're not imposing unnecessary requirements on what we're doing
+
+to build these things as efficiently and cost effectively as we can?
+
+How do you think about network congestion?
+
+I was just hearing about how Starlink is an amazing network, but there are some small pockets
+
+where if you have a whole bunch of people in one small Alaskan town,
+
+they will actually see some network congestion
+
+and the terrestrial internet providers have done decades of work
+
+to make sure that a stadium still has cell connection
+
+when there's 100,000 people at a football game.
+
+Is that a factor for you where you might see a lot of demand
+
+for this service in a particular area?
+
+and you need to design around that?
+
+Or is that less of a factor for this particular technology?
+
+It's a really good question.
+
+And one of the superpowers about GPS
+
+and similarly the way that our system operates
+
+is that it's not bidirectional.
+
+It's a one-directional broadcast.
+
+And what that means is once you have coverage in an area,
+
+you can support an infinite number of users in that area.
+
+So it's almost more like radio than it is like communications.
+
+Yeah.
+
+And so for us, like once we get, you know,
+
+the critical number of satellites up to serve that area,
+
+you can cram 10 billion people into that area and we can still support every single one of them.
+
+I remember.
+
+Talk about the kind of expanding need for systems like Pulsar.
+
+On the SpaceX earnings call, Elon was making the bulk case for Starlink as in like we're going to have just way, way, way, like, because of the explosion of robotics that I think we can bank on over the next 10 plus years.
+
+There's just going to be way more connected devices that, that, that.
+
+have a bunch of unique needs,
+
+some of which align with,
+
+with humans just carrying devices,
+
+but there's a bunch of other use cases.
+
+Yeah, I think the company's
+
+like, so we came out of the autonomous car world,
+
+and it was really built to support the world's
+
+transition from, you know,
+
+a hands-on world to a hands-off world.
+
+And if you look at, you know, what satellite
+
+communications are really doing for devices,
+
+they're answering, I would say,
+
+kind of the what and the why,
+
+but it's really leaving the where and the when.
+
+And so that's, our system really fills,
+
+the where and the when for things, and it does it at an accuracy level that they need and the
+
+places that they need. And it's really filling the gaps for GPS struggles. And so your GPS,
+
+as great of a system as it is, is a half-century-old architecture operated by the military,
+
+built for the military. And most people, like, if you ask a random person on the street,
+
+like, hey, what is the value of space? A lot of people say, well, GPS, that's the first thing
+
+that comes to mind. But similarly, you see the, what I call the nuisances today,
+
+If you're using a Strava app to go running and you go underneath trees and it's, you know, I didn't run two miles.
+
+I actually ran two and a half.
+
+Yeah.
+
+Or the Uber is down the street and you can't, you know, catch it because it's just on the opposite side and you're running through the rain.
+
+There's those levels of nuisances, but it also is much bigger than that.
+
+And what like the conflict of Ukraine has highlighted where your GPS jamming is just kind of running wild because it does disrupt all the military systems that are over there.
+
+We're seeing the same in Israel.
+
+We saw the same in Iran.
+
+And these are no longer just military problems that all the countries around there are getting disrupted.
+
+I mean, there's even been civilian airliners that have gotten shot down because of this.
+
+So it is a unfortunately expanding problem that we are really building a solution to primarily built for commercial,
+
+but we are proud of the work that we do with the military as well.
+
+On military GPS, I remember maybe like 15 years ago or something when Google Maps was, was,
+
+was becoming dominant.
+
+There was this thing that might have been fake news or rumor,
+
+but this idea that the civilian GPS system was less accurate than the military GPS system.
+
+And at a certain level of precision, that technology or that protocol was like encrypted or classified.
+
+I don't know if that's true or not,
+
+but are you going to face similar regulation where a certain capability level of your technology
+
+will be restricted, or are we in a new regime where kind of everyone can have centimeter
+
+level access to positioning?
+
+Because maybe it's not that big of a deal anymore.
+
+I don't know.
+
+Yeah.
+
+The answer is a bit of both.
+
+And so in, I think it was the 1990s, that they did.
+
+The U.S. actually did degrade the accuracy.
+
+It was called selective availability.
+
+That's right.
+
+Yeah.
+
+And they turned it off for a second, I think during like the Gulf War.
+
+And everyone's like, wow, this is way better than we thought.
+
+But then there was a 747 that wandered into Russian airspace and got shot down and killed everybody on board.
+
+And so that was actually the U.S. made the decision that like this is too important.
+
+Like having reliable precision is too important to the world.
+
+We can't keep degrading it.
+
+And so they actually made it, I think Clinton made an executive order that they won't degrade it anymore.
+
+So the 747 got off track because it didn't have the higher level of precision.
+
+Right.
+
+Interesting.
+
+Yeah.
+
+And it wandered into like,
+
+that makes sense.
+
+GPS wasn't really being used.
+
+And so it wandered into,
+
+on front of airspace.
+
+And if you translate into the modern world,
+
+like the same,
+
+the same thing is happening effectively again,
+
+but it's not as much even around precision.
+
+It's about the protection and, you know,
+
+the jammed,
+
+but like how jammable GPS is.
+
+Sure.
+
+And like, unfortunately, it was in,
+
+I think Christmas of 24 is an Azerbaijan
+
+Airlines.
+
+Yep.
+
+And it didn't, like,
+
+the GPS was,
+
+They couldn't find the runway.
+
+And so it was doing circles.
+
+And it wasn't broadcasting where it was because I didn't know where it was.
+
+And so got shut down.
+
+You know, got shot down.
+
+And so, you know, if that was an American Airlines flight, I think it would have caught a lot more news.
+
+Definitely.
+
+But, like, unfortunately, these instances are becoming more real.
+
+And, you know, aviation cuts a lot of attention.
+
+But it's happening to drones.
+
+It's happening to time synchronization.
+
+It's happening to buses, to logistics, to all these different things that just need a lot better precision, a lot better power and protection than there is.
+
+able to get with the kind of legacy systems that are out there.
+
+Interesting.
+
+I have one last question.
+
+Go for it.
+
+On the receiver side, what is the distribution model?
+
+I mean, I can go buy a Starlink terminal at Best Buy.
+
+I can buy it online.
+
+Do you have a direct-to-consumer or partnership business development relationships with everything
+
+from like a Garmin or an Apple or a Google that might make a device that would benefit
+
+from this?
+
+or are you focused on go-to-market with the military first or airlines?
+
+Like, what is the plan for catching the data?
+
+Yeah, you probably ask the most important question
+
+because satellites by themselves, unless you have something
+
+and actually pick up and use the signal,
+
+they're just making noise in space, right?
+
+And they're kind of pointless.
+
+And that's, you know, one of the magic of Starlink
+
+is that you can go by just a terminal,
+
+and that it is easy to access.
+
+Similarly, GPS, we made the strategic,
+
+decision early on to not try and build our own chips. So there's two billion plus chips being
+
+sold every single year. They're integrated into every phone, train, ship, truck, watch,
+
+etc. And so that being said, the U.S. government kind of has built the biggest freemium
+
+opportunity in history, where they got seven billion users hooked on a free service, and they
+
+never made an upgrade tier for it. One of the things that we cracked and what has really, I think,
+
+driven a lot of the excitement and why a lot of customers are working with us is that we designed the
+
+entire signal and system around the user equipment.
+
+So we didn't start with a satellite and say, hey, OEMs, figure out how to use this.
+
+We started with user equipment and said, all right, how do we integrate our service and
+
+how do we design the entire network so that it is just a software update away?
+
+And then it makes it that easy to integrate with everything.
+
+And we've demonstrated that on everything from the tiny little chips that go to dog callers
+
+to the big military receivers and aviation ones now.
+
+So it's exciting to see the roll out.
+
+That is amazing strategy.
+
+I love it.
+
+Any power implications? If I turn this on, does my battery draw, you know, burn through quicker?
+
+Yeah. So what we've actually seen is that it gets better.
+
+So there is such a thing as free lunch. This is amazing. You've got to work hard, but then the user gets a free lunch.
+
+Our signal is so much stronger. It's just easier to pick up. And a lot of the battery draw that comes with GPS is you're trying to pick up and find a signal that's a trillion times weaker than a one.
+
+Wi-Fi signal. It's phenomenal. You can even see the thing at all. That's amazing.
+
+But ours, like we've demonstrated how much it can punch through jammers. We can even,
+
+we've done testing to show it can get indoors. So we're starting to break that indoor,
+
+outdoor barrier. And a side effect of that is it actually can reduce battery drain because it's
+
+just easier to pick up. That's amazing. Do we already hit the gong? We've hit the gong several times.
+
+I'm going to hit it again. We do it, but why not? Why not?
+
+Thank you. So much for coming out on the show.
+
+Crazy update.
+
+Thank you so much.
+
+Really, really exciting stuff.
+
+Thank you so much for hopping on the show.
+
+This is fantastic.
+
+We'll talk to you soon.
+
+Goodbye.
+
+Agents, meet the Canvas.
+
+Your AI agents can now create and modify your Figma files with design system context.
+
+You know who's got to download Figma set up an account?
+
+Anyone with an iPhone app who wants it to run on the iPhone Duo, you've seen these screenshots of all the apps that are not optimized for the duo yet.
+
+The YouTube app.
+
+is looking kind of rough.
+
+They did stretch out the screen, but it still has this bar, this black bar on the right side.
+
+It's a new design challenge.
+
+So, very doable to solve, but, yeah.
+
+As Apple, how do you release a device without having...
+
+Especially in the era of AI agents?
+
+No, not even that.
+
+Okay, okay.
+
+You're launching this device.
+
+It's the biggest update to the iPhone since the iPhone got lighter, faster, stronger, blah, blah, blah.
+
+Yeah, it actually is new.
+
+It actually is the biggest update to the iPhone since the original iPhone.
+
+Yeah, yeah.
+
+Right?
+
+Yeah.
+
+And you don't bother to make sure that YouTube and Instagram and Spotify have like amazing.
+
+Do you think it's the opposite?
+
+Because what happened with the Apple Vision Pro was Apple said we have this amazing new VR device.
+
+Developers are going to be able to build apps for it.
+
+There's a developer program where you can get the software a little bit early, optimize things.
+
+and basically every tech company was like, no.
+
+Like we are not jumping on your new ecosystem.
+
+Go kick rocks because they were like, you're going to take 30%.
+
+We don't want to do you the favor.
+
+You're going to have to suffer for a little bit.
+
+Okay.
+
+Just an extension of the iPhone.
+
+Yeah, no, I agree.
+
+Update to the iPhone, the most popular consumer, the number one hit product in the history of consumer hit products.
+
+So why do you think it happened?
+
+Do you think that the developers of the, I just think it's like,
+
+a YouTube iOS team didn't get devices early enough or they didn't get software previews?
+
+The Germinator said that people had had access to the device for about a month.
+
+The device and...
+
+If you're a big developer, so...
+
+And maybe an emulator too?
+
+It's like, on one hand, on one hand, it's the fault of the big companies.
+
+But on the other hand, I think Apple has to, like, take the responsibility for it because
+
+it's your product that you're selling to customers and they're having a bad experience.
+
+Yeah.
+
+So I think it comes down.
+
+The buck stops with Apple.
+
+Mm-hmm.
+
+But overall, it's just like such a...
+
+embarrassing launch for Apple. People have even been poking at the like iOS like issues with the
+
+actual the actual software like native software is not optimized yet is not great like you know you
+
+have a if you're running a timer with a certain angle you can only see one of the numbers here so the
+
+whole thing was just completely botched and it's super embarrassing because now a billion people
+
+have seen like hey if you buy the iPhone duo it's going to be this like clung
+
+monkey experience. And all this stuff will get fixed in the next couple weeks, but massive
+
+unforced error. We have a take here from, uh, uh, clearly is this doesn't, the, what it comes
+
+down to, it doesn't reflect badly on like Spotify. Okay. I thought Spotify was the one that was
+
+optimized correctly. Maybe. Spotify looked good. But yes. Every single one of them looks bad. People are,
+
+people are, people are, uh, it doesn't look that bad for all the different app. And they're also dunking on
+
+Apple. Like, uh, this is from tech droider, which I
+
+assume is an Android publication, so they're bound to take a victory lap here, but they say
+
+Apple literally mocked other foldables at its launch events saying vertical scrolling feels compromised
+
+and watching movies means dealing with oversized black bars that make the screen much smaller.
+
+Now look at Apple doing the same thing, and suddenly Apple fans and some influencers are defending
+
+it.
+
+LMAO, the hypocrisy is unreal.
+
+But, I mean, it is a good point.
+
+like to release something that drops black bars on on day one is is a rough rough
+
+here's the one that I was referencing yeah this is Apple software call quality in
+
+2026 this is supposed to be a 15 minute timer oh and it's not rendering properly that's
+
+very odd so again it's like well is it scrolling oh I guess even if it's scrolling that's like a
+
+weird feature but yeah I mean just do 15m instead of 15 men Apple's just better
+
+than this.
+
+Yeah.
+
+I'm not going to, you know, I don't think it's on the new.
+
+Yeah.
+
+See, I mean, the, the, the grubinator, John Gruber over a daring fireball said that it feels like.
+
+The gruberonator, you mean?
+
+What?
+
+The gruberonator.
+
+No, it's the grubinator.
+
+The grubinator and the grubinator.
+
+The grubinator was saying that it feels like he's gotten used to an extraordinary, he's gotten
+
+to use an extraordinarily polished prototype, but not a finished product.
+
+that he'd want to buy and carry.
+
+Which is not a good review.
+
+Just to go back to back with the Vision Pro and the duo getting just appalling reviews.
+
+Oh, God.
+
+No, getting the, it's a good prototype, right?
+
+Yeah.
+
+Getting the it's a good prototype review is just like not Apple's standard, right?
+
+I don't know. Patrick here seems to be having fun.
+
+He says he's perfected the one-handed flip.
+
+and I think this might, oh, that's a good look.
+
+Hold this video up.
+
+Apple is no longer better than this.
+
+They should be, but they're not.
+
+My disappointment is immeasurable in Apple.
+
+But watch Patrick flip this thing around.
+
+Tell me this isn't fun.
+
+This is great.
+
+Look, okay, flips it around, flips it with one hand.
+
+Boom, slaps it open.
+
+That's fun.
+
+That's great.
+
+You want to do that.
+
+Yeah.
+
+Click.
+
+That's going to be satisfying.
+
+It's a fidget spinner.
+
+It's got the same dynamic as a fidget spinner.
+
+This is going to be a hit.
+
+Doesn't matter.
+
+The software doesn't need to run.
+
+Just brick it.
+
+Give me something just to play with.
+
+Put just, brick it and just put one
+
+page of text on there that I can just read,
+
+my mantra, and then that's good enough.
+
+I don't know.
+
+Unbelievable, the iPhone duo display
+
+has been hiding a shocking secret.
+
+Somebody finally dared to peel off the mad film
+
+covering the iPhone duo's display
+
+what they discover something with the film.
+
+It looks surprisingly uneas.
+
+Who cares?
+
+Don't pull the, don't pull the mat film.
+
+I ripped the product apart and it didn't work as expected.
+
+That makes no sense.
+
+Anyway, yeah, people are, you know, the polish is not quite there.
+
+Joanna Stern's been testing the product.
+
+She's folded it.
+
+Oh, she built a device or had a friend build a device that would fold it 32,000 times over and over and over again.
+
+And it seemed like it held up pretty well.
+
+So I don't know.
+
+Take Kim doesn't like it, though.
+
+He says, half baked.
+
+read this review before ordering
+
+the initial enthusiasm on the neat opening
+
+duo animation has faded
+
+hard it may all but
+
+disappear after the first wave of
+
+Apple fan early adopters
+
+this is a very bad iPhone experience
+
+I don't know I think the software gets patched pretty
+
+quickly these things
+
+move pretty quickly and I feel
+
+like they should move very quickly in the age of
+
+AI coding like if you're
+
+a small app developer
+
+and you're like ah like yeah
+
+1% of my audience is using
+
+the iPhone Duo, do I really want to open up Xcode and sit there and rewrite all the views and
+
+get an objective C or Swift and actually hammer out of a layout that looks good.
+
+If you can point an AI agent at this and get it to get 90% of the way there, maybe you'll
+
+do it a little bit faster.
+
+So I would expect some acceleration towards the software being good and functional very quickly.
+
+But it does look like after a bunch of folds, you can see the crease a little bit more.
+
+I don't think people will really care.
+
+I don't know.
+
+The crease doesn't seem like that big of a deal.
+
+Shopify grows with is the commerce platform that grows with your business
+
+and lets you sell in seconds, in store online, on mobile, on social, on marketplaces, and now with AI agents.
+
+Ben Thompson has, I think, yet to review the iPhone do.
+
+I'm sure he'll discuss it.
+
+He's talked about a little bit.
+
+But he's also presented by Stripe Now.
+
+That's huge news.
+
+I think we put up a card for it.
+
+Very, very great to see the techery partnering with
+
+a fintech company. Great partnership because Stripe is obviously a very successful company,
+
+but not the hottest, most dramatic, oh, you got to track earnings. Who knows? Maybe they'll
+
+never IPO. So Ben will never be called upon to cover Stripe earnings because they will never
+
+be reporting public numbers to be analyzed. But also a long lineage of working with Ben because
+
+he built his entire business on Stripe. And so very, very excited to see that. And,
+
+excited to hear some ads in Stretiree finally.
+
+This has been our mission.
+
+This is our moment.
+
+We, the first episode.
+
+As much as this has been in Stripe's moment, it's also our moment.
+
+Yeah, it really is.
+
+You've got to pat ourselves in the back here, take a little victory lap.
+
+Because when we started this show, we said our goal was to get every tech podcast to have advertising,
+
+and we're pretty close to done.
+
+One step closer.
+
+Pretty close to done.
+
+I don't know.
+
+Is there anyone that's missing?
+
+I think Tyler Cowan conversations with Tyler, although Tyler Cowan conversations with Tyler,
+
+fantastic show. A little low on the ad load, personally. I don't think I've heard an ad in there ever.
+
+Occasionally promote live shows and specific events that are happening. I don't really count those.
+
+I want money in his pocket for those ad reads. But he's maybe moving over, it feels he's moving over to the New York Times, hosting Ross Douthitt's old show,
+
+interesting times with Tyler Cowan now. New York Times, that's an advertising monster. So that's some good news in the world of advertising.
+
+You're going to be able to buy ads on a Tyler Cowan product for the first time.
+
+You can buy ads on a Ben Thompson product.
+
+You can buy ads on an all-in product.
+
+Of course, a TBPN product.
+
+We got plenty of ad space.
+
+Yeah, lock in.
+
+Anyway, anything else that we want to talk about.
+
+Let's end here.
+
+There were a couple of other stuff.
+
+There were a couple of things going on.
+
+Let's end here.
+
+Yes.
+
+This is kind of a dream daily.
+
+This is the, this is Eliezer-Yukowski's car.
+
+We finally saw it.
+
+Can we get some sound?
+
+Because this thing sounds amazing.
+
+Someone please be my ops.
+
+Is this real or is this AI?
+
+I can't even tell.
+
+This guy, I think, actually builds a bunch of insane vehicles.
+
+We got to get him on the show immediately.
+
+This is really, really cool.
+
+Mad Max C7.
+
+It's a good.
+
+Look at that.
+
+I like the chains on the side.
+
+That's a really nice touch.
+
+Is this like a moving truck or not a moving truck?
+
+Like an old dump truck.
+
+It looks like an old ambulance or something.
+
+Yeah, dump truck or.
+
+But this is the car of the future, everyone.
+
+This is going to be how you get to work.
+
+When the grid goes down, this is what you're going to want to be driving.
+
+Get this vehicle.
+
+Lock it in.
+
+Get this.
+
+Get this going.
+
+Anyway.
+
+Anything else you want to talk about today.
+
+Oh, one more, one product suggestion for Lucy.
+
+I wanted you to build.
+
+I wanted you guys to make this, the Gumwatch.
+
+Oh, this is good.
+
+I hadn't thought about this. This is a hitter. The gum watch. This is a real product.
+
+Called Crazy Planet. This would be a good drop from them. I'm going to send this over to the team.
+
+Crazy Planet. I'm surprised. I've seen a lot of pouch holders, different ways to hold your nicotine pouches, your nicotine gum. But in the watch is...
+
+Having it on the wrist. It's a hitter.
+
+It's a hiter. I think that would be a hit with you.
+
+And the final post of the day. Just put the last.
+
+lightning in the bottle, bro.
+
+Just do it.
+
+Stop making excuses.
+
+Just put the fries in the bag and then put the lightning in the bottle.
+
+You've caught lightning in a bottle.
+
+When you've caught lightning in a bottle, it's time to double down, maximize.
+
+Maximize the ROI on whatever you did that was described as lightning in a bottle.
+
+It's rare.
+
+So when it hits, you got to go.
+
+You got to burn all the other ships and focus.
+
+That's right.
+
+Good lesson.
+
+Anyway.
+
+That's right.
+
+Leave us five stars on Apple Podcast and Spotify.
+
+Tyler got that wildly wrong yesterday.
+
+He said follow us on Apple Podcasts.
+
+We don't ask for Fala is around here.
+
+We ask for five-star reviews.
+
+If you're thinking this is a four-star show, don't tell us.
+
+Keep it to yourself.
+
+Keep it to yourself, please.
+
+Keep it to yourself.
+
+Also, sign up for our newsletter at tbPN.com.
+
+Don't just sign up for our newsletter.
+
+We don't leave the viewer to figure out where to sign up.
+
+We tell them exactly where to sign up.
+
+It's on tbpn.com.
+
+And I also remind the viewer that we will be live the next day.
+
+We will see you Friday.
+
+at 11 a.m. Pacific, so tune in then.
+
+And thank you for watching us today. Goodbye.
+
+We love you.

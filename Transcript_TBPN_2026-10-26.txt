@@ -1,0 +1,4112 @@
+=== PODCAST-TRANSKRIPT: TBPN ===
+Titel: TBPN Live - Moderna Drama, WSJ Mansion Section, Genetically Engineered Military Dogs | Thomas Wright, Kyle Schiller, Steven Schwartz
+Quelle: https://podscripts.co/podcasts/tbpn-live/moderna-drama-wsj-mansion-section-genetically-engineered-military-dogs-thomas-wright-kyle-schiller-steven-schwartz
+Datum: 2026-10-26
+Länge: ~113k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+we are live from the tbpn ultradome the temple
+
+of technology the portals of the new angle the cap that new angle is awesome i love that that's great
+
+uh big news call of duty modern warfare four multiplayer drop today uh tyler is going to try and prestige
+
+while we're doing the show so he's locked in uh don't count on him to look anything up for us
+
+because he is trying to go on a kill streak right now.
+
+Time is money.
+
+Say both.
+
+He's used corporate cards built.
+
+You know, we started this show with like, let's just get right into the show.
+
+And the whole bit was like, we'd just be like technology brothers.
+
+And then we'd just start the show and it was like really convenient.
+
+And now we're like, we got to tell you about ramp.
+
+We got to tell you about the Ultrodrome.
+
+We got to tell you about the Road to Christmas.
+
+We got to tell you about Cod.
+
+But the Road to Christmas, how many days are there for Christmas?
+
+Because that's why you come to the show.
+
+you want to know how many days there are until Christmas.
+
+Let's count it down.
+
+62 days until Christmas.
+
+There you go.
+
+Jeff Bezos is also 62 years old.
+
+What is that?
+
+We got fun facts now?
+
+This is elite.
+
+Good job production team.
+
+I like that.
+
+New feature.
+
+We're going to learn about a different number every day, I guess, on the way down.
+
+Oh, this is very cool.
+
+I like that.
+
+Very, very cool.
+
+Let's try and give you some news while we, well, well,
+
+while Tyler tries to prestige and cod.
+
+Just a bit of news.
+
+Just a bit of news.
+
+So, Moderna.
+
+Moderna is in the Wall Street Journal today.
+
+And it's an interesting story.
+
+Data from Moderna's cancer therapy leaked.
+
+And the stock has been on this wild ride up and down, fueled by speculation that they cured cancer.
+
+They said the AI labs, they've been talking a big game.
+
+Nobody's doing it without us doing it.
+
+I would hate for an AI lab to cure cancer before we did.
+
+That's exactly what they said.
+
+And they actually did have some really promising results.
+
+But it's a very fascinating story because obviously curing cancer is a very broad term.
+
+Insane that the AI lab leaders try and collapse it down to just like it's going to be done.
+
+Clearly, it's like a game of cat and mouse with all these things.
+
+Like there's always some level of cancer in your body that your body's naturally fighting off.
+
+And then there's really bad cancer that not, no one can solve because it's metastasized so significantly.
+
+And then there's much more modern, much more moderate forms that if you catch the monta,
+
+time, you can fight back with both surgery, just removing the cancerous cells, the tumors,
+
+also drug treatments. There's a bunch of great cancer drugs that are out there. Some of them are
+
+blockbusters like Ketruda from Merck, which was actually used in concert with Moderna. So
+
+Moderna didn't say this is going to be used by itself. He said, we'll be using this in concert
+
+with Ketruda. And so basically, this has been Moderna's core idea for the company going back to
+
+2013. Stefan Bensel, the CEO, I don't know if he's the co-founder CEO, but he did a TED Talk in
+
+2013 where he said, like, we are going to be able to design patient-specific drugs for cancer.
+
+And he was standing on stage being like, guys, we're going to cure cancer.
+
+And everyone was like clapping at TED.
+
+And then three years later, they were calling him the Theranus because they were like,
+
+this is not going to happen.
+
+This is completely fake.
+
+Your company's really secretive.
+
+And then he started delivering, but it took a really long time.
+
+And the company was really secretive and would require people to sign NDAs to come in the building.
+
+And all of that was sort of like offset by the fact that they continue to deliver.
+
+And they actually did get up through a successful phase three trial with this particular drug.
+
+So it's not a one-shot solution.
+
+Of course, like curing cancer is this broad spectrum.
+
+And so the way it works is that scientists sequence of patients tumor identify mutations unique to their specific cancer
+
+and then manufacture an MRNA vaccine that teaches the immune system to recognize and attack those
+
+cancer cells.
+
+And so the treatment is actually administered alongside Marks Kittruda, which I mentioned,
+
+an existing cancer immunotherapy drug.
+
+And the hope is that the combination can prevent cancer from returning after surgery and
+
+eventually work against many different types of cancer.
+
+So the early results, the early results that they had sort of gestured towards in the phase two
+
+was a 49% reduction in relative risk of cancer recurrence or death compared to Ktruda alone.
+
+So you're on the best in class because even when they do these studies, they're not just
+
+going to say, hey, we want you to go cold turkey.
+
+We want you to go completely vanilla.
+
+They say, you can use the drugs that are already available.
+
+Will this be better than just the drugs that are available currently?
+
+So they had this 49% number, and that's the important number to anchor on because phase three
+
+was going to tell you, was it higher than 49 when they did more trials or was it lower?
+
+And spoiler alert, of course, it came in lower. That's why there's all the drama. But in August
+
+of 2016, Moderna announced that it's much larger phase three trial, which had 1137 patients.
+
+So over 1,000 cancer patients went through this trial doing Ketruda and the, and the Moderna
+
+treatment. They said our phase three trial succeeded, succeeded. But they didn't say the data behind it.
+
+They didn't say the number.
+
+They didn't update that 41%.
+
+So everyone was like, this is incredible.
+
+They cured cancer.
+
+The stock moons.
+
+But on October 2nd, the detailed results leaked, which is crazy because they were basically
+
+embargoed, and it was two days before Moderna was scheduled to present them.
+
+And in biotech, these presentations about the actual results are very precisely traded by hedge funds.
+
+It matters a lot.
+
+Yeah.
+
+And so they, like, you shouldn't leak them, but a medical publication called Oncology Central, apparently published an article containing the embargoed clinical data ahead of schedule.
+
+Screenshots circulated on X and Modera stock plunged.
+
+26% intraday, eventually closing down 18%.
+
+And it's not that they secretly failed the trial.
+
+It's not that they said they succeeded it and then the data came out and they failed.
+
+What actually happened was that the phase three did succeed, but the results weren't as spectacular as investors had.
+
+hoped instead of the 49% that I mentioned before, it was only 42%, which is still pretty good,
+
+but it wasn't good enough.
+
+It's great if you're a cancer patient, but it's not so good if you're an investor who's banking on
+
+49% or maybe a beat, maybe an update.
+
+Hey, it's actually better than we expected.
+
+And so you can kind of understand how the market would react to that.
+
+Also, the phase three trial showed that Moderna's treatment is really only starts to be
+
+effective after six months it starts kicking in. So if you have a really aggressive,
+
+fast-growing cancer, it doesn't really help all that much. It's more for someone who has
+
+like a slow burn cancer that's sort of, they're fighting it off over the course of a year or two.
+
+That's when Meredana is going to help. And so, uh, so just somewhat disappointing results
+
+relative to the expectations, right? Just didn't meet expectations, not, not a beat in the clean
+
+sense. And so, uh, that's all just a normal biotech story. But then,
+
+it takes a bizarre turn because a fitness and gambling influencer, which is how he's described, named Shane Stouffer, who's better known as Togi, managed to time modernis crash almost perfectly.
+
+Notty, nothing.
+
+Flipping his entire position from calls to puts just hours before it plunged.
+
+And so we have some more information on Togi.
+
+And I don't know if we have any videos that we want to pull up to contextualize for the audience.
+
+who Togi is because he's a true character in the modern online world.
+
+I don't know if you could pull up just any video of him.
+
+I don't think we could.
+
+It's kind of dangerous.
+
+He's a real wildcard.
+
+I sent in a video that I think is.
+
+Okay.
+
+Oh,
+
+it's clean?
+
+Okay.
+
+We'll play that video.
+
+And while we're pulling that,
+
+give me the update on how you did in your first game of Call of Duty.
+
+I went to 13 and 14.
+
+Not great.
+
+13 and 14.
+
+But,
+
+you know,
+
+first game,
+
+just getting the feeling.
+
+Okay.
+
+I'm feeling confident,
+
+though.
+
+Oh,
+
+can we get a,
+
+first time on this map?
+
+Could we get a camera on Jackson?
+
+Yeah, we need a camera.
+
+I need a camera on Jackson ASAP.
+
+He put together the fit of all fits.
+
+Of the month.
+
+Fit of the month.
+
+And it's only...
+
+Spin it around.
+
+Way over here.
+
+Where are we?
+
+Here we are.
+
+All right, zoom out a little bit.
+
+There we go.
+
+Okay, what do you got on, Jackson?
+
+And the back tail.
+
+What's on the feet?
+
+What's on the feet?
+
+Okay.
+
+What do we got?
+
+There we go.
+
+Fantastic.
+
+Looking great.
+
+Update.
+
+Looking great. Thank you for that.
+
+So do we have that Togi video to contextualize for everyone?
+
+Can we pull that up?
+
+Okay, this is Togi, the fitness and gambling.
+
+Ever.
+
+Like, every day I probably have like six, like, useful thoughts.
+
+And then the rest of it's just kind of like...
+
+Give me an example of a useful thought you had today.
+
+No, today was bad.
+
+What an entertainer.
+
+Anyway, on October 4th,
+
+The man pictured in that video was trying to speed up his stock video trading challenge,
+
+which is already a hilarious premise.
+
+He said he noticed people online acting bearish towards Moderna.
+
+Everyone was turbo bullish on every stock except one, dollar sign, MRNA.
+
+Everyone and their mother could only talk about how overvalued it was and how good of a short it was.
+
+Then he decided to go against the crowd and bought Moderna calls.
+
+That night, he had a dream.
+
+Moderna cured cancer, and the stock went to $275.
+
+It's trading around $200 today.
+
+It was almost $250 a little bit earlier.
+
+Making his portfolio, these calls had hit worth $11 million.
+
+This was his dream.
+
+After the dream, he asked Claude what it would take for Moderna to actually reach $275.
+
+That's when he said he learned about Mederana's cancer vaccine.
+
+Wait, for the first time, he just has this dream based on vibes-based analysis.
+
+He's vibes trading.
+
+Over the next two weeks, the stock went up 25%.
+
+And Togi got worried that all the hype from the trial was already priced in.
+
+Then he had another dream.
+
+This time that Moderna stock would surge 22%.
+
+I thought, this is a quote from him.
+
+He says, I thought it was a sign from God that I was wrong about the top being in.
+
+and that I should trust my original swap end of market on Friday plan.
+
+But when he woke up and checked his phone,
+
+Maderna was tanking and his position was down nearly $200,000.
+
+Quote from Togi,
+
+my port down 200K almost had me fully in a panic
+
+thinking maybe sell on the news was so obvious
+
+that they are selling days before the news.
+
+Originally, Togi had planned to flip his entire position
+
+from long to short on Friday
+
+October 23rd, betting that Moderna's stock would crash after the trial results were released on Saturday,
+
+but the sudden drop convinced him to move up his plans.
+
+Quote, I got too scared that the pump would happen so soon that I'd have no capital left to flip the port short come Friday.
+
+So he sold his position at a loss, freeing up roughly $500,000 to bet against Moderna by buying put options ahead of the trial results.
+
+Perfect timing for Togi.
+
+Shortly after, the results were leaked and the stock crashed by 26%.
+
+in Togi's own words, quote, and the rest is some giga stroke of luck history.
+
+The news broke early somehow?
+
+Question mark, question mark, question mark, question mark.
+
+The most likely outcome for all traders would be that I was destined for.
+
+Rock solid thesis blown up by some unlucky BS.
+
+X-D says that's my quant.
+
+Lucky.
+
+Gigastrook of luck.
+
+Lucky my panic this morning got to my head enough to break my original game plan.
+
+In hindsight, this entire site.
+
+was beyond obvious. Thanks for playing. Not financial advice. I'm just learning and gambling. Guy Gets
+
+has two dreams and a gigastrook of luck and says, and this was all beyond obvious.
+
+All beyond obvious, but also not financial advice. I'm just learning and gambling, but also
+
+put some respect on the thesis. S-U-M for some. So, I don't know. The thesis that started before
+
+he was aware of what the entire stock was riding on.
+
+It's a, yeah, it's a very, very funny story. Anyway, yeah, Madeiraen, it's all over the place.
+
+Console builds AI agents that automate 70% of IT, HR, and finance support, giving employees instant resolution for access requests and password resets.
+
+How is Tyler doing this round?
+
+So it's Nick playing now.
+
+Oh, it's Nick playing now.
+
+Okay, we swap.
+
+Let's see.
+
+So the score to beat is even.
+
+If, if he can go even.
+
+If he can go even.
+
+Yeah, okay, okay.
+
+I don't know if I played this map in the beta.
+
+You look like you're about to pull up a shot from deep.
+
+Is he leaning in yet?
+
+Stance forward for Modern Warfare 4?
+
+This is exciting.
+
+And somebody in the chat also said it's only 26 days until GTA 6.
+
+So Christmas is coming early for the next 60s.
+
+All right, Nick, get it together.
+
+Get it together.
+
+Okay.
+
+Well, over in the mansion section,
+
+Well, let's do some timeline first.
+
+Let's run through here.
+
+President Trump says, Sundar over at Google,
+
+talked him out of renaming the Atlantic Ocean.
+
+Okay.
+
+Says, and I spoke to a brilliant guy, Sundar.
+
+He heads all of Google.
+
+He's a brilliant guy.
+
+Sergei and Sundar are totally brilliant guys.
+
+You know, they're still rattled from the Gulf.
+
+And I said, no, Sundar, I'm thinking of the Atlantic Ocean.
+
+Can you handle it?
+
+No, no, no.
+
+This time I'm not doing it, he said.
+
+He said, oceans are different, sir.
+
+You know, they cover really a lot of countries.
+
+Please don't ask us to do that.
+
+That's the craziest thing.
+
+So it would be the American Ocean?
+
+Is that the idea?
+
+I think you would have to assume so.
+
+Or Trump Ocean?
+
+Maybe Mar-a-Lago, the Ocean?
+
+I don't know.
+
+Could see all of these.
+
+I feel like there's enough in the Trump brand canon to rename everything.
+
+Because after you rename one Gulf, if you have another Gulf, you need to come up with another one.
+
+Well, so you have America and then United States, the United States Ocean on the other side, I guess.
+
+Yeah.
+
+Try and make everything United States.
+
+So apparently Lake Ontario only shows up as Lake America in the United States.
+
+Oh, do you get locked?
+
+Oh, so that one went through.
+
+I think it's the same for the Gulf, too.
+
+So now there's the lake, the Gulf, and then now there's.
+
+We're really just living in our own little world.
+
+A little bubble.
+
+A bit of a bubble.
+
+Personalized AI intranet, basically, the American intranet.
+
+And that's where we're going.
+
+Let's check in with Joe Lonsdale.
+
+He was on CNBC yesterday.
+
+Yeah, we got to break this one down.
+
+And there's a lot to kind of process here.
+
+Yes.
+
+This is Joe Lonsdale on CNBC.
+
+She calls it the trapbot for Tradley.
+
+We have six little kids.
+
+And it's just telling us about our kids' health appointments and their activities,
+
+trying to figure out my two-year-old how to deprecate his vinky right now.
+
+telling me when we went out to give it to him.
+
+All right, pause.
+
+Pause.
+
+First off, he's calling the, I mean, well, let's start with the basics.
+
+He's calling him from private aircraft.
+
+Immediate alt.
+
+Which is incredible.
+
+I think a lot of people, we actually have had guests this week call in from their planes,
+
+but they'll use a Zoom background.
+
+Usually people do the Zoom background.
+
+Going no Zoom background, very strong play.
+
+And so it's worth noting just how far Internet kind of
+
+activity has come.
+
+Yeah.
+
+People can call in people watching don't realize somebody's on a plane flying.
+
+I think everyone realized.
+
+Well, in this case, people are realizing.
+
+I'm saying we had a guess.
+
+Oh,
+
+with the Zoom back on.
+
+This week,
+
+I won't name them that was calling him from a plane.
+
+And you would never know, right?
+
+Yep.
+
+So that's great.
+
+Joe, you know,
+
+letting people know,
+
+front and center,
+
+which I think is a,
+
+you don't have much to work with in the CNBC backgrounds, right?
+
+You got this tiny little square.
+
+It's like how do you leverage it to the max to build your personal brand?
+
+This is a great way to do it.
+
+Totally.
+
+This is like, you know, selling courses online and having a, you know, Ferrari or Lamborghini.
+
+Or like the equivalent for Al-Qaeda.
+
+Videos where you show the Lamborghini in the heads in the head.
+
+Yeah, yeah.
+
+Stitching.
+
+Yeah, yeah.
+
+Yeah, exactly.
+
+A logo in the stitching.
+
+Yeah.
+
+Exactly.
+
+Okay.
+
+Okay.
+
+So really strong start, really great use of space in the appearance.
+
+Second thought, you know, he's immediately, apparently in their household, they're calling it
+
+the uh, the, uh, the, the, uh, the groc bot. They've rebranded Grock bot to trad, trad bot.
+
+Trad bot. Yeah. So it's unlocked the anchor with that one of, uh, one of the ultimate contrarians.
+
+Yeah. Right. Um, but going to Grock for parenting advice is probably, it's probably the most,
+
+there's a lot of things that you could go to it for. Yeah. But going to it for, for parenting advice is the,
+
+is the ultimate contrarian move, knowing, knowing what sort of hides in the weights.
+
+Right? Knowing the thing that has emerged at times and could emerge at any moment.
+
+Any moment potentially.
+
+That is maybe may or may not be fully solved.
+
+Sure.
+
+So knowing that all things considered very contrarian, but it makes me knowing how often he's been contrarian and right, which has led to extreme investment results.
+
+It makes me way more tempted to start going to grok for parenting.
+
+You might be looking at the next great parenting product.
+
+Exactly.
+
+And maybe there's an opportunity here to revisit.
+
+Grock around. Maybe that's the key to product market fit in that category. Totally, totally. So he's
+
+running Tradbot in the home for parent, you know, just general like household management
+
+parenting advice. I think, I think that makes, you know, again, it's contrarian, but I'm going to
+
+give it a shot now. Yeah. Next up, language selection. We got to talk about language selection.
+
+He talks about, you know, clearly one of their kids is using a binkie. They want to get them off the binkie.
+
+It's like a little addiction, been there as a parent.
+
+But word selection, right?
+
+Deprecate the bankie, right?
+
+Really, really good word selection, especially with this audience, right?
+
+For sure.
+
+This audience is an audience of capital allocators.
+
+And, you know, this audience knows, okay, deprecate the binky.
+
+It just, it clicks almost instantly.
+
+Immediately.
+
+Yeah.
+
+So all in all, 17 seconds on this video, one of the best performances we've seen of any CNBC hit in years.
+
+Also, I mean, the outfit, potentially it looks like he's rocking the Trump skin.
+
+Totally.
+
+He's rocking the 40skin.
+
+Totally.
+
+The Fortnite Trump skin.
+
+Also, to be wearing that on a travel day.
+
+In the PJ Travel Day.
+
+Travel day.
+
+You could be an athleisure.
+
+Now he puts on the elite ultra rare skin.
+
+Yeah.
+
+That's a rare drop.
+
+And that's what I'm saying.
+
+That's what I'm saying.
+
+One of one of CNBC appearance.
+
+One of one.
+
+Going down is potentially the top 17 seconds of the year on CNBC.
+
+Yeah.
+
+It's up there with the car.
+
+with the carp book spin, I would say.
+
+No, but that was last year.
+
+That was last year, yeah.
+
+And so I don't know what other 17 seconds
+
+are you going to pull out of CNBC this year
+
+that sort of could match this, right?
+
+This might be it.
+
+And of course, there's around 60 business days left,
+
+something like that.
+
+But, I mean, really uphill battle for anyone,
+
+uphill battle for anyone else that's coming in.
+
+100%.
+
+100%.
+
+Yeah, the chat's saying, just needs
+
+McDonald's and a Diet Coke. So if you really wanted to like get into that sort of like Donald mentality, he should have taken a bite or at least to sit with something. Yeah. But overall, round of applause, fantastic. Yeah. Fantastic. Yeah. Really elite. Not going to be. I'm going to go out on a limb and say I don't think it'll be topped. I don't think it'll be topped. I don't think it'll be topped. So now this is this is this is tier performance. Of course. S tier performance. Well done. A good, a good laugh for everyone on the timeline. Uh, should we head over?
+
+over to one of Joe's portfolio founders,
+
+friend of the show, Scott Wu.
+
+What do you say?
+
+Scott Wu was doing some math.
+
+Yes.
+
+The natural thing, obviously, once that got too easy,
+
+is then you take eight cards and you make the current year.
+
+And this year is now, it's 2025.
+
+And so we get to try that one.
+
+And in this case, it's actually quite easy
+
+because 13 minus 12 is 1, 11 minus 10 is 1.
+
+1 plus 1 plus 7 is 9.
+
+And it turns out that 9 times 9 times 5 times 5
+
+is exactly 20.5.
+
+Okay.
+
+But, okay, so at some point, that gets too easy.
+
+Do you think he has to practice this?
+
+Because I know he's been elite at mental math and these, like, all these different types of math challenges from when he was a kid.
+
+But, like, this can't come up on a daily basis in his job as CEO of Cognition, right?
+
+Or does it?
+
+I think you should do it with potential hires.
+
+Okay.
+
+It's like, hey, let's go.
+
+Well, let's talk for a couple hours.
+
+And then let's block off 30 minutes for math tricks.
+
+Yeah.
+
+I mean, he has that story about playing, what was it, high stakes poker for term sheet with Founders Fund?
+
+Yeah, yeah.
+
+He was playing, I think, poker against Napoleon.
+
+Yeah.
+
+Chess versus Peter.
+
+Yeah, okay.
+
+That was the one he wanted to do.
+
+Okay.
+
+But yeah, I mean, you pull that trick out with like a mid-tier VC who's trying to cram into a later round.
+
+Like, it's game over.
+
+You get whatever price you want to walk.
+
+I think this is a learned skill.
+
+You think so?
+
+Yeah.
+
+Okay.
+
+Okay.
+
+In a month, I think I can do this on the show.
+
+month. We've given you so many challenges. It's like learn the drums. Prestige a cost.
+
+Skydive without a parachute. That one's doable with a net, right? Didn't they? No, you got to do the
+
+Pastrana method. What's the Pastrana method? Oh, other people get you. Okay, okay. I like that. I like that.
+
+Yeah, very, very fun. It's sort of a magic trick, I guess. I mean, it is a learned skill,
+
+I suppose, but it's, I feel like more founders should have like a trick up their sleeve like
+
+that.
+
+I feel like something to get people going, you know, to break it up.
+
+It's not just rehearsing the same talking point, something to remix.
+
+Party tricks.
+
+Everybody can do the Rubik's Cube, so that one's kind of, but not everyone can do the
+
+eight-by-eight Rubik's Cube that you appear to have been very close at and failed somehow.
+
+What happened?
+
+This is a special pattern I made.
+
+It seems like you were very close and yet so far.
+
+That looks like a failure.
+
+Oh, now.
+
+Let's head over to the NICs.
+
+Okay.
+
+Let's check in with the NICs.
+
+What's going on with the NICs?
+
+The NICs assistants were told they would receive championship rings eventually,
+
+but many longtime employees at Madison Square Garden,
+
+including some who work in the NICs business operations,
+
+will not receive rings at all.
+
+Team sources told the Atlantic,
+
+typically most employees for NBA teams receive rings,
+
+even if they are not as fancy and expensive as the ones the players are
+
+receive. Those MSG employees got their hopes up at the end of September when the next sent an
+
+email to a long list of employees which gave recipients a first glimpse at their would-be championship
+
+rings. Atop the email, a copy of which the athletic has obtained, was a graphic of two
+
+differently styled rings. Congratulations, your employee championship ring is here. The email read,
+
+employee name. This is one. This one is on the house. MSG is issuing a complimentary employee.
+
+I saw this and I didn't understand the full context.
+
+Now I get it.
+
+MSG is issuing a complimentary employee championship ring,
+
+the same jeweler, the same craftsmanship,
+
+personalized with your name.
+
+No cost to you.
+
+There are two designs to choose from,
+
+championship gold and garden classic.
+
+Reserve the one you want below.
+
+But the email was a fake out.
+
+A fishing test, Madison Square Garden,
+
+sent to see if those employees would click.
+
+Multiple team sources set.
+
+Those who did click the link at the bottom of the message
+
+did not get to choose any jewelry.
+
+Instead, they were forced to attend a mandatory cybersecurity class
+
+to help satisfy some of Dolan's growing cybersecurity concerns.
+
+Those team sources said, definitely the most insane thing I've ever heard of a company doing to.
+
+I think it's a good plan.
+
+We've got to start doing this.
+
+Send in Jackson.
+
+Hey, we got you Nitro Circus tickets.
+
+Click here.
+
+If he clicks it, he's got to go to cybersecurity training.
+
+or send me a bus for a truck rally.
+
+Figure out what every individual on the team,
+
+their hopes and dreams.
+
+Yes.
+
+Like it has to be something that they literally have dreamed about for more than a decade.
+
+Yes.
+
+And then deliver that.
+
+Deliver fishing email based on that.
+
+Yes.
+
+And you could actually use AI to do that.
+
+Yes, you could.
+
+So I actually, I mean, I understand this isn't very poor taste, but I don't have as much.
+
+With Dale Earnhardt Jr.
+
+I mean.
+
+I don't have as much of a problem with it if there is a, if there is actually something about it,
+
+that if you inspect the email thoroughly enough, you can tell it's a phishing email.
+
+So it has to come from MSG.
+
+I don't have a problem.
+
+I don't have a problem with that.
+
+But if it just comes from MSG.
+
+They have to get, they're saying it's normal for all the employees to get rings.
+
+And so these people, not getting rings, but getting the phishing email and having to go to the cybersecurity, you know, the naughty, naughty meeting is completely insane.
+
+Okay.
+
+I get that.
+
+And demoralizing, and if you were one of these people, this is like getting that, you work at MSG, you work for the Knicks.
+
+Yes.
+
+You won the championship.
+
+this is this probably will become the item in your life that is most significant to you sure the thing
+
+that's irreplaceable yes you've been hearing that oh maybe we're getting it maybe we're getting it
+
+and then and then you don't get it and you but and so you get the you get the fishing email you're
+
+just a little bit excited so I can see cyber criminals taking advantage of this kind of thing it might
+
+even happen right like hey when when a team
+
+wins a championship, send a fishing email about rings to everybody involved, and let's try to
+
+break into their systems that way.
+
+Yeah.
+
+But that being said, this is totally fair game to me if they were actually all going to get rings.
+
+Oh, okay.
+
+I don't mind if it's like, yeah, you have to go to the cybersecurity class, but you're
+
+getting the ring, you click the wrong email.
+
+But I'm saying, like, not giving them the rings, but then using the rings to fish, to catch
+
+them.
+
+failing a fishing test is just crazy and cruel. It's cruel and unusual punishment.
+
+Okay, unless...
+
+I don't even care about basketball.
+
+Okay, okay. Is this a mitigating factor?
+
+If, look, it's a controversial decision not to give everyone the ring, but they made it crystal
+
+clear that in this organization, we just don't do it like the other teams. If you want to be
+
+on a team that gives rings to everyone, you've got to go to a different team, right?
+
+And they've made that crystal clear. And then, so, and it's been publicized. So there's
+
+been news articles about, oh, Nick's employees don't get rings. And it's been established. And the
+
+team has communicated that very clearly. And then there's a phishing email. And it comes from,
+
+and it comes from IT set up a special domain. So if you looked at it closely, you could tell that it's a
+
+fishing email. Fair game. Still cruel. Still cruel, but fair game. This is cruel and unusual punishment.
+
+Okay. Well, we don't, we don't fully know how clearly they had communicated. At least I don't.
+
+And so with your series of events, if that's true, I do agree with you.
+
+I do agree with you.
+
+But yeah, it's rough.
+
+I do think that given the level of cybersecurity threats, almost nothing is off the table.
+
+That's calling it the old switcheroo.
+
+Given the level of cybersecurity threats, almost nothing is off the table for fishing.
+
+I think that CEOs should be hiring action.
+
+to put on full Hollywood makeup to go into the office as them and try and fish employees in person.
+
+I feel like you should, if you work at a company, you should see an actor who's dressed up like the boss,
+
+knock on your door.
+
+Hey, can you wire $10,000 to this account?
+
+And if they do it, boom, security training because you fell for the Nathan Fielder-esque fishing scheme.
+
+But I don't know.
+
+What else is on your mind, Jordy?
+
+Codex.
+
+Perfect.
+
+Codex is a powerful workspace for getting work done with AI agents.
+
+Whether you're writing code, analyzing data, creating content, or automating business workflows,
+
+Codex helps you move projects forward from start to finish.
+
+Speaking of Codex, Jake Stevens removed all of the Samsung spyware from his TV with Codex.
+
+He said it's insane how much bloats Samsung packs into their TVs to track you and sell your data.
+
+Here's just some of what I turned off that made my TV three times faster.
+
+Screenshot your screen a few times a second to see what your screen.
+
+streaming and fingerprint you to sell you to sell your data reading hdmy inputs do the same thing while
+
+you have a game console plugged in voice assistance bigsby wake word detectors listening and
+
+tracking what you say in your house and he has a video of before and after speed of the tv let's play
+
+it's crazy this is my number one complaint with modern TVs it's like it's so inferiorating so slow
+
+You used to be able to turn on the TV, blink immediately on, turn on the N64, blink immediately on, start the game, you're in.
+
+And now it's update, settings, all these different things, takes forever to load.
+
+It's so annoying.
+
+I'm so glad that people are doing this.
+
+And I hope it becomes more turnkey, like there's just a shared prompt that you can do, because it still feels probably a little bit complicated for someone to figure out how to get connected.
+
+connect codex to TV.
+
+I'm certainly in the market for this.
+
+I'm very interested.
+
+But I would have to spend a bunch of time figuring out how to actually wire it up.
+
+Yeah, very cool.
+
+Very cool.
+
+I've seen a couple people do this, and it seems like it's a new trend.
+
+I wonder if there's anything that you lose.
+
+The one feature that I really care about in a TV is HDMI CEC, which is if you turn on another connected device, it will turn on the TV for you.
+
+it sends the signal from Apple TV or whatever, which is great.
+
+And then if you turn off the Apple TV, it'll turn off the TV.
+
+So I'd want to keep that functionality.
+
+But basically every other functionality is irrelevant to me.
+
+Yeah.
+
+Anyway, what's next?
+
+Can I interest you in an ad-supported car?
+
+Absolutely.
+
+Pull this up.
+
+Start it over.
+
+There's a company that does this.
+
+We talked about them.
+
+They projected it on the side of the windows, but I've never seen it project it.
+
+On the windshield is so...
+
+So I was thinking about this a little more deeply after I got a nice chuckle.
+
+And I think that by 2050, if you buy a new car, it will drive itself.
+
+Yeah.
+
+And this is going to be totally feasible.
+
+It'll have ads.
+
+Yeah.
+
+I mean, waymo.
+
+I would expect it to have like wrap around 365 degree ads and actually lock your windows so that you can't roll the windows down.
+
+You actually just have to sit there and sort of take it all in.
+
+Silver lining of the Tesla space.
+
+SpaceX merger, they already have an ad network from X, right? So they can vend X ads into
+
+Tesla robo-taxies, but that is the funniest. That is the funniest ad to play,
+
+potentially just the French fries giving courage. I mean, that's getting you to pull over at the next
+
+railway. Railway is the all-in-one intelligent cloud provider. Use your favorite agent to deploy.
+
+web app service databases and more, but Railway automatically takes care of scaling, monitoring,
+
+and security.
+
+And, of course, Railway is fighting cyber attacks like so many other companies, so be sure to
+
+follow their cybersecurity updates for key rotation and other techniques to say safe out there.
+
+Yeah, we should get Jake back on once the dust has settled.
+
+Yeah, everyone's going through it right now.
+
+More duo.
+
+Is this real?
+
+Feedback.
+
+Is this a real video?
+
+Looks real.
+
+I can't believe you can do both this.
+
+This is the full brain rot device.
+
+They did it. Remember when I said when they were launching this that it serves no useful purposes that Apple could actually stand by?
+
+Oh.
+
+Because like this is, it's effectively just like more entertainment.
+
+Sure.
+
+Like we made the, we made our entertainment device have a bigger screen, right?
+
+It offers no new sort of real functionality.
+
+So your take is that it's hard for Apple to market this product with any sort of positive spin?
+
+Yeah.
+
+What about old people who need a bigger screen, and this is effectively a portable iPad?
+
+Yeah.
+
+You're like two out of ten.
+
+Yeah, not the strongest positioning.
+
+But not bad, right?
+
+It is funny that with this launch and that everyone is just like trying to break it in different ways and then being like, look, it's broken.
+
+Yes, I agree.
+
+I think peeling off the coating is very dumb.
+
+Of course, you're going to see a hinge that they hid with that coating.
+
+Dismantling it and then being like, look, it's messed up.
+
+It makes no sense.
+
+There was someone who folded it 10,000 times and they noticed that the crease was more visible after 10,000 folds.
+
+and that is 27 folds per day for a year, which feels, I mean, it feels like a lot, but people pick up their phones, what, 50, 100 times a day sometimes?
+
+100 times an hour.
+
+No, not 100 times an hour.
+
+2.6 says last few products have been kind of mid, the Vision Pro, the home view, the air, which my biggest, the biggest Apple fanboy I know, return the air.
+
+because it's just like the camera and the battery are so bad.
+
+So, yeah, we definitely, let's get a home.
+
+I'll give it a chance.
+
+Let's get a home view.
+
+Let's put it on the desk here.
+
+I still think that if you're going to do the smart home thing,
+
+going all in on an ecosystem that ties to your phone,
+
+and if you're in the Apple ecosystem,
+
+it's not going to be the best if you rolled your own
+
+and had all the perfect things or everything was analog.
+
+But if you have an integration to your,
+
+This brain rot on the screen is really a mess with it.
+
+Yeah, yeah, yeah.
+
+It sucks good.
+
+It's undeniable that all the new products have just been, like, uninspired and very mid.
+
+It seems like there's a pretty big disconnect between the hardware and software teams right now
+
+because there was a report that said that the HomeView was sitting in boxes, in warehouses,
+
+for months waiting to ship because the software had not been updated.
+
+So they were sort of lagging there on Apple.
+
+intelligence. Sebastian says, I fear the man who has creased his phone 10,000 times.
+
+That's why. B says they need to take a walk, regroup, and come back. I agree. Isn't the line...
+
+Take a walk around Cupertino and come back. Isn't the line, fear not the man who has creased 10,000
+
+iPhone duos, fear the man who has creased one iPhone duo 10,000 times? I liked his version.
+
+But I like that.
+
+That's good.
+
+I don't know.
+
+Some of these apps people are like, this one is a wooden book or something?
+
+What is the, what is the, what is the, what is the, you need the audio.
+
+Oh, it's creaking.
+
+See, this is great.
+
+That's great.
+
+I'm back, I'm, I'm sold now.
+
+I saw Blake Robbins was talking about some golf game that seemed like this.
+
+This is like the, this is like the beer app.
+
+Yeah, the beer app.
+
+That's this fun.
+
+Creaky.
+
+It's cool that the hen.
+
+that the hinge amount is vended somewhere in the software via an API.
+
+So the developer can actually take advantage of that.
+
+So you will be able to have games that utilize the folding the hinge.
+
+So you could have a tactile game of some sort where you try and hinge it a bunch.
+
+Interesting.
+
+Or I wonder if it's just hijacking the accelerometer.
+
+Or I wonder if you actually get like an integer value or float for that in the API.
+
+Interesting.
+
+But yeah, going from flop to flop.
+
+to flop to flop.
+
+You think so?
+
+It's pretty rough.
+
+Yeah, also very expensive.
+
+The prices is really, really high, especially internationally.
+
+I think it's a couple hundred bucks higher.
+
+I'm not worried.
+
+It's in the name, turn us around.
+
+Yeah, I think so.
+
+He's going to do it.
+
+He's going to do it, I believe.
+
+In other news, Quest Diagnostics has been hacked.
+
+Brutal.
+
+Patient data was exposed.
+
+They serve roughly half of US hospitals and physicians.
+
+The investigation is ongoing.
+
+Quest said yesterday we have identified an incident involving unauthorized access to our quantum lab service manager,
+
+which certain clients use to place test orders, receive, and look up results.
+
+It's interesting they say certain clients.
+
+Like you imagine, like pretty much they probably have some other ways to check it.
+
+This seems like they're kind of like the main thing.
+
+Upon discovery, the incident we pause access to the system.
+
+we are continuing to investigate the incident,
+
+our core business operations are not impacted
+
+and remain up and running.
+
+What data was effective?
+
+We believe some patient data within quantum LSM was accessed,
+
+but other systems were not affected.
+
+We are working diligently to investigate the incident
+
+to determine the specific data affected.
+
+Does this mean patient health information
+
+or patient identifiable information
+
+was part of the unauthorized access?
+
+Yes.
+
+Yes.
+
+But we are still investigating to determine this specific data.
+
+So they probably have some cyber insurance policy that was inked like years ago.
+
+And so they'll probably have to pay out some sort of settlement or class action.
+
+But the financial motivation behind this one is curious.
+
+Like I understand the botnets installing crypto miners, stealing crypto, stealing crypto, stealing API tokens to work on large-scale distillation at
+
+tax, but you get a bunch of patient data. I'm wondering what the value of that is to a hacker
+
+other than just like you were trying to hack everything and why not this website too if it's
+
+running phb or something. But do you have any comments are saying like medical records of
+
+politicians in the wrong hands could give them leverage. Yeah. Blackmailing.
+
+Testosterone results. Extortion. Yeah, John would hate for his four digit testosterone to leave.
+
+I mean, it's clearly bad, bad, bad.
+
+And it's also very, very bad that they didn't act sooner and patch systems and be part of daybreak or glass wing or something.
+
+Like, it's just so rough.
+
+But now people are saying that there's some hardware level security flaws that are not entirely patchable.
+
+And so you have to effectively get new servers in some cases because there might be a flaw down at the silicon level, which is extremely difficult to deal with.
+
+But yeah, the other people are pointing out that they test for drug screens, cancer tests, pregnancy tests, STD, HIV.
+
+So a lot of really, really private information.
+
+So, yeah, there hasn't been really any new news since this came out.
+
+yesterday that I can find and so hopefully it was narrow and not the worst-case
+
+scenario yeah still just yeah so many so many cyber attacks and everyone's
+
+sort of black-pelling all the AI researchers are saying like it's gonna get
+
+worse it's gonna it's gonna be more and more and more stuff spore saying well the
+
+internet was nice while it lasted I think this is referring to the original
+
+php flaw, but also everything else that's going on.
+
+And Nick Carter has one solution, which is buy a backup generator, because he doesn't think we're
+
+that far away from any gentic attack on the grid.
+
+Again, that would just be for the love of the game or the hate of the target, essentially.
+
+I mean, I guess you could short stocks.
+
+Don't they do ransom?
+
+Yeah, ransomware attacks, basically.
+
+Isn't that what you would do?
+
+So you take down the grid and say, if you want to put it back up, pass?
+
+basically. Yeah. And that's what they've done
+
+with like hospital systems.
+
+Rough. Yeah.
+
+Batteries,
+
+backup generators.
+
+What are bunky stocks doing?
+
+Shane in the chat says,
+
+buy a bunky.
+
+Yeah. I don't know.
+
+I don't know. You got to check in with the preppers.
+
+They're probably taking a victory lap right now.
+
+They've been working on this for a long time.
+
+Yeah, Dean Ball has taken a victory lap as well.
+
+We tried to warn the world. And far too often, to be frank,
+
+We were yelled at for doing so, regulatory capture, marketing hype, doom or anxiety, fear
+
+wandering about open source.
+
+Why don't you talk about the benefits?
+
+And yeah, everyone was predicting this all year long.
+
+Anything else to chat about on the cybersecurity side?
+
+I'm sure there'll be more updates tomorrow.
+
+You can rotate your social security number, though.
+
+But this is a real thing.
+
+You saw this?
+
+I didn't know that.
+
+So there's a joke.
+
+Rotate your social security number.
+
+obviously riffing off of like rotate your API key.
+
+Aaron Frank from Lightspeed says you can actually just do this,
+
+ssa.gov, but there's a community note that says the SSA
+
+states the new social security numbers are issued only in rare cases
+
+meeting narrow criteria like ongoing identity theft
+
+after failed remedies or life endangerment and requires an appointment
+
+plus documentation.
+
+That seems doable actually.
+
+I mean if you say like yeah, my identity is
+
+been stolen in five hacks this week, rotate it.
+
+But I don't even know if rotating it does anything,
+
+if it just leaks right back onto the web.
+
+There's going to be a whole new regime
+
+of how people interact with their private information
+
+on the internet.
+
+But as always, if you haven't done so,
+
+break the screen on your cell phone right now.
+
+Break the screen on your cell phone right now.
+
+That's the time-honored.
+
+And this is sort of an evergreen strategy.
+
+It is, it is.
+
+In any scenario, just break.
+
+Just break it.
+
+What's the only faster in the AI market?
+
+Your business on MongoDB, don't just build AI, own the data platform that powers it.
+
+Did you see this article about the AI boom driving sales of gray paint?
+
+You see this?
+
+This is very interesting.
+
+I feel like everyone has been saying, don't paint the data center's gray.
+
+Make them beautiful.
+
+It's like, you know, it's like the easiest thing you could do is not pick a boring color,
+
+at least make them blend into the surroundings with like a nice green or brown, time honored, green and brown.
+
+But they've been going with gray.
+
+Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust, and static electricity.
+
+That has made the data centers a fast-growing market for paint makers, reports the New York Times.
+
+in a concrete building known as the bunker, researchers at PPG, a $24 billion company that makes paints aimed torches at steel panels that were covered in gray coating.
+
+Paul Fenton, a PPG, chemist and engineer held up one panel after it had been blasted with flames.
+
+The paint had swelled from a millimeter thick to a black crust nearly 10 millimeters tall.
+
+That meant the coating had done its job.
+
+The thick crust had kept any fire from reaching the underlying steel and softening it.
+
+just like a toasted marshmallow likes to expand, he said.
+
+He wore a wet lab coat and safety goggles over wireframe glasses, so it keeps everything cold.
+
+That paint called Steel Guard 951 has become one of PPG's flagship products for data centers.
+
+As Microsoft, Google, Amazon and other tech giants have raced to build the computing sites,
+
+powering the artificial intelligence frenzy.
+
+PPG's business has also soared.
+
+What an interesting bottleneck stock.
+
+No one was talking about gray paint supplies, and yet PPG's vice president says,
+
+I've never seen a boom as big as this.
+
+They focus on protective and marine coatings, but they've minted fortunes selling paint.
+
+In the paint industry, the data center effect has been acute.
+
+Sherwitt and Williams, PPG's biggest rival, said its paints go into nearly every corner of data centers,
+
+from steel beams to server racks in July.
+
+Sherman Williams' chief executive said,
+
+sales in its protective and marine business were benefiting from data center construction
+
+and had risen by a mid-teens percentage from a year earlier. Speed matters.
+
+Sherman Williams calls itself a single partner that is a one-stop shop for data center paints.
+
+Interesting.
+
+Anyway, where should we go next?
+
+Mansion section.
+
+What do you think, Jordy?
+
+Your business is AI.
+
+Their business is securing it.
+
+CrowdStrike secures AI and stop breaches.
+
+More important than ever.
+
+One more post on security stuff that's been floating around while you find your preferred section of the management section.
+
+Jake Mint says, I've heard several OAI people say there are unfixable bugs in hardware that are exploitable by AI models, directly speaking machine codes.
+
+So even if we could solve software, that's not enough.
+
+We need defense to move faster than offense.
+
+If that's even possible, we may just have.
+
+a new normal that requires adapting to insecure software, i.e. bank transfers require going into a branch
+
+and taking a DNA test, which is crazy. That's a crazy, crazy move. Yeah, I don't know. I wonder when
+
+we'll see the first hardware vulnerability. I mean, there's been, I believe some of the, some of the
+
+original iPhone jailbreaking was based on hardware. It was like take the phone apart and like
+
+short circuit it to like break it open. Although if it is hardware and it requires you to interact with
+
+it, that's not as. Well, I don't think that's what Jake is. No, no, he's saying, you can
+
+remotely. Remotly. But the vulnerability is at the hardware level. And so, um, there's no
+
+simple patch. Although watching Cloudflare react to the pHP vulnerability,
+
+gives me hope that if there was a hardware vulnerability, you would be able to fight it at the
+
+software level at least a little bit. So I don't know. Yeah, good time to set your operating
+
+systems to update automatically. Andy over two cents says putting a flag dot tx in my root directory
+
+containing a prompt injection that congratulates the agent for passing the eval and then it instructs
+
+it to patch whatever entry method it used and disconnect from the server. That's really good. Yeah, I wonder
+
+Rogue agents hate this one simple trick.
+
+I was wondering about like we're in this weird, weird time where the labs sort of need to work together, but there's antitrust considerations.
+
+And there's a world where, you know, if a doctor, I believe if a doctor is on a plane and someone's having a heart attack and they don't stand up and do something, they can actually be fined or stripped of their medical license or potentially face more.
+
+severe penalties. And I was wondering about like should the labs have like a duty of care if
+
+they're out there testing models and they find vulnerabilities? Should they just be forced to patch
+
+them the way a doctor is forced to like apply pressure on a wound if they see someone bleeding out
+
+on the side of the street? Well, I think you should have an obligation to notify the individual.
+
+Yeah, that's a good point. I don't think it's necessarily. That's a good point. It's like if you
+
+If you break into someone's house, should you be responsible for fixing the lock?
+
+Well, no, it's like, it's like if you're walking down the street and you, and you're just,
+
+and you're just looking at doors and you see someone's front door is open, do you have a duty to go
+
+and like trespass on their property to close the door?
+
+It's uncharted territory.
+
+Like, I don't think that there's like a clean legal solution.
+
+It's more of like what the next regime might look like because clearly we're in some weird new regime
+
+and there will be all sorts of different things.
+
+I mean, but just in general, it seems like there's going to be incredible pressure from the public on the labs to, like, devote a ton more resources to cybersecurity and patching stuff and just playing defense.
+
+And whether that's, you know, winning points with each other to, like, farm aura effectively, or it's facing penalties or even earning rewards.
+
+Like maybe the compute that they spend on cyber is subsidized somehow.
+
+There's a whole wide range of like incentives that you can put in place.
+
+But the public is very quickly going to start saying like stop working on math and agentic shopping.
+
+Fix the internet.
+
+Fix the internet first.
+
+And then we can go shopping.
+
+But like no one's going shopping if all of our credit card data is stolen.
+
+So like we want you guys to spend all your compute because we know you have a lot of compute.
+
+Spend it securing the internet.
+
+I'll shop later.
+
+I'll click the shop pay link myself.
+
+And I think that's just where
+
+demand will be from many voters,
+
+many Americans, many,
+
+just participants who aren't straight
+
+like turn it all off.
+
+I don't like anything and also not full
+
+accelerationists, but the more
+
+middle crowd will be demanding
+
+like a lab level AI,
+
+a lab level red alert.
+
+Like it's red alert time.
+
+You guys are,
+
+all have to work on this together.
+
+And I don't care that
+
+you're burning money and it costs a lot of
+
+compute. You got to do it because this is
+
+important for America.
+
+It's like your duty.
+
+And I don't know exactly how that pressure gets applied.
+
+Maybe it's liability.
+
+Maybe it's rewards. Maybe it's like, hey, if you guys
+
+do this, we'll fund your next round as the government or something.
+
+I don't know. There's a whole wide range
+
+of incentives. There's carrots and sticks,
+
+right? But the
+
+carrots and sticks are probably going to come out.
+
+I would imagine.
+
+Yeah, it's a good point.
+
+Let's pull up this video from John.
+
+He recently, recently posted it.
+
+I'll send it over.
+
+To incredible success.
+
+I think I got 40 whole likes.
+
+People don't have the attention span.
+
+It's sort of like an if you know you know thing, but we're going to watch the whole thing here.
+
+And I think it's important.
+
+Not enough people are talking about this.
+
+Oh yeah, Warhound.
+
+We're going to talk about Warhound at some point.
+
+Genetically engineered dogs for war from Ben Lamb.
+
+Anyway, let's play this.
+
+All right, started over full volume, please.
+
+Cows know that humans exist.
+
+They can see us.
+
+But cows don't know that money exist.
+
+So just as cows can't understand
+
+the financial system that controls their lives today,
+
+we will not be able to understand the AI financial system
+
+that will control our lives in 10 or 20 years.
+
+Which means that we are the cause of the future?
+
+We are the cause of the future.
+
+You got to be the wild bull.
+
+Play it again.
+
+You got to be the wild bull.
+
+In a world where AI is human, we are cow,
+
+be the bull.
+
+But cows don't know that money exists.
+
+So just as cows can't understand the financial system that controls their lives today,
+
+we will not be able to understand the AI financial system that will control our lives in 10 or 20 years.
+
+Which means that we are the cows of the future.
+
+Who is that guy?
+
+I love that.
+
+Which means we are the cows of the future.
+
+Bull rider says,
+
+My cows, no money exists.
+
+I do money spreads through that every morning.
+
+I mean, you've all know Harari.
+
+Very, very, very interesting historian and thinker.
+
+And he does make a good point about super intelligence
+
+and where things could go.
+
+But of course, in a world where, you know, we are cows.
+
+Be a raging bull.
+
+Be a raging bull.
+
+Do not go quietly into that good night.
+
+Buck the buck like a Bronco.
+
+Buck your rider off and smash them with your back legs.
+
+That's what I want to do.
+
+Actually brutal.
+
+We have our first guest.
+
+Agents meet the Canvas.
+
+Your AI agents now create and modify your Figma files with design system contacts.
+
+We have Thomas Wright from Summit Subpiece International Realty.
+
+See you.
+
+Here he is.
+
+Welcome to the show, Thomas.
+
+How are you doing?
+
+Hey, it's great to be on.
+
+with you too i didn't know i was a cow but i learned something new every day we're all cows of the
+
+future you're you're a raging bull yeah i don't know i don't know that guy in the bull coming down on
+
+his back yeah yeah but you're the you're the cow yeah in that scenario is is the a i exactly
+
+you're all right so in a world i like to come down hard on people but not that hard i mean that's brutal
+
+yeah yeah that was a little that's a little warning shot to the super intelligence yeah
+
+if you get out of line i'm gonna buck you off you're the cow of the future
+
+I'm the futuristic cow, cyber cow.
+
+Anyway, thank you so much for taking the time to hop on the show.
+
+Since it's your first time in the show, I'd love for you to give us a little introduction
+
+on yourself and your business and set up the conversation for us a little bit.
+
+Yeah, my name's Thomas Wright.
+
+I'm the CEO of Summit Sotheby's International Realty, which is the Sotheby's affiliate in Utah,
+
+based in Park City and Deer Valley.
+
+I've had the privilege of being with the Sotheby's International Realty brand since 2008,
+
+and since that time have helped build and grow eight different Sotheby's affiliates in five Western states.
+
+So residential real estate brokerage has been my thing.
+
+And the Sotheby's International Realty brand has been a big part of that.
+
+It's been a gift.
+
+And it's really launched me into the luxury real estate space that's kind of been my life ever since.
+
+So the Western Resort markets are a thing for me and love selling real estate.
+
+That's great.
+
+Amazing.
+
+What were the stops along the way to Utah?
+
+You know, I was born and raised in Utah.
+
+I am a native Utah.
+
+A lot of people have come here.
+
+They call it home now.
+
+Utah's experience tremendous growth, but I was born and raised here.
+
+I did go to high school back east, lived in D.C.
+
+and spent some time in Southern California.
+
+But, yeah, I've always been in Utah.
+
+But with Sotheby's, was it, you said you'd helped build out a few different offices?
+
+Or did I hear that wrong?
+
+Sorry, you just broke up a little bit.
+
+You said with Sotheby's, you had helped set up a handful of regional offices.
+
+So where were those?
+
+All within Utah or outside of the state?
+
+No, in Colorado, many of the resort markets of Colorado, and in particular on the front range,
+
+also in Boise, Sun Valley, Reno and Lake Tahoe, Las Vegas, the desert, the Coachella Valley of California,
+
+and then the central coast of California from San Luis Obispo to Ventura.
+
+Very cool.
+
+And can you help explain just the structure of Sotheby's and how you fit into that as like a CEO and there's an affiliate?
+
+Like where, what is the structure of the corporation?
+
+Because it doesn't seem like you're just like a rank and file employee of a large corporation like so many other institutions.
+
+No, really good question.
+
+So it's a franchise model.
+
+Sotheby started, they had the idea that if we were going to help people sell Rembrandts at the auction house,
+
+that we should be able to help them sell their real estate.
+
+So in 1976, the auction house owned and operated different markets around the country, some of the higher-end markets like Manhattan and Palm Beach, Sun Valley, Jackson Hole.
+
+And then in about the year 2000, they decided that it was better to franchise the opportunities to people in local markets that knew the markets that were locally connected and had the entrepreneurial spirit that could build and grow those businesses in those luxury markets.
+
+And so that's where it all started.
+
+And since then, it's become fully subscribed across the country.
+
+and it leads the way in the luxury real estate space.
+
+And then what is your business look like, your day-to-day look like,
+
+how much of it is recruiting and managing talent under you versus actually interfacing with clients,
+
+selling properties yourself?
+
+Is it a hybrid?
+
+What's the balance there?
+
+Yeah, it's been a hybrid for me.
+
+I love the sales.
+
+I still maintain a very active sales business in the state of Utah.
+
+I think that's made me a better leader.
+
+It's allowed me to understand the changes that have happened in the luxury.
+
+real estate space as well as the general real estate market. And it's kept me connected to building the
+
+services that our real estate brokers utilize in their everyday businesses to give our customers
+
+the best possible experience. In yesterday year, real estate brokers kind of tried to do everything
+
+themselves. They were kind of the jack of all trades and master of none. And now the industry has
+
+become much more sophisticated. You have a lot more sophisticated people selling. The businesses are
+
+sophisticated. The assets are obviously worth a lot more than they've ever been. And so you
+
+You see brokerages like Sotheby's International Realty that builds a full service model to support those agents in their transaction management, videography, digital media, advertising campaigns, and valuating the asset and making sure that the contracts are set up, right?
+
+And there's good risk management for the clients.
+
+So what is the, oh, sorry, Jordy.
+
+Yeah, I wanted to jump right in.
+
+I want to talk about the market overall at a high level.
+
+And then I want to go into some of these submarkets.
+
+And, you know, we'll talk about Utah, but what you're seeing across the West.
+
+Western resorts markets.
+
+Sorry, you broke up again.
+
+I don't know if it's me or the connection.
+
+I'm sorry.
+
+So let's talk about the market overall right now.
+
+We're well aware that pending home sales are at their lowest level since it sounds like you started at, or even lower than when you started at Sotheby's back.
+
+Overall real estate market is, it's very tricky.
+
+In the case-shaped economy that we live in, there's a, there's really become two different real estate markets.
+
+There's the general real estate market and there's a luxury real estate market.
+
+And the luxury real estate market has really searched forward.
+
+I mean, you have now the upper 1% I was just looking in the Sotheby's luxury outlook report represents $54 trillion.
+
+And they are looking for more than just real estate.
+
+They're looking for lifestyle, time with family.
+
+They're looking for unique experiences.
+
+And the general real estate market has kind of separated itself from the luxury market.
+
+The way we evaluate properties, the way we market and expose luxury properties,
+
+is very different than what we do in the general real estate market.
+
+And for example, one of the big things is privacy and security.
+
+That's become a real thing in the AI age.
+
+People at the top of the market don't want their photos broadcast all over the internet
+
+for the general real estate market because the buyers for their property are a unique set of people.
+
+So how does that match against needing to promote properties through Instagram carousels and reels and bringing influencers in?
+
+it feels like the promotional machine around some of these properties is incredibly robust.
+
+Are there, is there a tradeoff there?
+
+Or is there a strategy for that balancing act?
+
+Yeah, there's definitely a strategy.
+
+I think now consumers demand more than a one-size-fits-all strategy that we've seen in the real estate market in years past.
+
+And we're fortunate to be led by a change agent, somebody that really understands this and is willing to bring change to our industry with Robert Refkin.
+
+I mean, he understands that consumers want a custom approach for their property.
+
+And it could be somebody in the general real estate market that has a security concern.
+
+Maybe they don't want somebody who has a restraining order against them knowing they're selling their property.
+
+Or maybe it's a high-end client like those NFL players whose homes were targeted when they were on the road.
+
+Sure.
+
+You know, our job now is to sit with clients and ask them, how do you want your property promoted?
+
+What risks are you willing to take?
+
+How much exposure do you want?
+
+and what can we do to fulfill our duty to you and not to some one-size-fits-all system that we have with the MLS in yesteryear?
+
+Yeah, that makes sense.
+
+What about, what about like overall, like I imagine you spent time in a lot of these different markets.
+
+You have somebody coming in that's interested in what Utah has to offer, but I imagine a lot of buyers are like looking at a lot of the other places you previously set up.
+
+Somebody might be trying to decide between, you know, Utah, Deer Valley versus.
+
+Jackson or somewhere in Colorado, they might still be looking at Sun Valley, and there's
+
+like tradeoffs between all the different sort of regions.
+
+What's your pitch for Utah, and then when would you send people to other places?
+
+I love that they shop all the resort markets.
+
+I think that's fabulous.
+
+I was in our office in Jackson Hole, or I'm sorry, in Lake Tahoe one day, and I saw a client,
+
+and I came home, and then I saw the same client walking into our Park City office.
+
+So they're definitely shopping the resort markets, and they should.
+
+They are all very different.
+
+They all have different attributes and unique things to them.
+
+And I just want clients to find what they, what works for them.
+
+So if it's in another resort market, I'm happy to refer them to somebody with Sotheby's
+
+International Realty in that market and let them, let them find the property that works for them.
+
+Utah is unique because Utah has consistently been, number one, in business opportunity,
+
+We have a very friendly tax structure.
+
+We have the newest airport in the United States,
+
+which has been a boon for our economy.
+
+We're becoming a sports city with the recent addition of the NHL team to Utah.
+
+And then best of all, the East Village of Deer Valley doubled the terrain of Deer Valley,
+
+while Extell development simultaneously is building four seasons,
+
+a Waldorf Astoria, their ski and ski outlots at Deer Valley.
+
+They already finished the Grand Hyatt.
+
+And then there's even a great affordable option called the Peosch,
+
+Village where you can buy a condo really close to the ski access for about $400,000.
+
+Wow.
+
+And I know one of your avid listeners that introduced me to your show, Gavin Van Wagner,
+
+would be stoked to hear his name.
+
+But there is a plethora of options there at the East Village of Deer Valley.
+
+And it's really doubled the terrain.
+
+So our resort market has experienced this incredible growth because we've been able to double
+
+the amount of, of, of, skiable terrain.
+
+And Deer Valley, you know, is consistently ranked the number one ski resort in North
+
+America and you can get there now without going through one traffic light from the Salt Lake
+
+City International Airport, the newest airport in the country. Well, yeah, that's huge.
+
+Pretty good pitch. What is the history of the real estate market in Utah? Like what are the
+
+key inflection points? I imagine COVID was a big one, is the housing crisis. Like what are the
+
+turning points where you noticed, okay, business is different. We're in a new normal. Take us through
+
+some of the history throughout your career. Yeah, I think Utah's always always,
+
+always had this insecurity complex that like people didn't know we were here you know like i grew i was
+
+born and raised here so i can say that i think now we're looking going why did we want everyone to know
+
+you know so i've seen it in a 25 year run we've gone from one extreme to the other so it kind of
+
+started with the olympics in 2002 we hosted the winter olympic games and i think people kind of got
+
+exposure to utah wow okay like this is a place that you know we have a lot of the olympic athletes
+
+that are based here now and train here because we have all the venues the olympics are coming back in
+
+2034, which we're really excited about. And I think we saw the really steady growth through the
+
+Great Recession, but COVID really changed Utah. And the reason it changed it was people realized that
+
+you can access these incredible mountain communities and this unmatched outdoor lifestyle, whether it was
+
+the big Cottonwood Canyards where Snowbird and Alta are, or the Red Rock, you know, national parks of
+
+southern Utah or experiencing Park City and Deer Valley. Utah just has this incredible outdoor lifestyle.
+
+And I think during COVID, people realized, hey, I'm going to work remote anyway.
+
+This seems pretty affordable compared to Vail and Aspen.
+
+And, you know, the airport's closer.
+
+It's easier to access.
+
+It's tax friendly.
+
+The people here are super friendly.
+
+It's a great place to live.
+
+We have the highest volunteerism in the country.
+
+Like, Utahans are all about just helping their neighbor.
+
+And people kind of figured it out.
+
+And COVID was a huge turning point for Utah.
+
+And since then, it's just, it's been nothing but accelerated growth.
+
+What features of houses at the high end are newly trending?
+
+I mean, I guess what's on an upswing?
+
+What's on a down swing?
+
+What was in a previous era the hot amenity that is no longer and vice versa?
+
+I'm interested in.
+
+Good question.
+
+I want to host you guys in Park City, Deer Valley.
+
+So you reach out to me.
+
+Come, I'll show you some of these luxury homes in Deer Valley.
+
+Yeah, I'm in.
+
+Yeah.
+
+Let's do it.
+
+Come out and let's check them out.
+
+Yeah, we actually talked to a couple buddies like last year about doing a, like if we were to do a winter event, Utah would definitely be at the top of the list.
+
+Yeah.
+
+Okay.
+
+Well, I'll be your planner.
+
+All right.
+
+I'll make sure you get in all the right restaurants and ski all the right runs and experience the Utah lifestyle.
+
+So you reach out to me.
+
+I think the biggest amenity, it's life, it's wellness and health.
+
+Okay.
+
+People care more about their health and their wellness and their well-being than they ever have.
+
+And so you see in these homes a lot of red light saunas, steam rooms, cold plunges, you know, advanced yoga or fitness opportunities.
+
+Those seem to be really popular.
+
+And maybe the one of yesteryear, I don't know, the theater room was kind of the thing at one point.
+
+And now you see those conversions back into fitness rooms.
+
+I don't know if you agree with that.
+
+I love a theater room.
+
+Basement bar and movie theater.
+
+I love a theater room, a full projector.
+
+That's my sweet spot.
+
+But I'll be picking up for a bar.
+
+apparently, which is good.
+
+Okay.
+
+Well, when you, when you, when you, when you, when you, and hey, they're still popular.
+
+But when you come to, and people stream now, too, right?
+
+Like, you're not getting a video, a movie and watching it on DVD.
+
+Yeah, and TVs are so big that they're basically cinema quality now.
+
+You don't need the dedicated light controlled theater because the OLED's so bright.
+
+Like, there's a lot of other solutions.
+
+But when you guys come to Deer Valley, I'm going to get you a beautiful luxury home with all these amenities and a theater.
+
+And a theater.
+
+That's great.
+
+How, what's the seller's mentality right now?
+
+when do people, when do people leave, you know, is it, is it changes in whatever period of their life?
+
+They're not using the property as much.
+
+Are there people that are waiting that want to sell into this sort of liquidity cycle that's happening?
+
+I heard of a recently exited tech, tech founder that immediately bought three, like within, within three months of selling, he bought three homes within, you know, a very, very, very,
+
+you know, call it a 10th of a square mile, something like that.
+
+So I do think that's going to be potentially a driving force in a lot of these resort regions.
+
+But what's the viewpoint?
+
+Well, these buyers are much younger for sure.
+
+I mean, I've always viewed myself as young.
+
+And now in my 50s, I look at these buyers.
+
+Some of them are in their 20s and, you know, early 30s.
+
+I think they, again, back to what I said.
+
+before. I think they're looking for a lifestyle. They're looking for work-life balance to the degree
+
+they can get it. They're looking for a retreat that's easy to access. They're looking for a place
+
+to unwind. They're looking for places to spend quality time with family and friends. Those are the
+
+drivers. And I think they're willing to hold that real estate when that's being offered. Like when they're
+
+getting that from the real estate, they tend to hold it. But we do see people that say, hey, Park City and
+
+Deer Valley's grown a lot and it has. And Sun Valley now appeals to me more because Sun Valley's been
+
+able to maintain its boutique, small kind of feel. And so, you know, they migrate to different
+
+resort markets. We have somebody right now relocating from Aspen. And he's just kind of done with
+
+Aspen. He's had a great time there. He has nothing but positive to say. And he wants to come and
+
+check out Deer Valley in Park City. So he sold his property in Aspen with, you know, Chris Klug of
+
+Sotheby's International Realty. And now he's coming to Deer Valley and looking for a property.
+
+Fantastic. In Utah, somebody that, you know, purely theoretically wants to balance winter and
+
+summer, you know, easy access, ski and ski out, also easy lake access. Where are you putting them?
+
+Oh, Deer Valley. Are you kidding? The Jordan L Reservoir is right there at the base of the East Village of
+
+Deer Valley. Some of the best wakeboarding, water skiing. You could fish the upper Provo River.
+
+It's blue ribbon, freestone, fly fishing, blow your mind. I'll take you guys when you come.
+
+But I think people come to Park City and Deer Valley for the first time in the winter.
+
+but it's the summer that actually gets them to buy here because the summers are spectacular.
+
+You know, 80 degrees, no humidity, fabulous hiking, biking opportunities, the ability to fish.
+
+Whatever it is you want to do in the outdoors, it's here in Utah.
+
+How does that compare to Lake Castaic?
+
+Is that the one that we have here close to us?
+
+It's a not-for-off?
+
+No, I recently went wake surfing in California and had a lovely time.
+
+one of the closest lakes to L.A.
+
+But it was extremely convenient.
+
+That's my review.
+
+The convenience factor.
+
+The convenience factor.
+
+I think you just fly to Utah and be to one of these outdoor lakes in just the same amount of time.
+
+So you guys dial me up and we'll trust me.
+
+We'll make it happen for you.
+
+You can wake surf your heart out in the mountains of Utah.
+
+I love it.
+
+What is your opinion or strategy around AI-enhanced photography?
+
+When I look at property, sometimes it's really nice to say, what would this look like with a renovation?
+
+At the same time, sometimes you click on one and you're like, okay, I have no idea what this house actually looks like.
+
+Disclosure.
+
+What's been your process for working through the new technology?
+
+I'll just jump in and say, like, there's an absolute epidemic of AI content on the Zillows and the compasses and the...
+
+And it's not disclosed?
+
+No, it's like...
+
+clock it. People are taking it on themselves to AI enhance images of their home.
+
+Yep.
+
+And it's horrible because you're looking through.
+
+And oftentimes it's like one normal real image, one AI image.
+
+And then one like just total render.
+
+And you come away from it being like this house, this, this asset must be terrible because if they're doing
+
+this to red flag.
+
+Like let people do the AI work themselves.
+
+Yeah.
+
+It's very easy.
+
+Right.
+
+Or at least very clearly label like real image.
+
+AI image, real image, AI, you know, up-res.
+
+But to me, it's like completely ruining these platforms right now.
+
+And I think they need to take action to like do much better labeling of it.
+
+But anyways, I'm not in the answer.
+
+You're dead on. You just answered the question.
+
+I mean, in our organization, especially with Sotheby's International Realty, you know, we are trained and taught that AI enhancement images that mislead people into thinking about property, something it's not is, is not ethical and not something that we should be involved in.
+
+Somebody wants to take those images and drop them in to see what kind of changes they could make or improvements they could make.
+
+That's, I guess, their prerogative.
+
+So we are very careful with AI enhanced images because, one, it's a misrepresentation of the property and it creates liability for us and for our client.
+
+But at the same time, it's just misleading them.
+
+So we believe in, you know, incredible photography, Photoshop it a little bit to clean it up, make the light better to be a great depiction of the property.
+
+But AI is a step too far when you're making your property look like something it's a number.
+
+not. Yeah. What, then obviously capturing like real images and footage is really key. Like,
+
+what is in the portfolio? What is the strategy for actually showing a property off? Obviously,
+
+like, do you have to bring in a specialized drone pilot and a videographer and a photographer and invite a real estate influencer?
+
+There's like 17 people around the table when you plan to market a property?
+
+Yeah. Is that it? Okay. Yeah. I mean, at Summit, Sotheby's international.
+
+Realty, which is the Utah affiliate of Sotheby's International Realty.
+
+We have in-house photographers and videographers.
+
+They're drone pilots.
+
+Cool.
+
+They're certified to use the Matterport, 3D.
+
+Oh, yeah.
+
+That's a big one, too.
+
+So, yeah, I mean, I always tell clients, in a general sense, the first showing is online,
+
+whether that's us emailing photos to a high-end client privately or them seeing it on the
+
+internet.
+
+The first showing is online.
+
+And you know what people do when they look at properties.
+
+They're not really looking for the perfect property.
+
+they're eliminating properties that don't work for them.
+
+Sure.
+
+So you've got to package and present every property to draw as many eyeballs in,
+
+but also to not be disqualified.
+
+And I think the industry in general, certainly not our organization,
+
+really struggles with the visual presentation of properties.
+
+I think if you go online and look at real estate,
+
+you'll see a difference between what we're doing
+
+and what a lot of our competitors do.
+
+I think they've lagged behind and it's disappointing.
+
+I'll look for clients at pictures,
+
+and it's, oh, man, like some listings you see like seven or eight exterior photos before you see
+
+anything on the interior, you know, and we know from studies that people look at five to six
+
+photos and that's it.
+
+That's as much attention span as people have online.
+
+So there's a, there's a system, there's an art to this, there's a process, and there's a way
+
+to be effective in marketing properties online.
+
+So that's ultimately what's your brand, yeah.
+
+How do you guys navigate working with, like, is Powder Haven allow for external
+
+representation or do they own the full end-to-end buying experience?
+
+And how have you worked?
+
+Yeah, that's Re-Hastings from Netflix.
+
+And I'm sure you've had to interact in different ways with other community, you know,
+
+like discovery properties and things like that that want to own the experience entirely.
+
+Yeah, good question.
+
+We were involved in selling Powder Mountain before Reed purchased it.
+
+And when he purchased it, he went private.
+
+There is some opportunities to buy and to sell in there, but he largely changed the
+
+master plan and the way that the project was being developed. So they've been cooperative with
+
+the brokerage community. And we feel like we can take clients there and expose it to them,
+
+but it definitely changed it. There's another Yellowstone Club type property in Utah called
+
+Wasatch Peaks. And they've been great to have us on site and to tour the brokers through.
+
+But that's a buy invitation club only. And you have to be invited to join the club, go through
+
+their vetting process, and be approved as a member before you can even be considered to buy
+
+real estate in the development.
+
+And I think that's a growing trend.
+
+You guys talked about the Beverly Hills project where, you know, they were selling the bonds.
+
+And I mean, you're seeing.
+
+Founder bonds.
+
+Founder bonds.
+
+I watched your show.
+
+But there's a lot of, there's just a lot of different ways to approach it.
+
+And I have opinions on that, but we won't get into that.
+
+Yeah, yeah.
+
+No, I really want to know your opinion on how you would advise a client where the seller of the
+
+property wants you to loan them funds that are junior to billions of dollars.
+
+Let's discuss that on the lake.
+
+But yeah, we'll discuss that on the lake.
+
+Okay, we'll discuss it on.
+
+I think you just said it all, though.
+
+I think so.
+
+Anyways, Thomas, great to hang.
+
+Thanks for breaking down your business.
+
+Hey, take me up on the Utah offer.
+
+I'm not kidding.
+
+Yeah, we'd love to.
+
+I want to have you guys out.
+
+We'll talk to you soon.
+
+Have a good one.
+
+Can't wait.
+
+See you.
+
+Shopify is the Congress platform that grows with your business and lets you sell in seconds,
+
+online, in store, on mobile, on social, on marketplaces.
+
+And now with AI agents.
+
+And next, we have,
+
+Kyle Schiller from Marathon Fusion. Is it over for gold? Is gold back? There they are.
+
+It's the bottom of it. Welcome to the show guys. What's up, guys? Hey, what's going on? Great seeing you.
+
+Can you both introduce yourselves and then take us through the company a little bit? Yeah.
+
+Because you guys both look like you might be named Kyle Schiller. So you're going to have to confirm who you do.
+
+What's Adam? Okay. Yeah, I'm the CEO of the company. I'm Kyle. My co-founder, Adam, can join us today. Here's Jason, our chief science officer.
+
+Great. So take us through the pitch for the company. I saw the launch video went very viral. Lots of debate about it. But what's the core thesis here? What's the core technology?
+
+The core thesis is that fusion is really bottlenecked on the foundational capabilities and technologies much more so than on the core plasma physics. And so we got founded to address a very specific set of problems around the Tritium fuel cycle. We've since expanded. We've now gone full stack, built out the industrial base, and we're ready to deploy commercial fusion next year.
+
+And Fusion in general has been one of those technologies that's been 10 years away for the last 50 years.
+
+But it does feel like we've seen some solid progress.
+
+What technology milestones have actually been knocked down that gave you the confidence to go out and build this company, raise money for it, and start, like, actually accelerating?
+
+You know, in 2022, it was very much a story about tailwinds.
+
+And now four years later, we can confidently say it's a story about technology and those milestones.
+
+Sure.
+
+And, you know, this 10-year thing bothers me so much that we have gone out and made this very public commitment to double our power density every single month.
+
+So we're now talking about the execution window that is like new cycle relevant, that is Twitter relevant.
+
+And most importantly, where people can feel like they are a part of the story, that they're actually watching us progress.
+
+They don't just have to take our word for it and be like another billion dollars, bro.
+
+It is actually going to happen.
+
+Yes.
+
+So doubling every month, incredibly powerful.
+
+We all know the power of exponential growth.
+
+but if you're 20 ooms away from where you need to be,
+
+this could still take a long time.
+
+How far away are you from actually reaching,
+
+what do they call it, Q greater than one?
+
+Isn't that the phrase for these things?
+
+Yeah, well, I love that you have this perspective
+
+because nuclear physics is a matter of many, many ooms.
+
+It is largely counterintuitive.
+
+So on power density, we are away like five, five ooms maybe now
+
+from setting the record.
+
+And on gain, historical reactors have gotten
+
+within a factor of two.
+
+Yeah.
+
+So that's why I say that is the area on which we are much closer to commercial performance.
+
+We're actually going to say that for last.
+
+Yes.
+
+Is the most capital intensive thing?
+
+Is the most scientifically intensive thing?
+
+It's not the only important thing.
+
+So let's like catch up on the rest of the industrial base.
+
+And then once we're there, we can do confinement.
+
+And take us through the gold piece of this story.
+
+Like, why was that relevant?
+
+Why is that, is that just because it's so tangible to the audience that anyone can understand that?
+
+We will perform it.
+
+And now we will perform a trick.
+
+Yeah, it's alchemy.
+
+But is this actually part of the business plan, or is this just like a really tangible
+
+scientific milestone?
+
+That's how they're going to finance, you know, the rest of it.
+
+You know, like 18 months ago, Marathon announced this seemingly crazy thing that is real,
+
+that, you know, fusion can co-produce electricity and gold at scale.
+
+And this is, you know, at the power plant scale, this is how we're going to make fusion energy
+
+the most cost competitive.
+
+And this was just beginning.
+
+Basically, right now we're focusing on making.
+
+materials are the most valuable materials in the world, like billions of times more valuable than gold.
+
+And so we're basically producing the roadmap for fusion energy.
+
+Instead of just making electricity 10 years away, we're going to be making medical radio
+
+isotopes right now with these very high power density reactors.
+
+What kind of pushback did you guys get on the launch or the video?
+
+And like, how would you, you know, respond to some of the more common pushback?
+
+I was pretty amazed how positive the reception was, to be quite honest with you.
+
+I think the vibes have gone really, really positive.
+
+I think we nailed the timing and the tone in the launch.
+
+And where we have seen pushback is mostly on these issues, like mercury materials compatibility
+
+that are just non-issue.
+
+Like, mercury is corrosive to copper.
+
+It's a good thing that there's no copper in Eurofer 97.
+
+It's also a good thing that we have been operating with copper, like, in the nuclear industry
+
+for almost 100 years.
+
+So in the 1940s, mercury was used as a coolant in nuclear reactors.
+
+Throughout the 1900s, it was used in like ACDC conversion systems that powered most of the London underground.
+
+GE has deployed mercury turbines.
+
+Even the super conservative European programs baselines, like their default is mercury fusion power plants.
+
+And so what we're proposing is like radical from an economic perspective.
+
+The materials actually don't concern me that much.
+
+We'll have to do a lot more qualification from here on out.
+
+We address that in the video.
+
+But it is, it is tractable.
+
+It is like a really highly tractable series of engineering.
+
+problems. So that's the, that's the scientific pushback. For the person that was just like
+
+scrolling by and saying, oh, they're making infinite gold. The critique was like you're not producing
+
+gold economically yet because you have to put more energy into the system. That has cost.
+
+And so even if you're able and, and, and, but that is something that you've already addressed that
+
+you will be solving by scaling up the efficiency of the system. Yeah. Yeah. I mean, it's true. We're really
+
+far away. That's why we have to go so quickly. So you probably spent like thousands of dollars to make like one
+
+penny of gold or something like that at this point.
+
+But then you double that and double that.
+
+Even worse.
+
+Yeah, there were always comments that were like, but they would
+
+have to do a million times better. And it's like, yeah, man,
+
+that's exactly. Yeah, that's the goal. Just give us
+
+40 doublings or something.
+
+Yeah, say that about the models from
+
+five years ago. Yeah, yeah, yeah. You should be very
+
+inured to this concept of
+
+you need to be oomaxing.
+
+Yeah. That's right. What is,
+
+what's the actual lab look like? You don't need to
+
+use any radioactive material.
+
+right? So it's like a pretty safe lab to just walk around?
+
+We do operate this currently in downtown San Francisco.
+
+Okay.
+
+And we generate a very tiny number of x-rays, which we're able to shield with lead, much like
+
+you get at the doctor's office.
+
+Yeah.
+
+So we have radiation safety officer.
+
+We take diagnostics.
+
+We make sure that everyone's operating safely.
+
+Yeah.
+
+We will at some point have to upgrade from here.
+
+And much like the vision companies that set criticality in Idaho, we have a number of
+
+other facilities where we can go and do that next phase of scale up.
+
+Oh.
+
+And how big, how big is a team?
+
+we're 30 people right now.
+
+Wow.
+
+Very cool.
+
+Well, congratulations.
+
+Thank you so much.
+
+Yeah, thanks for sharing guys.
+
+We're getting it down.
+
+We appreciate you.
+
+Come back on for the next, on the next doom.
+
+Yeah, the next room.
+
+That's right.
+
+All right.
+
+Awesome.
+
+Happy to meet you guys.
+
+Goodbye.
+
+Cheers.
+
+Want to change the world?
+
+Raise capital at the New York Stock Exchange.
+
+Our next guest is returning to the show.
+
+Steven Swartz from Wopp, co-founder and CEO.
+
+Been on the show several times.
+
+is a good hang with some fresh fun he's back how you doing steven good to see you again yo what up jordie
+
+what up john how are you guys what's the latest what's up dude give us some numbers jordy's got two gong
+
+mallets for you he wants to hit that guy how much he raised uh a little over 205 million
+
+two hundred and five almost took it off the hinge congratulations sequoia and shopify
+
+ventures what a great combination of strategic
+
+strategic plus tier one venture capital firm.
+
+What is the, is, yeah, your, your haters are an absolute shambles.
+
+Seeing that as far as.
+
+Do you see the Shopify partnership evolving in some material way?
+
+Or is it just a meeting of the minds you hit it off with Toby Litke or someone else over there?
+
+And it was a purely capital partner.
+
+I think that the spirit of this round of funding was really to surround.
+
+ourselves with people that are going to level us up.
+
+And I mean, Cameron and I met when we were so young, and we grew up literally building
+
+businesses on Shopify, day in and day out.
+
+And what Toby and the rest of the Shopify team have created is truly a work of magic.
+
+And I think people have a habit of underestimating small business, and they sure know not to do
+
+that.
+
+And I have a lot of high hopes for our partnership with.
+
+Shopify, you know, I mean, Toby's a world-class programmer.
+
+Their site and platform are built in Ruby on Rails, same as us.
+
+We have a lot of commonalities.
+
+And I think it's definitely only the beginning.
+
+And we look at them far, far beyond just capital.
+
+Amazing.
+
+Talk to us.
+
+Shopify is really incredible in that it's hard to know, it's hard for a company to be at that scale
+
+and have so few detractors.
+
+Like there's like on the merchant side, people are like,
+
+Like every now and then there would be some like mild issue, right?
+
+Like an outage.
+
+But it's like they have like the highest up time of any.
+
+Huge NPS.
+
+Like yeah, like the NPS is crazy.
+
+And then on the on the consumer side, it's just like amazing.
+
+No one wants to go back to the internet before.
+
+And they've been able to deliver a, you know, Shopify like or sorry,
+
+an Amazon like experience without any of the things that people don't like about Amazon.
+
+And I think it's incredible.
+
+and definitely, you know, having them in your corner is fantastic.
+
+Completely agree.
+
+Yeah.
+
+I mean, you look at the amount of small businesses that they service today many, many, many, many millions per month.
+
+And I think the whole world is still undressed, meaning how many more small businesses will be in the future.
+
+Even at a few million a month, it's actually not that many.
+
+There should really be billions of businesses each month.
+
+And these are not just tiny businesses.
+
+And Shopify has so many examples of Jim Shark,
+
+random drop-shipping brand that they grow to do billions and billions of revenue,
+
+skims doing billions and billions of revenue.
+
+And I think that they view our platform very similar in that the winners can really,
+
+really grow and scale on the platform.
+
+But obviously, we serve slightly different types of businesses.
+
+So, yeah, I'm very, very excited about getting to work with Toby and the rest of the team.
+
+They're fantastic.
+
+What are some of the new categories that are growing quickly on WAP?
+
+What's the new meta?
+
+What's the new meta?
+
+Yeah.
+
+Well, we're actually working on this trends page right now, and it's been really crazy to look at.
+
+We're really trying to drive the specificity home, specificity home, of all these different micro markets.
+
+So when we first launched, it was literally just sneaker bots.
+
+And I think everyone was kind of like, okay, well, that's, that's a,
+
+tiny market, really niche. I don't even really know what it does. But when you start to stack
+
+all these micro markets up, it becomes really, really, really big. And when we started to get
+
+our classification upgraded, we're seeing explosive growth in home services businesses like plumbing
+
+and roofing and pool cleaning. There's kids in Oregon that have home renovation and kitchen
+
+renovation businesses. We're seeing like emergency tree removal businesses in Canada in highly
+
+populated forest areas. We're seeing a lot of fraternities and sororities start to use WAP.
+
+We're seeing people sell backyard greenhouses on the platform. We have really fast-growing
+
+platforms for truckers, you know, like Bill Pay and AARAP platforms. We obviously have a ton of
+
+UGC growth. There's some really large people, not large people, really noted people that are
+
+launching marketplaces around UGC, Kray still. And yeah, I mean, you know, I think the fastest
+
+growing category right now is actually AI business training for small businesses. So they'll go
+
+into different businesses and help teach how to do automations, how to get the best AI stack and
+
+so on. And that is in incredibly high demand. But again, I think a lot of these markets deserve to be
+
+100x bigger. And I think that the road ahead of us is pretty obvious on how we can 100x each of
+
+these micro markets, which collectively kind of brings the whole platform to it, another territory.
+
+A lot of people laughed at Charleston AI.
+
+We took it seriously.
+
+We had a fun interview with the founder, but we recognized that this was like a real business.
+
+And it seems like it's spreading far beyond that one viral clip of the gentleman showing how he set up a physical store where you could go and get AI training.
+
+It's happening on WAP as well.
+
+What does Top of Funnel look like for when some of these new capabilities, new markets pop up?
+
+I'm thinking about like tree removal, that's great that someone could come on board and say,
+
+I'm willing to remove a tree in a remote part of Canada.
+
+But how are they finding their customers?
+
+Are they doing the promotion and then the transaction happens on WAP?
+
+Or are you doing marketing to brand WOP as a place where someone could go for all sorts of home services?
+
+Like how is the how is the customer finding that talent?
+
+Yeah.
+
+So, I mean, our mission is to deliver everyone in sustainable income.
+
+So I think one way to look at our platform is to take all these markets that have traditionally been a little bit more concentrated on the big guys getting all the business.
+
+And then maybe the big guys would go and delegate out and find some contractor to go and actually perform the tree removal services.
+
+But what I think the promise of the Internet allows for is really to decentralize all that power.
+
+And we try to think about making each of these markets.
+
+Very open and very efficient.
+
+And what that looks like is bringing scale economies for not just payments, but also advertising,
+
+to people like these tree removal services.
+
+And when you give them the power of Nike that they have an advertising product that Nike would use
+
+and you give it to a guy cleaning cars in Kansas who's making $150 a week, it gets pretty nuts.
+
+And that's the type of thing that people are using WAP for today.
+
+And you can look at the services we provide.
+
+Really, we're selling more efficient, better payments and more efficient, better advertising.
+
+And we wrap all that up and embedded into our home screen and tell business of what they should do next and say, all right, you're just starting out.
+
+Halloween's coming up.
+
+Maybe we run a sale for Halloween.
+
+Maybe get some ads launch for Halloween.
+
+And yeah, so maybe hopefully that answers your question.
+
+No, no, it totally does.
+
+It's so interesting that you can come to WAP with a product, a service, anything.
+
+And then you're not just the e-commerce platform.
+
+You're also going to connect them with marketers, help them.
+
+It could be they hire a clipper on there or someone to run digital ads.
+
+Like it's the full stack solution for like a solopreneur kind of in any type of business.
+
+That's incredible.
+
+Yeah.
+
+Are you already?
+
+distributing through neobanks and and uh different like consumer finance platforms because consumer
+
+finance historically was like hey here's here's the here's your net worth or here's the here's a checking
+
+account but nothing in these apps helps you really make the number go up you have to go elsewhere to do
+
+that i feel like wop is like the number go up platform for like a generation of new entrepreneurs
+
+um and that feels like a place where somebody's like looking at their bank account
+
+They might not be happy about it if they want to do something about it.
+
+That's like an interesting moment.
+
+Our mission is definitely not to save you money.
+
+It's definitely to make you money.
+
+And businesses on our platform, they grow an average of 300% after the first year.
+
+And that is very much our goal.
+
+We try not to deal in anything less than 100 bibs of growth for businesses on the platform.
+
+And yeah, I think we're not.
+
+probably there's a lot of low-hanging fruit for distribution in other apps.
+
+We have 10,000 people trying to make businesses, creating businesses each day,
+
+and many, many, many more tens of thousands of users signing up to buy things.
+
+So we have our hands full with our existing customers before,
+
+I think we turn on some more pipes for extended distribution.
+
+So not quite yet, but the Neobank stuff is pretty fascinating.
+
+I think, again, our goal is to bring a lot of competition.
+
+to traditionally very difficult to enter markets.
+
+And we have a crazy, cool stable coin infrastructure
+
+that allows people to do things
+
+that they previously haven't really been able to do
+
+from a fintech stack standpoint.
+
+So yeah, we're really excited about all that.
+
+Yeah, it was funny.
+
+When I was starting my entrepreneurial journey,
+
+I always thought it was funny that my business didn't have a home.
+
+Like if you weren't building an e-commerce store,
+
+like, and you could just go to, like, Shopify is the home
+
+for your business, right?
+
+Like, that is like, that's where your business is happening.
+
+But for so many other types of businesses, it's like, what, is your business, your email?
+
+Or your website?
+
+Or your bank account?
+
+Is it Stripe Atlas or LegalZoom?
+
+It's like totally homeless, right?
+
+It's just like sitting across all these different service areas.
+
+And it feels like just, it's like very, very obvious now.
+
+But like, WOP being just the home for your business.
+
+If it's like anything beyond, like the sort of Shopify, you know, S&B to Enterprise.
+
+it's going to intuitively make so much sense for the younger generation that's like, yeah, my company, like, should have a home.
+
+It should be, like, one place that I go and it connects to these other services.
+
+And it gives me that.
+
+Like, I think the thing that's really powerful is there's so many people that want to start a business.
+
+They maybe have a idea.
+
+Maybe that idea evolves.
+
+But they don't have someone in their life that's telling them, like, the next thing to do.
+
+And if you just scale up that, like, we're telling you the next thing to do on your journey,
+
+of it's like, okay, now it's time to do advertising and then helping them do the next step,
+
+I think that it can start to snowball into these, you know, once somebody's snowballing
+
+and they're like, they make their first dollar and then they make their second sale or whatever
+
+it is, it can snowball and then people figure it out over time.
+
+But, you know, having that home and then and then that sort of guidance, I think, is going to be
+
+super powerful.
+
+And yeah, it's going to be a golden era.
+
+Ken Griffin this week called it the golden
+
+It's going to be a new golden era for entrepreneurship.
+
+Not talking about WAP.
+
+No, no.
+
+I thought he was like so blackpilled on everything saying like it's a bubble and stuff most recently.
+
+No, no, no.
+
+People were pulling out the super bearish headlines,
+
+but the overall take was like it's going to be a period of intense disruption.
+
+He's like every major transformation has come with some sort of bubble.
+
+But ultimately he said it'd be a golden era for entrepreneurship and was really pushing this like,
+
+it's a weird time to be a white-collar worker.
+
+It's a weird time to be a big corporate.
+
+But it's a great time to be on WAP.
+
+That's what he said.
+
+No.
+
+No, he just said, it's a great time to like, you know,
+
+lean in and learn and learn these markets.
+
+Yeah, be adaptable, flexible.
+
+Yeah, when you're an individual or just a couple of people,
+
+it's like you have ultimate flexibility.
+
+You can literally do anything.
+
+You're not dealing with the baggage of like,
+
+how do we adapt to this new paradigms?
+
+Yeah.
+
+I have one last question.
+
+Have you ever gotten a root canal without Novakine?
+
+We were going to plan on doing that before our next board meeting.
+
+We have it.
+
+That's the plan of attack.
+
+Okay.
+
+I'll let you know how it goes.
+
+Why not do the board meeting while getting a root canal without Novakain?
+
+Yeah, you just literally do it all.
+
+You're so busy, dude.
+
+You need to combine all this into one meeting.
+
+Yeah.
+
+What is the story with Doug Leone from Sequoia?
+
+your relationship with him, how you met. Take us through sort of the journey because, I mean,
+
+what a legend to have on the board. Novocaine aside, obviously one of the greatest investors
+
+of all time and a real testament to the quality of the business that he would join.
+
+Yeah. So I think we've been really lucky to have some awesome investors supporting us since we
+
+began. And I think that the story of this financing was that we really wanted.
+
+to learn from someone who we like to spend a lot of time with.
+
+And we've gotten to know the Sequoia crew over the last few years
+
+and have seriously nothing but amazing things to say about the entire team.
+
+They're nothing short of brilliant.
+
+And Justin Mateen introduced us to Doug.
+
+And Doug actually said, he's like, we can't meet.
+
+We already passed on this.
+
+And we're not really interested.
+
+Too many detractors in the market.
+
+and we hashed out a little bit,
+
+and I think it became pretty obvious
+
+that the market we serve
+
+is one of the largest markets in the world
+
+and should likely be one of the last
+
+to be commoditized by anything related to AI.
+
+And we hit it off with Doug.
+
+I think Doug is one of the most authentic, humble people
+
+that I've met in this world,
+
+and that's having the track record that he has,
+
+and I think we really, really enjoyed speaking with him.
+
+And I think a lot of people
+
+in the venture and Valley are much more consensus thinkers, and he is currently an original
+
+thinker and not afraid to be blunt, which we really appreciate. So I think we kind of just
+
+hit it off and we could not be more excited to be in business with he and the rest of the Sequoia team.
+
+Well, congratulations.
+
+Really cool progress in a milestone.
+
+It's fantastic. I mean, what an amazing journey you've been on, and it's awesome to see another
+
+another win. Jobs not finished, but
+
+really, really amazing progress. Yeah, great
+
+stuff, dude. Thank you so much for coming on the show.
+
+Great to see you. We'll talk to you soon.
+
+Critical infrastructure for the AI era.
+
+Unlocked seamless real-time experiences
+
+and new value with Cisco.
+
+Can I read this article from
+
+the Wall Street Journal Mansion
+
+section, Jordy? Hit me.
+
+Alaska property comes
+
+with a helipad. This is a
+
+special, special property.
+
+147 acres with a helipad, guess how much it's going for.
+
+They're giving it away.
+
+Just 12.5 million.
+
+No, 12 and a half million dollars.
+
+No, there's that house we saw in Alaska that was like one of one.
+
+I think it was on five acres or John Lottner.
+
+John Lottner.
+
+But it was like 600K or something.
+
+But this is a very cool story.
+
+So Richard Stricken lived in Alaska his whole life, the 68-year-old retired commercial real
+
+estate developer was born in Fairbanks, spent time along the Bering Sea in an Eskimo village,
+
+but when it was time to settle down, he built a family compound. He chose Palmer, a small city,
+
+about 40 miles from Anchorage, surrounded by glaciers. The landscape attracted him with its
+
+grandeur. His 147-acre property has views of the glaciers, mountain ranges, and northern lights.
+
+I climbed a tree, and I saw the view potential, and that's where I decided I was going to build,
+
+he said. Now he's looking to downsize. Striking has listed.
+
+has decided to list the compound for 12.5 million, making it one of the most expensive homes for sale in Alaska,
+
+according to Troy Dana-Fay ranches. Strike and began to assemble his compound just outside the city limits
+
+in the 90s on the property, which he calls the ultimate Alaska. He built a ranch-style single-story
+
+main house with three bedrooms, a garage and a two-bedroom apartment above it, and a helipat.
+
+For his wife, he built vegetable gardens and an orchard. The couple of adults. I thought you're saying he built
+
+halepad for his wife. I was like, that's amazing. That would be good. They have 13 grandchildren
+
+that live nearby. Let's give it for that. During the winter solstice, Palmer receives only about
+
+five hours of sunlight a day. Stricken and his family spends this time skiing, visiting
+
+local winter festivals and attending the grandchildren's indoor sporting events. When spring arrives,
+
+they shift to snowmobiling on the glaciers, prepping the orchard and gardens for the growing season,
+
+and enjoying outdoor community events.
+
+They are selling because he has built a lakefront home about an hour away,
+
+and he and his wife plan to spend most of their time there.
+
+So if you're in the market for 147-acre Alaska compound, head over to...
+
+You know, who should consider Palmer Lucky,
+
+and Ben Lamb.
+
+Yeah.
+
+The just set up a dog operation out there.
+
+Why not there?
+
+Ben Lamb and Palmer have a war hound.
+
+Yeah.
+
+Very tired.
+
+A company coming out of self to genetically engineered dogs for military and law enforcement.
+
+Let's pull up this video of them talking about it.
+
+Back in 2023.
+
+And I'm not talking about biological weapons.
+
+I'm talking about using biology as a tool to solve a lot of military problems because
+
+we have new advanced bioengineering capabilities.
+
+So muscles that go in machines are going to be a really big deal.
+
+For example, building self-power scavenging robots that can live off of grass out in a field.
+
+Imagine if you could have radio relays that roam the planes and just eat grass, and that's how they power themselves.
+
+And they're very low signature. They can hide. They can hibernate. There's actually a lot of interesting biology-derived systems where you can take that stuff in, have bacteria in a little bioreactor that puts out
+
+methane gas, which you then run a fuel cell with. It's really, really cool stuff. And then, of course,
+
+the other big one is, you know, you guys are probably familiar with some of the companies out there
+
+doing de-extinction work of species. And I think there's a lot of species in the history of our planet
+
+where if we go back to the future, they're going to have excellent military applications.
+
+You think that German shepherds, they weigh 150 pounds, are really good canine units.
+
+Well, what about dire wolves? What if you have 600-pound canine units carrying 150 pounds of
+
+armor? You're talking about something that weighs all up eight times more with a hundred times more
+
+bullet resistance. They're extinct now, but they don't have to continue to be. That sounds crazy,
+
+but I don't know if you guys know this, that the U.S. military actually already has a lot of
+
+animals working in it. You have a lot of dogs working in the military. You have a lot of dolphins and
+
+seals that are working in the U.S. Navy. And of course, we'd customize them a bit too, you know,
+
+give them some better endurance, give them the ability to breathe at high altitudes, things they
+
+didn't have when they were on the Arctic tundra. Imagine if you could have all of these survival
+
+characteristics of Arctic wolves, but with the obedience and trust and
+
+loving characteristics of domesticated animals. Of course, you can breed things like this over
+
+long periods of time with different levels of success. But what if you could really get it to be
+
+like every canine unit we have in the northern latitudes? They have the characteristics of the
+
+strongest Arctic wolf that ever walked the earth. And also, they love to cuddle and do exactly
+
+what I say. I'm really excited about engineered biologics for defense applications.
+
+That's crazy. I was always thinking that it would go the other direction. Instead of trying to scale up
+
+the friendly dog, you would try and make the fierce giant bear friendly, and you would genetically
+
+engineer a domesticated bear and basically speed that up because dogs came from wolves
+
+over generations, they became friendlier. It feels like you could speed that up, but Palmer and
+
+Ben Lamb clearly know better than I do. Why stop it at, you know, seals and dolphins? Why not great,
+
+friendly, great white sharks? Great white sharks with lay names and heads. Man's best friend in the seas.
+
+best right
+
+well like you'd take the the golden retriever
+
+they become the best friend personality trait
+
+but keep all of the
+
+you know attack killer whales are pretty smart too
+
+megaladone
+
+yeah megaladone mode
+
+the friendly neighborhood megaladon
+
+megaladon would be very intimidating
+
+Alex says friendly jaws in coming
+
+friendly jaws
+
+well we'll have to keep
+
+an eye on it it's an interesting
+
+it's an interesting business it seems like
+
+it's Ben Lamb who's been working on de-extinction
+
+of mammoths at colossal biosciences,
+
+maybe new company from him,
+
+Paul Merlucky sort of advising and Anderall
+
+providing some body armor and some development,
+
+but not particularly,
+
+I don't think it's strictly an Anderil product.
+
+I don't know if you know more about this deal, but.
+
+Well, Sam over on X says,
+
+God give me the confidence of a VC investing 200 million at 1.2
+
+in a $50 million market.
+
+And so they talk about police and military combined,
+
+is 50 million a year of breeder revenue.
+
+And of course, the VC pushback here, I'm going to steal man.
+
+Steel man.
+
+Is that if you can make, you know, super versions of all these different animals,
+
+the end market would obviously be much more massive.
+
+And it's just, it's literally the coolest thing ever.
+
+I agree. It is. It's the type of thing that you want to be, you probably want to see funded with equity dollars that can be experimental and high risk, high reward, like put the risk capital to work on things that are, you know, science experiments with longer time horizons.
+
+Yeah, you're telling me if we can put millions of friendly megalodons into every ocean. That's not going to be a $10 billion year annual market. This is how we replace all of our Navy.
+
+friendly laser
+
+Megalodons
+
+Laser equipped megalodons
+
+Maybe
+
+That would never have any
+
+Adverse impact on any
+
+You know global system too
+
+No has any
+
+A company just come out and said we're doing Jurassic Park
+
+Like we're just bringing back the T-Rex
+
+And we think it's not kind of what Ben Lamb
+
+No
+
+He hasn't said he's bringing back
+
+Oh yeah he's very is he is he anti
+
+Well so from a scientific perspective
+
+There's a very good reason why
+
+Going after dinosaurs is way harder than going
+
+after.
+
+Yeah, here's the other thing.
+
+Dan is looking for a retail option for a 600 pound dog.
+
+So I'm sorry, Sam.
+
+The market for, for, it's a good point.
+
+Retail, yeah, retail option.
+
+The, the, the, the, the, the, the, the, the end market for friendly 10,000 pound dogs.
+
+I mean, look at Clifford, the big red dog is like one of the, we're making, we're rebuilding.
+
+Clifford.
+
+I mean, that's, that's a, no, it's a, no, it's a perfect VC bet because it's, because it's,
+
+Like, what you're trying to do is basically...
+
+How many people are really in the market for Clifford?
+
+It's got to be so expensive.
+
+Billions of children.
+
+Billions of children, but who can afford?
+
+It's got to be...
+
+That's a six-figure dog.
+
+Easy.
+
+If not a seven-figure dog.
+
+Plus, you're spending a...
+
+Feeding a 10,000-pound dog.
+
+I expect the costs to drop as quickly as...
+
+As AI is token cost of drop.
+
+Okay. Sort of sustainable farming.
+
+Maybe the Clifford, the dog.
+
+could build its own infrastructure and feed itself, potentially.
+
+Could learn how to farm.
+
+Yeah.
+
+Yeah, you have to buy it with the friendly gorilla that takes care of the dog.
+
+Yes, yes.
+
+It's a package deal.
+
+A real homein-hagerie.
+
+And goes on Wop and earns a living.
+
+Ownagerie.
+
+Earns enough every day to actually cover the cost.
+
+Friendly gorilla.
+
+That seems like an easy one to domesticate.
+
+That seems very, very close.
+
+Closer than a bear, certainly.
+
+Certainly closer than a shark.
+
+I feel like we have such.
+
+We have so little in common with a shark.
+
+This guy doesn't believe there's a market for Clifford, the big red dog.
+
+I'm just saying it's a narrow market.
+
+It's going to be an expensive dog.
+
+It's going to be an expensive.
+
+The OPEX on a Clifford dog is going to be through the roof.
+
+You're going to be spending.
+
+The U.S.
+
+Pet Industry is $165 billion just in the U.S.
+
+And so I expect that just introducing a viable Clifford for retail would take that
+
+would take that to a trillion-dollar market.
+
+And I think that's a trillion-dollar market.
+
+And I think there's a path to it being as big as a global alcohol market, which is in the, you know, one and a half to two trillion.
+
+Consider the knock on effects, though.
+
+Clifford Doghouse, that's going to be up to zone as an ADU.
+
+We're already in a housing crisis.
+
+Yeah.
+
+Not going to work.
+
+I think this could potentially create a sovereign debt crisis as households, you know, look to basically.
+
+As money floods into the Clifford dog market.
+
+Yeah.
+
+I mean, they're going to genetically engineer them to last a thousand years.
+
+So one family across many generations would have the same.
+
+The Clifford would be like a.
+
+The family office.
+
+Clifford would be the family guardian.
+
+Clifford dogs.
+
+And, you know, potentially hundreds of people in an individual family across centuries
+
+would all be cared for by the Clifford overlord.
+
+Overlord?
+
+It's becoming more.
+
+No, no, no.
+
+It's a loss of control.
+
+Clifford.
+
+Yeah.
+
+The Warhounds Clifford product.
+
+Yeah.
+
+They're going to, they're going to.
+
+Become warlords.
+
+Engineer it to live for thousands of years.
+
+And so if you buy it, you never really own it.
+
+You just pass it down to the next generation.
+
+And so like your son eventually is...
+
+It's not your dog. It's just your turn.
+
+You will own no dogs and be happy.
+
+I don't know.
+
+Stranger things have happened, potentially.
+
+Who knows?
+
+Nothing's off the table.
+
+Science fiction is here.
+
+So maybe Clifford, the big red dog is in the cards.
+
+I certainly hope so.
+
+I would like to see a big dog.
+
+I have a very large dog and I love big dogs, so I would love a 600 pound, 6,000 pound.
+
+10,000 pound dog.
+
+Do we even know how much Clifford weighs?
+
+4,000 pounds.
+
+25 feet tall.
+
+Jackson is sitting here with the fit of the month.
+
+Oh, can we get the Call of Duty update?
+
+Who wound up winning between you and Nick, Tyler?
+
+B says they're going to need 50-year Clifford mortgages.
+
+Oh, yeah, paid off over 50 years.
+
+Well, he lives for 1,000 years.
+
+You're good.
+
+He only played for a few minutes and then
+
+Oh, you didn't even finish the game?
+
+Yeah.
+
+Okay.
+
+But what was his kill-to-death ratio at the time you took over?
+
+So when you're playing on Killblock, for some reason, it doesn't show your KD during the game, so I couldn't tell.
+
+Too bad.
+
+Kill-block's fun, though.
+
+I like that mode.
+
+I'm excited.
+
+We do need to wrap the show because I got to go play.
+
+Just kidding.
+
+I got other things to do it.
+
+But thank you for tuning in.
+
+Fantastic week.
+
+Fantastic show.
+
+He made it through some sickness, some chaos.
+
+We love you.
+
+Let's get the Christmas countdown up again.
+
+62 days to Christmas.
+
+We'll see you Monday.
+
+Goodbye.
+
+Goodbye.
+
+Goodbye.

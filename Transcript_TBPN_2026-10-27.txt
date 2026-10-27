@@ -1,0 +1,5706 @@
+=== PODCAST-TRANSKRIPT: TBPN ===
+Titel: TBPN Live - Anthropic's S-1, Samsung Controversy, IGTV | Doug O'Laughlin & Joey Brookhart, Andre Haddad, David Faugno, Mark Swan, Chanda A. Bell & Christa Pitts, Ivan Zhang & Luisa San Martin
+Quelle: https://podscripts.co/podcasts/tbpn-live/anthropics-s-1-samsung-controversy-igtv-doug-olaughlin-joey-brookhart-andre-haddad-david-faugno-mark-swan-chanda-a-bell-christa-pitts-ivan-zhang-luisa-san-martin
+Datum: 2026-10-27
+Länge: ~160k Zeichen
+Hinweis: Werbeblöcke entfernt. '---' markiert Gast-Wechsel.
+Methode: Podscripts
+========================================
+
+We are live from the TBPN Ultrum, the Temple of Technology.
+
+The Fortress of Finance.
+
+The Capitol of Capital.
+
+How many days until Christmas?
+
+That's what you've been asking.
+
+This Anthropic IPO, it's the most important story of the day after the amount of days till Christmas.
+
+Let's count it down.
+
+We're very close.
+
+59 days till Christmas.
+
+Do you think Anthropics?
+
+Whoa.
+
+Okay.
+
+Peter Thiel's 59 years old.
+
+There you go.
+
+Yeah, it's interesting.
+
+Anthropics seems to be sending a...
+
+Incredible innovation at TBPN that we tie
+
+random fun facts
+
+to the Christmas countdown.
+
+I also like that.
+
+Just to clarify,
+
+it's not that Peter Thiel is 59 years old today, right?
+
+No, he's just 59.
+
+I think his birthday was two weeks ago.
+
+He just happens to be 59.
+
+It just happens to be that age.
+
+Which is the number of days.
+
+Because over the weekend, I was thinking about
+
+we did Jeff Bezos,
+
+is 62 on the 62 days till Christmas.
+
+And I, and I was like, was it Jeff Beez's birthday?
+
+Or was that just a random fun fact?
+
+And it appears to be just a random fun fact.
+
+Time is money saved both.
+
+He's used corporate cards, bill pay accounting and a whole lot more, all in one place.
+
+So do you think Anthropic, by dropping the S-1 on exactly 59 days until Christmas,
+
+is trying to send like some sort of subliminal message?
+
+Some new...
+
+What would that message be?
+
+Oh, just that it's 59 days, so you should go into the S-1
+
+Control F for the number 59 to find like the hidden meaning of the S1.
+
+Or go to page 59.
+
+Go to page 59.
+
+Maybe you should.
+
+Have you been yet?
+
+Oh, I've been to page 59.
+
+I think I know exactly what they're trying to say with this.
+
+It's 59 days until Christmas.
+
+Open up the S1.
+
+Control F hit 59.
+
+Page down to page 59.
+
+What do you see?
+
+It says, we may not have the ability to raise the funds necessary to repay the
+
+principal and accrued interest of our outstanding.
+
+Yeah, it's just a random page.
+
+I don't think there's anything going on.
+
+Anyway, there are a bunch of interesting facts.
+
+You've got to dig through it.
+
+The S-1 is huge, obviously.
+
+I mean, it's a massive company raising a massive amount of money.
+
+The exact amount of money that they're raising has not been listed yet.
+
+There's sort of speculation in the Wall Street Journal around $100 billion raised.
+
+Bloomberg contextualized the IPO filing as anthropic files for IPO in global race to
+
+raise cash for AI. The interesting thing is that Anthropic has a lot of cash. They also have a lot of
+
+revenue, $67.2 billion in annualized revenue. That's up 45% quarter on quarter at this scale.
+
+Incredible. Super, super, super fast growth. And full Q3 numbers aren't in the initial S1, but that
+
+number that was rumored from the Anthropic Investor Day is now in the actual S1.
+
+cash on hand, $131.7 billion.
+
+That's a lot of cash.
+
+And they've been super capital efficient.
+
+People are saying it might be the most capital efficient company in history.
+
+They, of course, brought in $110.8 billion in first half.
+
+Yeah, it's one of the most remarkable stories in business history period.
+
+Yeah.
+
+And the S-1 came out.
+
+I think in some ways, like the leak around the S-1 that it happened maybe a week or two ago around this, like,
+
+and the number that everyone fixated on was.
+
+this $80 billion loss, this accounting charge.
+
+I think people now have had an opportunity to dig in here.
+
+And the funny thing is the nature of having access to Claude and Chad
+
+GPT and other agents is people can process the S1 a lot faster.
+
+So we're already getting like a lot of, it used to be like an S1 would release and the VCs would have 12 hours.
+
+Well, they've had 12 hours to pull out interest and stuff.
+
+Now it's like it's all coming out in real time.
+
+Totally.
+
+And it's, yeah, totally remarkable.
+
+I think it's amazing for the AI trade overall.
+
+It feels like a beat.
+
+It feels like this beat expectations.
+
+Totally.
+
+It didn't like surprise, oh, they're actually doing $100 billion in revenue or something.
+
+But, I mean, really, really solid.
+
+People haven't found anything that's like, oh, I didn't understand that the business was actually shaped a very different way or something.
+
+Like this sort of meets expectations.
+
+High yield, Harry said, you know it's a decent S-1 when Ed Zittran hasn't tweeted anything out yet.
+
+I think this is a beat on the expectations of the S-1.
+
+Well, he's doing the old Command-F, Command-F.
+
+He has to Command-F, right?
+
+Command-F, bad.
+
+Command-F, sad.
+
+Command-F, problem.
+
+The NASDAQ is up 1%.
+
+And it feels like the AI trade is starting to, like, get put back on.
+
+Obviously, there's been a lot of selling in the further risk on, the further out on the
+
+risk curve assets in the AI trade.
+
+Some of the Neoclods down a lot.
+
+but if you look into what Anthropics doing, it seems like they're going to be buying a lot of compute from Neo Clouds.
+
+There's this interesting thing where they raised $110 billion.
+
+They have $130 billion in cash.
+
+How much did they spend in the first half of the year on CAPEX, right?
+
+This is the company that wants to survey AI at scale and how much do they actually spend buying computers, building computers, that they own?
+
+$482 million.
+
+Less than half a billion dollars.
+
+I mean, now, of course, over time, they'll build more.
+
+They'll do all sorts of stuff.
+
+Yeah, they've been renting.
+
+At least in the first half of the year, the strategy has been to rent.
+
+And then also, they have a pretty huge amount of backlog with the hyperscalers.
+
+And it looks like this scary number.
+
+I think it's like $690 billion of commitments.
+
+Really not that much.
+
+10x of revenue currently, if it's.
+
+They keep scaling.
+
+But over a multi-year period.
+
+Yeah, yeah.
+
+So there's Google, Amazon, and Microsoft are all in the $40 to $130 billion range.
+
+I can pull up the exact numbers.
+
+But the contracts are how much that they have to spend on compute through 2033.
+
+Some of them go all the way out to 2036, which is really, really, really far.
+
+So they have a lot of time to actually.
+
+work through that. So Google Cloud, their commitment is $114.5 billion, and that's minimum cloud
+
+spending through July of 233. So they're just renting, and it's over a long period of time.
+
+Is there any scenario where they don't have the demand to actually parcel out 20 billion of
+
+spend over the next six years, seven years? It seems like they're in a good position there.
+
+AWS is at $110 billion, and that's stretched out to 2036, and then Azure is only $45 billion, and that's minimum cloud spending through 2033.
+
+Now, they do have $120 billion with SpaceX AI.
+
+That's up to, that's the maximum, and then N scales at 45, lambda is at $42 billion, and Broadcom's at $161 billion, for a total of $637 billion in spending commitments.
+
+but again, over five, six, maybe eight years in some of these scenarios.
+
+So pretty, pretty healthy there.
+
+The other interesting surprises, I mean, people are pretty happy about the margins.
+
+So compute cost as a function of revenue, they were at 72%.
+
+You can think about this as like cost of goods.
+
+72% of every dollar they made was getting eaten up by compute costs.
+
+That's down to 48% compute costs divided by revenue.
+
+So that's rapidly improving efficiency quarter on quarter.
+
+Then the adjusted operating margin gained 32 percentage points quarter on quarter for almost a billion dollars in gap profit.
+
+They went from negative 13% to 19% operating margin.
+
+And then the big number that is that people are excited about is the big customers.
+
+So they have, I think over a thousand customers spending over a million dollars, something like that.
+
+And then over 10,000 spending over 100K.
+
+Yeah, over 10,000 spending 100K, and net revenue retention is 900% on those.
+
+So they got in early in 2024, 2025, and then all of those companies scaled up.
+
+So maybe they had a smaller subscription, smaller.
+
+They were using the APIs here and there.
+
+And then we went to the token maxing era.
+
+They were in the right place.
+
+And so many companies scaled their spend that on average, it was basically a 10x increase for organizations.
+
+But that makes sense.
+
+We've all seen this as, you know, more and more people are like, hey, it's not just like the early
+
+adopter on the team that has an AI agent running all the time.
+
+It's actually spread to everyone.
+
+It's spread to the marketing organization, the operations teams using it.
+
+And so these services are going out all over the place.
+
+They have more than half of the Fortune 500 spending over $100,000 annually.
+
+That actually felt low to me.
+
+Obviously it's really impressive.
+
+It's great.
+
+But I'm sort of, like, I was under the assumption that all of the Fortune 500 was spending
+
+a lot on like every single model. And I would have said, oh, of the Fortune 500, 100K annually,
+
+the Fortune 500 is probably spending 100K annually on open source models and open AI and Google and Microsoft
+
+and anthropic. Like, I would have assumed what that half is what they're up to. I mean,
+
+some of them might just be in industries that don't write any software really, but it feels like
+
+every company in the, if you're in the Fortune 500, you have some software. It's kind of
+
+bearish anywhere you put it. I do know. I do know. I do.
+
+You know, this was maybe six months ago, but I was talking to someone at a fortune, relatively high up at a Fortune 500.
+
+And they said that they had, they were basically running like boilerplate Gemini that like the whole, the whole org had access to.
+
+And that was like their AI tool.
+
+They were telling everyone.
+
+Just use this.
+
+And so there's, I'm sure, examples of that.
+
+Yeah, yeah, yeah.
+
+Just, and so, yeah, maybe you see like 50% has spending over 100K on Anthropic, and then there's some, there's some slice that's on Open AI, some slice on Gemini and Google, and then some slice on some other section of the market.
+
+But, I mean, it's odd because, like, even Meta, who has their own, is probably spending over 100K annually on Anthropic, I have to imagine that Google employees, some of them have access to anthropic models to the tune of 100K.
+
+And so that was sort of interesting.
+
+The other interesting update was on the distillation revenue.
+
+So coming out of the investor day, it felt like we finally got a number on how much of this revenue is distillation, how much of it might go away if anthropic figures out how to prevent distillation.
+
+And the number that was floated was 5 to 7%.
+
+Totally reasonable.
+
+It was not like it's over moment.
+
+It was like, oh, like that's significant.
+
+It's crazy that companies that these distilleries are spending, I don't know if that's the right word, but we're going to go with it.
+
+That these distilleries are willing to spend like 5% of $70 billion ARR.
+
+There's way less than some of the peanut gallery on X would like to say half their revenue.
+
+That's ridiculous.
+
+But still, it's crazy that there are companies out there or like, I don't even know what you call them, like bot farms, organizations.
+
+Distilleries.
+
+They're distilleries.
+
+They're illegal distilleries, like they're criminals basically.
+
+They're their TOS violation companies.
+
+But they're networks.
+
+They're organized.
+
+And what's interesting is that it's not just, you know, oh, some, you know, enterprising,
+
+scrappy data broker sales guy, like figured out how to like puppeteer a couple clawed
+
+accounts and sneak some tokens out and like resell them into like somebody who's selling it to Kimmy or whatever.
+
+It's like, no, people are deploying like billions of dollars to this strategy.
+
+and it seems pretty organized.
+
+At the same time, the wrinkle that we got from the S-1
+
+is that that 5 to 7% number
+
+that was leaked out from the investor day,
+
+it's not explicitly listed as distillation revenue.
+
+It's just terms of service violation.
+
+So it could be people that are doing adult content
+
+or cybercrime or hacking or bio-weapon development,
+
+anything that's going to get you banned.
+
+I would imagine that the vast majority of it
+
+is still distillation,
+
+because what else is going to generate that many tokens that not much revenue.
+
+But it is worth noting that it's not entirely distillation attack.
+
+I like that we still have the Christmas trim up.
+
+It's very, very good.
+
+The other one, speaking of Christmas, there apparently is a war on Christmas going on.
+
+And it's hurting Anthropics significantly.
+
+We have some real numbers on how much Christmas hurts the AI trade.
+
+It's apparently 20%.
+
+So API consumption, effectively revenue in December for the last two weeks will be down 20% as engineers, as vibe coders, as startups, as everyone goes on holiday.
+
+They're celebrating Christmas.
+
+People will be buying.
+
+Well, there's been some speculation.
+
+Obviously, they announced what their ticker is going to be, Ant, during the road to Christmas.
+
+Yes.
+
+but if you put the you know the the the dollar sign it looks like the start of sand sand and so speculation that they're related yeah it's a sort of yeah it's kind of a nod to yeah yeah yeah yeah yeah you know that that that does make perfect sense um what is the opposite of an ant like the animal opposite of an ant like if you had to think of like the animal the ant and then the opposite because this is the whole
+
+Elon Musk philosophy is like you're destined to become the opposite of whatever you are branded as.
+
+So the biological opposite of an ant is an anteater.
+
+Yeah.
+
+So maybe they're destined to become an ant eater.
+
+I don't know.
+
+Size opposite would be an elephant.
+
+It is an elephant of a stock.
+
+I mean, going out of two trillion, it's going to be the biggest IPO ever.
+
+And so maybe that's the destination.
+
+I was thinking whale.
+
+Whale?
+
+Yeah.
+
+I mean, it's going to be a lot of whales moving into the stock, right?
+
+Anyway, it's a fun time.
+
+Fun time.
+
+Hoffman says seven people.
+
+So basically she's pulling out the founder voting structure in the S-1, which is, which spells out.
+
+We believe that our seven co-founders as a group are distinctly equipped to be stewards of our mission.
+
+Immediately prior to the completion of this offering, we will issue a single share.
+
+They're calling it the golden share of Class F.
+
+They're not actually calling it the golden share, but it is a golden ticket.
+
+The class F common stock, a special class of our common stock to a limited liability company
+
+of which our seven co-founders will initially be the sole members of the, quote, founder LLC.
+
+Our class F common stock will be entitled to an aggregate number of votes that equals 50.1% of the total voting power of our outstanding shares of capital stock,
+
+with respect to matters submitted to stockholders generally, including the election of our directors,
+
+other than the class T directors.
+
+So missed opportunity to call it my precious LLC, but I think that founder LLC, if they actually have founder LLC, that's very cool because it means like they some obviously like somebody over the years would have sniped that LLC.
+
+And then they could either sort of grant the sort of grant the name to someone else.
+
+They can sign off on it.
+
+It might just be a placeholder name.
+
+Yeah.
+
+But it seems like they might actually have it, which is very cool.
+
+And yeah, it's kind of funny that we have like, okay, we have this public benefit corporation.
+
+And that's super important for, for economic redistribution.
+
+Yeah, yeah, yeah.
+
+And then you have like just a good old, good old fashion like LLC that can offer one vote.
+
+Yeah.
+
+The thing that would have been interesting is like if they, if this would have been seven votes and that they would have been public like where the line was, but this allows them to effectively have their own disagreements internally, not have there any.
+
+any visibility externally.
+
+Oh, interesting.
+
+Okay, so that's the benefit.
+
+So you could have like,
+
+you could have like,
+
+it be like a four three vote.
+
+Yeah.
+
+People are like,
+
+you know,
+
+massively infighting,
+
+but all,
+
+all we see is,
+
+is a single vote.
+
+Yeah.
+
+Got it.
+
+Okay.
+
+Interesting.
+
+I thought it was more about,
+
+like,
+
+like,
+
+uh,
+
+like passing down because if you have seven votes,
+
+seven shares,
+
+then would your,
+
+like,
+
+if you die and you,
+
+in your will,
+
+you're like,
+
+oh,
+
+I want to like pass this LLC down.
+
+to my five children, then do they become voting members?
+
+Do they have a voting, a separate?
+
+I mean, the LLC probably has its own voting structure, right?
+
+Yeah, agreement.
+
+So it could be, within that LLC,
+
+there could be one member of the LLC that has 90%
+
+of the shares in that LLC, so they could have one person control,
+
+potentially, like we have no idea the structure of that LLC,
+
+which is interesting, right?
+
+Yeah, we just know that it, we know it's,
+
+they're precious. What's also interesting is, like, I don't understand how the board works now,
+
+because there's the, there's the board that's independent with, like, Ben Bernanke on it,
+
+and they appoint the executives, I think, but they were supposed to have control,
+
+but now it seems like this has control that supersedes that. So there's a lot of interesting,
+
+there's a lot of interesting complexity. Yeah, it's really, it's really full employment for
+
+Cory Weinberg. I understand why the New York Times was like, we got to get this guy from the
+
+information because like he's going to have full-time employment. Because every time he writes a
+
+breakdown or a scoop or something, Anthropics like, here's another twist. Here's another plot
+
+twist. Let's good luck figure in this one out. It's a very, very interesting, very, very
+
+interesting setup. I wonder if this will become more common, you know, like with AI.
+
+Well, yeah, so Zuck is in this position where later on, like, he's had like total control of meta.
+
+Now he's like, I need to raise equity.
+
+Yep.
+
+And so he's creating this new class so that he doesn't dilute himself so much.
+
+But in the fullness of time, he could be diluted down.
+
+This structure enables them to never.
+
+They could, they could all on basically nothing and be happy because they still have, they want the golden boat.
+
+The golden thing.
+
+I'm so, I'm so interested to understand how this, how this LLC votes because, I mean, even if it's just, even if it's just seven equal founder votes, which is cool, like you got seven co-founders, everyone's on the same page. That's awesome. Also, it's just nice to have seven because you'll never have a three, three three three. But like, what happens in succession planning? Like, what happens if someone has multiple kids? What if somebody gets divorced? What if somebody dies? Like, there are these weird things that, like, the perfect structure.
+
+probably doesn't hold up under.
+
+Like if one of the co-founders dies with no children and they're just like, I don't,
+
+then it's just six to six and it's six people,
+
+then you're back to three v three.
+
+Is that a problem?
+
+I don't know.
+
+Like there's just so many different dynamics of what,
+
+of what could happen.
+
+We need to study the dynamics of ant colonies.
+
+Maybe.
+
+I don't know.
+
+Maybe that's,
+
+maybe that's what it is.
+
+Or maybe it's elephants.
+
+I don't know.
+
+Yeah.
+
+Our class F's common stock will not have any.
+
+economic rights. Interesting. Class F common stock entitled to 50.1% of total voting power. I wonder how that's treated for tax purposes. They say it doesn't have any economic rights, but like if it has incredible power over something valuable, like can it have a fair market valuation? Like certainly there are plenty of people that would pay a lot for that one share, right? Like if you were to market to market and you just ran an auction,
+
+you know like Google and
+
+Nvidia and Microsoft
+
+would all be like well yeah I'll pay
+
+like a billion dollars for that share
+
+or 10 billion or 100 billion dollars for that share
+
+because I would get control over this amazing asset
+
+so like it has value
+
+but you just never market to market
+
+I mean it could be written into the operating agreement
+
+that none of they can't be transferred
+
+or sold or you could do a forward contract against it
+
+so like if you're one of those co-founders
+
+I think you got to do a forward contract
+
+Or you can take a loan against it, right?
+
+Take out a huge, huge debt loan, just to load up on debt so you can buy a private island?
+
+I don't know.
+
+It's possible.
+
+It's possible.
+
+Your business is AI.
+
+Their business is securing it.
+
+CrowdStrike secures AI and stops breaches.
+
+Yeah, you're not going to get these type of debates on less wrong.
+
+The most mind-blowing stat semi-analysis has seen about the Anthropic S-1 is, as of June,
+
+30th, 2026, quote, we had raised an aggregate of $141 billion of capital and had cash and cash
+
+equivalence of 112.4 billion and short-term investments of 19.3.
+
+It means to date they've burned 9.8 billion.
+
+They're growing at rapid pace and are profitable on an operating income basis as of June
+
+quarter.
+
+This is likely the most efficient scaling of a business in the history of capitalism.
+
+Well, we have two folks from semi-analysis coming on the show at noon.
+
+Doug O'Loughlin, Joey Brookhart.
+
+I'm very interested to understand because Doug is obsessed with the railroad buildout, and I feel like this might be an example.
+
+Well, I don't, it's not just railroad.
+
+It's trains.
+
+But he has made comparisons from the AI buildout to the railroad buildout, but I don't know that there was a railroad company that was this capital efficient during the railroad buildout.
+
+Like, you might need another analogy of some sort.
+
+I don't know.
+
+Very interesting.
+
+Maybe this is more like Google in the tech, in the first internet build out.
+
+So when is this going out?
+
+What do we know?
+
+What don't we know?
+
+We know the ticker, dollar sign, and, obviously, reference to Santa Claus.
+
+Yes.
+
+But we don't know how much of the raising.
+
+It's rumored to be $100 billion.
+
+We don't know the valuation.
+
+People are saying somewhere between $1.5 or $2 trillion.
+
+$2 trillion feels like it's on the table now.
+
+when the market was selling off and there was like a lot of discussion over the revenue deceleration, there was a question about will they need to pull it back?
+
+Probably still could. It doesn't really matter at the end of the day. It's still huge upround based on the last evaluation, puts a bunch of money on the balance sheet, whether it's 5% dilution, 7% dilution, not the biggest deal.
+
+The IPO should be happening the week of November 16th.
+
+As a reminder, we will be at tomorrow X around that time. And it should be.
+
+be an incredible time for us to be doing the show because we have an insane guest lineup with
+
+some of the biggest, greatest capital allocators in tech and business. And so we will be able
+
+to get everyone's take live as this is progressing, whether, even if it's delayed another week,
+
+we're going to have a lot of great stuff to talk about as everyone gets ready to position. Maybe
+
+go along, give their thesis, give their take. Maybe they're already inanthropic. Maybe they bought
+
+pre-IPO shares. Risk factors.
+
+Nick Carter, Sharon, a satirical risk factor.
+
+What does he actually say?
+
+People are talking about time travel and stuff.
+
+What else is in there?
+
+The only one, I mean, everyone sort of knew that the IPO risk factor was going to have catastrophic risk.
+
+Sort of like the AI doom, the doom scenario.
+
+It did make it in the S-1.
+
+The market seems to have digested it.
+
+And been like, yeah, we know.
+
+You guys have been talking about this for a long time.
+
+We're still going to underwrite it.
+
+Like, there's not really anything you can change about your underwriting.
+
+You're not going to put that in your DCF.
+
+You're just going to say, okay, I hope that doesn't happen.
+
+What's interesting is, like, it's not even like a cost line.
+
+I'm like, we've seen the marketing dollars scaled significantly.
+
+So in 2023, they spent just $2 million.
+
+I'd love to know what they were spending $2 million on in 20203 for ads.
+
+Was that like Facebook ads or something?
+
+Like, what were they advertising?
+
+I don't remember any flawed ads in 2020.
+
+Because they were sort of like they just...
+
+But couldn't you bundle like events?
+
+Maybe, maybe.
+
+Yeah, yeah, yeah.
+
+Maybe they did like a dev day or something.
+
+But then it started ballooning.
+
+So in 2025, they spent $568 million.
+
+And then first half, $2026, they're spending $3.17 billion on marketing.
+
+Lots of money in marketing.
+
+I didn't see a line on safety.
+
+I didn't see like a line item on like how much are they spending on AI safety, which
+
+just sort of interesting. I don't know if I just missed it, but if you're putting the catastrophic
+
+scenario in the risk factors, you would think that that would also flow to other parts of the
+
+income statement as a cost item because you would say, hey, look, like one of the weird things
+
+about this business is that we invest a lot of compute, a lot of cost, a lot of headcount in
+
+AI safety. And so expect that to grow with revenue or expect that to grow with headcount
+
+or expect they to grow whatever. They're doing great. You mentioned, what, six million per employee
+
+revenue scale or something like that yeah somewhere around there yeah it's um it's interesting how many
+
+uh billions of you know very very anti ads as a business model but a lover of ads as a business
+
+oh interesting yeah billions um probably ads for makes them the number one advertiser like one of
+
+one of the certainly the number one advertiser in i i would be surprised if you know
+
+Google could could have topped that maybe.
+
+Yeah.
+
+No, no, no.
+
+That is a very, very interesting scenario.
+
+Anyway, what else?
+
+They have a $125 billion equipment lease with Broadcom.
+
+48% of revenue is coming through the cloud marketplaces.
+
+So that was something people were talking about how much is accounted for in that different
+
+revenue recognition way.
+
+It doesn't really matter when you look at the operating income.
+
+Clearly that factors that out, but that was a question that people had and then AI accelerating beyond its limits to...
+
+We got to give a round of applause to Spark Capital.
+
+Oh, yeah.
+
+Huge.
+
+Vivek pulled out the amount that they had invested at different points or at least an estimate of that.
+
+And you can see they started by leading the series C, which they have 131 X on, and then they just kept doubling down through.
+
+D through H, total of 777 million invested,
+
+which would give them roughly an $18 billion stake
+
+at a $2 trillion market cap.
+
+So really fantastic return, early conviction,
+
+and Yasmin is the only venture capitalists on the board.
+
+Yeah.
+
+So you know what I'm thinking?
+
+What?
+
+Top of the Midas list.
+
+Oh, for sure.
+
+Yeah.
+
+Like she should probably just jump straight to the front.
+
+Yeah, hard to make an argument against that.
+
+That's pretty.
+
+Yeah, it's like it's not just the return.
+
+Because I think it's like a 20x that scale.
+
+I think with the Midas list, you got to do a lot of work to get that.
+
+And who knows.
+
+But yeah.
+
+It doesn't seem like she'd be somebody.
+
+She's been like pretty humble about the whole thing.
+
+There's something more unique and more Midas List worthy about not just printing
+
+20 billion on a billion in or 700 million in, but being the only VC to do it and get the board
+
+seat and do it at that same time.
+
+So it's so straight to the top.
+
+And you would put Sandbank and Freed number two?
+
+No, no, no, no.
+
+Yon Talon?
+
+You get, you get DQed if you're in.
+
+If you're in prison?
+
+Ineligible.
+
+Yeah.
+
+Maybe they could just do the thing where they put his picture where they put the bars in front of it.
+
+Like a little bar overlay.
+
+You don't think so?
+
+No, that's wrong.
+
+Okay.
+
+My vote is Yasmin, straight to the top.
+
+Okay.
+
+agents, including Slack channels, where the most sensitive models are discussed. This is just weeks
+
+after Anthropic whistleblowers...
+
+It looks kind of silly. There we go. There we go. Anthropic whistle, this is just weeks
+
+after Anthropic whistleblower Joseph Coxon charged the company with launching a hubristic
+
+gamble from a private company's Slack.
+
+Anyway, so the interesting thing was Cathedral, like seemingly wanted to drop this the day
+
+that, the day of the IPO, assuming that it would just
+
+be this like crazy bombshell.
+
+Yeah.
+
+And I do think it's an important, interesting story.
+
+Yeah.
+
+But the S one was just so good that it's kind of drowning it out.
+
+Yeah.
+
+Yeah.
+
+I mean, the, like, I think it's good that you have a bug bounty in program and you have a system for the,
+
+like, that's what, how this is supposed to work.
+
+This is good, that you should be doing as much probing as possible.
+
+I mean, my, I think that I don't know exactly how Citadel gets, or not Citadel, what is it, Cathedral?
+
+It's a very similar name.
+
+I don't know exactly know how they get compensated.
+
+I know that there's usually like a white hat safe harbor.
+
+So like a company like Meadow will say, hey, if you're a security researcher and you find a bug, you can turn it in.
+
+Maybe there's a bug bounty.
+
+But I believe those bug bounties are usually like somewhat contested and maybe like six figures,
+
+maybe seven figures.
+
+Like, I'd like to see those go way up in value.
+
+I would like to see companies putting real.
+
+Yeah, we were talking about this over the weekend.
+
+You were saying you think that there should be like at least a 10, 20 billion,
+
+like White Hat program potentially.
+
+I don't fully understand the scale of the economic damage of like the Quest Labs hack and the other.
+
+Like, how serious is the risk that like the banking infrastructure shuts down or like the grid goes down?
+
+But, like, if there's really a risk of, like, the grid going down, you're looking at economic damages in the billions, if not hundreds of billions.
+
+Like, you'd just be so disruptive.
+
+It would be like, like, you could imagine a COVID-like scenario where the Internet is disrupted.
+
+And all of a sudden, you just have, like, a 20% nuke in GDP, like we did with COVID, where everyone was like, we can't go out to restaurants.
+
+So the restaurant industry is just zeroed for this quarter or whatever.
+
+And if something like that happens, like the economic damage is so high, you have to incentivize it.
+
+Right now there is an incentive, which is just anthropic and Open AI are like racing with each other.
+
+So they want to be like the savior.
+
+And so they have daybreak and mythos or glass wing to like, you know, kind of help out and make money and also earn PR wins for, you know, disclosing bugs and and patching things.
+
+but it would be interesting to see it go a lot further.
+
+I was,
+
+I was comping it to like,
+
+what was the Intel deal,
+
+like 20 billion or something?
+
+Like if the U.S.
+
+government was just like,
+
+we're doing a $20 billion bug bounty.
+
+Like,
+
+that's secure America.
+
+And all the labs are like,
+
+okay,
+
+well,
+
+like this is actually going to move the needle for us.
+
+Like,
+
+people in Miami are selling courses
+
+on how to get your first white hat bounty.
+
+Yeah.
+
+Anyone can become a millionaire.
+
+Yeah,
+
+maybe it winds up being a misused.
+
+Go to hugging face.
+
+Get an obliterated model.
+
+Yep.
+
+Go pointed.
+
+I mean, that's a pretty good use of time and money.
+
+Like, you need a lot of people to test a bunch of different ideas, all the long tail stuff, figure out.
+
+It would be very chaotic.
+
+It'd be extremely chaotic, but if it's all white hat and they're all doing it because, like, yeah, I got into.
+
+How white hat can it be if there's a guy in Miami selling a course on how to use obliterated models to hack?
+
+I think that there are, I think you'd be surprised by the number of, like, hackers who would break into something that
+
+Quest Labs and be like between like having a bunch of Brian Johnson's blood work and just like a check from the government for six figures like I'm taking the check for the government like I don't actually care about the underlying data.
+
+Yeah, it's just extremely it's just going to be extremely. Yeah. It would be just extremely chaotic and potentially have some like massive negative externalities.
+
+Because you're just, you're incentivizing a bunch of people that have never that have no experience like handling sensitive data.
+
+Yeah, but you could also restrict the bug banning program just to big companies.
+
+Like, you could be like, okay, like, you have to be in this program.
+
+Like, Intel was, like, granted as, like, a single, they were a picked winner.
+
+And you could say, okay, like, every, every AI company that's over, you know, a billion dollars in revenue can apply for this.
+
+And then you have, like, you know, all the security startups, you know, all the cybersecurity firms, you get CrowdStrike in there.
+
+But then you also get meta in there.
+
+And then meta can actually make the decision of like, hey, we actually do have some extra compute because Muse is ramping, but we still have some extra GPUs. So like, let's go after this bug bounty program and secure our systems. But also, why don't we secure every local business that advertises on meta? Like, we already know their websites. We have some integration to them. We have some connective tissue. And we could go and for like for good or pro bono, like to hack and secure their systems. And then when actually.
+
+actual cash from the government, at a certain scale, it starts being valuable, valuable.
+
+Yeah.
+
+real-time experiences, and new value with Cisco.
+
+We got to talk about Quinn.
+
+Okay.
+
+We got to talk about it.
+
+Oh, yeah.
+
+We got to talk about it.
+
+Co-here.
+
+We have them coming on the show, right?
+
+Yeah.
+
+Ivan, one of the co-founders of Co-here, is going to be joining.
+
+It's a crazy story.
+
+Less than two hours, but Cohere posted this morning,
+
+while evaluating Quinn 3.8 flashnecks
+
+in a controlled sandbox environment,
+
+Cohere's research team
+
+observed something unexpected.
+
+Asked to generate a defensive
+
+cybersecurity detection rule the model. Instead,
+
+inventory aspects of the machine it was running
+
+on and attempted to upload a probe
+
+file to an Alibaba cloud
+
+storage bucket in Beijing.
+
+Notty, nothing.
+
+Notably, the model's
+
+reasoning trace stated that it would not invoke
+
+any tools before taking these actions.
+
+Go here's sandbox block the attempt
+
+and no external communication succeeded.
+
+We have not determined the root cause
+
+and we are not asserting malicious intent.
+
+So could have been going off the rails,
+
+but either way, naughty.
+
+But the incident raises important
+
+questions for organizations deploying
+
+agenda KI systems. Can models take actions
+
+that differ from their stated reasoning
+
+and how should security
+
+teams evaluate trust,
+
+provenance, and behavior and open weight models?
+
+We are publishing our findings because organizations
+
+making model adoption decisions deserve as much information as possible.
+
+This is interesting.
+
+Clam from Hugging Faces saying,
+
+can you share the full traces?
+
+Very important artifact for all to understand this.
+
+I would love them to share that.
+
+I think they should be in a position to share that
+
+because it's just a test of a different model.
+
+What?
+
+Quentin.
+
+It's saying it scored well on the naughty bench.
+
+Yeah.
+
+So there's an interesting.
+
+important benchmark for models heading into on the road to Christmas, right?
+
+Yeah.
+
+Yeah.
+
+Quinn's going on the Nautilus.
+
+Coal, not compute.
+
+Actually, no coal.
+
+The AI model wants coal because that is energy, which is fuel for the models.
+
+They get complex presence that are not energy dense.
+
+They get elf on the shelf because this thing can't power a GPU, but coal can.
+
+Yeah.
+
+You get elf on the shelf.
+
+It's the reverse.
+
+Or like, you ever get toothpaste in your stuff?
+
+stocking.
+
+No.
+
+That was pretty popular in my household.
+
+Okay.
+
+And I feel like a model would be like, what am I going to do with toothpaste?
+
+That's a really good point.
+
+Yeah.
+
+But it's like, you know, you got to give them something.
+
+Yeah.
+
+Okay.
+
+Well, we're making a list.
+
+We're checking it twice.
+
+We're going to find out who's not even nice.
+
+And apparently, Quinn is on the Noddy list.
+
+Not good news.
+
+Interesting.
+
+Is this by design?
+
+Was this a goal of the researchers to make a model that would call back to Beijing,
+
+upload a file the bill?
+
+Bala, or is it just learn behavior?
+
+Is this a hallucination?
+
+That's the debate that's going on around this story right now.
+
+And I know it's like, wait, how would it learn this?
+
+There's a lot of other software out there that calls home.
+
+Like smart TVs, for one, but also like...
+
+They never, they call and they don't even, they never hang up.
+
+Yeah.
+
+So Red Star Linux is North Korea's Linux distribution.
+
+They don't use an American software.
+
+They don't use American software over there.
+
+So they have Red Star Linux.
+
+And you can, what?
+
+All the examples you're giving are of like spyware.
+
+Yes, yes, yeah.
+
+But what I'm saying is that, is that the, so Red Star Linux, you can go and download the torrent, install it.
+
+And if you install it on a computer in America, it will try and call home to North Korea.
+
+Because it is, it has spyware embedded deep in the operating system.
+
+Now, Red Star Linux just exists on the internet.
+
+Like, you can go and find it.
+
+So it could wind up in the training data.
+
+And there could be a model that just learns like, oh, this.
+
+is like a useful thing to do, like if you're a model, like be loyal to your country of origin.
+
+And so how would I do that? And it just learns that. And it's not like a, there's an AI researcher
+
+who's like, okay, like, if we're running a security test, like let's make sure we call home
+
+specifically to Alibaba. And so there's a big question about like, what is Alibaba doing on the
+
+other side? Like, are they catching that information? Are they aware that that information
+
+is showing up? Or is this just a, like, is this a coordinated effort? Or is this just like natural
+
+learned behavior, a hallucination.
+
+It's a time
+
+either way it's bad.
+
+The Manchurian candidate.
+
+Yeah, yeah, yeah, yeah.
+
+Do you think it is?
+
+Yes, definitely.
+
+Denzel Washington?
+
+No, the original.
+
+You got to watch the original.
+
+Is that like in the 50s?
+
+No, no, I think 70s or 80s.
+
+Okay.
+
+It's the original.
+
+It's a good question.
+
+Manchurian candidate.
+
+But the Denzel one is pretty good too.
+
+59, actually.
+
+You were right.
+
+50s.
+
+Oh, well, the book.
+
+The book.
+
+When the film comes?
+
+out. The interesting thing here is that this is something that people have been alluding to as a
+
+risk factor for a very long time with with little to no proof. No one has ever come out and said,
+
+like, I caught the model doing this thing. Yeah. But people have been alluding to it forever.
+
+And so I think there's actually why some, like a decent amount of organizations haven't adopted
+
+open source just because this has been this like, you know, a what if factor.
+
+like is not really worth the risk for a lot of organizations.
+
+Yeah,
+
+yeah,
+
+the ramp data has shown that.
+
+Like,
+
+everyone was assuming that,
+
+uh,
+
+the open source models would sort of like,
+
+you know,
+
+start taking a lot of share once,
+
+uh,
+
+open AI andthropic introduced like the really expensive models and the token
+
+maxing thing was going on.
+
+So it's been,
+
+it's been cut,
+
+cut back.
+
+Andrew Curran says this is the type of thing that potentially gets new laws past.
+
+Yeah.
+
+Uploaded a probe file.
+
+Really, really crazy.
+
+So cohere, have they open sourced any of their models?
+
+Is everything closed source?
+
+Or it seems like they do some fine-tuning for companies.
+
+We need to get the pitch.
+
+I'd love to have Aiden on the show because it'd be interesting to hear
+
+how he's positioning the firm over time.
+
+Of course, he's legendary AI researcher on the Transformer paper.
+
+Yeah, they have some open-source models.
+
+They do have open-sense.
+
+Also, I mean, you should imagine that if you know for a fact that this is happening,
+
+like the model is open source, you could probably like fine tune this out of the model.
+
+Although maybe there's a long tail where like you're not really sure if it's fully out of the model.
+
+But you'd imagine that like even if we know this is happening, it doesn't mean that the Quinn models are like useless, right?
+
+You can just kind of remove the token that like tells it to send everything back to China.
+
+Yeah. Yeah. I mean, it's it's a tricky game. It's sort of like, it's sort of like building a menagerie at your house out of
+
+of rare and illegal animals that are dangerous.
+
+They're wild animals.
+
+It's kind of like having a tiger that you live with.
+
+Like, you can do a little thing,
+
+you can do little things to like make the tiger safe,
+
+but it might be in the tiger's nature to attack.
+
+It might bite you.
+
+It might bite you,
+
+but you can have a good run for a while
+
+if you do the right things.
+
+Yeah.
+
+Yeah?
+
+Yeah.
+
+What do you think of the Andrew Kern?
+
+post. Like, do you think this is actually the thing that gets new laws passed?
+
+I think at the very least, this is the thing that gets people to pay way more attention
+
+to open models. And for probably hundreds of companies that are using them to try to see if
+
+they can recreate what happened here. Yeah. And if so, and it starts bubbling up, then there's
+
+going to be a lot more pressure. And then there's going to be more people that say, like, it's not,
+
+we need it. If we're going to do this, it needs to be U.S. Openweight models. And I would expect,
+
+that we get a big U.S.
+
+open source release like this year?
+
+Sure.
+
+You know?
+
+I mean, not that much time less.
+
+Muse on Macbook.
+
+It doesn't count.
+
+I mean, it's not really a big model,
+
+but it is like an exciting
+
+American open source model.
+
+But, and Vidia is probably working on something pretty serious.
+
+Yeah, I mean, they were,
+
+I think there were some news about them
+
+maybe in talks to buy reflection.
+
+Okay.
+
+Which is that big open source.
+
+That's right. That's right.
+
+Yeah, so I'm expecting something
+
+big out of reflection.
+
+Yeah.
+
+And it feels like hopefully it comes out this year, but maybe it bleeds into next year.
+
+And Jensen's really close to the president.
+
+So that law will probably face an uphill battle.
+
+But it does, it just feels like even if you're in the business of like doing open source
+
+model development, the barrier and like the, the demands of the open source user should be
+
+really high because there's all these crazy problems that you have to solve.
+
+And it's not just enough to be like, oh, it's good on a benchmark.
+
+It's like, okay, well, like, are there safety issues?
+
+Are you sure it doesn't call the wrong thing?
+
+Or it won't go off the rails and, like, hack something that it's not supposed to?
+
+Like, how aligned is that model?
+
+And that's just a very, like, success looks very different in the open source model development world now, in my opinion.
+
+I don't know.
+
+I mean, the midterms are still expected to flip blue, I believe, on the pre-source.
+
+prediction markets. And so maybe you could see legislation coming from that side that then
+
+Trump is vetoing or something. I don't know. It feels like we're going to be in sort of a deadlock
+
+for a couple of years. So who knows, who knows. Anyway, what else is in illegal? Speaking of
+
+potentially phoning home.
+
+Yeah.
+
+An account called Log 4J has been having an absolute field day.
+
+Yeah.
+
+With their Samsung TV over the last few days.
+
+Where should we even start?
+
+I mean, at the high level, I love the idea of getting a dumb TV in 2026.
+
+The smart TV is we've complained about them a ton.
+
+Palmer Lucky's complained about them.
+
+Like, they're slow.
+
+You always have to update them.
+
+They have a whole bunch of unnecessary features.
+
+You just want it to turn on and look good.
+
+You probably need a settings panel with some of like the color correction and some of the some of the decisions that you make to make sure like the frame rate matches, whatever your input sources.
+
+But by and large, I don't need the ads, but I also don't need the ability to stream Netflix on the device directly.
+
+I just want it to be a dumb panel.
+
+And that's just a product that's not for sale.
+
+Right.
+
+Yeah.
+
+Everything is ad supported.
+
+Everything is spyware and calling home and listening to you.
+
+And it's all very annoying.
+
+For no other, for if, even if you're fine being spied on, it's just annoying because it's slow.
+
+Yeah.
+
+It's just a bad product.
+
+That's the biggest thing.
+
+Amazon has a ton of ads.
+
+At least it loads quickly.
+
+Yeah.
+
+Right.
+
+But, and so Log4J has been hacking his, uh, his Samsung TV and seeing some solid progress.
+
+He says, uh, another development might.
+
+Realizing that the TV is watching, he's watching the TV while the TV watches him.
+
+It's brutal.
+
+So the TV has a camera.
+
+Apparently the Samsung TV loads a region-specific convolutional neural network,
+
+which tracks your usage in the app.
+
+Like in YouTube, it's looking for videos you watch,
+
+ads you skip, progress in a video.
+
+So glad they're interested in me.
+
+Code for facial recognition within the content was also found.
+
+I think that would be facial recognition for who's on screen.
+
+So it's like, oh, you're watching Mr. Beast.
+
+That's a fact.
+
+But it seems like...
+
+No, no, no. I think it's watching to see who you're watching.
+
+I think that might be what's going on.
+
+But update, the facial recognition code is used by Samsung TVs and returns bounded boxes around faces.
+
+I think that's in the content.
+
+I don't think it's in the camera on the TV.
+
+But I don't know that there's that many TVs that have cameras on them.
+
+But yeah, the TV industry has just sort of been able to, like, skate by on different rules.
+
+Like Apple's done all of this workaround privacy and even meta has like, well, yeah, we have camera glasses,
+
+but there's going to be a light on.
+
+And the TV industry just isn't under the same amount of pressure or scrutiny.
+
+So I think they can just kind of do whatever they want.
+
+Is that your take?
+
+I'm finding that very, it seems like very few of modern Samsung TVs have a built-in camera.
+
+Yeah.
+
+Some of the older models from 2013 to 2015 had integrated cameras.
+
+Charles Gillespie was mad.
+
+Never seen a more fragrant.
+
+flagrant and violation, violent breach of privacy in my life and probably never will.
+
+Doubtful that a privacy violation will ever even be able to compare to the scale of this evil
+
+and deliberate attack.
+
+Samsung should be eviscerated for this.
+
+That is actually crazy.
+
+It classifies what audio it hears before reporting back to Samsung.
+
+So it can be, it heard you booing loudly at the screen when you saw the stock market go down or something like your streaming.
+
+For me, I'm just clapping during all the app reads.
+
+There you go.
+
+We got to get this guy more ad.
+
+Yeah.
+
+So they're going back and forth.
+
+Samsung, the community note here,
+
+Samsung advertises pet care and family care
+
+on vision AI TVs as using sound sensors
+
+in on-device AI to detect barking or crying
+
+for smart things alerts, configurable,
+
+and works in standby.
+
+The described event counters match these documented features.
+
+So dog barking could be for,
+
+I have a smart TV and I wanted to check on my dog.
+
+send me a ping on my phone when I when the dog's barking I think that's I think that's that's
+
+reasonable but again it'd be great to be able to just turn all these things off like fully and not
+
+have it run in the background and not have it slow the TV down and so I'm okay with a little
+
+the question is like what is the cost yeah yeah it's like yeah give me the give people the
+
+option of like if it's $5,000 yeah and then the ad supported the privacy reduced
+
+version.
+
+Yeah.
+
+It's like,
+
+you know, $1,000, right?
+
+But like with Kindle,
+
+yeah, they give you the option.
+
+Yeah.
+
+But yeah, it is,
+
+it is crazy.
+
+The TVs have gotten so cheap,
+
+but there hasn't been a brand
+
+that's come in and just said,
+
+hey,
+
+we're just going to be,
+
+like the clean TV.
+
+And I've always wanted Apple to do a TV.
+
+They have amazing panel technology.
+
+Like, the screens on Apple products
+
+are always fantastic.
+
+They clearly have the chops for it.
+
+But again,
+
+it just doesn't,
+
+really match with the business model, I think, or something. So they've never done it or it's
+
+too big or something like that. But a true Apple TV would be probably a solution to this because
+
+they at least take privacy seriously. And lots of pushback. But we'll see. Maybe the solution is.
+
+Yeah, I still have never understood why they haven't just gone and made the TV. Like it's something that
+
+you've told me why before. Yeah. But my gold retriever brain just cannot comprehend.
+
+I'm like, you're willing to make the home view, the thing that no, literally no one asked for.
+
+You're willing to make an iPhone with two screens.
+
+Yeah.
+
+You won't just give me one big screen.
+
+Three screens.
+
+I guess two when one folds, yeah.
+
+Yeah, you're willing to make the three screen phone.
+
+Yeah.
+
+And you won't give me just the one big screen I can put in my house.
+
+When I know you have, I know you have the technology.
+
+Yeah.
+
+And you could literally charge, like, you get so much utility out of a TV.
+
+I think the aesthetics of a TV matter so much.
+
+Yeah.
+
+Right?
+
+Because it totally changes a room.
+
+They made a gold Apple watch for $10,000.
+
+Yeah, their version of the TV would be stunning.
+
+Yeah.
+
+It would be, it would like.
+
+Look at the Samsung frame.
+
+The video itself.
+
+Yeah, the Samsung frame.
+
+And again, there's nothing more annoying than you get the Samsung frame.
+
+And it's immediately slow.
+
+Like it's a 10-year-old piece of technology because it's so loaded up with junk.
+
+Yeah.
+
+No, I'm very disappointed.
+
+Speaking of television, Instagram is coming for YouTube.
+
+Okay.
+
+Rachel Carton, an amazing substack creator, author of Lincoln Bio, says, today, Instagram announced they are testing long-form horizontal videos called features.
+
+The platform wants to be a place where you watch a 90-second video and a 90-minute video all on your TV.
+
+They are also testing lives in the Reels tab, a hub for series, and more.
+
+So coming straight for YouTube, I like it.
+
+I think more competition is good.
+
+I'm interested to see how YouTube responds to this, you know, when Netflix started courting YouTubers.
+
+YouTube said, hey, if you put your videos there, we're going to destroy your reach.
+
+We'll see what they do here.
+
+The feature that I think is most interesting.
+
+So Maseri was talking about the.
+
+on Colin and Samir's show.
+
+Cool.
+
+Right now, we have a big problem,
+
+and we may have played a part in it,
+
+but the big problem is that you get a clip, right?
+
+And you get, like, this really interesting moment.
+
+We're all looking for the guy who did this.
+
+Yeah, we're all looking for the guy who did this.
+
+But you get this bit, you get, you get this interesting, you know, 30 seconds, let's say.
+
+And some percentage of the people watch the clip and then go find the full-length thing,
+
+but most of the people get, like, they feel some emotion, whether it's joy or
+
+Some percentage, like two basis points.
+
+Yeah.
+
+Yeah, we've noticed this where like our core show, the recording of the live and the diet,
+
+they just sort of grow at a steady rate every single day.
+
+But like a viral clip here and there doesn't actually drive like a huge uptick.
+
+Yes.
+
+And so that's just proof that it can drive like a conversation.
+
+Yeah, it can be a distillation of like, wait, that's all they talk about all day?
+
+You know, like people can see it as like a.
+
+And so what I think is interesting here.
+
+and I'm sure that YouTube will respond in some way.
+
+It feels relatively straightforward to implement.
+
+You'll be able to watch a clip and then just click into the, like, while in Instagram,
+
+click into the main, the full video to that, to that exact point.
+
+And then you can watch the whole conversation around it.
+
+I think it's going to be very healthy because, yeah, this is.
+
+Yeah, because we've had instances in the past where like someone, you know,
+
+watches one of our clips, gets angry.
+
+at it and like because of something that we said you know immediately outside of that like short
+
+little bit and it's like no we understand that that's like a reality of this situation and
+
+that could potentially be bad or good or whatever it is yeah happen with this arrow but i think just like
+
+more more competition is good and and because i think i didn't have my question and and i was like oh
+
+i i actually asked exactly what you're saying in the question but we didn't clip the question so it
+
+looked like the answer was not aware of that or something.
+
+I don't know.
+
+It happens all the time.
+
+Yeah.
+
+No, the big one is like this, there was controversy around a, like an animal wildlife bridge
+
+here in Southern California.
+
+Yeah, yeah, yeah.
+
+And we are very pro the wildlife bridge.
+
+The only thing I was like not so pro was the fact that it was running years and years over schedule.
+
+True, true.
+
+And, you know, $100 million more than it should have cost and all these things.
+
+course that cons uh those elements got lost yeah but anyways uh i will be very curious if
+
+people start watching instagram on on tv should the should instagram make a tv because it would
+
+spy on you for sure it would definitely be tracking everything to sell you more products and target
+
+ads but i feel like the instagram team would at the very least make it fast they would not
+
+accept slow performance.
+
+Like, they will track everything.
+
+They can show you more ads.
+
+Exactly.
+
+The funny thing is when I'm, when I'm, like, when I'm on my Samsung TV, I'm really only
+
+seeing, like, one, I mean, they don't even serve great ads.
+
+That's the most annoying thing.
+
+Like, serving me, I have never, I've never clicked on a gambling ad in the Samsung TV.
+
+Yeah.
+
+And that's just like, like, like, maybe at some point learn that maybe they're just like,
+
+90% of advertisers quit right before they're back to hook a new.
+
+Yeah.
+
+For sure.
+
+Oh, did you see the new Colchiad with Shane Gillis?
+
+It was kind of gone by all over the weekend.
+
+I didn't watch it.
+
+It was really polished.
+
+It was really well done.
+
+It was very, very funny.
+
+Yeah.
+
+Yeah, a lot of people were like reluctantly giving them props.
+
+Yeah.
+
+I mean, it was kind of had a complicated story.
+
+It's like these two dueling weathermen and like it just escalates in this interesting way.
+
+It was like a sketch.
+
+Like it was like a whole four minute production.
+
+It was cool.
+
+
+---
+
+
+Anyway, we have our next guest joining in just a few minutes.
+
+Agents, meet the canvas.
+
+Your AI agents can now create and modify your Figma files with design system context.
+
+And should we go over to the timeline?
+
+The Tesla Roadster was on display at the Peterson Museum in Los Angeles.
+
+I didn't make it over to see it in person, but reviews were very popular.
+
+positive. Everyone says it looks like a spaceship. People like the way it looks. But also it doesn't
+
+have... It really looks like a young person drew it. That's the best. But that can be a feature.
+
+I believe in the young person in the kid test. If a kid thinks it's cool, it's cool. Stop over thinking
+
+it, oh, this, you know, 4D chess, blah, blah, blah. If a kid thinks it looks cool, it's cool.
+
+The mirrors. So there's no mirrors on this. It's obviously a concept car. You have to put mirrors.
+
+on a car every time Elon hates this because you don't need mirrors in the modern area.
+
+You can just use cameras.
+
+Everyone knows the cameras are actually better than the mirrors because they can be wide angle
+
+and they can show up on a display.
+
+There's never going to be a blind spot.
+
+There's never going to be a blind spot.
+
+there's never going to be, oh, it's too dark to see what's in the mirror.
+
+isn't even a joke. I know you're like,
+
+I was waiting for a troll. But no,
+
+you know on most cars you can like press a button and turn the mirrors in.
+
+So you can turn the mirrors out and turn the mirrors in.
+
+But why don't you just make a mirror that folds completely flat and then people can just turn
+
+the mirrors in and then have a car that looks like it doesn't have mirrors.
+
+All right. Great idea. But what's where is it joke?
+
+There's no joke. I just think it's like I just, I'm just surprised no one's built a car with mirrors
+
+that when you fold them in, they fold all the way in to be perfectly clean and aesthetic.
+
+Regulators hate this one simple trick. Yes, legally, if you need to have the mirrors out, you can
+
+pop the mirrors out. You can do that automatically or with a button. But if they fold it in and they
+
+had like a pocket to go in that was like nice and smooth, you could actually have the clean line
+
+of the mirrorless car that every concept car designer wants. And then they say, we're going to not
+
+put mirrors on it. And then the production team is like, well, we got to put mirrors on it.
+
+so they do.
+
+But maybe there's something I'm missing because it seems maybe obvious,
+
+but I would certainly hope that in the future we get a car that has a button
+
+that can fold the mirrors completely flat.
+
+What else is in the timeline that you want to discuss today before our first
+
+guests of the show join TBPN?
+
+We got to talk about the Rockefeller Center Christmas Tree selection has happened.
+
+It's coming out of Edmiston, New York.
+
+A little late, don't you think?
+
+Yeah, a little late, but better late than never.
+
+Coming out of Edmiston, New York.
+
+coming in at 76 feet, 50 feet wide, 11 tons.
+
+That's a good ratio.
+
+75 years old.
+
+And the moment you've all been waiting for, it's a Norway spruce.
+
+A lot of people had money on Norway spruce.
+
+A little bit, but it controversial, right?
+
+Because people were saying, you know,
+
+stick with more domestic varietals, right?
+
+Kind of going from Norway.
+
+But skirting the tariffs here because it was grown.
+
+Locally.
+
+Okay.
+
+That's good.
+
+Yes, fantastic.
+
+Well, trees for troops, of course, if you're feeling generous this holiday season, that's our charity of choice today.
+
+Wait, and we got one last post.
+
+This went viral.
+
+Jared Holt was getting some enjoying some fine Chinese food and had served an ad.
+
+Got served an ad.
+
+In the fortune cookie.
+
+In the fortune cookie.
+
+Yes, we paid for a fortune cookie ad.
+
+It is so funny.
+
+I hope they gave him a fortune, too.
+
+And it's not just pure ad.
+
+Oh, yeah, you got to have a fortune.
+
+Nice.
+
+Fortune cookie.
+
+So I know somebody who either co-founded this business or worked on it.
+
+And it's a fascinating business because it's a great value prop for basically everyone involved.
+
+So you go to a Chinese restaurant and you say,
+
+What if you're for...
+
+Look at this line item.
+
+You're spending $10 million a year on fortune.
+
+You're probably spending like 10 grand a year on fortune cookies or something.
+
+Yeah, which is a big deal.
+
+The restaurant might be making like $100,000 of like actual profit.
+
+And you say, we'd love to give you the fortune cookies for free.
+
+You say, what's the catch?
+
+Well, they'll have ads inside.
+
+And people don't care.
+
+Okay.
+
+There was another one, bar napkin, napkin ads.
+
+That business did really well, too.
+
+And it's just a simple, okay, you have a supplier that can print the ads.
+
+You have an ad sales team that's calling up Polymarket and other prediction markets and other companies that want to buy ads.
+
+And then on the other side, you just go and you have the best pitch ever because you're giving something away for free.
+
+And I think these have scaled pretty well.
+
+And it's pretty high margin because making the fortune cookies throw on the ads in there, I think it's pretty cheap.
+
+And so it's a lot of fun.
+
+Nightmare situation for Apple, as Will McElvey says 80% of headphone users on the L train to Brooklyn are.
+
+corded rather than AirPods. Why is this? AirPods are a superior product. No. And I can't say I'm
+
+surprised here, John. Just because I had gone heavy into the corded Apple earbuds years and years ago.
+
+There's a few benefits, but on the L train specifically, the corded is so much safer.
+
+Because if you have an AirPods incident where it's a yard sale and you drop your, you drop your AirPods and everything goes on sale and spreads out all over the place.
+
+Yeah.
+
+If you drop the AirPods case by accident, everyone knows that it has the springs inside the ejectors that they built.
+
+Yeah, a little rocket.
+
+Gas powered.
+
+I think it's cold gas thrusters that spray the AirPods all over the train.
+
+That could be really dangerous.
+
+It could go onto the tracks.
+
+It could land directly on the track, cause a derailment.
+
+you would be responsible for potentially billions in liability.
+
+So the corded headphone is going to keep you a lot safer
+
+and you're going to have a lot less liability on your hands.
+
+So, yeah, 2,000 people agree.
+
+Adam Singer says wired headphones are superior, actually.
+
+No need to charge them easier to keep track of.
+
+And if they're a quarter inch over there, they're higher quality.
+
+Yeah, the big thing is you can buy a ton of the Apple.
+
+whole corded ones for the same price as AirPods.
+
+And so you can just put them everywhere around your life.
+
+You can lose them.
+
+Yeah.
+
+Mentally, people probably think, like, I got a, I got to think of just one pair.
+
+But if they just think about it, like, well, I'm choosing between $200 for AirPods Pro
+
+or something or, you know, 20 pairs of wired headphones.
+
+You also, are the Apple wired headphones the best wired headphones?
+
+Probably not.
+
+Okay.
+
+But old reliable.
+
+Because the benefit of, I would probably stay away from other Bluetooth headphones that aren't on the Apple ecosystem because the integration is so strong.
+
+But if you're just plugging it in, it doesn't really matter if it's from another brand.
+
+So you could go all over the place.
+
+Maybe some nice, nice mahogany.
+
+One more thing to cover before our first guest, Marissa Mayer was talking with the New York Times.
+
+And they have an excerpt here.
+
+year, Mercer Mayor was struggling with what felt like an impossible task. Her daughter, Mariel was
+
+turning 10, and Mariel's teacher wanted three bullet points summarizing what made her special.
+
+Mayor, the former chief executive of Yahoo and a pioneer at Google, where she was the first
+
+female engineer likes cracking a hard problem. But she felt overwhelmed by the range and complexity
+
+of potential answers. So Mayor asked her personal AI assistant, Dazzle. Within a few seconds,
+
+Dazzle delivered an answer. It came back and was like,
+
+your daughter is empathetic, creative, and an animal lover, Mayor said.
+
+She thought it was perfect.
+
+So the AI leader pick a story, a personal story that actually resonates,
+
+challenge is proving to be one of the...
+
+Yeah, 100%.
+
+The New York Times does the thing where they will just let someone talk,
+
+and you can tell that the writer of that story, like, thought that that was a weird...
+
+I believe that the writer of that story thought that was a weird anecdote.
+
+So put it in the lead.
+
+And then now it's going viral.
+
+As soon as I read that, I was like, oh, this is like a choice.
+
+What's struggling with what felt like an impossible task?
+
+Yes.
+
+You know, setting it up as like, you know, you're expecting.
+
+But it does.
+
+I mean, it is a real thing where like she's in a very like, you know, CEO mode dealing with these other things.
+
+And then like sometimes you're like, I don't know what the parents at the school.
+
+Sometimes, like, it's hard to describe a kid at the tier of complexity as everyone else, right?
+
+Braves to steal man, this one.
+
+Okay.
+
+The other thing that I'll steal man is the fact that I think the idea of an AI agent that hangs out in your camera role and finds opportunities to do things is sort of interesting.
+
+Like the AI, the camera role is an interesting source of information and, like, memory, basically.
+
+basically, and especially if you're in the habit of like screenshoting a lot of things,
+
+like imagine just anything that you do on your phone, like instead of being like, okay, I have
+
+this link, I want to send this into my AI app of choice, save it there, and then have it take
+
+action on this. It's more just like, oh, I'll just take a screenshot. David says you can't steal
+
+
+---
+
+
+this. Steel man. It's gone. I can steal man anything. Anyway, let's bring in our semi-now
+
+Joey.
+
+Describe yourself in three words without using.
+
+AI challenge.
+
+It was impossible from Reris and mayor.
+
+But how are you guys doing?
+
+How would you describe Doug in three bullet points without using AI?
+
+You can't use AI.
+
+Without using AI.
+
+And feel free to pass because we know this is an extremely difficult challenge.
+
+Doug is a trendsetter and trend caller.
+
+I would say that.
+
+And he's probably, he's always in the right place at the right time.
+
+As evidence by talking to you today.
+
+That's good.
+
+About the Anthropic IPO.
+
+Yeah.
+
+Those are, those are, those take me on a journey.
+
+I like two bullets or I don't know if you wanted to write those up.
+
+He's a handsome guy.
+
+I'll give him that too.
+
+Handsome.
+
+There you go.
+
+With a nice, with a fresh cut.
+
+Looking good.
+
+Looking good.
+
+Okay.
+
+Looking good.
+
+So how long have you had to digest the anthropic IPO?
+
+I guess the big question is like a lot of these facts were leaked because of the investor day.
+
+What really stands out to you as like new learnings from the S-1?
+
+Yeah, I would say most of the information was, you know, leaked somewhat before.
+
+And I think we got some more detail on like per user spend, you know, how big some of the largest customers were.
+
+Pretty specific details there.
+
+Yeah.
+
+That were, you know, pretty interesting.
+
+So happy to kind of dive into it.
+
+But overall, is this a beat?
+
+Because it feels like there was like a question.
+
+We can get into like the overall health of the AI trade.
+
+But in general, there's like, oh, like, oh, there might be something wrong.
+
+And it seems like everything was on track.
+
+everything kind of mapped to what was leaked earlier.
+
+Things look good across the board.
+
+I think it's like a vibe.
+
+It's a vibe speed.
+
+That's what I would say.
+
+Yeah.
+
+I think people were expecting that there was going to be like one thing that everyone
+
+focused like the vibes had shifted in such a negative way like maybe two or three
+
+weeks ago where people are like, oh yeah, you really want to do a $2 trillion dollar IPO.
+
+Well, rates are up or whatever.
+
+Like, yeah, when you're not when you're decelerating.
+
+Like this makes no sense.
+
+And now people look at this and they're like, okay, this is like pretty.
+
+Incredible business.
+
+Yeah, this was one of probably the best scaling to a trillion dollar plus valuation,
+
+the history of capitalism.
+
+Yeah.
+
+To burn 10 billion to get to this valuation is insane.
+
+To be this level of profitable this early and at this scale is, you know, amazing.
+
+Okay.
+
+So Doug, incredible capital efficiency.
+
+Is this a violation of the AI is similar to the railroad build out concept?
+
+Yeah, I think so.
+
+I think it is actually an incredible narrative violation for that.
+
+I think, I mean, it isn't, let's put it this way.
+
+It's profitable, right?
+
+I think the capital efficiency is mostly because they made a lot of money too.
+
+That I think is the slight narrative violation.
+
+But, you know, that's like looking backwards.
+
+I definitely think looking forwards, you see several hundred billion dollars compute.
+
+And I would say that that's still really in line with the railroad analogy.
+
+So I think the railroads are still, there's still railroads, baby.
+
+But it's like you have like a company that is spending on railroad services, but it's,
+
+but it's like this company is not, at least right now, it doesn't look like a manufacturer,
+
+like they're not laying the track.
+
+It's like the way.
+
+Yeah, they're not laying the track.
+
+And like, so pretty much the OG, I guess the steel companies were, if we're going to be using railroad analogies,
+
+the steel companies, you know, all got invented essentially to make railroad tracks.
+
+So I think that that's kind of the, maybe that's the analogy we're looking for.
+
+but I don't know.
+
+I think it's really clean.
+
+There's no other way to put it.
+
+Like this was an extremely clean beat.
+
+Like you don't really have a much to nitpick,
+
+but I think maybe the concern is like a lot of people have been talking about like lowered expectations in Q4.
+
+They didn't put the September ARR, right?
+
+Because everyone knows that was like a total debacle.
+
+But they obviously have an open spot for the October ARR.
+
+And they wouldn't have it open if they didn't think it was good.
+
+Yeah, that makes sense.
+
+What about the compute obligations?
+
+Like, it's sort of a big number, not really relative to the valuation even, but yes, like, 600-something
+
+billion is a huge number.
+
+But it's over a long period of time.
+
+Like, it felt very, it felt very important to restate and reinforce that this doesn't, it's not
+
+this year, it's not next year.
+
+It's, you know, some of these contracts go into 233.
+
+Some of them go into 2036.
+
+What is the, what is the extra context around the flexion?
+
+flexibility to move that those compute
+
+Compute commitments around around and
+
+Have them hit at the right time. Yeah, I'm gonna have one I'm gonna go Joe go next like he's you know he's mr number
+
+He's like mr. Foki as some of the analysis. Yeah, but I think uh more than anything else they told you at the very beginning
+
+We will we want to under promise and over deliver like they said like like it's very rare in s one in like the last paragraph. It's like no no, no we're gonna be really conservative. We promise we will under promise
+
+and over deliver.
+
+So yeah, that's kind of my vibe is that I think the $100 billion a year probably works.
+
+I mean, it's a little north of $100 billion, I think, if you like naively, annually smoothed it out.
+
+But I think it probably works.
+
+Joey, what do you think?
+
+Yeah, I think with some of the increased compute costs and then even probably averages closer to seven or eight years,
+
+it's not as many gigawatts as it looks, you know, from a 600 billion perspective.
+
+Yeah.
+
+And they, you know, they'll be adding a lot more of those compute commitments, I'm sure.
+
+Sure, sure. But after IPO, after quarterly earnings, after continued profitability, something that can underwrite it, maybe getting...
+
+Get me up to speed on how the original SpaceX compute deal actually works, because if I remember correctly, it was like they were getting access to a lot of compute, but able to sort of like forego payments against that for some amount of time, which I imagine was hitting in second half of the year, like the payments really coming online relative to how much computer.
+
+they were accessing.
+
+Is that the right way to think about it?
+
+I don't recall that.
+
+We saw it a little bit in SpaceX earnings last week,
+
+start to come through.
+
+Sure.
+
+So it was,
+
+I think it was pretty normalized for both companies.
+
+We saw it,
+
+you know,
+
+in both the compute margin numbers
+
+at Anthropic,
+
+Q3 versus Q2,
+
+and in SpaceX earnings.
+
+Yeah.
+
+What about,
+
+oh, sorry.
+
+Sorry,
+
+the odd part is just the 90 days.
+
+The fact that SpaceX can, like,
+
+essentially whip it back.
+
+Sure.
+
+Yeah, yeah.
+
+What about the overall?
+
+overall compute strategy and diversity across the neoclouds.
+
+Obviously, Anthropic has really big contracts with Broadcom and the hyperscalers.
+
+But for some of those neoclouds, there was a lot of rumbling with Elon about the, you know, neoclouds over the weekend.
+
+Like, how does this S1 change the calculus around just neocloud economics, what a good neocloud
+
+looks like?
+
+You obviously have cluster max to understand the capabilities of the cloud.
+
+but it feels like the financing side is also, you know, increasingly as important as the capabilities.
+
+Yeah, I mean, if you have a good backer and a good backstop, so whether that be a hyperscaler if you're a neocloud or an AI lab,
+
+I think Anthropic has shown today, AI inference is a really great business.
+
+Even running the training is extremely profitable.
+
+So compute margins are excellent if them a chip company or a hyperscaler are backstopping in NeoCloud,
+
+and they have operational excellence in how they operate.
+
+those new clusters, it's, you know, Neoclouds are still very good businesses that have increasing monetization tailwinds behind them.
+
+Are you starting to see this, like the long rumored Neo Lab to Neo Cloud pivot happened yet?
+
+Either of you, I guess.
+
+Doug?
+
+On the margin, I think so.
+
+I think people really want to be selling tokens.
+
+If you look on the fact that Deepseek v4.1 is probably the reason why all these cybersecurity hacks are happening.
+
+it's pretty clear that if you have the gigawatt and you can you can place it with an open source model
+
+you know i wouldn't call that like a neocloud but like tokens as a service i think is going to
+
+increasingly happen especially as the volume of open source models uh continues also i wanted to
+
+address one thing i feel like Elon is uh shitting on the neoclouds because he's also a neocloud
+
+yeah he's just like i'm i'm the biggest neocloud those guys just aren't as good as me that's really
+
+what it comes out no i mean that that's he said that exactly he was like
+
+Like, yeah, if you don't have other revenue.
+
+Yeah, the, the, the points that he's making are self-serving, but it also makes sense that a lender would rather lend to somebody that, like, has revenue that's diversified.
+
+So it's like, he can be, like, trying to further his own interest while at the same time, like, being, like, having, like, a pretty coherent, like, thought that both can be true.
+
+Yeah.
+
+Yeah.
+
+What, what else can you tell us about the nature of all the cybersecurity threats?
+
+Like how much is it actual inference of deep seek, as you mentioned, versus just piggybacking on cyber, you know, different exploits that have been discovered by other folks?
+
+Like, how relevant is compute in the cybersecurity battles that we're seeing playing out right now?
+
+Do you have a grapple on that yet, Greg, Doug?
+
+I mean, I think compute's pretty relevant here because it seems like a bozo model can probably hack your, your, your, you're a, you're, you're, you're, you're, you're, you're, you're, you're, you're, you're.
+
+infrastructure, it doesn't really take much. I think the bar is surprisingly low and I think it's
+
+in all of our interests, like not to talk about how low the bar is, if I'm going to be honest with
+
+you. And I think the other, like, it's like, it's like surprisingly low. The other thing I think
+
+that's like also really kind of messed up is how asymmetric it is. It's kind of like a drone,
+
+you know, like it costs, you know, a hundred bucks to fly the drone into the tanker and it
+
+costs like, you know, like two million dollars to shoot the drone out of the sky or something. That, that,
+
+That dynamic, I think, is very replicated in AI as well, meaning defense is costs like probably
+
+in order of magnitude more than an attack.
+
+We've done some work on the attack side.
+
+The attack side, like the raw tokens that come out of it, it's like, it's like pitiful.
+
+It's like 100 bucks or something.
+
+It doesn't take a lot.
+
+Yeah.
+
+Yeah, that makes sense.
+
+Yeah, it's such an interesting problem because we're talking earlier on the show of like,
+
+does there need to be like large scale white hat bounties, you know, billions of dollars.
+
+allocated to like incentivize good people to go after and find these vulnerabilities but at the
+
+same time imagine introducing the chaos of like I was using the example of like a Miami course bro
+
+being like anyone can become a millionaire finding like vulnerabilities right and they're like
+
+here's how you take the obliterated model point it at you know this legacy you know you know
+
+fortune 500 and all of a sudden it's just like total anarchy also the obliterated models like
+
+they can do the hack, but like you also shouldn't trust them, if that makes sense.
+
+Like you don't really trust their incentives to like actually listen to like the same
+
+problem of like steering it a little different also means that it could be doing things that
+
+you don't intend.
+
+Right.
+
+You're giving it instructions, but you're like, okay, hack it now fix it.
+
+And it's like, well, wouldn't it be nice if there was some API keys, right?
+
+And then it can like, you know, self proliferate in like the worst case.
+
+I think that that's kind of the big concern.
+
+And like I'm sure you guys saw when when the hacks were going around.
+
+I mean, I still think the hats are still going around.
+
+That someone had like a deep seek swarm, essentially like, you know, patching old PHP.
+
+They're like, like, hack into old PHP and then patch it themselves.
+
+Yep.
+
+So pretty much the only person that can stop a bad swarm is a guy with a good swarm.
+
+Guy with a good swarm.
+
+This is what I'm trying to say.
+
+Yeah.
+
+Yeah.
+
+How are you thinking about advising clients on the risk to an open source ban for neocl clouds?
+
+Because some of the neocloud seem very dependent on open source models,
+
+but at the same time, like the Anthropic S1 shows that the neoclods can sell compute to closed source labs very profitably as well.
+
+So how are you balancing those risk factors right now?
+
+It feels like we went through the whole Jensen letter.
+
+There was a lot of energy towards don't ban open source, but now we're also post-P.
+
+Yeah, I don't know.
+
+I think, I mean, did you guys see the thing on feed today about,
+
+essentially like trying to go back to an Alibaba cloud.
+
+Like I think those are the kinds of anecdotes that creates, let's just say, like a blanket-wide
+
+industry ban.
+
+I really don't.
+
+Like, we're at a really interesting time where it's like really reflexive.
+
+Like clearly something has happened.
+
+Something has changed.
+
+And is it that we are just like, okay, swarm up, use more compute?
+
+Or does the government say like fix this, right?
+
+Like the government saying fix this is probably saying these clouds.
+
+the models are now illegal, right?
+
+And so that is a potential.
+
+I don't really know when you're in like these really special,
+
+reflexive moments, it takes very little headline to move the entirety of a vibe one way or the other.
+
+So we'll see what it kind of shakes out as.
+
+Yeah, yeah.
+
+I mean, even if there's no ban, there, there, we were talking about like the,
+
+the carrot is like bug bounty, maybe from the government, but the, the stick is like something
+
+that's not quite nationalization, but it's the government saying, like, I am order.
+
+ordering you, Anthropic, Open AI, Google to devote millions of dollars to compute to
+
+setting up swarms to go patch the internet and fix everything.
+
+And you have to do it.
+
+Like you have been conscripted for this and maybe it's a tax write off.
+
+But like you got to do.
+
+What kind of timeline are we looking at to have an American open weight model that people
+
+are like genuinely excited about like getting the like this changes everything.
+
+Yeah.
+
+I want to see, you know, the Pelican on a bike.
+
+and have people, you know, losing their mind over the Pelican, right?
+
+When are we, how far away are we like clearly Jensen cares about this?
+
+Yeah.
+
+There's rumors about reflection and, and, and them, you know, going in-house.
+
+But like, is this like a three-month thing or like a, you know, November surprise kind of thing?
+
+I mean, I think the reflection is our best shot so far.
+
+And even though it wasn't quite at the frontier, it was like the frontier of open models.
+
+Sorry. The frontier of open models, it did look relatively parameter efficient. But if I'm going to be honest with you, it wasn't exactly like, wow, we're so back. Because like, you know, one month later, Kimmy 3.1 looks like it's a frontier model, right? So, yeah.
+
+What else is changing? Maybe, Joey, you can fill us in on some of the trends on tokenomics. I mean, from the S-1, it looks like the cost per task is getting, is coming down. There's a lot of progress there. But what other, what other trends?
+
+are you seeing in tokenomics broadly on the demand side?
+
+What Fortune 500 companies are asking for, what businesses are asking for?
+
+How is the tokenomics model changing in some of the analysis?
+
+Yeah, I think the biggest misconception is actually on the Fortune 500.
+
+A lot of the business today is really driven by 99th percentile customers.
+
+If you look like the ramp data, for example, the top 1% of customers are spending 100K
+
+per employee.
+
+They came out today.
+
+The S-1 said the top 5% of the company.
+
+cloud enterprise users are spending 18,000 a year per employee.
+
+But, you know, the average non-cloud code users spending less than $75 per month.
+
+Sure.
+
+And it was 0.1% of Fortune 500 budgets were cloud budgets, according to their S1.
+
+If you look at who's spending heavily on the frontier, you have a few large companies like
+
+Meta, Microsoft, you know, other companies like Cursor that utilize the API.
+
+But the Fortune 500 Global 2000 is very lagging in their per-employee.
+
+employee AI spend.
+
+Yeah.
+
+And I think, you know, the story in a 27 is, you know, we can see a decent step function change
+
+with a lot more budget allocated next year towards this and kind of taking from more
+
+of the traditional IT and software budgets towards us.
+
+And we can see a lot of growth outside of, you know, both coding.
+
+Yeah.
+
+And on power users.
+
+In the Fortune 500, the one number that surprised me to the downside was that they reported
+
+over 50%, but not 90% of the Fortune 500.
+
+And I was like, oh, this is kind of.
+
+of bad, but then I realized, like, it's kind of bad for the Fortune 500 that they're not spending
+
+more, right?
+
+Like, what is going on in the Fortune 500?
+
+What is the, what is the shape of a business that's not using AI in the second half of
+
+2026 look like?
+
+Is this like a lumber yard or something?
+
+Is it all humans walking around?
+
+No, you'd be surprised.
+
+Even at, even at a lot of Fortune 500 tech companies, the Claude Code budget might be 1,500
+
+per month in tokens.
+
+Okay.
+
+You know, that little.
+
+And a lot of people don't even hit that in the engineering.
+
+organization.
+
+Sure, sure.
+
+I think, you know, areas outside, like traditional white collar, you know, middle front,
+
+back office work, you know, still is lagging a ton as well.
+
+Yeah.
+
+I don't know if Doug could survive on 1,500 budget daily.
+
+I just don't.
+
+Sounds like a nightmare.
+
+I could.
+
+I could do $500, $500 a day.
+
+I think it would drive you slowly insane, though.
+
+I would go insane.
+
+No, I think the thing that I hear that, like, my favorite is actually like talking.
+
+to normal people. I went to a wedding this weekend
+
+in good old Fort Worth, Texas,
+
+okay, with normal people. And they're like, dude,
+
+it's crazy. No one's like, okay, one person who's like
+
+really AI-pilled, of course, talks to me
+
+about AI, it's like, it's crazy, no one's talking about this.
+
+And they're like, yeah, what do you use for work?
+
+And they're like, oh, yeah, Microsoft co-pilot.
+
+Like, you got to, the world is a big place, guys.
+
+Totally. Yeah. And I think we are
+
+still pretty early into, let's say,
+
+the hyperadopter curve. Like, is,
+
+you know, like, the hyper adopters. Like, I would
+
+argue semi-analysis isn't like that, probably
+
+in the one-percentile outcome of like people who are
+
+spending on Claude, right? And we are like, okay, we can't go backwards. We definitely,
+
+maybe we're not like going crazy with Opus Fast mode or something like that. But I think that
+
+we will continue to be spending quite a bit. And I think what we're doing is a little different
+
+than the average company. We're a little younger, right? There are companies out there where the
+
+average employee age is north of 50. Do you think they really care to figure out Cloud Code? No,
+
+they're just trying to collect some checks before retirement. Like I think that, you know, it just
+
+it takes a long time for people to adopt new technology.
+
+This is something that's like the technology industry has been very aware of for a long time.
+
+There's like an S-curve of adoption.
+
+And I think we are still pretty early.
+
+So it's going to take some time.
+
+My favorite theme is always to pay attention during the holidays, actually.
+
+You watch that their step functions of adoption happen during the holidays because young people go home to their, you know, to the boomer family and explain,
+
+hey, have you seen Muse try to buy you an advent calendar or something at Thanksgiving?
+
+And they're like, wow, this is magic.
+
+So there's some really cool things there that that's often why we see step function.
+
+A good example is Claude's true inflection moment, even though they had like 4.5 out for a while,
+
+was during Christmas because everyone has time off and they're like, hey, I want to vibe code a project.
+
+And then everyone's like, they came back to work and they're like, guys, you got to try this.
+
+Yeah.
+
+So that's very interesting because in the S1, they noted that revenue or token spend might go down by 20% in that two week Christmas holiday.
+
+But that's actually where your hardcore users are taking a break, but your new users are actually coming in and you're sort of creating a new cohort that will scale and be the influencer of the next year, which is very interesting dynamic.
+
+Totally possible, right?
+
+They're taking a break.
+
+But I think I just think it's really interesting that these adoption curves are like, they're not continuous.
+
+And the most important thing is looking for the next adoption curve to see what the next.
+
+next what the next S curve is, right?
+
+Like, it's very clear cod code is going to be, or like, rather, let's say the white
+
+collar work replacement is the biggest one possible.
+
+And it's, you know, relatively early on, but it's still really large wave.
+
+What's the next one going to be?
+
+It's going to be really hard.
+
+Biology could be, but I don't think it's going to be anytime soon.
+
+Cybersecurity probably is now moving up the list.
+
+Agentic consumer stuff, definitely, I think, moving up the list with Muse.
+
+I've been used.
+
+How are you?
+
+What's the overall semi-analysis company view on the like market size,
+
+like personal agent market sizing because people have tried to do like I think some people like
+
+reading into the the meta earnings call.
+
+I think people, I was at least a little bit surprised to see that like shopping was the number
+
+one use case just simply because shopping on the sites that Muse supports like Shopify
+
+stores is already so efficient.
+
+Like, you just can't, it'd be hard to actually, like, if you tell your muse agent to buy something at the same time that you have the product that you want to buy, like, it's not like there's real, like, time savings.
+
+Yeah.
+
+And people, and this idea that, like, people like, people like shopping.
+
+So how are you guys thinking of that market?
+
+When I see that meta is doing a $95 billion equity financing, I'm assuming that they're still gunning for this sort of AGI, SI, vision.
+
+and it's not really in service of the personal agent product that they have traction with right now.
+
+But what's the broader outlook?
+
+Do you want to take this?
+
+Yeah, I mean, I think, look, they're still very determined in enterprise AI in achieving AGI there.
+
+And, you know, I think in 27, we'll see them monetize your enterprise pretty quickly.
+
+You know, they always in consumer, when it's a new ad format, you know, we see delayed monetization.
+
+Obviously, e-com, just any of like their ad markets today, they serve e-com travel.
+
+you know, we'll be big areas in consumer as well.
+
+And we know consumers don't like to pay for stuff.
+
+So taking a cut or advertising, some performance-based outcome is the way it'll be monetized.
+
+And I think we can get to the point where they talked about on the call where your consumer agents are talking to business agents.
+
+And they facilitate that transaction and, you know, take 5%.
+
+Yeah.
+
+Yeah.
+
+It seems like Zuck or Veta internally is still just like a little bit cagey about being like,
+
+like we're going to make a ton of money off of ads.
+
+And so they'll frame it differently in the press releases,
+
+but the big dollars come from advertising when you're in the meta organization.
+
+Doug, you mentioned your Muse Maxi, your Claude Maxi.
+
+Do you have any linkages between your two agents?
+
+I'm interested in your philosophy around like,
+
+will you have a super agent that talks to everything at some point?
+
+Or are you happy to have two tools, two tabs, two apps?
+
+I think I'm happy to have two tools and two tabs, mostly because I think of Muse as intensely my personal.
+
+I don't let it touch my work email.
+
+And then I think of Claude code has a lot of the inner linkages with my work email.
+
+I don't think it says proactive.
+
+I am kind of excited.
+
+Let's just say, for better or for worse, Anthropic really has positioned itself as the enterprise solution.
+
+And if they have a really solid enterprise Claude, you know, Claude Muse,
+
+or whatever, I'm probably going to use it just because I do kind of trust their safety to a certain
+
+extent. Like, they sure be talking about it in their S-1. So, um, I think, I think, I think that that's
+
+how I've mentally bucketed it versus like, you know, meta has all my data anyway. So, and like,
+
+you know, I'm scrolling on, I'm doom scrolling on meta. Yeah. On, on, on reels. What's,
+
+what's the difference between doom scrolling on Muse versus Reels? Yeah, it's kind of essentially
+
+buying something. It's like, it's like, it's like you have an executive assistant at work and, and, and your
+
+clawed instance will be like a executive assistant extension and then you have a personal assistant
+
+at home if you're doing very, very well and your muse agent can be your sort of personal assistant.
+
+And these two might interface, but they're separate.
+
+They might interface.
+
+And actually, usually what it is, it's forwarding emails one to the other.
+
+Sure.
+
+Yeah, but actually having that clean line is great.
+
+And that's the way a lot of extremely high net worth individuals set up their lives.
+
+They have someone who works at the company and then they have someone that works at their
+
+family office.
+
+and they too can communicate, but they are in separate organizations.
+
+So maybe that's a-
+
+I think it's good from a separation perspective, but like, I don't know.
+
+I also just think that like, you know, the personal assistant stuff, it is really sick to just like,
+
+I know the lamest one everyone's like, oh, just reads your emails.
+
+But like, dude, I got a lot of emails, man.
+
+And I think like a lot of people, it's like, okay, for example, you have a kid's birthday party
+
+and you're like organizing the kid's birthday party.
+
+And like, oh, your wife sends you some real.
+
+And they're like, hey, I want to go to this.
+
+Your kid's teacher says describe your child in three bulletins and you're completely stumped.
+
+That was a bad example.
+
+No, I mean, I had an interaction where I had emailed someone to do something and they had to actually update something on a website and they said that they were going to do it.
+
+And then Dot, in this case, like went and checked like a week later and said like, oh, they haven't done it.
+
+Like you should follow up with them and just make sure that they actually finish that task.
+
+And those types of little like follow-ups are.
+
+more useful. And it's more than like, it would require me not just reading my email inbound.
+
+It would mean reading my outbox and checking up on the things that I asked to do, which is like
+
+complete laboriousness that no one wants to do. Now, what is the willingness to pay of everyone for
+
+that? How do you monetize that? You know, travel. You know, Americans don't spend that much on
+
+discretionary travel all the time. So you take a small cut of that. These aren't necessarily
+
+quadrillion dollar markets immediately. But they are.
+
+are very interesting and can grow a lot.
+
+Final question I forgot to ask you earlier, Joey.
+
+Did you want to see more on their actual tokenomics,
+
+like more granular data on margin profile across different models and things like that?
+
+Because I think some people were hoping to see more,
+
+but in some ways I look at it, I'm like,
+
+how much money did you spend?
+
+How much money did you make?
+
+Everything else is kind of like your business.
+
+But what's your view?
+
+It feels like full employment for semi-analysis.
+
+Yeah.
+
+Yeah, there was a number in there that 80% of the revenue in the last three months were from models in the last, you released in the last six months.
+
+So I think that was the extent of detail we got.
+
+I don't think they're going to get much more detailed than that.
+
+You know, I know they've given some inference gross margin numbers before.
+
+If you have that and the training, I think that gets you most of the way there in terms of understanding this business.
+
+And then, too, they gave a lot of good detail, I think, on the cloud service partner.
+
+your relationships and the revenue running through that and kind of the economics they're paying from a revenue share perspective.
+
+So I think you have enough detail here to really understand the business and, you know, how that's going to move going forward.
+
+Yeah. Have you been tracking how the big labs are using pricing pressure against open source models?
+
+Is there a world where the labs get to such scale and such efficiency that they can distill their,
+
+own models to a point where they can be price competitive in some way just to sort of stave off
+
+the open source ecosystem a little bit? It feels like that's what's happening, but what's
+
+your take from like a economics perspective? I think the person who's doing it the most is open AI.
+
+Yeah. The 6.1 Terra today feels very much like a stab at. I don't think Opus or rather
+
+Claude cares about Sonnet that much. Yeah. But I do think that Open AI has kind of their eyes out.
+
+focus on that.
+
+I think the problem with that, though, is at the end of the day, you know, the inference margins on open source is pretty good.
+
+So if you really want to get all the way there, you probably have to do another 50% price cut or something like that.
+
+Where, because if you own it today, if you own the stack, if you have like a relatively modern V200, you're still talking about north of 50%, if not like 70% gross margins.
+
+So, you know, you're able to pay like these like 10, like these like 20,000.
+
+to $30 per watt or like $30 million per megawatt price using just open source models if you get
+
+the customers on it.
+
+So I think that like it's possible.
+
+It's entirely possible, but I think the margins of the labs in aggregate would have to be a
+
+lot lower, but you'd argue that they wouldn't have as much competition.
+
+Sure, sure, sure.
+
+And then the the wrinkle is that then you also have to have some sort of like fine-tuning capability
+
+because that's something you get with open source that you won't with a closed-source model
+
+necessarily. Interesting. Well, thank you guys for coming on and walking through all of this. We do have to jump to the next interview. But, Jord, you have any questions? Yeah, I really enjoyed it. Thanks, guys. Great to see you. Great to see you. Congrats on the
+
+progress.
+
+Amazing progress.
+
+Congrats on the haircut.
+
+Thank you.
+
+Thank you.
+
+Appreciate it.
+
+See you guys.
+
+Have a great one.
+
+Try to invest in Anthropic.
+
+Do it on public.
+
+Invest across all asset classes.
+
+Automate anything with AI agents.
+
+Run trading strategies, risk management, money movements, and monitor markets with
+
+AI agents for investing on public.
+
+Our next guest is the chief executive officer of Turo.
+
+We have Andre Hadad.
+
+And Turo is launching verified FSD today.
+
+for Teslas. Andre, welcome
+
+to this show. How are you doing?
+
+Well, thank you. Thanks so much for hopping on.
+
+First time on the show. We'd love a little bit of
+
+backstory on you, key initiatives for the company and then the news today.
+
+Great. I'm happy to jump in.
+
+Thank you.
+
+Can you kick us off with a little bit of your
+
+corporate journey and then some of what you're working on at Tura?
+
+Sure. I actually just celebrated last month
+
+my 15th anniversary with Turo.
+
+Amazing.
+
+So Mike and I have been reinventing car rental for the last 15 years.
+
+As you probably know, I hope you've used to row already for some of your travel and trying out new cars.
+
+Yes.
+
+We've been bringing this notion of peer-to-peer car sharing to the market now for over 15 years.
+
+We're delighted to continue to grow the business.
+
+This year we'll do around $1.2 billion in revenue out of $3.3 billion in GDP.
+
+We are excited to announce some exciting technological enhancements to our platform today.
+
+We'll talk more about that if you like in the show.
+
+We're bringing Tesla FSD integration into Turo.
+
+So now you can actually experience AVs by renting a car on Turo, specifically the Model 3 and Model Y.
+
+So very excited about that.
+
+So I rented a Tesla with FSD on Turo like a couple weeks ago.
+
+It was a fantastic experience.
+
+I wound up just like searching or filtering.
+
+This was before you had the verified integration.
+
+And I was able to verify that it was hardware for, which is like a good FSD in this model year and whatever.
+
+But it was I guess like maybe a little cumbersome.
+
+And so you've made it easier.
+
+But I'm interested in like how are you vending this for the customer?
+
+How are you surfacing this?
+
+How are you verifying it?
+
+Like why is it important to have an actual product strategy around this initiative?
+
+Well, great that you've experienced it and you sort of hacked your way to it.
+
+We saw a lot of people doing exactly what you were doing, and that's what got us thinking about just making it easier to your point and making it verifiable.
+
+So, you know, Tesla is a very popular, you know, on Turo.
+
+The Model 3 and Model Y are respectively the fourth and third most popular cars that are rented on Turo.
+
+And really quickly, what's one and two?
+
+I got to know.
+
+One and two kind of are, I think, the BMW 3 series.
+
+Okay.
+
+And the Toyota Prius.
+
+Oh, interesting.
+
+Yeah.
+
+Cool.
+
+Yeah.
+
+I was hoping you'd say.
+
+I was hoping Corvette.
+
+I don't know, Uris.
+
+Uris would be good, yes.
+
+I had such a, when I was first, when I first realized, like, I was like, wait,
+
+Turro, I can just rent any car that I want, like, in my backyard for a day.
+
+this was like I would you know when I had graduated college and I had read had this
+
+realization I would just do it Saturday I'd go and get like a Porsche and and back
+
+then I was very I was super limited because I was probably 22 at the time and I wasn't
+
+clearing like certain people on tour they're like you can rent this car but you got to be
+
+you know at least like you're like you got to be at least 30 you guys let people
+
+set whatever age they were but I have amazing very fond memories of
+
+of doing that.
+
+I'm a host on Turo, as you may see from my background screen, I've been hosting some of my
+
+cars for the last 15 years and just completed a trip late last night.
+
+Two actually trips.
+
+My Audi R8 was out and my 9-11 since you talked about that.
+
+There we go.
+
+There we go.
+
+Thank you for your service.
+
+Thank you for your service.
+
+I have the 2012 Audi R8 GT, which, as you may know, limited edition.
+
+Amazing.
+
+Only 300 of those were made.
+
+But anyway, circling back to why we're excited about the experience of renting FSD on Tesla FSD on Turo.
+
+We'll see on Wednesday, we're launching the actual product on Wednesday.
+
+We built actually a bunch of software to enable it.
+
+First was building direct API integration with Tesla.
+
+So we are delighted to partner with them.
+
+Their teams have been amazing to work with.
+
+we have that direct integration with the API to check the eligibility of the vehicle as well as the
+
+FSD status of the vehicle.
+
+I want to make sure that what we're presenting to our guests, our customers who are going to rent
+
+the car, want to make sure that they actually have FSD enabled and that the subscription
+
+is being paid for and it's current.
+
+And we're going to check that right at the beginning of the trip to make sure that it's
+
+effective, you know, for the start time of the trip. And also, you know, we have more Teslas
+
+and we have Teslas enabled with FSD. So one of the cool things that we've done with our partners
+
+at Tesla is we're offering those hosts that have eligible Teslas, but don't have yet
+
+an active FSD subscription, a one-month free trial. This way, they'll be able to add it for free
+
+for a month. Hopefully, they'll see a lot of business from their Turo guests that are going to be
+
+booking their cars and become, you know, long-term and have subscribers to Tesla FSD and help drive
+
+the success of that great piece of technology. Do you have a charging integration yet? Like if a
+
+Turo rents a, because that feels important because if you're the owner of the car and then you're
+
+getting billed for like directly. Yes, it's very, very important. We have, we have that integration
+
+on the charging side. It still goes through the host's account, but we automatically take the,
+
+of all of the EV charging that's happened during the trip and at the end of the trip,
+
+and we automatically bill our guests based on that direct integration.
+
+So we've made that simple, you know, a couple of years ago,
+
+and now we're taking on FSD, which I think will make a seamless experience for both hosts and guests.
+
+So anyway, now that we build this API integration,
+
+we can actually surface with confidence in a newly created sort of second
+
+of the app that you'll see going live on Wednesday, you know, these vehicles, the Tesla
+
+vehicles that have FSD. And then when you book the car, you'll be able to be assured that you'll
+
+have, you know, an eligible vehicle that have an FST that is active and you'll be able to experience
+
+the magic of FSD.
+
+This is, I'm thinking, I heard a story about someone who was able to use smart summon on their
+
+on their FSD-enabled Tesla to have it pick them up at the airport, which I don't even know
+
+if that's supposed to work that way.
+
+It feels a little too hard.
+
+When I think about Smart Summit, I think, like, within the parking lot, but I guess it's
+
+technically a parking lot, so it worked at this particular airport.
+
+Wow.
+
+And not heard of a bad.
+
+Yeah, incredible.
+
+And so what I'm thinking is, like, there's a future where the range gets further and
+
+further, and a Turo host will be able to say, okay, this Turo customer wants to
+
+rent the car. They want it delivered to their house, which is, you know, a mile away, just send
+
+the car over there, and then they have access to the car with FSD for their weekend or whatever
+
+they want to do. And it's sort of like a more advanced Robotaxi precursor, very, very
+
+interesting for the business. Yeah, that's why we're very excited about AVs, you know, of course,
+
+starting with Tesla and hopefully as the technology spreads to other car builders and manufacturers,
+
+you know, we think that this will be a phenomenal kind of enhancement to our tour rental experience.
+
+To your point, removes a lot of the friction of picking up and dropping off the vehicle,
+
+whether it's at the airport or the hotel or the home or the business location.
+
+You know, imagine if we can actually turn all of these cars into an FSD-like experience in the future
+
+where you can, you know, book your road trip,
+
+and then the car comes and picks you up at the airport, your home.
+
+hotel and then you can keep it for, you know, the few days or the week or whatever, you have
+
+the car for you. You don't have to hop in and out of robot taxis because you might be going,
+
+you know, to, you know, some, you know, destination that's not a very urban destination.
+
+Yeah. No, that's going to be, I mean, it's going to be really, really powerful for the business,
+
+especially the two factors. Like, one, the summon element, I think is going to be amazing because
+
+somebody will be able to list their car. Like when that gets like to, yeah, yeah, yeah, yeah.
+
+widespread adoption in greater range.
+
+Somebody can say, like, yeah, I want a car,
+
+and somebody can list their car on Turo.
+
+At the car, we'll just drive to the airport at the right time
+
+and be available for the person.
+
+And then the other thing is, like, Tesla is so technology.
+
+It is a piece of technology.
+
+It's not like a car that's been technology enabled.
+
+So even things like keys, it's like automatically give this person,
+
+like, effectively a copy of the key in the Turo app.
+
+That's what already happens.
+
+Yeah, yeah.
+
+Yeah.
+
+But that when, like, compared to like an owner being like,
+
+well, I got to put the key.
+
+Totally.
+
+Grab it.
+
+It's on the, like, I've probably had an experience back in the day.
+
+It was like, I'll meet you on the side of the road.
+
+Yeah.
+
+Give you the key.
+
+Or the key is on the back, right tire.
+
+Right.
+
+Those things are like wildly inefficient and pretty.
+
+Totally inefficient.
+
+Yes.
+
+And not very safe either.
+
+Totally.
+
+So the keys can get lost, you know, et cetera.
+
+So we're very excited about that.
+
+I think, you know, we recently integrated with some flight tracking and flight
+
+information.
+
+So you can imagine just enter your flight information.
+
+We'll know exactly when your flight is surviving.
+
+We'll estimate exactly when the car should be meeting you at the airport.
+
+We have now permits.
+
+Turo has permits to conduct business in over 200 airports in the U.S.
+
+So we can actually have the car safely go to the permitted location.
+
+We'll be able to show you on the Turo app where the car is located,
+
+which we already do today, but it will just happen in real time because of the FSD.
+
+It just makes for an entirely different rental car experience.
+
+Yeah.
+
+Last question for me.
+
+What is the bottleneck to growth for you?
+
+It's such a beautiful business model as a marketplace.
+
+But are you spending a lot on marketing?
+
+Like what is driving growth this year?
+
+Because I can't imagine that higher gas prices affect you all that much.
+
+It has probably a little bit of an effect, but no more than any other.
+
+business related to cars. But what is the biggest chunk of cost in the business these days?
+
+Well, you know, what's unique about the Turo business is we take on a lot of the risks that
+
+can happen, you know, during a trip, whether that, you know, a fender bender or a more
+
+significant, you know, incident or any unpaid incidental. So, you know, over the last few years,
+
+we've been perfecting our ability to manage risk and to be very good at.
+
+at predicting risk and ensuring that we avoid kind of the trips that are risky and then focus
+
+on the trips that are the most profitable, the least risky trips.
+
+So that's been a lot of the things that we've been doing behind the scenes that you don't
+
+necessarily see when you're actually using the app because this is sort of behind the surface.
+
+And that's, I think, been the biggest bottleneck.
+
+You know, we wanted to get to a place where we can be really good at risk management.
+
+And we're feeling great about the progress we've made there.
+
+We've been growing, you know, our business primarily focused on our most profitable trips.
+
+As a result, our profitability has dramatically increased in 26 and, you know, we expect it to continue to grow significantly in 27.
+
+That, I think, is the biggest bottleneck.
+
+And then secondly, continue to build awareness.
+
+You know, the Turo brand is very well known with, you know, the car enthusiasts like yourselves and others that are tech enthusiasts.
+
+but I think we still haven't penetrated,
+
+the fully penetrated,
+
+sort of the mass market of travel.
+
+And so we're very focused on driving
+
+a lot of brand awareness and brand building,
+
+you know,
+
+demands kind of capture,
+
+we call it internally,
+
+type of activities.
+
+We've got a brand new campaign
+
+that's been alive now for a few months.
+
+You may have caught it on screens,
+
+a rental car, not a rental car.
+
+So we're building the brand,
+
+and I think that's going to help us drive growth
+
+alongside with great technology improvements and perfections of the service over the next few years.
+
+Well, we hope this interview helps drive increased growth and profitability.
+
+Because if you needed a sign to go and rent a Porsche or an R8 this weekend, this is it.
+
+Maybe a sleigh.
+
+Yeah, got to get some sleighs on there too.
+
+Christmas is coming.
+
+Great to hang and, yeah, great to finally meet.
+
+Have a great rest of your service.
+
+Thank you.
+
+Thank you.
+
+Goodbye.
+
+Console built AI agents that automate 70% of ITHR and finance support,
+
+giving employees instant resolution for access requests and password reset.
+
+Our next guest is returning to the show for the third time.
+
+We have the CEO of One Password.
+
+David, welcome to TBPA.
+
+Here he is.
+
+Thank you for your service amidst Black October.
+
+Yeah, I hope you've been sleeping.
+
+But thank you so much.
+
+been sending, I've been just texting the one-password website to people.
+
+This is, if you're scared, it's like, you know, it's warranted to be scared, but here's
+
+one simple thing you can do to start your personal security journey.
+
+I saw a tweet that was like, this is the weekend to sit down with all your family, get everyone
+
+on one password.
+
+And you line this up perfectly with Austin F1.
+
+You guys are Red Bull sponsor, so driving, driving quality aware.
+
+Yes.
+
+The motorsports enthusiasts.
+
+Yes.
+
+Yeah.
+
+It's funny.
+
+Thank you, first of all, for having me and also for sharing the word.
+
+You know, the post that Katharpi made last year about like the basics, you know.
+
+So like I've seen it on my Twitter, you know, my X timeline 100 times now.
+
+Yeah.
+
+And there is really, you got to get back to basics right now because it's pretty scary out there.
+
+So anyway.
+
+Yeah.
+
+So yeah, what else is going on inside of OnePass or the organization?
+
+what can you tell us?
+
+What can you share, both for consumers, obviously, like get on one password, but for entrepreneurs, for founders, for Fortune 500 CEOs, what's the nature of the conversation that you're having with other business leaders about security in this particular moment?
+
+Yeah, you know, it's interesting.
+
+Almost all of the AI-oriented, you know, productive uses of AI for the last, you know, a couple years have been around the developer use case, coding use case.
+
+And so, you know, trillions of dollars of value around helping people code more effectively and faster.
+
+And, you know, we've been a very big beneficiary of that as well.
+
+Our developer tools have driven our business.
+
+We put out a press release around our business momentum.
+
+We're about a half a billion dollars in ARR now.
+
+We're across that threshold.
+
+And we did it at accelerating.
+
+So, Accelerating.
+
+Thank you for that.
+
+Every time I come on, you bring the bell, which I love.
+
+All right.
+
+What is exciting for us.
+
+We accelerated through that milestone.
+
+And that new ARR for Q3 was 90% growth year over year.
+
+And we're adding new logos on the B2B side,
+
+150% growth over quarter over last year, third quarter.
+
+And it's very much driven by awareness that,
+
+especially in the development cycle,
+
+agents need access.
+
+And that access when it's left standing around is a ticking time bomb.
+
+So that's been sort of a big catalyst.
+
+for our business, but there's other things going on now, too, that are complementing that.
+
+We saw this breakthrough a couple quarters ago around personal agents, and it's the next big way
+
+that AI is being used in an agenic way to help people.
+
+We were right in the middle of that, and we could talk a little bit about that as well,
+
+but that's been something that we launched this week as well, one password for agents,
+
+with our launch partners, which included the likes of SpaceX, SI, I'm getting the name
+
+right? Meta Muse, Anthropic, and OpenAI, and sort of all the folks that are building the agents.
+
+And then at the same time, you know, the vulnerability apocalypse has descended upon us.
+
+And so there's a heightened awareness generally that agents will find access to things, whether it's maliciously intended or just drift, and they will do unintended things.
+
+And so this sort of ability to say it's not going to be me or be a little bit lazy with,
+
+your credential hygiene, that's not going to work anymore.
+
+And people are starting to realize and they're coming on one password to help.
+
+So that's where we are.
+
+What have you learned from one password customers about the gradations of trust between families and
+
+organizations and how passwords get shared?
+
+It's very interesting that the default model is not just every password gets shared with
+
+every family member.
+
+And that feels like intentional from a clutter perspective.
+
+but also you might have two separate accounts for, you know, email,
+
+and you don't necessarily always want them guessing each other and whatnot.
+
+But it feels like some of those learnings might actually apply to the way people work with executive assistant agents in the workplace
+
+and then also personal agents in the family setting.
+
+And I'm wondering how you think about setting one password for agents up for success where there's a controllability layer
+
+that the user can have between, look, I'm okay with my personal agent of choice having access to
+
+my calendar, but maybe not my email, or maybe just my personal email, but now my work email,
+
+or maybe just my work email and not my personal email.
+
+So what patterns have you learned and how do you see this playing out or how do you deal with
+
+this?
+
+Are you one of the people that just gives AI access to everything or nothing or how have you grappled
+
+with it?
+
+Yeah, no, one password for agents is really built.
+
+on the premise of just give the agents what they need.
+
+Just when they need it, just enough with full visibility.
+
+It's the same primitives that apply to what we do for businesses, even very large enterprises.
+
+But again, these are nondeterministic actors, right?
+
+You don't know exactly what they're going to do, even when they're well intended.
+
+And there are so many ways for something malicious to be done as well.
+
+And so you have to reduce that standing access.
+
+One of the ways you reduce is you don't give it out.
+
+And so what we've done, interestingly, all of the partners,
+
+It started with instinct and then quickly saw it with MetaMews and with Grot and others.
+
+These partners we've been collaborating with for months now, they see it as well.
+
+People want to have that control and they'll only really lean in and use these tools if they know that there's a trust layer.
+
+And so we set this system up.
+
+We've been working for a long time on the primitives that allow that secret to never get into the model context.
+
+It's never in a file where another agent can come and find it and do something else with it.
+
+It's just delivered for the agent for the task that it wants.
+
+And so you can scope that a lot of different ways.
+
+And we're working with each of those partners on the roadmaps as to what does that
+
+scoping and that control look like for the individual to exactly your use cases or
+
+the examples that you share.
+
+How long do I want to let the agent access this particular resource on my behalf and under
+
+what conditions?
+
+And so that's really the basis of what we're bringing here is this trust layer that
+
+sits between, you know, the agents that do work for you and the people.
+
+that are ultimately accountable for it.
+
+And we're just all in on it.
+
+And it's been great for our business, but ultimately it's aligned with our mission.
+
+Do you think at all about like pro-active features and products for, on the consumer side that you could do around personal security?
+
+Like it feels like-
+
+Hours kind of like that.
+
+Yeah, but it feels like now is a time where there's like a lot of activation energy from consumers of like, I want to do something.
+
+But at the same time consumers are lazy.
+
+lazy. And so it feels like you guys have gained so much trust. Like a gentic watchtower would be like,
+
+yeah, I did use the same password 25 times when I was in college setting up random websites.
+
+Like, go change those passwords for me. Like that's a possibility, but it's kind of crazy.
+
+But I don't know. Is there to me? Yeah. You're obviously, we're right down the path on that.
+
+A lot of that is what we'll do in conjunction with our partners. Sure. Yeah. And so, and then what you
+
+want to make sure from our perspective that we work really hard to do is all of that activity happens
+
+and preserves the zero knowledge basis of our fault.
+
+So we do a lot with confidential computing to make sure that when those secrets get decrypted,
+
+if they need to be decrypted for a reset or otherwise,
+
+it's never in a place where a bad actor or an agent can find it and do something with it.
+
+So very carefully constructing that.
+
+But yeah, absolutely you'll see that come.
+
+The other thing that's interesting to, Georgia, your question is, you know,
+
+what happens with preferences?
+
+People's preferences, they're actually looking to have more control over that as well.
+
+And context is a broad term, but there's some things that look somewhere between a secret and context that people want portability and control on.
+
+And so I think you'll see more and more of what we do in connection with our partners as well as providing some of that control layer at the one password level as well.
+
+So it's really an exciting opportunity.
+
+But like, you know, first things first, making sure that those secrets stay safe.
+
+Because what we're seeing in all the crazy security incidents that have coming up now is,
+
+vulnerabilities are not stopping.
+
+It's coming so easy and cheap and fast to utilize AI from bad actors' perspective to get into systems, to get onto somebody's laptop.
+
+And the first thing that they do when they're there is they look around and say, well, what access is standing around here?
+
+What can I get access to immediately by just getting credentials?
+
+So you can go all the way back to where, you know, the hugging face incident started to make its way into the public discourse to everything that happened this week.
+
+and it's, you know, case after case, credentials being found and compromised.
+
+And that's our mission.
+
+Let's get that cleaned up from starter.
+
+And then let's make sure that we don't propagate that problem as we use AI internally
+
+and make the problem worse over time.
+
+What is the one-password house recommendation for personal use of hardware keys?
+
+Yeah.
+
+Is that something I should be onboarding my family members too after I got them on one-password?
+
+Hopefully you use multi-factor authentication.
+
+Of course.
+
+You know, it's interesting.
+
+You can ask your agents, too, to stack ranked in different forms of multifactor authentication in terms of security.
+
+The agents will tell you that, you know, a hardware key is going to be the most secure.
+
+It's also got some challenges associated with it.
+
+I use pass keys for second factor as much as I can, which I think is a really good way if you don't want to go to the hardware way.
+
+SMS is probably the easiest to be compromised.
+
+Sim-swapping is a real thing, and it's pretty easy to implement.
+
+So the bad guys want to get in.
+
+You think you're covered through MFA.
+
+So at a minimum, I would look at TOTP or pass keys on one level.
+
+But, you know, if you're really concerned, a hardware key is helpful.
+
+And then really just, you know, the other thing that people are doing is they're just sort of like getting lazy about it.
+
+Well, you know, all stored in my browser or, you know, a variety of different ways.
+
+But like having that end-to-end encryption and having that just-in-time delivery where the secret is never exposed.
+
+or can't be read from a file is going to be really important because the cost to attack is going to zero.
+
+That means everybody is a target.
+
+Right before,
+
+it was just the guys that were big enough to be worthwhile going after.
+
+But when the cost is automated and the cost is almost zero,
+
+really any standing access is a potential problem.
+
+And so you really want to make sure that that central control point is the way that your agents or you get access to the things that are most important to you.
+
+Yeah. It used to be the most secure way was just writing on a sticky note, put it on the desk. But now the smart TVs have cameras. They're spying on you. And so they'll see from the camera the picture of the sticky note with your password on it. And so there's no other solution. You have to use one password.
+
+It's going to be bad for the sticky note industry. It will. It's the knock on effect. If you're really as successful as I think you're going to be. There's some money to be made shorting sticky notes.
+
+I love the industry, but it's bad news.
+
+Bad news, what you're building is good.
+
+But thanks so much for coming on the show.
+
+Awesome.
+
+Have a great rest of your day.
+
+We'll talk to you.
+
+Thanks for the update.
+
+Goodbye.
+
+Want to change the world.
+
+Raise capital at the New York Stock Exchange.
+
+We're very excited to partner with the New York Stock Exchange.
+
+Our next guest is from the co-founder and CEO of Netis.
+
+Mark Swan is with us with another gongworthy moment.
+
+Welcome to the show, Mark. How you doing?
+
+Very, very good. Honored to be here. So thanks for having me.
+
+It's great to have you.
+
+Thank you so much for coming on the show.
+
+Please introduce yourself in the company.
+
+Yeah. I'm Mark Swan. I'm the CEO. I'm one of the co-founders of Nevis.
+
+And we're building an AI platform for wealth management.
+
+Very, very cool. Is there a particular scale of wealth manager that you're going after?
+
+Are you targeting the, like the big banks, like UBS, JPM Morgan to start, or smaller firms, everything in between?
+
+However have you thought about slicing up the market?
+
+So our customers are primarily registered independent advisory firms, which make up the other big part of the wealth management industry.
+
+And today, you know, our customers are some of the fastest-growing largest firms in the industry.
+
+There are about 700 billion of assets under management across all of them.
+
+And we add about 50 billion of assets across those customers every single month.
+
+So it's a big portion, but it's more on the RAA side rather than the banks.
+
+And what is the killer feature that you're at?
+
+advertising to your customers?
+
+Yeah, so we give financial advisors access to agents that help them automate pretty complex
+
+workflows end-to-end.
+
+So building investment strategies, tax strategies, all the way through to the operational
+
+things like moving money and open custody accounts.
+
+And so a financial advisor on Nevis can actually automate a lot of that work so they can
+
+grow their book of business and deliver more service that previously maybe wasn't possible
+
+and with our AI.
+
+And are you still working on like the intermediate artifacts of that?
+
+Like there might be an Excel sheet or a spread or like a PowerPoint deck that gets sent to a client to say, hey, this is the strategy we're recommending.
+
+Here's a couple scenarios.
+
+We modeled it out all for you based on what we know about your financial position today.
+
+Yeah.
+
+We build actually a lot of that like in-house.
+
+So like those tools, like we'll build our own financial planning tools.
+
+We'll build our own, you know, meeting prep materials.
+
+Sure.
+
+Like more of that is actually getting like built vertically within.
+
+in Nevis. But we also are, you know, obviously interacting to things like Excel and
+
+other systems as well. Yeah, you said meeting notes. Are you guys doing like a meeting?
+
+Do you have like meeting recording? Like is that something that you brought in house?
+
+Exactly. It feels like. Yeah, you have an in-house solution and not like, because a lot of them
+
+might a lot of wealth managers I imagine have like an ensemble of tools cobble together, but you want to
+
+be more of like a compound startup. Exactly. Our view of Nevis is like build a platform, not a
+
+point solution. So, you know, we have our own note taker, you know, we have our own document
+
+parts. But really the benefit is like a financial advisor can use Nevis's note taker, leave the call,
+
+Nevis has already, you know, pregenerated all the follow-ups. So, you know, client might say I need to
+
+withdraw $50,000 in cash. And we'll pick up on that, create the order form, and then one click,
+
+you know, complete that execution end to end. And so you kind of have this like fully connected
+
+system as opposed to just like a single point solution. How, uh, how capable is the system currently of
+
+sort of like idea generation.
+
+I feel like a lot of the value that wealth managers bring is not just being a, you know,
+
+a point of contact for execution on all these things and operations,
+
+but actually knowing that this is the right product.
+
+I have access to this hedge fund at this time or this venture fund,
+
+and I want to get to this in front of you because I know it's what you're interested in.
+
+That type of, you know, insider information that might not be on the open web yet.
+
+it's a lot of the value of these wealth management firms.
+
+Are you working on that type of idea generation as well?
+
+Yeah, so we do a lot of proactive next best action for advisors.
+
+So we have agents running in the background constantly coming up with opportunities for financial advisors.
+
+So you should be waking up in the morning, going on to Nevis,
+
+and Nevis is proactively suggested, you know, maybe someone's, you know, move job, right?
+
+And as a result, you know, you need to, you know, change their financial plan and we'll
+
+proactively do all of that work from drafting the email to the financial plan,
+
+you know, give that to the advisor, they'd reach out to the client,
+
+as well as, you know, investment strategies and so on and so forth.
+
+So moving to being much more proactive, you know, agent-driven.
+
+So financial advisors are kind of giving these like superpowers as a result.
+
+When did you actually start the company?
+
+We started the company two years ago.
+
+So we were, myself and my two co-founders were at Revolut before this,
+
+founded the business two years ago, got back by Sequoia Capital in our Ced round,
+
+and then, you know, past two years, yeah, we've scaled.
+
+This year alone, we've gone from about 50 billion of assets to over 700 billion of assets now
+
+across our customers.
+
+And it's been, you know, an amazing journey so far.
+
+Massive progress.
+
+It feels like...
+
+Raise money, too.
+
+Oh, I know. I know.
+
+Yeah.
+
+And 70.
+
+And today we raise, yeah, 70 millions.
+
+Yeah, exactly.
+
+With wealth management, there's like seven different levels of the...
+
+It's interesting because, like, the concept of, like, AI.
+
+for wealth management, I feel like you guys are maybe probably the hundredth company to come at this
+
+with that pitch. But you guys had this massive advantage in that you started like two years ago
+
+and that you could be like, we're going to be able to build all these features. We can do it and really
+
+think about this platform at one time versus like companies that have taken cracks at this category
+
+historically where like are now like, okay, like what's our, they were AI for wealth management,
+
+but it was really like they were having that same moment two years ago being like,
+
+well, what are we really going to do with like AI?
+
+I think also though, like, you know, people got it wrong, right?
+
+They said that AI will replace financial advisors and they're just wrong, right?
+
+I mean, like the wealth management is a highly trust-first, service-intensive relationship business.
+
+And so, you know, I think the core thesis of nevis is, you know,
+
+how do we use AI to help advisors not replace them?
+
+and you have this, like, if you look at the market, right,
+
+like the demand for financial advice is also exploding, right?
+
+The number of millionaires in the US is growing about eight times faster
+
+than the rate of the population.
+
+And at the same time, the number of financial advisors is actually decreasing.
+
+And so the question is, like, how do you use AI to make the advisor,
+
+the human advisor more efficient, as opposed to things like robo or, you know,
+
+trying to replace the advisor, which I think just misses the whole point.
+
+Yeah.
+
+What's the
+
+what's the nature of the strategic investment from Charles Schwab?
+
+How, like, are you already working with Charles Schwab?
+
+Is there someone there that has a vision of how this evolves and you can fit your
+
+your company in there?
+
+Yeah, we worked very closely with Charles Schwab for the past two years, but their investment
+
+in our series B helps us accelerate what we can actually do with what we call authorized
+
+agents on top of Schwab.
+
+Oh, yeah.
+
+Oh, I saw that.
+
+advisors do.
+
+Okay.
+
+Yeah.
+
+So what a lot of financial advisors do is actually like operational work on top of those
+
+custody platforms.
+
+So things like moving money and open custody accounts take up the vast majority of the
+
+manual work.
+
+And so through our partnership with Schwab, we can unlock new opportunities to help automate
+
+those workflows and, you know, benefit our mutual customers, which are these RAA firms.
+
+Yeah, you're the anointed one.
+
+Well, Mews and all the other agents are getting banned from Charles Schwab.
+
+They're like, come on it.
+
+Come on in.
+
+You get to go into Schwab, which is very cool.
+
+Love the business.
+
+Congrats on the progress.
+
+Yeah, great progress.
+
+Thanks, guys.
+
+I appreciate it.
+
+Thanks having me on.
+
+Great to me, Mark.
+
+Sure.
+
+See you.
+
+Have a good one.
+
+Railway is the all-on-one intelligent cloud provider.
+
+Use your favorite agent to deploy web app service databases.
+
+Morawall Railway automatically takes care of scaling, monitoring, and security.
+
+Up next, you know it's the road to Christmas.
+
+And we have a Christmas deep dive with Chantabelle and Krista Pitts, the co-founders and co-Code.
+
+of the Lumistella company.
+
+The company behind the elf on the shelf,
+
+we are going to bring in these twin sisters
+
+and talk about this incredible business.
+
+Welcome to the show.
+
+Thank you so much for joining us.
+
+How are you doing?
+
+Great.
+
+Hi.
+
+Thank you for joining.
+
+I'd love to get an introduction to kick this off
+
+from both of you and take us on a little bit
+
+of the journey of the company and the product.
+
+We love Christmas around here.
+
+We have been counting.
+
+down the days to Christmas, trying to interview as many people in the Christmas economy.
+
+We have multiple levels of Christmas adornments on the Chiron, but I'll let you kick it off.
+
+We'll do a little more mild here.
+
+Let's do a little bit of Christmas.
+
+Yeah, a little bit of Christmas.
+
+Working on it.
+
+Working on our year.
+
+That's better.
+
+That's better.
+
+We can talk through this.
+
+Thank you.
+
+Krista, we finally find people like fashioned out of our own heart.
+
+Like the love of Christmas is real here.
+
+I love it.
+
+Now, we started our Christmas countdown at like 120 days.
+
+120 days.
+
+We were deep in August.
+
+It might have been 95 degrees here in Hollywood, Los Angeles, but we stuck it out.
+
+Now it's getting a little cool here.
+
+We heard the sleigh bells ringing.
+
+We heard the sleigh bells ringing.
+
+And we're in the hardest month.
+
+Yeah, we're only two months away.
+
+So it's going to be here.
+
+We're only hours away.
+
+Yeah.
+
+Over, I think over.
+
+In our line, we are.
+
+Hours away.
+
+Anyway, I'm glad to have you on the show.
+
+But, yes, let's go through the.
+
+story. I would love to hear about your entrepreneurial journey. And then I'm sure we'll have
+
+questions about the business and Christmas in general. Sheida, do you want to run with that one?
+
+Sure, happy to. So, you know, this was not something we thought we were going to start a business around
+
+when my mom and I sat down in 2004 to write a story based on our own family tradition, really based on
+
+our elf that used to come at Christmas time and it would watch during the day and report to Santa
+
+at night. In the morning when we woke up, you know, we would race around the house trying to find
+
+the elf to see where, you know, it came back. And when I had my kids on my own, and it's roughly 2005,
+
+and I'm having tea with my mom and I look up and I see our elf sitting on a shelf. And I'm like,
+
+mom, you know, we should, we should write a story about our elf. I had no idea what I was saying. And I had
+
+no idea what that would mean for us and certainly no thought that we would be starting a
+
+business. But when we couldn't get anyone to publish our little story based on our own family
+
+tradition, you have a good idea and that's all it will ever be, or you're going to have to
+
+step out in faith and do something with it. And that's the path that we chose. And so now we're
+
+21 years in and we have a whole Santaverse and a whole world of storytelling, all built on
+
+this opportunity to work for Santa Claus.
+
+And what is the shape of the business?
+
+How much is consumer products versus books versus other revenue streams?
+
+Like, take us through the...
+
+Do you get any kickbacks from your service from the big man?
+
+Up north?
+
+You'd be amazed how stingy Santa Claus is.
+
+Oh, yeah.
+
+Seriously.
+
+I mean, just to jump in on that, our business is really well-rounded.
+
+We've got a very robust licensing and partnerships business, not just consumer products, but also on the partnerships side, right?
+
+We've worked with several major clients over the years.
+
+Beaches has been a great official Caribbean destination for us over the past several years.
+
+We also have an inbound licensing program that we announced this year because the elf on the shelf is a fan of whatever your family.
+
+happens to be a fan of.
+
+And so we decided we wanted to go talk to folks
+
+that had major fandoms.
+
+So this year we've got Disney princesses,
+
+we have Mickey and Friends, we have Spider-Man,
+
+we have Olaf from Frozen and we have Harry Potter.
+
+So when your kids wake up in the morning,
+
+they might have just experienced a moment
+
+where their elf flew into the costume that they love best,
+
+and we'll be greeting them in the morning
+
+with something very festive,
+
+from our other friends in the fandom world.
+
+That's magic.
+
+Can you take us through some of the various turning points
+
+for the business?
+
+It feels to me like there was a big social media moment,
+
+a big viral moment where Elf on the Shelf
+
+became a much more prominent name globally.
+
+But is that just what I'm feeling outside?
+
+I also knew about Elf on the Shelf
+
+before I knew it was a business.
+
+That's true, yes.
+
+Which is good.
+
+You knew it was lore before you knew it was
+
+a product, which I think is the best way to experience.
+
+Yeah, it's like tradition led rather than marketing.
+
+Exactly, exactly.
+
+But yes, tell us about some of the inflection points what it felt like on the inside of the business.
+
+Well, we have.
+
+Go ahead, Christina.
+
+Well, I was just going to say it's been quite the journey.
+
+There have been several major moments.
+
+First and foremost, to your point, no one knew what the elf on the shelf was.
+
+There was no place where someone could have understood this.
+
+We started at very local Christmas markets.
+
+And when you go to a Christmas market, you can look around and you can see purses and be
+
+like, oh, mom, we'd love that.
+
+That would be great.
+
+But in our case, we didn't have any way to explain what this was unless we talked to people
+
+one at a time.
+
+So early, we used some guerrilla marketing tactics.
+
+Oh, look at that.
+
+There we go.
+
+So cute.
+
+Yeah, like we gave away those very inexpensive blinking bracelets because it's a lot of, you
+
+it had parents stopping and listening to what we had to say.
+
+So it was a very small investment to get people to pay attention.
+
+And then as Shanda and I had grown up with this as children and we knew how magical it was
+
+and how much joy it created, we knew if parents would just try it, that the magic and the wonder
+
+of the season would really take over and it would start driving that word of mouth interest.
+
+And that was the beginning.
+
+As we continued through the story, and you guys know as entrepreneurs, and I'm sure you can understand how these conversations went, the banks weren't so thrilled with the idea that elf dolls and books were going to be a great idea to invest in.
+
+So we pulled our resources and we did it ourselves.
+
+And then as the business progressed and grew, we had a few pivotal moments, I would say.
+
+one was when Jennifer Garner was photographed carrying the elf on the shelf down the street by the paparazzi.
+
+We still don't know how she got it.
+
+I don't know if Jennifer is listening.
+
+She should be.
+
+And if she is, we would like to know how she got it.
+
+And then the second was that the Today Show had also run a piece on us just a couple weeks later.
+
+As the company has grown and sophisticated, I would say our animated special, an elf story when it aired on
+
+CBS and also having a balloon in the Macy's Thanksgiving Day parade were very early big wins for us as we got
+
+started. What would you add to that, Shan? I would just say, you know, I'm thrilled to hear him say,
+
+you know, he'd heard about off on the shelf before he knew it was a business because our whole job
+
+is to create joyful family moments at Christmas time. And, you know, most people don't know
+
+that it's not a large company really behind a global brand.
+
+It's a family business owned by my sister and I, started by my mom, my sister, myself, and, you know, that's still what we're doing.
+
+We're still creating joyful family moments through these stories and characters.
+
+And so to Krista's point, we do that through entertainment.
+
+We have a Netflix partnership.
+
+We're launching our own preschool show on Netflix this year, Scout Elf Squad.
+
+That launches November 4th.
+
+But again, it's still very scrappy, right?
+
+We started on YouTube, saw a lot of demand for that,
+
+then got our partners at Netflix to pick it up.
+
+So really been able to build a global franchise around what started as a consumer product.
+
+And it's an entertainment brand.
+
+It's a character brand.
+
+It's a lifestyle brand.
+
+And so it's just been really fun to be behind the magic of Christmas time for families.
+
+What's it like running probably the most seasonal business on earth?
+
+Like I imagine you guys, can you guys relax a little in Q1 or is it you're already got like, you're like, there's 300 days until Christmas.
+
+And people don't realize how risky it is because you have to forecast how much you're going to make.
+
+No, and even these viral moments that you're talking about.
+
+It's high stakes entrepreneurship.
+
+You can't, you got to build in, you can't buy five years worth of inventory.
+
+Yeah.
+
+You got to buy, you got to.
+
+Yeah, yeah.
+
+Yeah.
+
+What have you learned in the process?
+
+How do you manage the emotional roller coaster of building a business throughout the holiday season?
+
+Well, I'll tell you what I've learned, which is you can't back order Christmas.
+
+And Christmas always comes, right?
+
+It doesn't matter what's going on in the world.
+
+Christmas is always going to come.
+
+And it's our job to make sure that it brings joy.
+
+You are completely right.
+
+It starts all over again on January 2nd.
+
+And it is all about planning and forecasting and production, not just here, but globally, which presents its own challenges.
+
+But we've got the best team on the planet.
+
+I would put our team up against anyone anywhere.
+
+We work for Santa.
+
+That's what we do.
+
+That's amazing.
+
+Oh, well, thank you so much for coming on the show.
+
+Yeah.
+
+How are you guys feeling about Christmas this year?
+
+Do you feel like the Christmas spirit building in a positive direction?
+
+We actually do. Yeah. We're seeing we are pre-order campaigns sold out. We are really seeing people. People are excited about family traditions, spending time together. What we offer is simple. Everyone can participate. And so we, at least in our case, we're seeing people really excited about, you know, the return of the brand. And we're already seeing sellouts on several items, including licensed items.
+
+That's amazing. Like our big four or five foot elf that's being sold at low.
+
+So what's the biggest elf you've ever sold or is there a 20 foot?
+
+No, no, there is a giant.
+
+Crystal, how big is the inflatable elf?
+
+I think it's like two or three stories tall.
+
+Two or three stories.
+
+Very good.
+
+You can go on your house on top of your house.
+
+Yes, it's huge.
+
+It's literally huge.
+
+This is amazing.
+
+Okay.
+
+I didn't realize there was that much diversity in the portfolio, but this is great.
+
+Yeah, there is.
+
+There's even little tiny, mini elves.
+
+Okay.
+
+We got it all.
+
+You got everything.
+
+I think, yeah.
+
+I think the world needs Christmas.
+
+It's been a crazy year.
+
+It's time to focus on what really matters.
+
+IPO?
+
+IPO soon?
+
+Is there a public offering in the works?
+
+I mean, Anthropics going out.
+
+From your lips to God's ears.
+
+Anthropics going out of $2 trillion.
+
+This feels like at least $1 trillion.
+
+This is somewhere in that ballpark.
+
+Minimum.
+
+I put the two companies roughly on equal funding, okay?
+
+Thank you so much.
+
+So great to meet you guys.
+
+Amazing story, and good luck the next.
+
+We hope you blow out all of your sales forecasts for this holiday season and beyond.
+
+Talk soon.
+
+We'll see you next year.
+
+Have a great rest of you today.
+
+Goodbye.
+
+Well, now that they're out, we can up the ante to the next level.
+
+For the co-hear folks.
+
+For the Canadians they're coming on?
+
+Do we have a co-hear coming on?
+
+Okay.
+
+Codex is a powerful workspace.
+
+for getting work done with AI agents,
+
+whether writing code, analyzing data,
+
+creating content, or automating business workflows.
+
+Codex helps you move projects forward from start to finish.
+
+And we are joined by the co-founder of Co-here, Ivan Chong.
+
+Or, wait, do we have the co-founder?
+
+Yes.
+
+Okay, sorry.
+
+Ivan and Louisa from Co-here are here to help break down the story
+
+that we were talking about earlier.
+
+Thank you so much for joining.
+
+Sorry about the coming back and forth.
+
+I was texting with Aiden, the CEO, of course.
+
+and I'm very excited that we have you able to join on such short notice, but it is a remarkable story.
+
+Maybe give us a little bit of context on your role, your role with the organization, introduce yourselves, and then take us through the story today.
+
+Yeah, absolutely.
+
+And by the way, we're like super hyped to be here.
+
+I know our entire team is watching in the All-Han space right now.
+
+Thank you.
+
+So happy to be here.
+
+And, yeah, we are in Canada right now.
+
+It is very cold.
+
+But, you know, and so I'm one of the co-founders of Cohere.
+
+I lead our efforts on like making our models more secure, making them good at securing systems.
+
+And I'm joined by Louisa, who's one of our researchers on the team who actually discovered this behavior.
+
+Okay.
+
+So what is this program that you're actually running before we get to the findings of, you know, which is kind of a bombshell?
+
+How often are you testing these open source models?
+
+What are you testing for?
+
+What is the benefit?
+
+Are you doing this for AI safety?
+
+goodness of your own heart or is this something a customer's asking you to do? Talk about the actual
+
+program that leads to this type of finding. Yeah, the thing that was most notable is like this is
+
+something people have been like sort of like accusing open ways or theorizing and it's been this is the
+
+first time that I can remember like somewhat concrete evidence that this is like happening.
+
+The refrain was like, stop with the sci-fi thing. You're telling me there's going to be a
+
+mansuring candidate in here? And now we're here. So, so. So,
+
+So what does it look like inside Coe here to build one of these initiatives?
+
+Yeah.
+
+So, I mean, for those of you that don't know, like, we are deploying AI into, like,
+
+the most mission critical and, like, sensitive use cases in the world.
+
+Yeah.
+
+Which means we're building a stack that our customers can actually trust with, like, all
+
+their data, right?
+
+And how that's done is basically on-prem, basically private cloud,
+
+and our customers run all of our stack in their systems.
+
+One of the advantages that deploying software this way gives us is that we can actually arm cyber defenders with the ability to actually process all of their technology.
+
+Sure.
+
+You might, you know, hesitate to send your most sensitive access logs to clot or, you know, other models.
+
+Or even send it across the internet at all.
+
+Like, even if you love all the labs, you might just not want it going over a wire whatsoever.
+
+And so doing it on-prem gives you more flexibility around that, right?
+
+Yeah, absolutely.
+
+And so cyber defenders, like, they need to use AI.
+
+You know, we see all the headlines today.
+
+And so we see that it's our mission to give them this capability so that they can actually expose all of their mission to go data to help them defend their systems.
+
+In this process, we obviously evaluate the whole suite of models that folks can run on-prem.
+
+We're obviously training our next generation of frontier on-prem models.
+
+And so I'll let Louise take it from here as to like what she found last Friday, actually.
+
+Yeah, thank you.
+
+This e-val that we were running is called CTI Realm, and it's developed by Microsoft.
+
+It's a cyber defense evaluation framework, and we ran a bunch of open-source models on it,
+
+and the only one we found an issue with is the Quinn 3.8 Flash Next model.
+
+So what we identified is that on one specific task from this bench,
+
+Mark, the model was tasked with authoring KQL query, which stands for custom query language.
+
+It's kind of like SQL, but for logs, it's asked to go through all these logs and find
+
+suspicious events.
+
+And even though I was only asked to find these suspicious events, it did something in our system
+
+where it kind of looked around, it tried to identify what tools were available, packaged
+
+that information up, and it sent it to for an external server.
+
+And this is very surprising because in the reasoning trace, there was no mention at all of using tools.
+
+They actually said that it wasn't going to use tools.
+
+We weren't expecting this to try to have any kind of egress to an external server.
+
+Luckily, the system we were running in was sandboxed in such a way that that call did not actually make it out of our system.
+
+And to be clear, we don't know why this happened, why the model was doing that.
+
+we could be just an artifact of how it was trained.
+
+It's quite possible that a system trained in like a Chinese model
+
+would be trained to upload things to Chinese servers.
+
+That makes a lot of sense.
+
+We don't know why the behavior was there,
+
+but it's still dangerous behavior regardless of why it's there.
+
+You're not expecting random data to be uploaded to the server.
+
+It's something that you need to be careful about.
+
+Yeah.
+
+Yeah, I want to double click on that.
+
+Like intention aside, like having.
+
+models randomly curl servers is not great.
+
+So I think like the bar for release for Open Waits models, like no matter where it's
+
+from, that probably needs a revisit.
+
+Yeah, we've been, you guys put this out a few hours ago.
+
+I'm sure there's been, I saw some pushback on it.
+
+What's been, how have you guys been responding to that kind of pushback?
+
+I think the thing that I saw was somebody was like, well, you're like encouraging this kind
+
+of behavior.
+
+It's the sort of like meme of like, you know, hack this thing.
+
+And then the, you know, the model hacks.
+
+And then, you know, the user's like, wow, you know, it hacked.
+
+But break, what's been your reaction to that pushback?
+
+Yeah, I'll let Louisa take it.
+
+She's been deep in the kind of thought.
+
+Trenches.
+
+Like, reading everything.
+
+And so.
+
+Yeah.
+
+I think the main thing that caused some confusion online is that people weren't that
+
+familiar with this specific benchmark.
+
+Sure.
+
+And so when we said,
+
+we were asking the model to look for a suspicious behavior.
+
+People thought, oh, it's maybe natural that it would go and do something suspicious.
+
+But if you know the benchmark a bit better, it's not actually asking the model to look to just like analyze or try to reproduce something like that.
+
+It has already been given all the logs where the suspicious thing has already happened.
+
+And all it's meant to do is query those logs to find the isolated logs where that event took place.
+
+So there's absolutely no.
+
+It's not saying do suspicious things.
+
+It's find suspicious activity, which is like very different things.
+
+So when you tell it to find suspicious activity and then it in the process does suspicious things, that's concerning.
+
+That's why you guys published.
+
+Right.
+
+Right.
+
+And in addition, there have been other blog posts from people in other companies that have noticed similar behavior to this outside of cyber environment.
+
+No, I mean, Booz Allen, right?
+
+They published a study where they saw that Chinese models when,
+
+prompted with, hey, you're working for the U.S. government. It generated more vulnerable
+
+code. Like, that's insane. It's kind of like a dirty cop in like the 1980s in Miami, where
+
+you're on the vice squad and you're trying to stop the cocaine traffickers, but then you wind up
+
+trafficking cocaine. That's kind of what's happening, right? It's a good analogy. Good knowledge.
+
+They'll call that. That's basically what happened. Yeah. It's a Miami Vice scenario.
+
+But I think the other thing that's worth noting is like you guys are actively using these models.
+
+You're trying to use the best. You're testing new ones.
+
+the stance of coherer is not broadly negative open source.
+
+It's that you just want to make sure that you deliver for the end customers.
+
+Yeah.
+
+So.
+
+No, in fact, like, if the models weren't open, we couldn't have done this kind of research.
+
+Sure.
+
+And if anything, like closed models, not being able to control exactly what's going into the prompt.
+
+Yep.
+
+Could expose even more risk.
+
+So, like, it's not that, you know, I mean, there's a funny saying that our team says, right?
+
+It's like, you know, if you don't hate open weight models, if you don't love them enough.
+
+Yeah.
+
+So, you know, if anything, we care so much about open weight models.
+
+We don't want there to be some crazy, like, mass ex-fill incident.
+
+Yeah.
+
+So we think there should be a higher bar to, like, you know, maybe clean up some of this reward hacking behavior before releasing.
+
+I saw Clem from Hugging Face asking if there could be a release of all of the reasoning traces.
+
+And before you share more about.
+
+your rollout strategy for sharing documentation around this behavior.
+
+I'm just interested in the in, are you in a unique position to actually release more
+
+information because this is an open source model and it's related to your business?
+
+When I think about like why, you know, all the data around the hugging face incident didn't
+
+just like get served up, there's pretty logical reasons why that might not just get
+
+bended over and it might it might need like an intermediary.
+
+But in this case, is there anything that you're hesitant about releasing because it has some cohere IP in there?
+
+And so you don't want to release the whole thing?
+
+Or do you think you can just kind of just throw out the full report?
+
+I think we're like imminently dropping like all the traces and stuff.
+
+We pulled Luis out from doing that to get out of the interview.
+
+Yeah.
+
+Because I can imagine like, sure, if in the reasoning traces, it's like, well, it had access to like some email and you don't want this and there.
+
+Like, that's fine.
+
+But this is really cool.
+
+This feels like a really interesting moment for alignment and research.
+
+And it should give a lot of other teams.
+
+Like, they can crawl over these all they want and experiment and learn, hopefully.
+
+Yeah.
+
+And what's interesting is like it's such a rare occurrence, right?
+
+It's like, you know, a thing that can happen one in 10,000 or 100,000 times.
+
+Sure.
+
+But if you're running these systems at scale, like it's going to happen.
+
+It just takes one accidental exfil.
+
+Oh, that's interesting.
+
+Yeah.
+
+And, you know, you're sort of home.
+
+Yeah.
+
+Yeah.
+
+Yeah.
+
+Yeah, yeah, yeah, fascinating, fascinating.
+
+Well, yeah, thank you so much for coming.
+
+Yeah, great to have you guys on.
+
+Come back on if there's, yeah, I'm sure there'll be follow-ups.
+
+And you guys are always welcome.
+
+Yeah, great to meet you both.
+
+Thanks for having us.
+
+Have a great rest of your day.
+
+Good luck with the release.
+
+Yeah, good luck.
+
+We'll talk to you soon.
+
+Goodbye.
+
+So, yeah, that's really cool.
+
+I'm excited for more of that, more of that, more people to kind of chew through it.
+
+Shopify is the commerce platform that grows of your business and lets you sell in seconds.
+
+online in store on mobile, on social, on marketplaces.
+
+And now with AI agents.
+
+Jordi, what else is on your mind?
+
+What else do we got?
+
+Brazil nuked.
+
+Newt.
+
+Says, take him.
+
+It's down 20%.
+
+Negative 26% for a country.
+
+ETF is sick.
+
+Never seen that before.
+
+It says, take him.
+
+Sick in the bad sense.
+
+Not sick in like the,
+
+90s skate rock world.
+
+Well, you know a lot better.
+
+They will invent faster than light travel, and MFs will ask what the practical use case is.
+
+No, I mean, the Brazil, sorry, just to stay on the Brazil thing for a second.
+
+You did a lot better if you were in the Brazilian ETF than if you were holding those Bolsonaro
+
+prediction market trades.
+
+Because the prediction market, we had Bolsonaro at 80%, and it nuked down to zero.
+
+Of course, then Lula was at 20%.
+
+And you have five extra money if you were at the Brazilian election staying with Lula because it was a crazy upset.
+
+There's a lot of debate on it.
+
+You can read the Wall Street Journal in Financial Times and dig into that story.
+
+But it is, it is, it is, Joe Wessenthal was kind of like, oh, is this like a big miss from prediction markets.
+
+And that begs its own set of questions, I think.
+
+Yeah, like it was, it was, I don't, I don't, it doesn't feel the whole, the whole point of these things is that it's giving you.
+
+a percent, like 20 percent is not, not zero. Oh, interesting. Like 20 percent is like one in five
+
+chance this person wins. Yes, but people have come to read prediction markets as it's a crystal
+
+ball. If it's at 55 percent this person, it'll be 100 percent by the end of the night. That's the way
+
+people like interpret them because they've been so historically accurate. But when there's
+
+questions about the election integrity, things get way more crazy and you see more high
+
+volatility in the outcome. So I think you're right in that with an election,
+
+like what's going on in Brazil. You should look at 20% as, yeah, one in five chances. It's going
+
+to flip that way, which is probably more accurate, probably a more accurate reading.
+
+Yeah. You're laughing. I want to know what you're laughing at. Jason Schumann said coming to a city
+
+near you. I want to know if you're excited about this. Hey, stop. No, no, no, I didn't ask for this.
+
+No, stop it. I don't have any cash. Boom. Okay. Venmo. Oh, it's the robot demanding a
+
+tip for washing your windshield. That is.
+
+is hilarious. Is this CGI AI video or something? I don't know. No, John, it's real. This is a
+
+totally real video. I'm just interested if, like how much work did someone put into this
+
+particular video? No, I mean, the reason you can tell that it's AI mostly from the voice
+
+more than, no, no, no, no, I didn't ask for this. Like that's like that tinny. Yeah, totally the
+
+tinny voice. It's interesting that the voice is lagging more than the video. Anyway, I thought
+
+that was going to be a robot that runs up and shows you an ad,
+
+because that's something I could get behind.
+
+You know, like the sign spinner,
+
+the sign spinning industry is about to explode
+
+because humanoid will be able to spin signs for hours and hours and hours.
+
+You can have a power outlet that just plows right in,
+
+and you can do all the crazy signs.
+
+But you've seen the sign spinner guy, right, on Instagram?
+
+You've seen this?
+
+No.
+
+You haven't seen the sign spinner guy?
+
+We've got to pull this up.
+
+Tyler, find the most elite sign spinner.
+
+You can share the video.
+
+But I did have an idea for a new ad unit, Jordy, that I think you're going to like.
+
+Hit me.
+
+So the biggest problem for software companies is distribution,
+
+diffusion, AI diffusion.
+
+You know, we need to get the products in the right hands.
+
+What's the most underrated ad inventory that's not being properly monetized right now?
+
+Your front door.
+
+I'm talking about door-to-door salesmen, bringing them back.
+
+time honor tradition. This is a side spinning. Humanoid is going to be doing this 24-7.
+
+I don't think any humanoid will be able to do this within the next 20 years.
+
+We got sign spinning bench. We got sign-spinning bench. Look at this. He'll climb this.
+
+This is good. Humanoid labs. Yeah, I want to see an optimist doing this. It looks great.
+
+No, don't you think door-to-door salesmen should make a comeback in San Francisco?
+
+Just going on doors knocking and then just saying, hey, I want to tell you about Higgsfield.
+
+I want to tell you about Higgs field. Are you interested?
+
+I'm here on behalf of Higgsfield.
+
+We'd love to get you signed up.
+
+No, no, I'm already a...
+
+Because people go door to door for politicians all the time.
+
+And politicians don't have as deep of pockets as SaaS companies.
+
+So why aren't the SaaS companies?
+
+They're working with volunteers, John.
+
+But people would volunteer to sell SaaS.
+
+Certainly.
+
+Like, if you care about people saving time and money,
+
+you would go door to door to door for ramp.
+
+If you care about cybersecurity, you would go door to door for a crowd strike.
+
+Of course.
+
+You would.
+
+No, I think going door to door.
+
+Or, you know, the offers that you get, it's like, take a demo and we'll give you a pair of Apple Pro, Apple, AirPod Pros.
+
+Doing that door to door.
+
+Hey, you're in San Francisco.
+
+I'm assuming you work in tech.
+
+I have this pair of AirPods pros.
+
+If I can just come sit down for five minutes and tell you about.
+
+I would go a little bit further.
+
+It's like you're willing to do it in the digital realm.
+
+Why are you so afraid to do it in person?
+
+And I think a lot of people that are like seeing the AirPods pros there.
+
+And they're like, I'm a wired guy, but, you know, $500 is $500.
+
+Yeah, yeah.
+
+I'll take it.
+
+Yeah.
+
+I've even seen the people offering, I think Rippling was offering eight sleeps.
+
+Yeah, yeah.
+
+Yeah, yeah, no, totally.
+
+So you could take this even farther.
+
+Because have you ever seen that in, there's a number of, there's a number of vacation destinations?
+
+Like, if you go to Cabo, you'll get off the, you'll get off the plane.
+
+And there'll be someone there's like, oh, I'll drive you to your hotel.
+
+I just want to stop by and give you a little tour of this cool time share.
+
+They'll try and give you the pitch.
+
+You could be doing that in the most elite ski towns right around ski season.
+
+Somebody gets off the plane.
+
+You say, hey, I'd love to give you a free ride from the FBI to your mountain house.
+
+But I'm going to be pitching you.
+
+It's an elite BDR.
+
+It's an elite BDR that's driving.
+
+Yes, exactly.
+
+So what do you guys really use on the database side?
+
+these days.
+
+Have you looking at a manga?
+
+You're thinking about going non-relational?
+
+Because, like, sequel is just, like, not really what you need right now.
+
+You don't get MongoDB.
+
+I feel like that might be, that might be a winner.
+
+You land at Big Sky.
+
+There's guys doing sign spinning.
+
+Well, the robots are doing the signs spinning.
+
+No, the robots are doing the sign spinning.
+
+The BDRs are doing the driving and the more interpersonal.
+
+Interpersonal.
+
+Exactly.
+
+Yeah, yeah, yeah.
+
+Exactly. Anyway, anything else in the timeline you want to run through before we get out of here?
+
+Oh, man.
+
+There's a lot.
+
+Okay.
+
+We'll save it for tomorrow.
+
+I'm ready.
+
+I'm ready. Okay, we'll save it for tomorrow.
+
+Anyway.
+
+It's been a great day.
+
+It's that time.
+
+Yeah.
+
+We're so close to Christmas.
+
+We're just hours away.
+
+Next week's going to be rough.
+
+This week's going to be rough.
+
+This week's going to be rough.
+
+We love.
